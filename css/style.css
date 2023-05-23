@@ -3,7 +3,9 @@ layout: compress
 ---
 {% include css/universal.css %}
 {% include css/header.css %}
+{% include css/gallery.css %}
 {% include css/home.css %}
+{% include css/nav.css %}
 {% include css/footer.css %}
 {% include css/boton-up.css %}
 {% include css/hoteles.css %}

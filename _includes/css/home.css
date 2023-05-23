@@ -1,31 +1,7 @@
-#lunrsearchresults {
-  padding-top: 0.2rem;
-}
-.lunrsearchresult {
-  padding-bottom: 1rem;
-}
-.lunrsearchresult .title {
-  color: #d9230f;
-}
-.lunrsearchresult .url {
-  color: silver;
-}
-.lunrsearchresult a {
-  display: block;
-  color: #777;
-}
-.lunrsearchresult a:hover,
-.lunrsearchresult a:focus {
-  text-decoration: none;
-}
-.lunrsearchresult a:hover .title {
-  text-decoration: underline;
-}
-
 .intro {
   border-radius: 32px;
   background: #9dc5bb;
-  box-shadow: 20px 20px 60px #85a79f, -20px -20px 60px #b5e3d7;
+  box-shadow: var(--shadow);
   padding: 4rem 16px;
   display: grid;
   place-items: center;

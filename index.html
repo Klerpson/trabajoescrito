@@ -1,13 +1,23 @@
 ---
 layout: default
-title: San Agustín Huila - Paraíso turístico de Colombia
+title: Trabajos Escritos con todas sus normas y requisitos
 description: Las terminales de transporte te dan la seguridad que necesitas para viajar. Busca aquí la información oficial y completa de las terminales de Colombia
-h1: San Agustín Huila - Paraíso turístico colombiano
+h1: Hagamos tu Trabajo Escrito como debe ser
 ---
-<div id="search-demo-container">
-  <input type="search" id="search-input" placeholder="search...">
-  <ul id="results-container"></ul>
-</div>
+<section class="gallery-intro">
+  <h2>¿Qué partes de un Trabajo Escrito necestias?"
+  </h2>
+  {% include gallery.html
+  img1="portada.svg" alt1="Íconos de un trabajo escrito" 
+  img2="portada.svg" alt2="Íconos de un trabajo escrito" 
+  img3="portada.svg" alt3="Íconos de un trabajo escrito" 
+  img4="portada.svg" alt4="Íconos de un trabajo escrito" 
+  img5="portada.svg" alt5="Íconos de un trabajo escrito" 
+  img6="portada.svg" alt6="Íconos de un trabajo escrito" 
+  img7="portada.svg" alt7="Íconos de un trabajo escrito" 
+  %}
+
+</section>
 
 <section class="intro">
   <h4>¿Ya sabes <span class="destacado">qué hacer en San Agustín Huila</span> y los lugares cercanos?</h4>
@@ -152,6 +162,11 @@ h1: San Agustín Huila - Paraíso turístico colombiano
   {% include img.html webps="san-agustin-huila-376.webp" webpm="san-agustin-huila-600.webp" webpb="san-agustin-huila-800.webp" hero="san-agustin-huila.webp" alt="Turista en San Agustín Huila" title="Turista en San Agustín" %}
 </main>
 
+<div id="search-demo-container">
+  <input type="search" id="search-input" placeholder="search...">
+  <ul id="results-container"></ul>
+</div>
+
 <section class="cta-home">
   <q>Ven a San Agustín, Huila, y descubre un lugar mágico donde la historia y la naturaleza se entrelazan de manera única. En los Parques Arqueológicos de San Agustín y Tierradentro, podrás caminar entre gigantes de piedra creados hace miles de años por una civilización ancestral.<br><br>
   Además, disfrutarás de una naturaleza deslumbrante con cascadas, ríos cristalinos y bosques frondosos. Te invitamos a conocer la alegría y el espíritu acogedor de la gente huilense y a sentirte parte de una comunidad que ama su historia y su tierra. ¡No te lo pierdas, San Agustín te espera con los brazos abiertos!</q>
@@ -159,18 +174,16 @@ h1: San Agustín Huila - Paraíso turístico colombiano
 
 {% include footer.html %}
 
-    
-    <script src="{{ site.baseurl }}/js/search.js"></script>
-
-    <script>
-      window.simpleJekyllSearch = new SimpleJekyllSearch({
-        searchInput: document.getElementById('search-input'),
-        resultsContainer: document.getElementById('results-container'),
-        json: '{{ site.baseurl }}/search.json',
-        searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
-        noResultsText: 'No results found',
-        limit: 10,
-        fuzzy: false,
-        exclude: ['Welcome']
-      })
-    </script>
+<script src="{{ site.baseurl }}/js/search-script.js"></script>
+<script>
+  window.simpleJekyllSearch = new SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '{{ site.baseurl }}search.json',
+    searchResultTemplate: '<li><a href="{url}?query={query}" title="{desc}">{title}</a></li>',
+    noResultsText: 'No results found',
+    limit: 10,
+    fuzzy: false,
+    exclude: ['Welcome']
+  })
+</script>
