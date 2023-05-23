@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 User-Agent: AdsBot-Google-Mobile
 User-Agent: AdsBot-Google
-Sitemap: https://trabajoescrito.com.co/sitemap.xml
+Sitemap: https://trabajoescrito.com/sitemap.xml
