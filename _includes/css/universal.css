@@ -21,7 +21,8 @@
   --radius: 12px;
 
   /* SOMBRA */
-  --shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04);
+  --shadow: 0 20px 25px -5px rgba(0, 0, 0, 0.1),
+    0 10px 10px -5px rgba(0, 0, 0, 0.04);
 }
 
 *,
@@ -136,9 +137,34 @@ img {
 }
 
 input {
-  border: inset;
   padding: 0.7rem;
   border-radius: var(--radius);
+  border: none;
+  box-shadow: var(--shadow);
+}
+
+input::-webkit-input-placeholder {
+  font-family: var(--fuenteTitulos);
+}
+
+input::-moz-placeholder {
+  font-family: var(--fuenteTitulos);
+}
+
+input:-ms-input-placeholder {
+  font-family: var(--fuenteTitulos);
+}
+
+input::-ms-input-placeholder {
+  font-family: var(--fuenteTitulos);
+}
+
+input::placeholder {
+  font-family: var(--fuenteTitulos);
+}
+
+input:active {
+  border: none;
 }
 
 button,
@@ -170,7 +196,10 @@ li {
 header,
 .gallery-intro,
 .normas,
-.estructura{
+.estructura,
+.tipos,
+.entradas,
+.cta {
   width: min(100%, 1128px);
   margin-inline: auto;
   margin-top: 6rem;
@@ -244,21 +273,61 @@ table tr {
 }
 
 .boton {
+  display: inline-block;
   padding: 0.7em 1.7em;
   font-size: 18px;
   border-radius: 0.5em;
   background: var(--blanco);
   border: 1px solid var(--blanco);
-  transition: all .3s;
-  box-shadow: 6px 6px 12px #c5c5c5,
-              -6px -6px 12px #ffffff;
+  transition: all 0.3s;
+  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
   text-decoration: none;
+}
+
+.boton:active {
+  box-shadow: none;
+}
+
+.cluster {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 3rem 2rem;
+  padding: 4rem 0;
+}
+
+.cluster li {
+  flex: 1 0 120px;
+  text-align: center;
+  max-width: 400px;
+}
+
+hr {
+  overflow: visible; /* For IE */
+  padding: 0;
+  border: none;
+  border-top: medium double #333;
+  color: #333;
+  text-align: center;
+}
+
+hr:after {
+  content: "§";
+  display: inline-block;
+  position: relative;
+  top: -0.7em;
+  font-size: 1.5em;
+  padding: 0 0.25em;
+  background: white;
+}
+
+.cta{
+  padding: 3rem 0;
   display: grid;
-  grid-template-columns: 1fr auto;
-  gap: 1rem;
-  place-items: center;
- }
- 
- .boton:active {
-  box-shadow: none
- }
+}
+
+.cta a{
+  margin-bottom: 6rem;
+  justify-self: center;
+}

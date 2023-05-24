@@ -2,20 +2,23 @@ footer {
   display: grid;
   gap: 2rem;
   place-items: center;
-  font-size: 0.7rem;
+  font-size: 0.9rem;
   padding: 2rem 16px;
   background: rgb(1,180,40);
 background: linear-gradient(352deg, rgba(1,180,40,1) 0%, rgba(255,255,255,1) 23%);
 }
 
 footer h4{
-  color: var(--secundario);
+  font-size: var(--small);
   text-transform: uppercase;
+  margin: 0;
 }
 
 footer a{
   color: var(--accion);
   transition: all .2s ease-in;
+  text-decoration: none;
+  max-width: 300px;
 }
 
 footer a:hover{
@@ -27,6 +30,7 @@ footer section{
   display: flex;
   gap: 2rem;
   flex-wrap: wrap;
+  align-items: flex-start;
 }
 
 footer div{
@@ -35,10 +39,10 @@ footer div{
 }
 
 footer div img{
-  justify-self: center;
-  aspect-ratio: 16 / 9;
+  width: 100%;
 }
 
 footer section p{
-  font-size: .7rem;
+  max-width: 300px;
+  font-size: var(--small);
 }

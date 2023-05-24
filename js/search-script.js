@@ -1,6 +1,218 @@
 /*!
- * Simple-Jekyll-Search
+ * Simple-Jekyll-Search v1.7.4 (https://github.com/christian-fei/Simple-Jekyll-Search)
  * Copyright 2015-2020, Christian Fei
  * Licensed under the MIT License.
  */
-!function(){"use strict";var t={compile:function(t){return e.template.replace(e.pattern,function(n,r){var i=e.middleware(r,t[r],e.template);return void 0!==i?i:t[r]||n})},setOptions:function(t){e.pattern=t.pattern||e.pattern,e.template=t.template||e.template,"function"==typeof t.middleware&&(e.middleware=t.middleware)}};let e={pattern:/\{(.*?)\}/g,template:"",middleware:function(){}};var n=function(t,e){var n=e.length,r=t.length;if(n<r)return!1;if(r===n)return t===e;t:for(var i=0,o=0;i<r;i++){for(var u=t.charCodeAt(i);o<n;)if(e.charCodeAt(o++)===u)continue t;return!1}return!0},r=new function(){this.matches=function(t,e){return n(e.toLowerCase(),t.toLowerCase())}},i=new function(){this.matches=function(t,e){return!!t&&(t=t.trim().toLowerCase(),(e=e.trim().toLowerCase()).split(" ").filter(function(e){return 0<=t.indexOf(e)}).length===e.split(" ").length)}},o={put:function(t){var e;return c(t)?f(t):Boolean(e=t)&&"[object Array]"===Object.prototype.toString.call(e)?function(t){let e=[];s();for(let n=0,r=t.length;n<r;n++)c(t[n])&&e.push(f(t[n]));return e}(t):void 0},clear:s,search:function(t){return t?(function(t,e,n,r){let i=[];for(let o=0;o<t.length&&i.length<r.limit;o++){var u=function(t,e,n,r){for(let i in t)if(!function(t,e){for(let n=0,r=e.length;n<r;n++)if(RegExp(e[n]).test(t))return!0;return!1}(t[i],r.exclude)&&n.matches(t[i],e))return t}(t[o],e,n,r);u&&i.push(u)}return i})(l,t,a.searchStrategy,a).sort(a.sort):[]},setOptions:function(t){(a=t||{}).fuzzy=t.fuzzy||!1,a.limit=t.limit||10,a.searchStrategy=t.fuzzy?r:i,a.sort=t.sort||u,a.exclude=t.exclude||[]}};function u(){return 0}let l=[],a={};function s(){return l.length=0,l}function c(t){return Boolean(t)&&"[object Object]"===Object.prototype.toString.call(t)}function f(t){return l.push(t),l}a.fuzzy=!1,a.limit=10,a.searchStrategy=a.fuzzy?r:i,a.sort=u,a.exclude=[];var d={load:function(t,e){var n,r;let i=window.XMLHttpRequest?new window.XMLHttpRequest:new ActiveXObject("Microsoft.XMLHTTP");i.open("GET",t,!0),i.onreadystatechange=(n=i,r=e,function(){if(4===n.readyState&&200===n.status)try{r(null,JSON.parse(n.responseText))}catch(t){r(t,null)}}),i.send()}},p=function t(e){var n;if(!(n=e)||!(void 0!==n.required&&n.required instanceof Array))throw Error("-- OptionsValidator: required options missing");if(!(this instanceof t))return new t(e);let r=e.required;this.getRequiredOptions=function(){return r},this.validate=function(t){let e=[];return r.forEach(function(n){void 0===t[n]&&e.push(n)}),e}},h={merge:function(t,e){let n={};for(let r in t)n[r]=t[r],void 0!==e[r]&&(n[r]=e[r]);return n},isJSON:function(t){try{return!!(t instanceof Object&&JSON.parse(JSON.stringify(t)))}catch(e){return!1}}};!function(e){let n={searchInput:null,resultsContainer:null,json:[],success:Function.prototype,searchResultTemplate:'<li><a href="{url}" title="{desc}">{title}</a></li>',templateMiddleware:Function.prototype,sortMiddleware:function(){return 0},noResultsText:"No results found",limit:10,fuzzy:!1,debounceTime:null,exclude:[]},r,i=function(t,e){e?(clearTimeout(r),r=setTimeout(t,e)):t.call()};var u=["searchInput","resultsContainer","json"];let l=p({required:u});function a(t){o.put(t),n.searchInput.addEventListener("input",function(t){-1===[13,16,20,37,38,39,40,91].indexOf(t.which)&&(s(),i(function(){f(t.target.value)},n.debounceTime))})}function s(){n.resultsContainer.innerHTML=""}function c(t){n.resultsContainer.innerHTML+=t}function f(e){var r;(r=e)&&0<r.length&&(s(),function(e,r){var i=e.length;if(0===i)return c(n.noResultsText);for(let o=0;o<i;o++)e[o].query=r,c(t.compile(e[o]))}(o.search(e),e))}function m(t){throw Error("SimpleJekyllSearch --- "+t)}e.SimpleJekyllSearch=function(e){var r;return 0<l.validate(e).length&&m("You must specify the following required options: "+u),n=h.merge(n,e),t.setOptions({template:n.searchResultTemplate,middleware:n.templateMiddleware}),o.setOptions({fuzzy:n.fuzzy,limit:n.limit,sort:n.sortMiddleware,exclude:n.exclude}),h.isJSON(n.json)?a(n.json):(r=n.json,d.load(r,function(t,e){t&&m("failed to get JSON ("+r+")"),a(e)})),e={search:f},"function"==typeof n.success&&n.success.call(e),e}}(window)}();
+! function () {
+  "use strict";
+  var o = {
+          compile: function M(r) {
+              return i.template.replace(i.pattern, function (t, e) {
+                  var n = i.middleware(e, r[e], i.template);
+                  return void 0 !== n ? n : r[e] || t
+              })
+          },
+          setOptions: function T(t) {
+              i.pattern = t.pattern || i.pattern, i.template = t.template || i.template, "function" == typeof t.middleware && (i.middleware = t.middleware)
+          }
+      },
+      i = {};
+  i.pattern = /\{(.*?)\}/g, i.template = "", i.middleware = function () {};
+  var n = function x(t, e) {
+          var n = e.length,
+              r = t.length;
+          if (n < r) return !1;
+          if (r === n) return t === e;
+          t: for (var i = 0, o = 0; i < r; i++) {
+              for (var u = t.charCodeAt(i); o < n;)
+                  if (e.charCodeAt(o++) === u) continue t;
+              return !1
+          }
+          return !0
+      },
+      e = new function J() {
+          this.matches = function (t, e) {
+              return n(e.toLowerCase(), t.toLowerCase())
+          }
+      };
+  var r = new function R() {
+      this.matches = function (e, t) {
+          return !!e && (e = e.trim().toLowerCase(), (t = t.trim().toLowerCase()).split(" ").filter(function (t) {
+              return 0 <= e.indexOf(t)
+          }).length === t.split(" ").length)
+      }
+  };
+  var u = {
+      put: function b(t) {
+          if (l(t)) return p(t);
+          if (function e(t) {
+                  return Boolean(t) && "[object Array]" === Object.prototype.toString.call(t)
+              }(t)) return function i(t) {
+              var e = [];
+              f();
+              for (var n = 0, r = t.length; n < r; n++) l(t[n]) && e.push(p(t[n]));
+              return e
+          }(t);
+          return undefined
+      },
+      clear: f,
+      search: function N(t) {
+          return t ? function a(t, e, n, r) {
+              for (var i = [], o = 0; o < t.length && i.length < r.limit; o++) {
+                  var u = d(t[o], e, n, r);
+                  u && i.push(u)
+              }
+              return i
+          }(c, t, s.searchStrategy, s).sort(s.sort) : []
+      },
+      setOptions: function E(t) {
+          (s = t || {}).fuzzy = t.fuzzy || !1, s.limit = t.limit || 10, s.searchStrategy = t.fuzzy ? e : r, s.sort = t.sort || a
+      }
+  };
+
+  function a() {
+      return 0
+  }
+  var c = [],
+      s = {};
+
+  function f() {
+      return c.length = 0, c
+  }
+
+  function l(t) {
+      return Boolean(t) && "[object Object]" === Object.prototype.toString.call(t)
+  }
+
+  function p(t) {
+      return c.push(t), c
+  }
+
+  function d(t, e, n, r) {
+      for (var i in t)
+          if (!h(t[i], r.exclude) && n.matches(t[i], e)) return t
+  }
+
+  function h(t, e) {
+      for (var n = !1, r = 0, i = (e = e || []).length; r < i; r++) {
+          var o = e[r];
+          !n && new RegExp(t).test(o) && (n = !0)
+      }
+      return n
+  }
+  s.fuzzy = !1, s.limit = 10, s.searchStrategy = s.fuzzy ? e : r, s.sort = a;
+  var m = {
+      load: function A(t, e) {
+          var n = function r() {
+              return window.XMLHttpRequest ? new window.XMLHttpRequest : new ActiveXObject("Microsoft.XMLHTTP")
+          }();
+          n.open("GET", t, !0), n.onreadystatechange = function i(e, n) {
+              return function () {
+                  if (4 === e.readyState && 200 === e.status) try {
+                      n(null, JSON.parse(e.responseText))
+                  } catch (t) {
+                      n(t, null)
+                  }
+              }
+          }(n, e), n.send()
+      }
+  };
+  var t = function H(t) {
+          if (! function e(t) {
+                  return t && ("undefined" != typeof t.required && t.required instanceof Array)
+              }(t)) throw new Error("-- OptionsValidator: required options missing");
+          if (!(this instanceof H)) return new H(t);
+          var r = t.required;
+          this.getRequiredOptions = function () {
+              return r
+          }, this.validate = function (e) {
+              var n = [];
+              return r.forEach(function (t) {
+                  "undefined" == typeof e[t] && n.push(t)
+              }), n
+          }
+      },
+      v = {
+          merge: function X(t, e) {
+              var n = {};
+              for (var r in t) n[r] = t[r], "undefined" != typeof e[r] && (n[r] = e[r]);
+              return n
+          },
+          isJSON: function k(t) {
+              try {
+                  return t instanceof Object && JSON.parse(JSON.stringify(t)) ? !0 : !1
+              } catch (e) {
+                  return !1
+              }
+          }
+      };
+  var w, y, g, O, z;
+
+  function S(t) {
+      u.put(t),
+          function e() {
+              y.searchInput.addEventListener("keyup", function (t) {
+                  ! function e(t) {
+                      return -1 === [13, 16, 20, 37, 38, 39, 40, 91].indexOf(t)
+                  }(t.which) || (j(), C(t.target.value))
+              })
+          }()
+  }
+
+  function j() {
+      y.resultsContainer.innerHTML = ""
+  }
+
+  function q(t) {
+      y.resultsContainer.innerHTML += t
+  }
+
+  function C(t) {
+      ! function e(t) {
+          return t && 0 < t.length
+      }(t) || (j(), function i(t, e) {
+          var n = t.length;
+          if (0 === n) return q(y.noResultsText);
+          for (var r = 0; r < n; r++) t[r].query = e, q(o.compile(t[r]))
+      }(u.search(t), t))
+  }
+
+  function L(t) {
+      throw new Error("Seguimosbuscando --- " + t)
+  }
+  w = window, y = {
+      searchInput: null,
+      resultsContainer: null,
+      json: [],
+      success: Function.prototype,
+      searchResultTemplate: '<div><a href="{url}"><h4>{title}</h4></a><a href="{url-cat}"><span>{category}</span></a></div>',
+      templateMiddleware: Function.prototype,
+      sortMiddleware: function () {
+          return 0
+      },
+      noResultsText: "Sin resultados. Busca con otra palabra",
+      limit: 10,
+      fuzzy: !1,
+      exclude: []
+  }, O = t({
+      required: g = ["searchInput", "resultsContainer", "json"]
+  }), z = function (t) {
+      return 0 < O.validate(t).length && L("Debes buscar así: " + g), y = v.merge(y, t), o.setOptions({
+          template: y.searchResultTemplate,
+          middleware: y.templateMiddleware
+      }), u.setOptions({
+          fuzzy: y.fuzzy,
+          limit: y.limit,
+          sort: y.sortMiddleware
+      }), (v.isJSON(y.json) ? S : function e(n) {
+          m.load(n, function (t, e) {
+              t && L("failed to get JSON (" + n + ")"), S(e)
+          })
+      })(y.json), {
+          search: C
+      }
+  }, w.SimpleJekyllSearch = function (t) {
+      var e = z(t);
+      return t.success.call(e), e
+  }
+}();

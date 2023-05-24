@@ -1,0 +1,30 @@
+.buscador{
+  background-color: var(--secundario);
+  padding: 6rem 1rem 4rem;
+  margin-top: 4rem;
+  background-color: var(--secundario);
+box-shadow: 0 0 0 100vmax var(--secundario);
+clip-path: inset(0 -100vmax);
+}
+
+.buscador div,
+.buscador h2,
+.buscador div input,
+.buscador div ul{
+  width: min(100%, 720px);
+  margin-inline: auto;
+}
+
+.buscador div input{
+  border: none;
+}
+
+.buscador div a {
+  text-decoration-color: var(--blanco);
+}
+
+.buscador div a h4,
+.buscador div span{
+  font-family: var(--fuenteTextos);
+  color: var(--blanco);
+}

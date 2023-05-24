@@ -1,20 +1,33 @@
 <footer>
   <section>
     <div>
-      <h3>San Agustín Huila</h3>
       <a href="{{site.baseurl}}/">
-        <img src="{{'apple-touch-icon-120x120.png'|relative_url}}" alt="Logo de sanagustinhuila.com.co" width="120"  loading="lazy">
+        <img src="{{'logotipo.webp'|relative_url}}" alt="Logo TrabajoEscrito.com" width="120"  loading="lazy">
       </a>
+      <p>¿Necesitas dominar las normas APA, ICONTEC y mejorar tus habilidades en trabajos escritos? En nuestra página aprende todo lo necesario.</p>
     </div>
     <div>
-      <h4>Sitios turísticos</h4>
-      <a href="{{ site.baseurl }}/turismo-san-agustin/parque-arqueologico-san-agustin">Parque arqueológico de San Agustín</a>
-      <a href="{{ site.baseurl }}/turismo-san-agustin/san-agustin-huila-magia-aventura-extrema">San Agustín Huila: magia y aventura</a>
-      <a href="{{ site.baseurl }}/tursimo-san-agustin/laguna-del-magdalena">La laguna del Magdalena</a>
-      <a href="{{ site.baseurl }}/turismo-san-agustin" title="Turismo en San Agustín">→ Más sobre TURISMO</a>
+      <h4>Normas</h4>
+      <a href="{{ site.baseurl }}/normas-apa">APA</a>
+      <a href="{{ site.baseurl }}/normas-icontec">Icontec</a>
+      <a href="{{ site.baseurl }}/#">IEEE</a>
+      <a href="{{ site.baseurl }}/#">Vancouver</a>
+      <a href="{{ site.baseurl }}/#">Chicago</a>
+      <a href="{{ site.baseurl }}/#">Harvard</a>
+      <a href="{{ site.baseurl }}/#">Upel</a>
     </div>
     <div>
-      <h4>Lo último de sanagustinhuila.com.co</h4>
+      <h4>Tipos</h4>
+      <a href="{{ site.baseurl }}/#">Tesis</a>
+      <a href="{{ site.baseurl }}/#">Investigación</a>
+      <a href="{{ site.baseurl }}/#">Ensayo</a>
+      <a href="{{ site.baseurl }}/#">Informe</a>
+      <a href="{{ site.baseurl }}/#">Monografía</a>
+      <a href="{{ site.baseurl }}/#">Artículo</a>
+      <a href="{{ site.baseurl }}/#">Proyecto</a>
+    </div>
+    <div>
+      <h4>Blog</h4>
       {% assign post1 = site.posts[0] %}
       <a href="{{site.baseurl}}{{ post1.url }}">{{ post1.h1 | truncate: 45}}</a>
       {% assign post2 = site.posts[1] %}
@@ -23,23 +36,22 @@
       <a href="{{site.baseurl}}{{ post3.url }}">{{ post3.h1 | truncate: 45}}</a>
       {% assign post4 = site.posts[3] %}
       <a href="{{site.baseurl}}{{ post4.url }}">{{ post4.h1 | truncate: 45}}</a>
+      <a href="{{site.baseurl}}/blog">Ver más posts</a>
     </div>
-    <!-- <div>
-      <h4>Síguenos</h4>
-      <a href="{{site.instagram}}">Perfil de Instagram</a>
-      <a href="{{site.facebook}}">Perfil de Facebook</a>
-      <a href="{{site.pinterest}}">Perfil de Pinterest</a>
-    </div> -->
     <div>
-      <h4>Legal </h4>
+      <h4>Consultas</h4>
       <a href="{{site.baseurl}}/legal">Privacidad, términos y condiciones</a>
-      <a href="mailto:contacto@sanagustinhuila.com.co">E-mail</a> 
+      <a href="mailto:digitalizaresfacil@gmail.com">E-mail</a> 
       <a href="{{site.baseurl}}/contacto">Escríbenos</a>
+    </div>
+    <div>
+      <h4>Síguenos</h4>
+      <a href="#">Instagram</a>
+      <a href="#">Facebook</a>
+      <a href="#">Pinterest</a>
     </div>
   </section>
   <section>
-    <p>Las normas y leyes de turismo son reguladas por <a href="https://www.mincit.gov.co/minturismo/inicio"
-      rel="nofollow noopener noreferrer" target="_blank" title="Link del ministerio de turismo colombiano">El Ministerio de comercio, industria y turismo</a> de Colombia</p>
-  <p>&copy; sanagustinhuila.com.co - {{ "now" | date:"%Y"}} - Todos los derechos reservados</p>
+  <q>&copy; TrabajoEscrito.com - {{ "now" | date:"%Y"}} - Todos los derechos reservados</q>
   </section>
 </footer>
