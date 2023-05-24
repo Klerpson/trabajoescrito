@@ -5,35 +5,60 @@ description: Las terminales de transporte te dan la seguridad que necesitas para
 h1: Hagamos tu Trabajo Escrito como debe ser
 ---
 <section class="gallery-intro">
-  <h2>¿Qué partes de un Trabajo Escrito necestias?"
+  <h2>¿Qué <span class="destacado">partes de un Trabajo Escrito</span> buscas?"
   </h2>
   <section class="gallery-slider">
     <span id="left" class="next"><img src="/img/prev.svg" alt=""></span>
     <div class="slide-container">
-      <img src="/img/1.webp" alt="" draggable="false">
-      <img src="/img/2.webp" alt="" draggable="false">
-      <img src="/img/3.webp" alt="" draggable="false">
-      <img src="/img/4.webp" alt="" draggable="false">
-      <img src="/img/5.webp" alt="" draggable="false">
-      <img src="/img/6.webp" alt="" draggable="false">
-      <img src="/img/7.webp" alt="" draggable="false">
+      <a href="">
+        <img src="/img/portada.svg" alt="Portada de un trabajo escrito" draggable="false">
+        <p>Portadas</p>
+      </a>
+      <a href="">
+        <img src="/img/margenes.svg" alt="Márgenes de un trabajo escrito" draggable="false">
+        <p>Márgenes</p>
+      </a>
+      <a href="">
+        <img src="/img/tabla-de-contenido.svg" alt="Tabla de contenido de un trabajo escrito" draggable="false">
+        <p>Contenido</p>
+      </a>
+      <a href="">
+        <img src="/img/texto.svg" alt="Textos en un trabajo escrito" draggable="false">
+        <p>Textos</p>
+      </a>
+      <a href="">
+        <img src="/img/citas.svg" alt="Citas de un trabajo escrito" draggable="false">
+        <p>Citas</p>
+      </a>
+      <a href="">
+        <img src="/img/anexo.svg" alt="Anexo en un trabajo escrito" draggable="false">
+        <p>Anexos</p>
+      </a>
+      <a href="">
+        <img src="/img/listas.svg" alt="Listas para un trabajo escrito" draggable="false">
+        <p>Listas</p>
+      </a>
     </div>
     <span id="right" class="prev"><img src="/img/next.svg" alt=""></span>
   </section>
 </section>
 
-<section class="intro">
-  <h4>¿Ya sabes <span class="destacado">qué hacer en San Agustín Huila</span> y los lugares cercanos?</h4>
-  <p>Te damos la información para sacar el máximo provecho de tu visita a San Agustín. Con nuestra guía querrás repetir tu visita en estas hermosas tierras. <a href="/turismo-san-agustin/">Mira la sección de turismo de San Agustín</a> para conocer más.
+<section class="normas">
+  <h2>Normas para trabajos escritos</h2>
+  <p><i>Las normas APA e ICONTEC son fundamentales en los trabajos escritos</i>, proporcionando pautas para la estructura, formato, citación y referencias. Por ejemplo, las normas APA se enfocan en disciplinas como psicología, ciencias sociales y de la salud,
+  <!-- mientras que las normas ICONTEC son ampliamente utilizadas en Colombia y América Latina. -->
   </p>
+  <p><strong>Haz clic en el botón de las normas APA</strong> y aprende cómo utilizarlas.</p>
+  <div>
+    <h3><a href="#">→ Normas APA</a></h3>
+  </div>
 </section>
 
-<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M-39.78,26.16 C262.69,228.47 216.42,-18.23 608.07,110.05 L560.10,195.89 L0.00,150.00 Z" style="stroke: none; fill: #2F7CBA;"></path></svg></div>
-<div>
-<section class="cta-home">
-  <div>
-    <h2>Ir a San Agustín Huila es un viaje lleno de aventuras</h2>
-    <p>El turismo en San Agustín está lleno de maravillas entre <strong>las ruinas y las estatuas del parque arqueológico hasta las aventuras extremas del cañón de Magdalena</strong>.</p>
+<section class="estructura">
+  <h2>Estructura de un Trabajo Escrito</h2>
+  <p>Todos tus trabajos deben tener un orden o una estructura. <strong>¿Sabes cuál es el orden de un trabajo escrito? ¿Conoces cuál es el formato a seguir?</strong></p>
+  <p>Utiliza la siguiente información para preparar tu trabajo escrito.</p>
+  <h3>Formatos de la hoja</h3>
     <ul>
       <li>
         <span><svg class="svg-icon" viewBox="0 0 20 20">
@@ -84,7 +109,7 @@ h1: Hagamos tu Trabajo Escrito como debe ser
       <article>
         <a href="{{site.baseurl}}{{ post1.url }}">
           <img src="{{ site.baseurl }}/img/{{ post1.webps }}" alt="{{ post1.alt }}" loading="lazy">
-          <h3>{{ post1.h1 }}</h3>
+          <p>{{ post1.h1 }}</p>
         </a>
           {{ post1.excerpt | truncate: 80 | markdownify}}
       </article>
@@ -92,7 +117,7 @@ h1: Hagamos tu Trabajo Escrito como debe ser
       <article>
         <a href="{{site.baseurl}}{{ post2.url }}">
           <img src="{{ site.baseurl }}/img/{{ post2.webps }}" alt="{{ post2.alt }}" loading="lazy">
-          <h3>{{ post2.h1 }}</h3>
+          <p>{{ post2.h1 }}</p>
         </a>
           {{ post2.excerpt | truncate: 80 | markdownify}}
       </article>
@@ -100,7 +125,7 @@ h1: Hagamos tu Trabajo Escrito como debe ser
       <article>
         <a href="{{site.baseurl}}{{ post3.url }}">
           <img src="{{ site.baseurl }}/img/{{ post3.webps }}" alt="{{ post3.alt }}" loading="lazy">
-          <h3>{{ post3.h1 }}</h3>
+          <p>{{ post3.h1 }}</p>
         </a>
           {{ post3.excerpt | truncate: 80 | markdownify}}
       </article>
@@ -108,7 +133,7 @@ h1: Hagamos tu Trabajo Escrito como debe ser
       <article>
         <a href="{{site.baseurl}}{{ post4.url }}">
           <img src="{{ site.baseurl }}/img/{{ post4.webps }}" alt="{{ post4.alt }}" loading="lazy">
-          <h3>{{ post4.h1 }}</h3>
+          <p>{{ post4.h1 }}</p>
         </a>
           {{ post4.excerpt | truncate: 80 | markdownify}}
       </article>
@@ -116,7 +141,7 @@ h1: Hagamos tu Trabajo Escrito como debe ser
       <article>
         <a href="{{site.baseurl}}{{ post5.url }}">
           <img src="{{ site.baseurl }}/img/{{ post5.webps }}" alt="{{ post5.alt }}" loading="lazy">
-          <h3>{{ post5.h1 }}</h3>
+          <p>{{ post5.h1 }}</p>
         </a>
           {{ post5.excerpt | truncate: 80 | markdownify}}
       </article>
@@ -124,7 +149,7 @@ h1: Hagamos tu Trabajo Escrito como debe ser
       <article>
         <a href="{{site.baseurl}}{{ post6.url }}">
           <img src="{{ site.baseurl }}/img/{{ post6.webps }}" alt="{{ post6.alt }}" loading="lazy">
-          <h3>{{ post6.h1 }}</h3>
+          <p>{{ post6.h1 }}</p>
         </a>
           {{ post5.excerpt | truncate: 80 | markdownify}}
       </article>
@@ -137,17 +162,17 @@ h1: Hagamos tu Trabajo Escrito como debe ser
 <ul>
   <li>
     <span>01</span>
-    <h3>¿Necesitas hotel en San Agustín?</h3>
+    <p>¿Necesitas hotel en San Agustín?</p>
     <p>Los <a href="{{'hoteles-san-agustin'|relative_url}}" title="Hoteles en San Agustín">hoteles de San Agustín Huila</a> son especiales por sus paisajes y estructuras.</p>
   </li>
   <li>
     <span>02</span>
-    <h3>Restaurantes de San Agustín Huila</h3>
+    <p>Restaurantes de San Agustín Huila</p>
     <p>Las ofertas de <a href="{{'restaurantes-san-agustin'|relative_url}}" title="Restaurantes en San Agustín">restaurantes en San Agustín</a> económicos, vegetarianos, gourmet, etc; es abundante y de calidad.</p>
   </li>
   <li>
     <span>03</span>
-    <h3>Lugares turísticos de San Agustín</h3>
+    <p>Lugares turísticos de San Agustín</p>
     <p>Además del <a href="{{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}}" title="Parque arqueológico de San Agustín">parque arqueológico de San Agustín</a>, hay muchos destinos llenos de naturaleza y aventura.</p>
   </li>
 </ul>

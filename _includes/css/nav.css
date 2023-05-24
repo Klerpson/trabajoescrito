@@ -7,9 +7,10 @@ nav {
   font-family: var(--fuenteTextos);
   padding: 8px 5%;
   height: 2.8rem;
-  background-color: rgba(191, 191, 191, 0.95);
+  background-color: rgba(191, 191, 191, 0.85);
   border-bottom: 1px solid var(--gris3);
   display: flex;
+  box-shadow: var(--shadow);
 }
 
 nav img {
@@ -35,13 +36,14 @@ nav ul li a {
   padding: 0.5rem;
   font-size: 0.9rem;
   font-weight: 700;
+  color: var(--principal);
 }
 
 nav ul li a:hover,
 nav ul li a.active {
   text-decoration: underline;
   text-decoration-thickness: 3.2px;
-  text-decoration-color: var(--accion);
+  text-decoration-color: var(--principal);
 }
 
 #nav-toggle {
@@ -60,7 +62,7 @@ nav .icono-nav {
 nav .icono-nav .line {
   width: 32px;
   height: 4px;
-  background-color: var(--accion);
+  background-color: var(--principal);
   margin: 4px;
   border-radius: 3px;
   transition: all 0.3s ease-in-out;
@@ -85,7 +87,6 @@ nav .icono-nav .line {
     top: 2.6rem;
     width: auto;
     height: auto;
-    background-color: rgba(168, 117, 239, 0.9);
     overflow: hidden;
     transition: all 0.4s ease-out;
   }
