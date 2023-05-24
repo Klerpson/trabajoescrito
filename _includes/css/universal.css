@@ -65,6 +65,7 @@ h1 {
 
 h2 {
   font-size: clamp(2rem, 2.8vw + 1rem, 2.75rem);
+  margin-bottom: 2rem;
 }
 
 h3 {
@@ -77,9 +78,9 @@ h4 {
 
 p,
 .post-content li {
-  line-height: 1.326;
   word-wrap: break-word;
   font-size: clamp(1.125rem, 0.5vw + 1rem, 1.25rem);
+  margin-bottom: 1rem;
 }
 
 pre {
@@ -87,10 +88,10 @@ pre {
 }
 
 a {
-  background: transparent;
   font-family: var(--fuenteTexto);
   text-decoration-thickness: 2.6px;
-  font-size: 0.9rem;
+  font-size: var(--small);
+  color: var(--accion);
 }
 
 abbr[title] {
@@ -162,7 +163,9 @@ li {
 }
 
 header,
-.gallery-intro{
+.gallery-intro,
+.normas,
+.estructura{
   width: min(100%, 1128px);
   margin-inline: auto;
   margin-top: 6rem;

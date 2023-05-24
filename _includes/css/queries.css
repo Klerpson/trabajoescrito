@@ -1,5 +1,2 @@
 @media screen and (min-width: 1024px) {
-  .slide-container img{
-    width: calc(100% / 4.5);
-  }
 }

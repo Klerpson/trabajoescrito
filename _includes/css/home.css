@@ -1,35 +1,9 @@
-.intro {
-  border-radius: 32px;
-  background: #9dc5bb;
-  box-shadow: var(--shadow);
-  padding: 4rem 16px;
-  display: grid;
-  place-items: center;
-  gap: 1.5rem;
-}
-
-.intro h4 {
-  text-align: center;
-}
-
-.intro p {
-  width: min(80%, 720px);
-  margin-bottom: 1.2rem;
-  text-align: center;
-}
-
-.intro a {
-  color: var(--secundario);
-}
-
-.intro div {
-  width: min(80%, 800px);
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  gap: 1.2rem;
-  flex-wrap: wrap;
-  line-height: 1;
+.normas div h3{
+  display: inline-block;
+  border-bottom: 1px solid var(--gris1);
+  width: min(100%, 720px);
+  padding: 12px 0;
+  font-weight: 900;
 }
 
 .cta-home {
