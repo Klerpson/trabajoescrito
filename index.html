@@ -54,7 +54,7 @@ h1: Hagamos tu Trabajo Escrito como debe ser
   </div>
 </section>
 
-<section class="estructura" id="partes">
+<main class="estructura" id="partes">
   <h2>Estructura de un Trabajo Escrito</h2>
   <p>Todos tus trabajos deben tener un orden o una estructura. <strong>¿Sabes cómo se hace un trabajo escrito? ¿Conoces cuál es el formato a seguir?</strong></p>
   <p>Utiliza la siguiente información para preparar tu trabajo escrito.</p>
@@ -161,105 +161,71 @@ h1: Hagamos tu Trabajo Escrito como debe ser
       </li>
     </ul>
   <p><b>RECUERDA:</b> <strong>Los agradecimientos</strong> permiten expresar reconocimiento y gratitud a aquellos que brindaron apoyo durante la investigación o redacción. <strong>Los anexos</strong> incluyen material complementario relevante, como tablas, gráficos adicionales o documentos de respaldo. <strong>La bibliografía</strong> recopila las fuentes citadas en el trabajo, asegurando la adecuada atribución y facilitando la verificación de la información. <strong>La conclusión</strong> resume los puntos clave y presenta los hallazgos o resultados obtenidos.</p>
+  </main>
+
+
+<section class="buscador" id="buscador">
+  <h2>¿Buscas alguna parte de un Trabajo Escrito en especial?</h2>
+  <div id="search-demo-container">
+    <input type="search" id="search-input" placeholder="search...">
+    <ul id="results-container"></ul>
+  </div>
 </section>
+<!-- {% assign post1 = site.posts[0] %}
+    <article>
+      <a href="{{site.baseurl}}{{ post1.url }}">
+        <img src="{{ site.baseurl }}/img/{{ post1.webps }}" alt="{{ post1.alt }}" loading="lazy">
+        <p>{{ post1.h1 }}</p>
+      </a>
+        {{ post1.excerpt | truncate: 80 | markdownify}}
+    </article>
+    {% assign post2 = site.posts[1] %}
+    <article>
+      <a href="{{site.baseurl}}{{ post2.url }}">
+        <img src="{{ site.baseurl }}/img/{{ post2.webps }}" alt="{{ post2.alt }}" loading="lazy">
+        <p>{{ post2.h1 }}</p>
+      </a>
+        {{ post2.excerpt | truncate: 80 | markdownify}}
+    </article>
+    {% assign post3 = site.posts[2] %}
+    <article>
+      <a href="{{site.baseurl}}{{ post3.url }}">
+        <img src="{{ site.baseurl }}/img/{{ post3.webps }}" alt="{{ post3.alt }}" loading="lazy">
+        <p>{{ post3.h1 }}</p>
+      </a>
+        {{ post3.excerpt | truncate: 80 | markdownify}}
+    </article>
+    {% assign post4 = site.posts[3] %}
+    <article>
+      <a href="{{site.baseurl}}{{ post4.url }}">
+        <img src="{{ site.baseurl }}/img/{{ post4.webps }}" alt="{{ post4.alt }}" loading="lazy">
+        <p>{{ post4.h1 }}</p>
+      </a>
+        {{ post4.excerpt | truncate: 80 | markdownify}}
+    </article>
+    {% assign post5 = site.posts[4] %}
+    <article>
+      <a href="{{site.baseurl}}{{ post5.url }}">
+        <img src="{{ site.baseurl }}/img/{{ post5.webps }}" alt="{{ post5.alt }}" loading="lazy">
+        <p>{{ post5.h1 }}</p>
+      </a>
+        {{ post5.excerpt | truncate: 80 | markdownify}}
+    </article>
+    {% assign post6 = site.posts[5] %}
+    <article>
+      <a href="{{site.baseurl}}{{ post6.url }}">
+        <img src="{{ site.baseurl }}/img/{{ post6.webps }}" alt="{{ post6.alt }}" loading="lazy">
+        <p>{{ post6.h1 }}</p>
+      </a>
+        {{ post5.excerpt | truncate: 80 | markdownify}}
+    </article> -->
 
-<section class="blog-home">
-  <h2>¿Ya sabes qué hacer en San Agustín Huila?</h2>
-  <p>Lee en nuestro blog todo sobre el turismo en San Agustín Huila y sus alrededores. San Agustín tiene muchos destinos turísticos ideales para tus vacaciones.</p>
-  {% assign post1 = site.posts[0] %}
-      <article>
-        <a href="{{site.baseurl}}{{ post1.url }}">
-          <img src="{{ site.baseurl }}/img/{{ post1.webps }}" alt="{{ post1.alt }}" loading="lazy">
-          <p>{{ post1.h1 }}</p>
-        </a>
-          {{ post1.excerpt | truncate: 80 | markdownify}}
-      </article>
-      {% assign post2 = site.posts[1] %}
-      <article>
-        <a href="{{site.baseurl}}{{ post2.url }}">
-          <img src="{{ site.baseurl }}/img/{{ post2.webps }}" alt="{{ post2.alt }}" loading="lazy">
-          <p>{{ post2.h1 }}</p>
-        </a>
-          {{ post2.excerpt | truncate: 80 | markdownify}}
-      </article>
-      {% assign post3 = site.posts[2] %}
-      <article>
-        <a href="{{site.baseurl}}{{ post3.url }}">
-          <img src="{{ site.baseurl }}/img/{{ post3.webps }}" alt="{{ post3.alt }}" loading="lazy">
-          <p>{{ post3.h1 }}</p>
-        </a>
-          {{ post3.excerpt | truncate: 80 | markdownify}}
-      </article>
-      {% assign post4 = site.posts[3] %}
-      <article>
-        <a href="{{site.baseurl}}{{ post4.url }}">
-          <img src="{{ site.baseurl }}/img/{{ post4.webps }}" alt="{{ post4.alt }}" loading="lazy">
-          <p>{{ post4.h1 }}</p>
-        </a>
-          {{ post4.excerpt | truncate: 80 | markdownify}}
-      </article>
-      {% assign post5 = site.posts[4] %}
-      <article>
-        <a href="{{site.baseurl}}{{ post5.url }}">
-          <img src="{{ site.baseurl }}/img/{{ post5.webps }}" alt="{{ post5.alt }}" loading="lazy">
-          <p>{{ post5.h1 }}</p>
-        </a>
-          {{ post5.excerpt | truncate: 80 | markdownify}}
-      </article>
-      {% assign post6 = site.posts[5] %}
-      <article>
-        <a href="{{site.baseurl}}{{ post6.url }}">
-          <img src="{{ site.baseurl }}/img/{{ post6.webps }}" alt="{{ post6.alt }}" loading="lazy">
-          <p>{{ post6.h1 }}</p>
-        </a>
-          {{ post5.excerpt | truncate: 80 | markdownify}}
-      </article>
-      
-</section>
 
-<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #DEE5E5 ;"></path></svg></div>
-<section class="conclusion">
-<h2>Ven a San Agustín Huila con todos tus planes listos</h2>
-<ul>
-  <li>
-    <span>01</span>
-    <p>¿Necesitas hotel en San Agustín?</p>
-    <p>Los <a href="{{'hoteles-san-agustin'|relative_url}}" title="Hoteles en San Agustín">hoteles de San Agustín Huila</a> son especiales por sus paisajes y estructuras.</p>
-  </li>
-  <li>
-    <span>02</span>
-    <p>Restaurantes de San Agustín Huila</p>
-    <p>Las ofertas de <a href="{{'restaurantes-san-agustin'|relative_url}}" title="Restaurantes en San Agustín">restaurantes en San Agustín</a> económicos, vegetarianos, gourmet, etc; es abundante y de calidad.</p>
-  </li>
-  <li>
-    <span>03</span>
-    <p>Lugares turísticos de San Agustín</p>
-    <p>Además del <a href="{{'turismo-san-agustin/parque-arqueologico-san-agustin'|relative_url}}" title="Parque arqueológico de San Agustín">parque arqueológico de San Agustín</a>, hay muchos destinos llenos de naturaleza y aventura.</p>
-  </li>
-</ul>
-<div>
-  <h2>¿Te gusta viajar por Colombia?<br>En San Agustín Huila la pasarás muy bien</h2>
-  <p><span class="destacado">Escríbenos por WhatsApp</span> y te recomendaremos todo lo que necesitas para que tengas las mejores vacaciones de tu vida.<br><a href="{{site.whatsapp}}">Escribir por WhatsApp</a></p>
-</div>
-</section>
 
-<main class="blog-home">
-  <h2>San Agustín Huila: Turismo histórico y espiritual</h2>
-  <p>San Agustín de Huila es un lugar turístico muy conocido en Colombia debido a su atractivo histórico y espiritual. Situado en el departamento de Huila, <strong>cuenta con numerosos sitios arqueológicos, entre los que destacan las más de 500 estatuas de origen desconocido que se pueden encontrar en la zona.</strong></p>
-  <p><strong>Tres zonas arqueológicas han sido declaradas Patrimonio Histórico y Cultural de la Humanidad por la UNESCO,</strong> lo que atrae a turistas de todo el mundo. Además, la cultura y la naturaleza son también parte esencial de la región, siendo posible disfrutar de actividades como el agroturismo o las rutas de aventura.</p>
-  <p>En esta página web se tratarán los aspectos más importantes de San Agustín de Huila, para descubrir cómo es este lugar y <a href="{% post_url 2023-04-01-san-agustin-huila-magia-aventura-extrema %}">por qué resulta tan interesante para los turistas.</a></p>
-  {% include img.html webps="san-agustin-huila-376.webp" webpm="san-agustin-huila-600.webp" webpb="san-agustin-huila-800.webp" hero="san-agustin-huila.webp" alt="Turista en San Agustín Huila" title="Turista en San Agustín" %}
-</main>
-
-<div id="search-demo-container">
-  <input type="search" id="search-input" placeholder="search...">
-  <ul id="results-container"></ul>
-</div>
-
-<section class="cta-home">
+<!-- <section class="cta-home">
   <q>Ven a San Agustín, Huila, y descubre un lugar mágico donde la historia y la naturaleza se entrelazan de manera única. En los Parques Arqueológicos de San Agustín y Tierradentro, podrás caminar entre gigantes de piedra creados hace miles de años por una civilización ancestral.<br><br>
   Además, disfrutarás de una naturaleza deslumbrante con cascadas, ríos cristalinos y bosques frondosos. Te invitamos a conocer la alegría y el espíritu acogedor de la gente huilense y a sentirte parte de una comunidad que ama su historia y su tierra. ¡No te lo pierdas, San Agustín te espera con los brazos abiertos!</q>
-</section>
+</section> -->
 
 {% include footer.html %}
 
