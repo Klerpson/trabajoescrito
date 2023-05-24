@@ -65,15 +65,18 @@ h1 {
 
 h2 {
   font-size: clamp(2rem, 2.8vw + 1rem, 2.75rem);
-  margin-bottom: 2rem;
+  margin: 3rem auto;
+  text-align: center;
 }
 
 h3 {
   font-size: clamp(1.75rem, 2vw + 1rem, 2.25rem);
+  margin: 2rem 0;
 }
 
 h4 {
   font-size: clamp(1.25rem, 0.8vw + 1rem, 1.5rem);
+  margin-top: 1.5rem;
 }
 
 p,
@@ -91,6 +94,8 @@ a {
   font-family: var(--fuenteTexto);
   text-decoration-thickness: 2.6px;
   font-size: var(--small);
+  color: var(--accion);
+  font-weight: 900;
   color: var(--accion);
 }
 
@@ -239,7 +244,6 @@ table tr {
 }
 
 .boton {
-  color: #090909;
   padding: 0.7em 1.7em;
   font-size: 18px;
   border-radius: 0.5em;

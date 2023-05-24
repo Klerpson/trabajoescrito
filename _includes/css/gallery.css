@@ -5,6 +5,7 @@
   justify-content: center;
   min-height: min-content;
   padding: 0 12px;
+  width: min(100%, 720px);
   margin-inline: auto;
 }
 
