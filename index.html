@@ -7,7 +7,7 @@ h1: Hagamos tu Trabajo Escrito como debe ser
 <section class="gallery-intro">
   <h2>¿Qué <span class="destacado">partes de un Trabajo Escrito</span> buscas?"
   </h2>
-  <section class="gallery-slider">
+  <div class="gallery-slider">
     <span id="left" class="next"><img src="/img/prev.svg" alt=""></span>
     <div class="slide-container">
       <a href="">
@@ -40,7 +40,7 @@ h1: Hagamos tu Trabajo Escrito como debe ser
       </a>
     </div>
     <span id="right" class="prev"><img src="/img/next.svg" alt=""></span>
-  </section>
+  </div>
 </section>
 
 <section class="normas">
@@ -50,7 +50,12 @@ h1: Hagamos tu Trabajo Escrito como debe ser
   </p>
   <p><strong>Haz clic en el botón de las normas APA</strong> y aprende cómo utilizarlas.</p>
   <div>
-    <h3><a href="#">→ Normas APA</a></h3>
+    <article>
+      <a href="#"><h3>→ Normas APA</h3></a>
+    </article>
+    <article>
+      <a href="#"><h3>→ Normas Icontec</h3></a>
+    </article>
   </div>
 </section>
 
@@ -169,13 +174,33 @@ h1: Hagamos tu Trabajo Escrito como debe ser
 
   {% include buscador.html %}
 
-  <section class="tipos">
+  <section class="normas">
     <h2>Ejemplos de Trabajos Escritos</h2>
+    <p>Hay muchas clases de trabajos escritos. Te enseñamos sobre los más conocidos. Haz clic en el tipo de Trabajos Escrito que estás buscando:</p>
     <div>
-      <p>Hay muchas clases de trabajos escritos. Te enseñamos sobre los más conocidos. Haz clic en el tipo de Trabajos Escrito que estás buscando:</p>
-      {% include cluster.html url1="#" title1="Ensayo" url2="#" title2="Tesis" url3="#" title3="Investigación" url4="#" title4="Cartas" url5="#" title5="Informe" url6="#" title6="Monografía" url7="#" title7="Artículo" %}
+      <article>
+        <a href="#"><h3>→ Ensayos</h3></a>
+      </article>
+      <article>
+        <a href="#"><h3>→ Tesis</h3></a>
+      </article>
+      <article>
+        <a href="#"><h3>→ Investigación</h3></a>
+      </article>
+      <article>
+        <a href="#"><h3>→ Cartas</h3></a>
+      </article>
+      <article>
+        <a href="#"><h3>→ Informe</h3></a>
+      </article>
+      <article>
+        <a href="#"><h3>→ Monografía</h3></a>
+      </article>
+      <article>
+        <a href="#"><h3>→ Artículo</h3></a>
+      </article>
     </div>
-  </section>
+    </section>
 
   <section class="entradas">
     <h2 class="entrada1">Te damos más tips</h2>
@@ -220,13 +245,11 @@ h1: Hagamos tu Trabajo Escrito como debe ser
     </div>
   </section>
   <section class="cta">
-    <hr>
     <h3>Aprende de <span class="destacado">Normas y trabajos escritos</span> con los mejores</h3>
     <p>¿Necesitas dominar las normas APA, ICONTEC y mejorar tus habilidades en trabajos escritos?</p>
     <p>Estos cursos prácticos te darán las herramientas necesarias para <strong>superar los desafíos comunes al redactar tesis, investigaciones y más</strong>. Olvídate de la confusión al citar fuentes o estructurar tus trabajos, porque te proporcionaremos las técnicas y conocimientos precisos para destacar en tus escritos.</p>
     <p>Haz clic ahora y aprovecha esta oportunidad para alcanzar el éxito académico y profesional que tanto deseas.</p>
-    <a href="#" class="boton">Página de cursos</a>
-    <hr>
+    <a href="#">→ Página de cursos</a>
   </section>
 
   {% include footer.html %}

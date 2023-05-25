@@ -1,9 +1,20 @@
-.normas div h3{
-  display: inline-block;
-  border-bottom: 1px solid var(--gris1);
-  width: min(100%, 720px);
-  padding: 12px 0;
+.normas div{
+  display: flex;
+  gap: 1rem 3rem ;
+  flex-wrap: wrap;
+  padding-top: 3rem;
+}
+
+.normas article h3{
+  flex: 1 0 360px;
+  border-bottom: 1px dotted var(--gris1);
+  padding-bottom: 1rem;
   font-weight: 900;
+  margin: 0;
+}
+
+.normas article a:hover{
+  color: var(--principal);
 }
 
 .entradas{
@@ -42,26 +53,22 @@
 
 .entradas-blog{
   grid-column: span 2;
-  display: flex;
+  display: grid;
   gap: 2rem;
-  flex-wrap: wrap;
   margin-top: 3rem;
 }
 
 .entradas-blog article{
-  border: solid 1px var(--gris1);
-  padding: .7rem;
-  width: min(100%, 500px);
-  border-radius: var(--radius);
-  box-shadow: var(--shadow);
-  margin-inline: auto;
+  padding: 2rem 0 1rem;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  gap: 1rem; 
+  border-bottom: 1px dotted var(--gris1);
 }
 
 .entradas-blog article img{
   max-width: 80px;
-  float: left;
-  margin-right: 12px;
-  margin-bottom: 12px;
+  grid-row: span 2;
 }
 
 .entradas-blog article h4{
@@ -73,6 +80,7 @@
 .entradas-blog article p{
   margin: 0;
 }
+
 /* background-color: var(--secundario);
 box-shadow: 0 0 0 100vmax var(--secundario);
 clip-path: inset(0 -100vmax); */

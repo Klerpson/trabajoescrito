@@ -98,7 +98,13 @@ a {
   color: var(--accion);
   font-weight: 900;
   color: var(--accion);
+  transition: all .1s ease-out;
 }
+
+a:hover{
+  color: var(--principal);
+}
+
 
 abbr[title] {
   border-bottom: none;
@@ -325,9 +331,30 @@ hr:after {
 .cta{
   padding: 3rem 0;
   display: grid;
+  background-color: var(--secundario);
+  background-color: var(--secundario);
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  clip-path: inset(0 -100vmax);
+  text-align: center;
+  place-items: center;
+  max-width: 992px;
 }
 
 .cta a{
-  margin-bottom: 6rem;
-  justify-self: center;
+  margin: 3rem auto 6rem;
+  font-size: 1.8rem;
+  font-family: var(--fuenteTitulos);
+  display: inline-block;
+  padding: 0.7em 1.7em;
+  border-radius: 0.5em;
+  background: var(--blanco);
+  transition: all .1s ease-in;
+}
+
+.cta a:hover{
+  transform: scale(1.05);
+}
+
+.cta a:active{
+  transform: scale(1);
 }
