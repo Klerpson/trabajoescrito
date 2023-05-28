@@ -8,9 +8,9 @@ layout: compress
   {% if page.vertical %}
   <main class="normas_contenido">
     {{ content }}
-    {% include cta.html %}
-    {% include footer.html %}
   </main>
+  {% include cta.html %}
+  {% include footer.html %}
   {% else %}
     {{ content }}
   {% endif %}

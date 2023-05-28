@@ -267,3 +267,13 @@ Proporciona un formato profesional y consistente, ayudando a presentar la invest
 Establece un estándar para la presentación de investigaciones y facilita el proceso de revisión por pares.
 * **¿Por qué es importante respetar las normas APA?**  
 Garantiza la uniformidad, facilita el seguimiento de las fuentes y da credibilidad a tu trabajo.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
+
+----------
+
+## Descarga plantillas con las normas APA
+
+Para aquellos interesados en aplicar correctamente las normas APA, **ofrecemos una sección de descarga de plantillas**. Estas plantillas preformateadas siguen las normas APA y te ayudarán a estructurar tu trabajo de manera correcta y eficiente.
+
+Puedes descargarlas y usarlas como base para tu tesis, artículo científico o cualquier otro trabajo académico.
