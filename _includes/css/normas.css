@@ -15,3 +15,11 @@
   clip-path: inset(0 -100vmax);
   border: none;
 }
+
+.normas_contenido img{
+  width: min(100%, 400px);
+  float: right;
+  margin-inline-start: 3rem;
+  margin-bottom: 2rem;
+  box-shadow: var(--shadow);
+}
