@@ -1,0 +1,11 @@
+{% capture puntos %}{{include.data}}{% endcapture %}
+{% for item in site.data.{{puntos}} %} {% assign cat = item[0] %}
+{% for hotel in site.data.{{puntos}}[cat] %}
+<details>
+  <summary>
+    <h4>{{puntos}}[0]</h4>
+    <p>{{puntos}}[1]</p>
+  </summary>
+</details>
+{% endfor %}
+{% endfor %}

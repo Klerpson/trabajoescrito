@@ -2,16 +2,15 @@
   <div class="title">
     {% if page.layout == "default" %}
     <h1>{{page.h1}}</h1>
-    {% else %}
-    <h1>{{page.h1}}</h1>
-    {% include img.html hero=page.hero webpb=page.webpb webpm=page.webpm webps=page.webps alt=page.alt %}
-    {% endif %}
-    {% if page.url == "/" %}
-    <p>Haz clic para aprender más sobre la <strong>la forma correcta de hacer un Trabajo Escrito</strong></p>
+    <p>{{page.intro}}</p>
     <div>
-      <a href="{{site.baseurl}}/#buscador" title="Terminales de Colombia" class="boton">Busca tu tema</a>
-      <a href="{{site.baseurl}}/#partes" title="Terminales de Colombia" class="boton">Aprende más</a>
+      <a href="{{site.baseurl}}{{page.url}}#{{page.boton_info}}" title="{{page.boton_info_title}}" class="boton">{{page.boton_info | capitalize}}</a>
+      <a href="{{site.baseurl}}{{page.url}}#{{page.boton_mas}}" title="{{page.boton_mas_title}}" class="boton">{{page.boton_mas | capitalize}}</a>
     </div>
+    {% else %}
+    {% include img.html hero=page.hero webpb=page.webpb webpm=page.webpm webps=page.webps alt=page.alt %}
+    <h1>{{page.h1}}</h1>
+    <p>{{page.excerpt}}</p>
     {% endif %}
   </div>
 </header>

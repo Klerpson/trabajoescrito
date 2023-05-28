@@ -1,11 +1,12 @@
-.normas div{
+.links{
   display: flex;
   gap: 1rem 3rem ;
   flex-wrap: wrap;
   padding-top: 3rem;
 }
 
-.normas article h3{
+.links article h3,
+.links li a{
   flex: 1 0 360px;
   border-bottom: 1px dotted var(--gris1);
   padding-bottom: 1rem;
@@ -13,7 +14,7 @@
   margin: 0;
 }
 
-.normas article a:hover{
+.links article a:hover{
   color: var(--principal);
 }
 

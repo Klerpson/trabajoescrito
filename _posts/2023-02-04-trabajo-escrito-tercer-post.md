@@ -1,24 +1,11 @@
 ---
 layout: post
-title: Hostal Bambú - Descanso y diversión en San Agustín
-description: El hostal Bambú de San Agustín Huila está muy bien posicionado entre los turistas. Es una opción muy bonita y accesible en el pueblo. ¡Conócelo!
-h1: Hostal Bambú de San Agustín Huila
-h1_alternativo: Hostal Bambú San Agustín
-award: La mejor guía para conocer el hostal Bambú de San Agustín
+title: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati
 category: hoteles
-date: 2023-02-03
-jpg: blog/hostal-bambu-san-agustin.jpg
-hero: blog/hostal-bambu-san-agustin.webp
-webps: blog/hostal-bambu-san-agustin-376.webp
-webpm: blog/hostal-bambu-san-agustin-600.webp
-webpb: blog/hostal-bambu-san-agustin-800.webp
-alt: Hostal bambú en San Agustín Huila
-referencias:
-  - Booking Hostal Bambú San Agustín Huila: https://www.booking.com/hotel/co/hostal-bambu.es.html
-  - TripAdvisor Hostal Bambú San Agustín Huila: https://www.tripadvisor.co/Hotel_Review-g445060-d4815502-Reviews-Hostel_Bambu-San_Agustin_Huila_Department.html?m=19905
-  - Fotos Hostal Bambú San Agustín: https://www.google.com/maps/place/Hostal+Bambu/@1.8851998,-76.2715695,3a,75y,90t/data=!3m8!1e2!3m6!1sAF1QipMEnFvjxDcibdQXoOcdjzHuiIYJmLMTzVQHSw4p!2e10!3e12!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipMEnFvjxDcibdQXoOcdjzHuiIYJmLMTzVQHSw4p%3Dw529-h298-k-no!7i2048!8i1152!4m10!3m9!1s0x0:0xc229ad7209df6a00!5m2!4m1!1i2!8m2!3d1.8851998!4d-76.2715695!14m1!1BCgIgAQ
-  - Página web Hostal Bambú: https://hostalbambu.com
-excerpt_separator: <!-- excerpt -->
-permalink: /hoteles-san-agustin/hostal-bambu-san-agustin-huila
+h1: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+webp: apa.webp
+alt: Lorem ipsum dolor sit amet
+excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati, placeat architecto unde ratione tempore libero dolore, non impedit iusto, doloremque laboriosam eveniet? Explicabo est architecto dignissimos, nihil autem enim quibusdam molestiae neque reprehenderit sed sit odio quia nulla, alias inventore harum ipsum repellat ad sapiente? Facere, eum perspiciatis? Provident error accusantium cupiditate. Maxime nulla nisi veritatis nemo obcaecati animi necessitatibus asperiores aliquid ipsum iure accusamus, dolorum eos earum est nihil voluptatum ullam corporis dolores perspiciatis in temporibus. Sed perspiciatis iusto iste repudiandae velit ea ullam assumenda vel maiores officiis cum totam ad voluptate ipsum dolorum et adipisci nisi, autem reiciendis. Iure odio eum, voluptate amet unde ipsam quibusdam sequi ex? Ab sit sint, reprehenderit at asperiores, autem amet voluptatem beatae nesciunt aut suscipit tenetur repellendus nulla! Ipsam cupiditate earum similique, quos ullam asperiores ea sed eius mollitia, quaerat voluptas fuga inventore repellendus odio unde suscipit ipsum quam ut maxime nemo distinctio explicabo doloribus? Nulla excepturi autem animi, eveniet perferendis nemo cum qui sed nihil, ab harum consequatur quidem vitae commodi dolores neque. Nisi laudantium odit quisquam ullam perspiciatis rerum aspernatur debitis dignissimos, veniam iure ea repellendus voluptatibus unde quod sit error. Facilis dolores provident qui blanditiis impedit, eaque earum assumenda! Iusto autem, porro vero ullam accusamus exercitationem harum debitis ut excepturi omnis ipsa. Tempore eveniet aliquid illo ad unde obcaecati saepe! Consequuntur aut culpa, ad nulla quam quibusdam voluptates rem, alias impedit tempore minima, quos ipsa dignissimos fuga laboriosam inventore laborum magni deleniti numquam temporibus omnis ullam! Quaerat dolorum accusantium ipsum ratione repellat laboriosam incidunt? Non eos, laudantium nobis deserunt placeat minima veritatis! Accusantium, laborum praesentium necessitatibus doloremque consequuntur blanditiis enim fuga quo vel voluptatum corporis et delectus debitis eveniet inventore commodi assumenda dignissimos aliquam laudantium iste fugiat reiciendis illum! Sunt, alias dignissimos laborum atque omnis iste repellat quo nesciunt voluptas soluta, iusto modi ipsa? Id minima, ipsum excepturi possimus numquam accusantium aut explicabo, eos consequatur dolorum cupiditate voluptate temporibus perspiciatis! Quasi nemo consectetur debitis aliquid voluptatem magnam perferendis, sint alias dolores, quas praesentium rem, quos laboriosam voluptatibus est aut nam non omnis? Dolorum unde distinctio quam harum nostrum quibusdam nemo, earum quidem recusandae laboriosam accusantium dolore sequi vero consequuntur, odit possimus suscipit ut at nisi maxime cum? Perspiciatis cum deserunt quasi harum, fugit asperiores accusantium iure enim voluptatum eum architecto dolorum ullam, incidunt vero, facilis aspernatur aliquam accusamus a iste qui! Deserunt, doloremque consequuntur sapiente delectus assumenda dolorem ipsam unde, voluptates repudiandae, nostrum totam! Hic vel debitis vero modi odit quos ipsum, qui sunt molestiae quasi fugit. Ipsa omnis laborum laudantium placeat earum consectetur, voluptates asperiores quaerat ut explicabo, sunt eos? Autem suscipit voluptatum explicabo sequi accusantium accusamus, exercitationem ipsam, nam a dignissimos nostrum impedit rem eligendi maxime, nesciunt quaerat obcaecati eos eum corporis quo. Sequi rem consequatur deleniti eum ipsum quos laudantium incidunt officiis corporis commodi ut, voluptatum mollitia maiores deserunt natus, fugiat rerum distinctio atque dolor! Aut aspernatur quibusdam commodi omnis ab ut aliquid inventore!

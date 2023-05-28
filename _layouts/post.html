@@ -1,8 +1,6 @@
 ---
-layout: compress
+layout: default
 ---
-{% include head.html %}
-{% include header.html %}
 {% include breadcrumbs.html %}
 <main class="post-content">
   {{ content }}
@@ -24,13 +22,5 @@ layout: compress
   {% endif %}
 </main>
 {% include comentarios.html %}
-<div style="height: 150px; overflow: hidden;" ><svg viewBox="0 0 500 150" preserveAspectRatio="none" style="height: 100%; width: 100%;"><path d="M0.00,49.98 C393.62,171.22 289.21,70.56 508.17,104.13 L500.00,150.00 L0.00,150.00 Z" style="stroke: none; fill: #DEE5E5;"></path></svg></div>
-<section class="conclusion">
-  <div>
-    <h2>¿Te gustaría obtener la mejor guía de viajes por Colombia?</h2>
-    <p>Planea tus próximos viajes por Colombia y <span class="destacado">disfrútalos seguro y tranquilo</span>. Haz clic en el enlace para comprar la Guía que necesitas ahora.<br> <a href="https://go.hotmart.com/M80153395U">"Guía Turística de Colombia"</a></p>
-  </div>
-</section>
-
-
+{% include cta.html %}
 {% include footer.html %}

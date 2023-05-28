@@ -1,45 +1,33 @@
 [
   
     {
-      "title"    : "Hotel Masaya en San Agustín Huila - Arte y naturaleza",
+      "title"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
       "category" : "hoteles",
-      "url"      : "/hotel-masaya-san-agustin-huila"
+      "url"      : "/trabajo-escrito-quinto-post"
     } ,
   
     {
-      "title"    : "El Salto del Mortiño ¡Culumpio y puente de cristal extremos!",
-      "category" : "turismo",
-      "url"      : "/turismo-san-agustin/salto-del-mortino-majuestuosidad-emociones"
-    } ,
-  
-    {
-      "title"    : "Museo de Obando en San Agustín ¡Un viaje lleno de misterio!",
-      "category" : "turismo",
-      "url"      : "/turismo-san-agustin/museo-obando-san-agustin-huila"
-    } ,
-  
-    {
-      "title"    : "Cascada los Tres Chorros ¡3 cascadas en 1 de San Agustín!",
-      "category" : "turismo",
-      "url"      : "/turismo-san-agustin/tres-chorros-cascada-imponente-san-agustin"
-    } ,
-  
-    {
-      "title"    : "Hotel Internacional San Agustín - Lujo y confort",
+      "title"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
       "category" : "hoteles",
-      "url"      : "/hoteles-san-agustin/hotel-internacional-san-agustin-huila"
+      "url"      : "/trabajo-escrito-cuarto-post"
     } ,
   
     {
-      "title"    : "Hostal Bambú - Descanso y diversión en San Agustín",
+      "title"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
       "category" : "hoteles",
-      "url"      : "/hoteles-san-agustin/hostal-bambu-san-agustin-huila"
+      "url"      : "/trabajo-escrito-tercer-post"
     } ,
   
     {
-      "title"    : "Hotel Akawanka Lodge - 100% recomendado en San Agustín",
+      "title"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
       "category" : "hoteles",
-      "url"      : "/akawanka-lodge-san-agustin-huila"
+      "url"      : "/trabajo-escrito-segundo-post"
+    } ,
+  
+    {
+      "title"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
+      "category" : "hoteles",
+      "url"      : "/trabajo-escrito-primer-post"
     } 
   
   ,
@@ -86,7 +74,7 @@
   
    {
      
-        "title"    : "¡Descubre la magia de San Agustín Huila! - Turismo en Colombia",
+        "title"    : "🎓 Normas APA: Tu Guía para aplicarlas perfectamente ✔️",
         "category" : "",
         "url"      : "/normas-apa"
      

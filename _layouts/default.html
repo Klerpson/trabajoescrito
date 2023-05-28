@@ -3,11 +3,17 @@ layout: compress
 ---
 {% include head.html %}
 <body>
-
-{% include nav.html %}
-{% include header.html %}
-
-  {{ content }}
+  {% include nav.html %}
+  {% include header.html %}
+  {% if page.vertical %}
+  <main class="normas_contenido">
+    {{ content }}
+    {% include cta.html %}
+    {% include footer.html %}
+  </main>
+  {% else %}
+    {{ content }}
+  {% endif %}
   <a href="#">{% include boton-up.html %}</a>
 </body>
 </html>

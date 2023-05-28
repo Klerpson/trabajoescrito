@@ -1,0 +1,17 @@
+.normas_contenido .links{
+  margin-bottom: 3rem;
+  padding: 0;
+}
+
+.normas_contenido ul li:not(.links li){
+  margin: 0 0 1rem 2rem;
+  list-style-type: disc;
+}
+
+.normas_contenido blockquote {
+  background-color: var(--complemento2);
+  background-color: var(--complemento2);
+  box-shadow: 0 0 0 100vmax var(--complemento2);
+  clip-path: inset(0 -100vmax);
+  border: none;
+}
