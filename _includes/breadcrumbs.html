@@ -1,3 +1,4 @@
+{% if page.url != '/tips-y-consejos' %}
 <div id="breadcrumbs">
   {% assign crumbs = page.url | remove:'/index.html' | split: '/' %}
   <a href="/">Inicio</a>
@@ -9,3 +10,4 @@
     {% endif %}
   {% endfor %}
   </div>
+  {% endif %}

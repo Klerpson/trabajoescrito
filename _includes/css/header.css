@@ -7,6 +7,12 @@ header {
   display: flex;
   flex-wrap: wrap;
   gap: 2rem;
+  align-items: center;
+}
+
+.title h1{
+  flex: 1 0 440px;
+  max-width: 100%;
 }
 
 .title div{

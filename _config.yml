@@ -3,8 +3,12 @@ url: 'https://trabajoescrito.com.co'
 name: 'trabajoescrito.com.co'
 author: Julian Franco
 email: contacto@trabajoescrito.com.co
-# instagram: https://www.instagram.com/terminaldetransporte/
-# twitter: https://twitter.com/bloglaterminal
+# facebook_url: 
+twitter_url: https://twitter.com/bloglaterminal
+# linkedin_url: 
+# pinterest_url:
+instagram_url: https://www.instagram.com/terminaldetransporte/
+# rss_url:
 
 markdown: kramdown
 
@@ -23,6 +27,5 @@ compress_html:
     startings: []
 
 plugins:
-  - jekyll-feed
   - jekyll-sitemap
 

@@ -8,8 +8,8 @@
       <a href="{{site.baseurl}}{{page.url}}#{{page.boton_mas}}" title="{{page.boton_mas_title}}" class="boton">{{page.boton_mas | capitalize}}</a>
     </div>
     {% else %}
-    {% include img.html hero=page.hero webpb=page.webpb webpm=page.webpm webps=page.webps alt=page.alt %}
     <h1>{{page.h1}}</h1>
+    <img src="{{site.baseurl}}/img/{{page.webp}}" alt="{{page.alt}}" title="{{page.title}}">
     <p>{{page.excerpt}}</p>
     {% endif %}
   </div>

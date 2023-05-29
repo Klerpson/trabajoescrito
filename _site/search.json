@@ -26,7 +26,7 @@
   
     {
       "title"    : "Lorem ipsum dolor sit amet, consectetur adipisicing elit.",
-      "category" : "hoteles",
+      "category" : "lorem",
       "url"      : "/trabajo-escrito-primer-post"
     } 
   
@@ -42,9 +42,21 @@
   
    {
      
+        "title"    : "Tips y consejos para hacer tu Trabajo Escrito",
+        "category" : "",
+        "url"      : "/tips-y-consejos"
+     
+   } ,
+  
+   {
+     
         "title"    : "Contáctanos y hagamos tu trabajoescrito.com",
         "category" : "",
         "url"      : "/contacto"
+     
+   } ,
+  
+   {
      
    } ,
   
@@ -93,10 +105,6 @@
         "title"    : "Los restaurantes mejor calificados de San Agustín Huila",
         "category" : "",
         "url"      : "/restaurantes-san-agustin"
-     
-   } ,
-  
-   {
      
    } ,
   
