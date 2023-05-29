@@ -199,23 +199,6 @@ li {
   list-style: none;
 }
 
-header,
-.gallery-intro,
-.normas,
-.estructura,
-.tipos,
-.entradas,
-.cta,
-.normas_contenido {
-  width: min(100%, 1128px);
-  margin-inline: auto;
-  margin-top: 6rem;
-}
-
-.destacado {
-  background-image: url("/img/underline-text-img.png");
-}
-
 /* -----
 SVG Icons - svgicons.sparkk.fr
 ----- */
@@ -359,4 +342,22 @@ hr:after {
 
 .cta a:active{
   transform: scale(1);
+}
+
+header,
+.gallery-intro,
+.normas,
+.estructura,
+.tipos,
+.entradas,
+.cta,
+.normas_contenido,
+.post-content {
+  width: min(100%, 1128px);
+  margin-inline: auto;
+  margin-top: 6rem;
+}
+
+.destacado {
+  background-image: url("/img/underline-text-img.png");
 }
