@@ -5,7 +5,7 @@ nav {
   right: 0;
   top: 0;
   padding: 8px 5%;
-  height: 2.8rem;
+  height: 3rem;
   background-color: rgba(191, 191, 191, 0.85);
   border-bottom: 1px solid var(--gris1);
   display: flex;
@@ -21,20 +21,32 @@ nav ul {
   margin: 0;
   display: flex;
   justify-content: space-evenly;
-  align-items: center;
   margin-left: auto;
+  gap: 1rem;
 }
 
 nav ul li {
   list-style: none;
 }
 
-nav ul li a {
+nav ul li a,
+nav ul li summary {
   text-decoration: none;
   display: block;
   padding: 0.5rem;
   font-weight: 700;
   color: var(--principal);
+}
+
+nav ul li details a{
+  background-color: var(--principal);
+  color: var(--blanco);
+  text-decoration: underline;
+  text-decoration-thickness: 2.8px;
+  text-decoration-color: var(--blanco);
+  padding: 8px 12px 12px;
+  border-bottom: 1px dotted var(--gris1);
+  box-shadow: var(--shadow);
 }
 
 nav ul li a:hover,
@@ -66,6 +78,10 @@ nav .icono-nav .line {
   transition: all 0.3s ease-in-out;
 }
 
+.cursos_menu{
+  background-color: var(--blanco);
+}
+
 @media screen and (max-width: 768px) {
   nav .logo {
     float: none;
@@ -88,12 +104,16 @@ nav .icono-nav .line {
     overflow: hidden;
     transition: all 0.4s ease-out;
     background-color: var(--secundario);
+    align-items: center;
   }
 
-  nav ul li a {
+  nav ul li a,
+  nav ul li details summary,
+  nav ul li details a{
     font-size: 1.2rem;
     color: var(--blanco);
   }
+
 
   nav ul li a:hover,
 nav ul li a.active {
@@ -119,5 +139,12 @@ nav ul li a.active {
 
   nav :checked ~ .icono-nav .line:nth-child(3) {
     transform: translateY(-10px) rotate(-225deg);
+  }
+  
+  .cursos_menu{
+    color: var(--accion);
+    padding: 12px 20px;
+    border-radius: var(--radius);
+    box-shadow: var(--shadow);
   }
 }

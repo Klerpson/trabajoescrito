@@ -8,7 +8,6 @@
   width: min(100%, 720px);
   margin-inline: auto;
   border-radius: 8px;
-  border: 1px solid rgba(191, 191, 191, .8);
 }
 
 .gallery-slider span {

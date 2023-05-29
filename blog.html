@@ -29,15 +29,19 @@ permalink: /tips-y-consejos
       <button data-name="{{ tag[0] }}">{{ tag[0] | capitalize }}</button>
       {% endfor %}
     </div>
-  <section class="posts">
+    <hr>
     <h3>El contenido de nuestros expertos</h3>
+  <section class="posts">
     {% for tag in site.tags %}
-    <span>{{ tag[0] | capitalize }}</span>
-    <div class="links">
+    <div class="post" data-name="{{ tag[0] }}">
+      <span>{{ tag[0] | capitalize }}</span>
+      <div class="links">
         {% for post in tag[1] %}
-        <article data-name="{{tag[0]}}"><a href="{{ post.url }}"><h4>{{ post.title }}</h4></a></article>
+        <article><a href="{{ post.url }}"><h4>{{ post.title }}</h4></a></article>
         {% endfor %}
       </div>
+      <hr>
+    </div>
       {% endfor %}
   </section>
   </main>
@@ -51,22 +55,32 @@ permalink: /tips-y-consejos
   
 
 <!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" defer></script>
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
 <!-- Configuration -->
-<script defer>
+<script>
   var sjs = SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
     json: '/search.json',
     noResultsText: 'No tenemos este texto aún',
     fuzzy: false
-  })
+  });
 </script>
 
 <!-- JS para el filtro de la galeria de posts -->
-<script defer>
+<script>
   const filterButtons = document.querySelectorAll(".blog-tags button");
-  const filterPosts = document.querySelectorAll(".links article");
+  const filterPosts = document.querySelectorAll(".posts .post");
+
+  const filter = e => {
+    filterButtons.forEach(button => button.classList.toggle("active", button === e.target));
+
+    filterPosts.forEach(post => {
+      post.classList.toggle("hide", post.dataset.name !== e.target.dataset.name && e.target.dataset.name !== "all");
+    });
+  };
+
+  filterButtons.forEach(button => button.addEventListener("click", filter));
 </script>
   </body>
 </html>

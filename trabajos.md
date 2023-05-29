@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Normas APA 🎓: Tu Guía para aplicarlas perfectamente ✔️"
-description: "Domina las Normas APA con nuestra guía completa 📃: citaciones - referencias - estructura... 👉 Haz clic aquí para convertirte en un experto en APA."
+title: "Los tipos de Trabajos Escritos 📚 | Referencia absoluta"
+description: "🔖 ¿Buscas el formato ideal para tu próximo trabajo escrito? ¡Aquí lo tenemos! Ensayos, informes, tesis... todos reunidos en un solo lugar. ¡Haz clic y descubre el tuyo"
 h1: "Las normas APA y tu Trabajo Escrito"
 intro: "Las normas APA son un conjunto de reglas y directrices que se utilizan para la elaboración de trabajos académicos en diferentes áreas."
 boton_info: "estructura"
@@ -10,6 +10,7 @@ boton_mas: "descargas"
 boton_mas_title: "Plantillas"
 vertical: true
 ---
+
 ## Las normas APA en el mundo de los escritos
 
 Las normas APA son un antes y un después de los trabajos escritos. Con estas normas se logró una **estructura coherente del texto**, así como una **correcta cita y referencia** de las fuentes consultadas.

@@ -3,10 +3,18 @@
   <li><a href="{{site.baseurl}}/" title="Inicio"><img src="{{'logotipo.webp'|relative_url}}" alt="Logotipo de TrabajoEscrito.com"></a></li>
     
   <ul>
-    <li><a href="#" {% if page.url contains "/normas" %}class="active"{% endif %}">Normas</a></li>
-    <li><a href="{{site.baseurl}}/trabajos" {% if page.url contains "/trabajos" %}class="active"{% endif %}">Trabajos</a></li>
+    <li><details>
+      <summary>Normas ⩡</summary>
+      <a href="{{site.baseurl}}/normas-apa" {% if page.url contains "/normas-apa" %}class="active"{% endif %}">APA</a>
+      <a href="{{site.baseurl}}/normas-icontec" {% if page.url contains "/normas-icontec" %}class="active"{% endif %}">Icontec</a>
+    </details></li>
+    <li><details>
+      <summary>Trabajos ⩡</summary>
+      <a href="{{site.baseurl}}/tesis" {% if page.url contains "/tesis" %}class="active"{% endif %}">Tesis</a>
+      <a href="{{site.baseurl}}/informe" {% if page.url contains "/informe" %}class="active"{% endif %}">Informe</a>
+    </details></li>
     <li><a href="{{site.baseurl}}/tips-y-consejos" {% if page.url contains "/tips-y-consejos" %}class="active"{% endif %}">Tips y consejos</a></li>
-    <li><a href="{{site.baseurl}}/contacto" {% if page.url contains "/contacto" %}class="active"{% endif %}">Contáctanos</a></li>
+    <li><a href="{{site.baseurl}}/cursos" {% if page.url contains "/cursos" %}class="active"{% endif %}" class="cursos_menu">Capacítate</a></li>
   </ul>
   <label for="nav-toggle" class="icono-nav">
     <div class="line"></div>
