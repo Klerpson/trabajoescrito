@@ -8,6 +8,7 @@ header {
   flex-wrap: wrap;
   gap: 2rem;
   align-items: center;
+  justify-content: center;
 }
 
 .title h1{
@@ -26,7 +27,7 @@ header {
 .excerpt{
   background-color: var(--secundario);
   background-color: var(--secundario);
-box-shadow: 0 0 0 100vmax var(--secundario);
-clip-path: inset(0 -100vmax);
-padding: 2rem 0;
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  clip-path: inset(0 -100vmax);
+  padding: 4rem 0;
 }
