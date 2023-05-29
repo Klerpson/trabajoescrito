@@ -92,24 +92,45 @@ La contraportada debe incluir los siguientes elementos:
 * El nombre de la institución en la que se presenta el trabajo.
 * La fecha de presentación.
 
-Además, la contraportada puede incluir información adicional sobre el trabajo, como el número de páginas, el número de palabras y/o cualquier otra información relevante.
-Recursos y herramientas para la elaboración de portadas y trabajos escritos
-Enlaces a plantillas y modelos de portada
-En la página web de Microsoft Office se pueden encontrar plantillas para portadas de trabajos escritos que se ajustan a las normas APA e Icontec. También se puede utilizar Pinterest para buscar inspiración y modelos de portadas. Estos recursos son ideales para aquellos que buscan una portada atractiva y profesional, sin tener que preocuparse por el diseño.
-Enlaces a recursos adicionales sobre cómo hacer una introducción y un ensayo
+## Recursos y herramientas para la elaboración de portadas y trabajos escritos
+
+### Enlaces a plantillas y modelos de portada
+
+En la página web de Microsoft Office se pueden encontrar plantillas para portadas de trabajos escritos que se ajustan a las normas APA e Icontec.
+
+También se puede utilizar Pinterest para buscar inspiración y modelos de portadas. Estos recursos son ideales para aquellos que buscan una portada atractiva y profesional, sin tener que preocuparse por el diseño.
+
+### Enlaces a recursos adicionales sobre cómo hacer una introducción y un ensayo
+
 Además de la información proporcionada en este artículo, existen numerosos recursos en línea que pueden resultar útiles para mejorar la calidad de un trabajo escrito. Un ejemplo de ello es la plataforma Khan Academy, donde se pueden encontrar cursos y tutoriales en línea gratuitos sobre cómo escribir una buena introducción y ensayo.
-Guía para la presentación de tesis y trabajos de investigación en la Universidad de Lima
-Si estás realizando una tesis o un trabajo de investigación, es importante conocer las pautas específicas de presentación que se deben seguir en la Universidad de Lima. En la página web de la universidad se puede encontrar una guía detallada de cómo presentar y estructurar estos tipos de trabajos, además de recomendaciones sobre cómo hacer una buena investigación y cómo utilizar adecuadamente las citas y referencias bibliográficas. Esta herramienta resulta fundamental para aquellos que se encuentran realizando trabajos de investigación de nivel universitario.
-Normas APA e Icontec
+
+### Guía para la presentación de tesis y trabajos de investigación en la Universidad de Lima
+
+Si estás realizando una tesis o un trabajo de investigación, es importante conocer las pautas específicas de presentación que se deben seguir en la Universidad de Lima.
+
+En la página web de la universidad se puede encontrar una guía detallada de cómo presentar y estructurar estos tipos de trabajos, además de recomendaciones sobre cómo hacer una buena investigación y cómo utilizar adecuadamente las citas y referencias bibliográficas.
+
+Esta herramienta resulta fundamental para aquellos que se encuentran realizando trabajos de investigación de nivel universitario.
+
+### Normas APA e Icontec
+
 Siguiendo las normas establecidas por APA e Icontec se garantiza una presentación adecuada y profesional de los trabajos escritos. De esta manera, se asegura que la información presentada sea clara y organizada, lo que facilitará la lectura y comprensión del contenido por parte del lector.
-Consejos finales para desarrollar trabajos escritos con éxito
-Para desarrollar un trabajo escrito exitoso es importante tener en cuenta algunos consejos finales, tales como: elegir un tema que resulte interesante y relevante, hacer una selección cuidadosa de las fuentes que se van a utilizar, elaborar una planificación adecuada, utilizar un lenguaje objetivo y claro evitando jergas y tecnicismos excesivos, y revisar y corregir el trabajo antes de presentarlo. Además, se recomienda tener en cuenta la importancia de la portada y contraportada, las cuales deben seguir las normas APA e Icontec. La información contenida en estas páginas debe ser precisa, clara y organizada, y permitir al lector entender de forma rápida y efectiva cuál es el trabajo que se está presentando.
-Elige un tema interesante y relevante.
-Elabora una planificación adecuada.
-Selecciona cuidadosamente las fuentes que se van a utilizar.
-Utiliza un lenguaje objetivo y claro.
-Revisa y corrige el trabajo antes de presentarlo.
+
+## Consejos finales para desarrollar trabajos escritos con éxito
+
+Para desarrollar un trabajo escrito exitoso es importante tener en cuenta algunos consejos finales, tales como: elegir un tema que resulte interesante y relevante, hacer una selección cuidadosa de las fuentes que se van a utilizar, elaborar una planificación adecuada, utilizar un lenguaje objetivo y claro evitando jergas y tecnicismos excesivos, y revisar y corregir el trabajo antes de presentarlo.
+
+Además, se recomienda tener en cuenta la importancia de la portada y contraportada, las cuales deben seguir las normas APA e Icontec. La información contenida en estas páginas debe ser precisa, clara y organizada, y permitir al lector entender de forma rápida y efectiva cuál es el trabajo que se está presentando.
+
+* Elige un tema interesante y relevante.
+* Elabora una planificación adecuada.
+* Selecciona cuidadosamente las fuentes que se van a utilizar.
+* Utiliza un lenguaje objetivo y claro.
+* Revisa y corrige el trabajo antes de presentarlo.
+
 Siguiendo estos consejos y las normas APA e Icontec se puede conseguir un trabajo escrito de calidad y presentación profesional.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Utilización de plantilla de portada
 
@@ -137,6 +158,17 @@ Las normas en la presentación de trabajos escritos son importantes porque garan
 Siguiendo las normas, se logra que el trabajo tenga un formato y estructura consistente, lo que permite al lector enfocarse en el contenido y no distraerse con detalles de diseño o formato. Además, el respeto a las normas demuestra el profesionalismo y seriedad del autor en su trabajo académico.
 
 #### ¿Por qué es importante incluir información sobre la institución y la fecha de presentación?
-Es importante incluir información sobre la institución y la fecha de presentación porque permite identificar el contexto y la autoría del trabajo. La institución brinda credibilidad y relevancia al trabajo, y la fecha es importante para conocer el tiempo de elaboración y actualización de la información que se expone en el trabajo. Además, la información de la institución y fecha es requerida por las normas APA e Icontec para la presentación de trabajos escritos.
-¿Cómo se debe estructurar y diseñar la portada y contraportada?
-La estructura y diseño de la portada y contraportada deben seguir las normas APA e Icontec específicas. La portada debe incluir el título del trabajo, nombre del autor o autores, institución y fecha de presentación, y debe ser presentada en letra Arial de 12 puntos. La contraportada debe contener una breve descripción del trabajo, el nombre del autor, la institución y la fecha de presentación. Además, se recomienda utilizar una plantilla de portada para asegurar la uniformidad. En cuanto al diseño, se sugiere utilizar márgenes de 2.5 cm y un interlineado de 1.5 espacios. Se deben utilizar mayúsculas y minúsculas adecuadamente, y evitar el uso de caracteres o imágenes innecesarios. La contraportada debe ser diseñada de manera clara y sencilla para transmitir la información de forma efectiva.
+
+Es importante incluir información sobre la institución y la fecha de presentación porque permite identificar el contexto y la autoría del trabajo.
+
+La institución brinda credibilidad y relevancia al trabajo, y la fecha es importante para conocer el tiempo de elaboración y actualización de la información que se expone en el trabajo.
+
+La información de la institución y fecha es requerida por las normas APA e Icontec para la presentación de trabajos escritos.
+
+#### ¿Cómo se debe estructurar y diseñar la portada y contraportada?
+
+La estructura y diseño de la portada y contraportada deben seguir las normas APA e Icontec específicas.
+
+La portada debe incluir el título del trabajo, nombre del autor o autores, institución y fecha de presentación, y debe ser presentada en letra Arial de 12 puntos.
+
+**Se recomienda utilizar [una plantilla de portada](#descargas) para asegurar la uniformidad**. En cuanto al diseño, se sugiere utilizar márgenes de 2.5 cm y un interlineado de 1.5 espacios. Se deben utilizar mayúsculas y minúsculas adecuadamente, y evitar el uso de caracteres o imágenes innecesarios. La contraportada debe ser diseñada de manera clara y sencilla para transmitir la información de forma efectiva.

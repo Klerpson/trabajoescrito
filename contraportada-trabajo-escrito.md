@@ -23,3 +23,12 @@ Para elaborar una contraportada en Normas APA, es importante seguir las mismas p
 La cita de algún fragmento relevante del trabajo.
 Identificación de la versión de trabajo (borrador, primera versión, etc.)
 Información del financiamiento si aplica.
+
+Además, la contraportada puede incluir información adicional sobre el trabajo, como el número de páginas, el número de palabras y/o cualquier otra información relevante.
+
+#### ¿Cómo se debe estructurar y diseñar la portada y contraportada?
+
+La estructura y diseño de la portada y contraportada deben seguir las normas APA e Icontec específicas.
+
+
+La contraportada debe contener una breve descripción del trabajo, el nombre del autor, la institución y la fecha de presentación. Además, se recomienda utilizar una plantilla de portada para asegurar la uniformidad. En cuanto al diseño, se sugiere utilizar márgenes de 2.5 cm y un interlineado de 1.5 espacios. Se deben utilizar mayúsculas y minúsculas adecuadamente, y evitar el uso de caracteres o imágenes innecesarios. La contraportada debe ser diseñada de manera clara y sencilla para transmitir la información de forma efectiva.
