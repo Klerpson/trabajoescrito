@@ -96,3 +96,40 @@
   height: 14px;
   margin-top: 11px;
 }
+
+/* Contenido de la página blog */
+.blog-gallery {}
+
+.blog-tags{
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 2rem auto;
+  justify-content: center;
+  align-items: center;
+}
+
+.blog-tags button{
+  flex: 1 0 max-content;
+  padding: 8px 12px;
+  border: 1px solid var(--gris1);
+  box-shadow: var(--shadow);
+}
+
+.blog-tags button.active{
+  background-color: var(--accion);
+}
+
+.posts span{
+  display: inline-block;
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+.posts .links{
+  padding: 0;
+}
+
+.posts .links article{
+  flex: 1 0 320px;
+}

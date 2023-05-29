@@ -352,6 +352,7 @@ header,
 .entradas,
 .cta,
 .normas_contenido,
+.blog-gallery,
 .post-content {
   width: min(100%, 1128px);
   margin-inline: auto;

@@ -3,6 +3,7 @@ layout: post
 title: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati
 category: hoteles
+tags: [lorem, aed, yayo, popo]
 h1: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 webp: apa.webp
 alt: Lorem ipsum dolor sit amet

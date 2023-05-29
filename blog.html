@@ -3,7 +3,7 @@ layout: compress
 title: Tips y consejos para hacer tu Trabajo Escrito
 h1: Tips y consejos para hacer tu Trabajo Escrito
 description: ¿Qué Trabajo Escrito estás haciendo ahora? ¿📑 Tesis? ¿📃 Informes? ¿📄 Artículos? Aquí te damos los tips y consejos para presentar tu mejor resultado
-webp: blog.svg
+webp: tips.webp
 permalink: /tips-y-consejos
 ---
 {% include head.html %}
@@ -18,56 +18,42 @@ permalink: /tips-y-consejos
   </header>
   {% include buscador.html %}
 
-  <main>
-    <div class="academy-categorys">
-      <ul class="toggle-nav">
-        <li class="active" value="visible">All courses</li>
-        <li value="platform">Getting to know the platform</li>
-        <li value="building">Start building</li>
-        <li value="publishing">Publishing &#38; site security</li>
-        <li value="account">Account &#38; site management</li>
-        <li value="analytics">Data analytics</li>
-        <li value="tips">Advanced tips &#38; tricks</li>
-        <hr>
-      </ul>
+
+
+
+  <main class="blog-gallery">
+    <h2>¿Vamos al grano con esta opciones?</h2>
+    <div class="blog-tags">
+      <button data-name="all" class="active">Todos</button>
+      {% for tag in site.tags %}
+      <button data-name="{{ tag[0] }}">{{ tag[0] | capitalize }}</button>
+      {% endfor %}
     </div>
-    <!-- This part of the code loops the categories and courses from the _data/academy file -->
-    <div class="courses">
-      {% for subject in site.data.academy %}
-      {% assign cat = subject[0] %}
-      <h2 class="tutorials {% if cat == "Getting to know the platform" %}platform{% elsif cat == "Start building" %}building{% elsif cat == "Publishing &#38; site security" %}publishing{% elsif cat == "Account &#38; site management" %}account{% elsif cat == "Data analytics" %}analytics{% elsif cat == "Advanced tips &#38; tricks" %}tips{% endif %} visible">{{cat}}</h2>
-        {% if cat == "Advanced tips &#38; tricks" %}
-        <p class="tutorials {% if cat == "Getting to know the platform" %}platform{% elsif cat == "Start building" %}building{% elsif cat == "Publishing &#38; site security" %}publishing{% elsif cat == "Account &#38; site management" %}account{% elsif cat == "Data analytics" %}analytics{% elsif cat == "Advanced tips &#38; tricks" %}tips{% endif %} visible">Watch snippets from our live Design Skills Workshops, on-demand.<br> Learn advanced tips and tricks to add the wow-factor to your microsites.</p>
-        {% endif %}
-      <div class="tutorials {% if cat == "Getting to know the platform" %}platform{% elsif cat == "Start building" %}building{% elsif cat == "Publishing &#38; site security" %}publishing{% elsif cat == "Account &#38; site management" %}account{% elsif cat == "Data analytics" %}analytics{% elsif cat == "Advanced tips &#38; tricks" %}tips{% endif %} visible">
-        {% for class in site.data.academy[cat] %}
-        <a href="{{site.baseurl}}academy/{{class.url}}"
-          class="tutorial {% if class.category == "Getting to know the platform" %}platform{% elsif class.category == "Start building" %}building{% elsif class.category == "Publishing &#38; site security" %}publishing{% elsif class.category == "Account &#38; site management" %}account{% elsif class.category == "Data analytics" %}analytics{% elsif class.category == "Advanced tips &#38; tricks" %}tips{% endif %} visible">
-          <div class="tutorial_img">
-            <img src="{{site.baseurl}}assets/svg/{{ class.img }}"
-              alt="Screenshot of microsite template for {{ class.title }}">
-          </div>
-          <div class="tutorial_info">
-            <h3>{{ class.title | truncate: 67}}</h3>
-            <div>
-              <span>Video: {{ class.video }}</span><span>•</span><span>Resources: {{ class.resources }}</span>
-            </div>
-          </div>
-        </a>
+  <section class="posts">
+    <h3>El contenido de nuestros expertos</h3>
+    {% for tag in site.tags %}
+    <span>{{ tag[0] | capitalize }}</span>
+    <div class="links">
+        {% for post in tag[1] %}
+        <article data-name="{{tag[0]}}"><a href="{{ post.url }}"><h4>{{ post.title }}</h4></a></article>
         {% endfor %}
       </div>
       {% endfor %}
-    </div>
+  </section>
   </main>
+
+
+
+
   {% include cta.html %}
   {% include footer.html %}
   <a href="#">{% include boton-up.html %}</a>
   
 
 <!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" defer></script>
 <!-- Configuration -->
-<script>
+<script defer>
   var sjs = SimpleJekyllSearch({
     searchInput: document.getElementById('search-input'),
     resultsContainer: document.getElementById('results-container'),
@@ -75,6 +61,12 @@ permalink: /tips-y-consejos
     noResultsText: 'No tenemos este texto aún',
     fuzzy: false
   })
+</script>
+
+<!-- JS para el filtro de la galeria de posts -->
+<script defer>
+  const filterButtons = document.querySelectorAll(".blog-tags button");
+  const filterPosts = document.querySelectorAll(".links article");
 </script>
   </body>
 </html>

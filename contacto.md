@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Contáctanos y hagamos tu trabajoescrito.com
-h1: Contáctanos y hagamos tu trabajoescrito.com
+title: Resolvemos tus dudas sobre tus trabajos escritos
+h1: Resolvemos tus dudas sobre tus trabajos escritos
 description: En TrabajosEscritos.com estamos aquí para responder todas tus preguntas y brindarte el apoyo que necesitas para realizar tus trabajos escritos con éxito.
 ---
 En TrabajosEscritos.com estamos aquí para responder todas tus preguntas y brindarte el apoyo que necesitas para realizar tus trabajos escritos con éxito. Ya seas estudiante o profesional, entendemos la importancia de conocer y aplicar las normas adecuadas en diferentes tipos de trabajos escritos en todo el mundo. ¡Estamos aquí para ayudarte en ese proceso!

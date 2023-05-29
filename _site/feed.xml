@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 29 May 2023 10:25:13 -0500</pubDate>
-    <lastBuildDate>Mon, 29 May 2023 10:25:13 -0500</lastBuildDate>
+    <pubDate>Mon, 29 May 2023 11:44:34 -0500</pubDate>
+    <lastBuildDate>Mon, 29 May 2023 11:44:34 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -17,6 +17,10 @@
         <link>http://localhost:4000/trabajo-escrito-quinto-post</link>
         <guid isPermaLink="true">http://localhost:4000/trabajo-escrito-quinto-post</guid>
         
+        
+        <category>lorem</category>
+        
+        <category>ipsum</category>
         
         
         
@@ -33,6 +37,14 @@
         <guid isPermaLink="true">http://localhost:4000/trabajo-escrito-cuarto-post</guid>
         
         
+        <category>lorem</category>
+        
+        <category>aed</category>
+        
+        <category>yayo</category>
+        
+        <category>popo</category>
+        
         
         
         <category>hoteles</category>
@@ -47,6 +59,12 @@
         <link>http://localhost:4000/trabajo-escrito-tercer-post</link>
         <guid isPermaLink="true">http://localhost:4000/trabajo-escrito-tercer-post</guid>
         
+        
+        <category>ipsum</category>
+        
+        <category>aed</category>
+        
+        <category>popo</category>
         
         
         
@@ -63,6 +81,12 @@
         <guid isPermaLink="true">http://localhost:4000/trabajo-escrito-segundo-post</guid>
         
         
+        <category>lorem</category>
+        
+        <category>yayo</category>
+        
+        <category>popo</category>
+        
         
         
         <category>hoteles</category>
@@ -77,6 +101,14 @@
         <link>http://localhost:4000/trabajo-escrito-primer-post</link>
         <guid isPermaLink="true">http://localhost:4000/trabajo-escrito-primer-post</guid>
         
+        
+        <category>Exterttoenmae</category>
+        
+        <category>ipsum</category>
+        
+        <category>yayo</category>
+        
+        <category>popo</category>
         
         
         
