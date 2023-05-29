@@ -58,6 +58,14 @@
   
    {
      
+        "title"    : "✓ Portada trabajo escrito: pautas y recomendaciones",
+        "category" : "",
+        "url"      : "/contraportada-trabajo-escrito"
+     
+   } ,
+  
+   {
+     
    } ,
   
    {
@@ -104,7 +112,7 @@
      
         "title"    : "✓ Portada trabajo escrito: pautas y recomendaciones",
         "category" : "",
-        "url"      : "/portadas-trabajo-escrito"
+        "url"      : "/portada-trabajo-escrito"
      
    } ,
   

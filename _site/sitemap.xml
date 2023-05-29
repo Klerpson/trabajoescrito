@@ -30,6 +30,9 @@
 <loc>http://localhost:4000/contacto</loc>
 </url>
 <url>
+<loc>http://localhost:4000/contraportada-trabajo-escrito</loc>
+</url>
+<url>
 <loc>http://localhost:4000/gracias</loc>
 </url>
 <url>
@@ -45,7 +48,7 @@
 <loc>http://localhost:4000/normas-icontec</loc>
 </url>
 <url>
-<loc>http://localhost:4000/portadas-trabajo-escrito</loc>
+<loc>http://localhost:4000/portada-trabajo-escrito</loc>
 </url>
 <url>
 <loc>http://localhost:4000/trabajos</loc>
