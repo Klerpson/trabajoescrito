@@ -36,6 +36,7 @@ nav ul li summary {
   padding: 0.5rem;
   font-weight: 700;
   color: var(--principal);
+  cursor: pointer;
 }
 
 nav ul li details a{
@@ -47,13 +48,21 @@ nav ul li details a{
   padding: 8px 12px 12px;
   border-bottom: 1px dotted var(--gris1);
   box-shadow: var(--shadow);
+  transition: .2s all ease-in;
+}
+
+nav ul li details a:hover,
+nav ul li details a.active{
+  background-color: var(--a);
 }
 
 nav ul li a:hover,
-nav ul li a.active {
+nav ul li a.active,
+nav ul li summary:hover,
+nav ul li summary:active {
   text-decoration: underline;
   text-decoration-thickness: 3.2px;
-  text-decoration-color: var(--accion);
+  text-decoration-color: var(--principal);
 }
 
 #nav-toggle {
@@ -115,7 +124,6 @@ nav .icono-nav .line {
   }
 
 
-  nav ul li a:hover,
 nav ul li a.active {
   text-decoration-thickness: 3.6px;
   text-decoration-color: var(--blanco);

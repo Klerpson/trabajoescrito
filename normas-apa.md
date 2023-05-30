@@ -62,7 +62,7 @@ Para citar siguiendo estas normas, se **deben conocer las diferentes formas de c
 
 ### Títulos y subtítulos
 
-![Títulos en Normas APA]({{'img/normas-apa-titulos.webp'|relative_url}} "Normas APA - Títulos"){:width="480"}
+![Títulos en Normas APA]({{'img/blog/normas-apa-titulos.webp'|relative_url}} "Normas APA - Títulos"){:width="480"}
 
 Según las normas APA, se debe utilizar hasta tres niveles de títulos y subtítulos para organizar el contenido del trabajo.
 
