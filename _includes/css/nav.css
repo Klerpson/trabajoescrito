@@ -53,7 +53,8 @@ nav ul li details a{
 
 nav ul li details a:hover,
 nav ul li details a.active{
-  background-color: var(--a);
+  background-color: var(--blanco);
+  color: var(--principal);
 }
 
 nav ul li a:hover,

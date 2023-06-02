@@ -81,7 +81,8 @@ h4 {
 }
 
 p,
-.post-content li {
+.post-content li,
+.normas_contenido li {
   word-wrap: break-word;
   font-size: clamp(1.125rem, 0.5vw + 1rem, 1.25rem);
   margin-bottom: 1rem;

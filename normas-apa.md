@@ -144,7 +144,7 @@ Las normas APA también establecen reglas específicas para algunos tipos de tra
 
 ### Tesis
 
-Al escribir una tesis, se deben seguir ciertas pautas adicionales a las normas APA en cuanto a la estructura del trabajo. Es necesario incluir una portada y resumen, y la estructura del trabajo debe seguir un marco teórico, metodología, resultados y discusión.
+Al escribir una tesis, se deben seguir ciertas pautas adicionales a las normas APA en cuanto a la estructura del trabajo. Es necesario incluir una [portada]({{site.baseurl}}/portada-trabajo-escrito "Portadas") y resumen, y la estructura del trabajo debe seguir un marco teórico, metodología, resultados y discusión.
 
 Todas las tablas y figuras deben estar numeradas y tener un título y una explicación adecuada. Las citas y referencias deben ser precisas y estar correctamente formateadas siguiendo las normas APA.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
