@@ -1,20 +1,14 @@
 ---
 layout: default
 title: "Numeración en Trabajos Escritos: aprende a paginar 📖✅"
-description: ¿Confundido con la numeración en tus trabajos escritos? 🤔 Dale un
-  aspecto profesional a tus trabajos con cada página! 📚 Comienza a numerar como
-  un experto!
-h1: "Numeración de un Trabajo Escrito: un paso fundamental según normas APA e
-  Icontec"
-intro: La numeración de páginas es un aspecto crítico en la presentación de
-  trabajos escritos. Puede parecer simple, pero es vital para la legibilidad y
-  organización de tu documento.
+description: ¿Confundido con la numeración en tus trabajos escritos? 🤔 Dale un aspecto profesional a tus trabajos con cada página! 📚 Comienza a numerar como un experto!
+h1: "Numeración de un Trabajo Escrito: un paso fundamental según normas APA e Icontec"
+intro: La numeración de páginas es un aspecto crítico en la presentación de trabajos escritos. Puede parecer simple, pero es vital para la legibilidad y organización de tu documento.
 boton_info: estructura
 boton_info_title: Recomendaciones
 boton_mas: descargas
 boton_mas_title: Plantillas
 vertical: "true"
-permalink: numeracion-trabajo-escrito
 ---
 La presentación adecuada de cualquier trabajo escrito es fundamental, y **la numeración de las páginas es una parte integral de esa presentación**.
 
