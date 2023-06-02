@@ -5,7 +5,7 @@ description: ¿Confundido con la numeración en tus trabajos escritos? 🤔 Dale
 h1: "Numeración de un Trabajo Escrito: un paso fundamental según normas APA e Icontec"
 intro: La numeración de páginas es un aspecto crítico en la presentación de trabajos escritos. Puede parecer simple, pero es vital para la legibilidad y organización de tu documento.
 boton_info: estructura
-boton_info_title: Recomendaciones
+boton_info_title: Normas
 boton_mas: descargas
 boton_mas_title: Plantillas
 vertical: "true"
@@ -15,16 +15,16 @@ La presentación adecuada de cualquier trabajo escrito es fundamental, y **la nu
 No importa si estás utilizando las normas APA o las normas Icontec, la numeración correcta puede facilitar en gran medida la lectura y la organización de tu documento.
 
 Con estas instrucciones ten enseñamos sobre **cómo enumerar y paginar tus trabajos escritos según las normas APA e Icontec**, explicando claramente los detalles desde dónde inicia la numeración hasta cómo paginar y enumerar correctamente.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
 
 ## Numeración de páginas según normas APA
 
-### ¿Dónde inicia la numeración?
+### Cómo numerar con las normas APA
 
 En las **normas APA**, la numeración de las páginas en los trabajos escritos **comienza desde la portada**. Sin embargo, los números de página no se muestran en la portada ni en la página del índice o tabla de contenidos.
 
  En general, el primer número de página visible (que suele ser "1") **aparece en la primera página del cuerpo principal del texto.**
-
-### Cómo numerar las páginas
 
 Los números de página **deben estar en la esquina superior derecha** de cada página.
 
@@ -38,12 +38,12 @@ En las **normas Icontec**, la numeración comienza desde la primera página que 
 
 Según las normas Icontec, **los números deben estar centrados en la parte inferior** de la página.
 
-## Normas APA vs normas Icontec: diferencias en numeración
+#### Diferencias entre la nuemración de páginas
 
 Aquí tienes una tabla simple que resalta las diferencias entre la numeración según las normas APA y las normas Icontec:
 
 | Norma   | Inicio de Numeración Visible       | Ubicación de Números de Página | Numeración en Portada e Índice |
-| ------- | ---------------------------------- | ------------------------------ | ------------------------------ |
+| :------ | :--------------------------------- | :----------------------------- | :----------------------------- |
 | APA     | Primer página del cuerpo del texto | Esquina superior derecha       | Sin números visibles           |
 | Icontec | Tabla de contenidos                | Centro inferior de la página   | Sin números visibles           |
 
@@ -58,6 +58,8 @@ Para que tu trabajo sea coherente y fácil de seguir, es importante que utilices
 A pesar de que la numeración y paginación de los trabajos escritos puede ser un desafío, especialmente en documentos largos o cuando se siguen formatos específicos como las normas APA o Icontec, existen herramientas y recursos que pueden facilitar este proceso.
 
 Por ejemplo, muchos procesadores de texto ofrecen funciones automáticas de numeración de páginas, lo que puede ayudar a garantizar la consistencia a lo largo de todo el documento.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Descarga nuestras plantillas: un recurso para enumerar y paginar fácilmente
 
