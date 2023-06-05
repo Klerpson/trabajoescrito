@@ -32,3 +32,19 @@ La estructura y diseño de la portada y contraportada deben seguir las normas AP
 
 
 La contraportada debe contener una breve descripción del trabajo, el nombre del autor, la institución y la fecha de presentación. Además, se recomienda utilizar una plantilla de portada para asegurar la uniformidad. En cuanto al diseño, se sugiere utilizar márgenes de 2.5 cm y un interlineado de 1.5 espacios. Se deben utilizar mayúsculas y minúsculas adecuadamente, y evitar el uso de caracteres o imágenes innecesarios. La contraportada debe ser diseñada de manera clara y sencilla para transmitir la información de forma efectiva.
+
+
+## Cómo hacer una contraportada en Normas APA
+
+### Pautas a seguir
+
+Para elaborar una contraportada según las Normas APA, es importante seguir las mismas pautas que para la portada. La contraportada debe tener un diseño claro y sencillo, incluyendo información importante sobre el autor, como su nombre completo y dirección de correo electrónico.
+
+#### Partes que debe contener
+
+La contraportada debe incluir los siguientes elementos:
+
+* El título del trabajo en mayúsculas y negrita.
+* El nombre completo del autor o autores.
+* El nombre de la institución en la que se presenta el trabajo.
+* La fecha de presentación.

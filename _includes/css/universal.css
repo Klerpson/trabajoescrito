@@ -58,6 +58,7 @@ h4 {
   text-transform: initial;
   max-width: 720px;
   line-height: 1.2;
+  margin: 1.5em 0;
 }
 
 h1 {
@@ -66,18 +67,16 @@ h1 {
 
 h2 {
   font-size: clamp(2rem, 2.8vw + 1rem, 2.75rem);
-  margin: 3rem auto;
+  margin-inline: auto;
   text-align: center;
 }
 
 h3 {
   font-size: clamp(1.75rem, 2vw + 1rem, 2.25rem);
-  margin: 2rem 0;
 }
 
 h4 {
   font-size: clamp(1.25rem, 0.8vw + 1rem, 1.5rem);
-  margin-top: 1.5rem;
 }
 
 p,
