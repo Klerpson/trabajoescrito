@@ -3,10 +3,12 @@
     {% if page.layout == "default" %}
     <h1>{{page.h1}}</h1>
     <p>{{page.intro}}</p>
+    {% if page.boton_info" %}
     <div>
       <a href="{{site.baseurl}}{{page.url}}#{{page.boton_info}}" title="{{page.boton_info_title}}" class="boton">{{page.boton_info | capitalize}}</a>
       <a href="{{site.baseurl}}{{page.url}}#{{page.boton_mas}}" title="{{page.boton_mas_title}}" class="boton">{{page.boton_mas | capitalize}}</a>
     </div>
+    {% endif %}
     {% else %}
     <h1>{{page.h1}}</h1>
     <img src="{{site.baseurl}}/img/{{page.webp}}" alt="{{page.alt}}" title="{{page.title}}">

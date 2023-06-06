@@ -34,7 +34,7 @@
   
    {
      
-        "title"    : "Ups! Esta página no está en TrabajoEscrito.com",
+        "title"    : "Ups! Esta página no está escrita aún",
         "category" : "",
         "url"      : "/404"
      
@@ -113,6 +113,22 @@
         "title"    : "Numeración en Trabajos Escritos: aprende a paginar 📖✅",
         "category" : "",
         "url"      : "/numeracion-trabajos-escritos"
+     
+   } ,
+  
+   {
+     
+        "title"    : "✓ Portada trabajo escrito: pautas y recomendaciones",
+        "category" : "",
+        "url"      : "/portada-normas-apa"
+     
+   } ,
+  
+   {
+     
+        "title"    : "✓ Portada trabajo escrito: pautas y recomendaciones",
+        "category" : "",
+        "url"      : "/portada-normas-icontec"
      
    } ,
   

@@ -26,7 +26,7 @@ footer a:hover{
 
 footer section{
   display: flex;
-  gap: 1rem;
+  gap: 2rem;
   flex-wrap: wrap;
   align-items: flex-start;
 }
@@ -34,7 +34,7 @@ footer section{
 footer div{
   display: grid;
   gap: .7rem;
-  max-width: 200px;
+  max-width: 100%;
 }
 
 footer div img{

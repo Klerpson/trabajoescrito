@@ -13,13 +13,11 @@ vertical: true
 -----
 La portada de un trabajo escrito debe contener los elementos esenciales como **el título del trabajo, el nombre del autor o autores, la institución a la que se presenta y la fecha de presentación**.
 
-Para lograrlo, existen normas establecidas como *las Normas Icontec y APA* que tienen pautas y recomendaciones específicas para la elaboración de una portada adecuada.
+Para hacerlo más fácil, existen normas establecidas que tienen pautas y recomendaciones específicas para la elaboración de una portada adecuada.
 
-Nosotros te enseñaremos **cómo elaborar una portada según las normas Icontec y APA**, así como recursos y herramientas útiles para lograr un trabajo escrito de calidad.
+Aprende **cómo elaborar [una portada según las normas Icontec]({{site.baseurl}}/portada-normas-icontec), o también, [según las normas APA]({{site.baseurl}}/portada-normas-apa)**, así como recursos y herramientas útiles para lograr un trabajo escrito de calidad.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
-
------
 
 ## Normas y pautas para la portada de trabajos escritos
 
@@ -27,23 +25,11 @@ Hay que considerar el diseño y formato de la portada, incluyendo el tipo de let
 
 Las normas **Icontec y APA son las principales normas utilizadas para la elaboración de portadas en trabajos escritos**. Estas normas establecen los elementos esenciales que deben incluirse en la portada, así como las pautas para su formato y diseño.
 
-Siguiendo las normas establecidas por APA e Icontec se garantiza una presentación adecuada y profesional de los trabajos escritos. De esta manera, se asegura que la información presentada sea clara y organizada, lo que facilitará la lectura y comprensión del contenido por parte del lector.
+Siguiendo las normas establecidas por APA e Icontec se garantiza una presentación adecuada y profesional de los trabajos escritos.
 
-### Normas Icontec
+Con lo anterior, la información presentada será clara y organizada. Así, leer y comprender tu contenido será más fácil.
 
-[Las Normas Icontec]({{site.baseurl}}/normas-icontec "Normas Icontec") requieren que la portada de un trabajo escrito **incluya el título del trabajo, el nombre del autor o autores, la institución a la que se presenta el trabajo y la fecha de presentación**.
-
-El título debe ser breve y conciso, y debe reflejar el contenido del trabajo. Se recomienda utilizar una **tipografía clara y legible, en negrita y con un tamaño superior al del resto del texto** de la portada.
-
-El nombre del autor o autores debe aparecer debajo del título, con una fuente más pequeña. La institución y la fecha de presentación se colocan en la parte inferior de la portada.
-
-### Normas APA
-
-Por su parte, [las Normas APA]({{site.baseurl}}/normas-apa "Normas APA") establecen que la portada de un trabajo escrito debe incluir el **título del trabajo, el nombre del autor o autores, la institución a la que se presenta el trabajo y la fecha de presentación**, pero también se deben incluir otros elementos como **el número de página, el nombre del curso y el nombre del profesor**.
-
-se recomienda utilizar una **tipografía Arial o Times New Roman, en tamaño 12 y sin negrita**. El título debe estar centrado en la página y en mayúsculas y minúsculas, y el resto del texto debe estar alineado a la izquierda con márgenes de 2,54 cm.
-
-La fecha de presentación debe ir en la parte inferior de la página, alineada a la derecha.
+-----
 
 ## Elementos esenciales de una portada
 
@@ -53,27 +39,33 @@ El título del trabajo debe ser claro y conciso, reflejando el contenido del tra
 
 ### Nombre del autor o autores
 
-El nombre o nombres del autor o autores deben aparecer debajo del título del trabajo. Se deben escribir los nombres completos, sin abreviaturas ni apodos, y se pueden separar con un guión o una barra si hay más de un autor.
+El nombre o nombres del autor o autores **deben aparecer debajo del título del trabajo**.
+
+Se deben escribir los **nombres completos**, sin abreviaturas ni apodos, y se pueden separar con un guión o una barra si hay más de un autor.
 
 ### Institución y fecha de presentación
 
-Se debe indicar el nombre de la institución a la que se presenta el trabajo y la fecha de presentación. La institución debe ir debajo del nombre del autor o autores, y la fecha debajo de la institución. Es importante verificar con la institución si existen requisitos adicionales.
+Se debe **indicar el nombre de la institución** a la que se presenta el trabajo y la fecha de presentación.
 
------
+**La institución debe ir debajo del nombre del autor o autores**, y **la fecha debajo de la institución**. Es importante verificar con la institución si existen requisitos adicionales.
 
 ## Diseño y formato de la portada
 
 ### Tipo de letra y tamaño
 
-El tipo de letra para la portada del trabajo escrito debe ser una fuente Serif, como Times New Roman o Georgia, y de tamaño 12 puntos. Es importante utilizar una fuente legible y profesional, y mantener este tipo de letra y tamaño en todo el documento.
+El tipo de letra para la portada del trabajo escrito **debe ser una fuente Serif, como Times New Roman o Georgia, y de tamaño 12 puntos**.
+
+Es importante utilizar una fuente legible y profesional, y mantener este tipo de letra y tamaño en todo el documento.
 
 ### Margenes e interlineado
 
-Las normas APA e Icontec establecen un margen para la portada de 3 cm en la parte superior, inferior y a la izquierda, y de 4 cm en la parte derecha. En cuanto al interlineado, se recomienda utilizar un interlineado sencillo para la portada.
+Las normas APA e Icontec establecen un margen para la portada de **3 cm en la parte superior, inferior y a la izquierda, y de 4 cm en la parte derecha**.
+
+En cuanto al interlineado, se recomienda utilizar un interlineado sencillo para la portada.
 
 ### Mayúsculas y minúsculas en la portada
 
-En la portada, se utilizan letras mayúsculas para el título del trabajo escrito y para los nombres de las instituciones, mientras que los nombres de los autores y sus afiliaciones se escriben en letras minúsculas. También se recomienda evitar el uso de abreviaturas no estándar.
+En la portada, se utilizan letras mayúsculas **para el título** del trabajo escrito y **para los nombres de las instituciones**, mientras que los nombres de los autores y sus afiliaciones se escriben en letras minúsculas. También se recomienda evitar el uso de abreviaturas no estándar.
 
 -----
 
@@ -81,24 +73,24 @@ En la portada, se utilizan letras mayúsculas para el título del trabajo escrit
 
 ### Enlaces a plantillas y modelos de portada
 
-En la página web de Microsoft Office se pueden encontrar plantillas para portadas de trabajos escritos que se ajustan a las normas APA e Icontec.
+En la página web de Microsoft Office se pueden encontrar plantillas para portadas de trabajos escritos que se ajustan a las normas APA e Icontec.También se puede utilizar Pinterest para buscar inspiración y modelos de portadas.
 
-También se puede utilizar Pinterest para buscar inspiración y modelos de portadas. Estos recursos son ideales para aquellos que buscan una portada atractiva y profesional, sin tener que preocuparse por el diseño.
+Estos recursos son ideales para aquellos que buscan una portada atractiva y profesional, sin tener que preocuparse por el diseño.
 
 #### Instrucciones para la elaboración de la portada en Word
 
-Para crear una portada en Word, haz los siguientes pasos:
+Para **crear una portada en Word**, haz los siguientes pasos:
 
-1. Se debe abrir un nuevo documento en blanco
-2. Establece los márgenes, eligiendo opciones como el tamaño del papel y los márgenes superior, inferior, derecho e izquierdo.
-3. Elige el tipo de letra y tamaño adecuados para el título y los demás elementos
-4. Ajusta el interlineado y el espaciado según las normas establecidas.
+1. Se debe abrir un *nuevo documento* en blanco
+2. *Establece los márgenes*, eligiendo opciones como el tamaño del papel y los márgenes superior, inferior, derecho e izquierdo.
+3. Elige el *tipo de letra y tamaño* adecuados para el título y los demás elementos
+4. *Ajusta el interlineado y el espaciado* según las normas establecidas.
 
 Se pueden encontrar plantillas en línea que pueden ser útiles para asegurarse de que se está siguiendo el formato correcto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-## Utilización de plantillas de portadas
+## Descarga de plantillas de portadas
 
 Para facilitar el proceso de diseño de la portada del trabajo escrito, se pueden encontrar plantillas de portada en línea para Word o para otros programas de procesamiento de texto.
 
@@ -109,7 +101,7 @@ Estas plantillas pueden ayudar a mantener el formato y diseño adecuados, así c
 A continuación, se muestran algunos ejemplos de contraportadas según las Normas APA:
 
 * Ejemplo 1:  
-  Ejemplo de contraportada 1 - HACER DISEÑO
+  ![Modelo de portada]({{'img/portada.webp'|relative_url}} "Modelo de portada")
 * Ejemplo 2:  
   Ejemplo de contraportada 2 - HACER DISEÑO
 
