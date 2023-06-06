@@ -73,7 +73,7 @@ En la portada, se utilizan letras mayúsculas **para el título** del trabajo es
 
 ### Enlaces a plantillas y modelos de portada
 
-En la página web de Microsoft Office se pueden encontrar plantillas para portadas de trabajos escritos que se ajustan a las normas APA e Icontec.También se puede utilizar Pinterest para buscar inspiración y modelos de portadas.
+En la página web de Microsoft Office se pueden encontrar plantillas para portadas de trabajos escritos que se ajustan a las normas [APA]({{site.baseurl}}/normas-apa) e [Icontec]({{site.baseurl}}/normas-icontec).También se puede utilizar Pinterest para buscar inspiración y modelos de portadas.
 
 Estos recursos son ideales para aquellos que buscan una portada atractiva y profesional, sin tener que preocuparse por el diseño.
 
@@ -92,22 +92,13 @@ Se pueden encontrar plantillas en línea que pueden ser útiles para asegurarse 
 
 ## Descarga de plantillas de portadas
 
+![Modelo de portada]({{'img/portada.webp'|relative_url}} "Modelo de portada")
+
 Para facilitar el proceso de diseño de la portada del trabajo escrito, se pueden encontrar plantillas de portada en línea para Word o para otros programas de procesamiento de texto.
 
 Estas plantillas pueden ayudar a mantener el formato y diseño adecuados, así como a proporcionar modelos para incluir los elementos esenciales como el título, el nombre del autor o autores, la institución y la fecha.
 
-### Ejemplos de contraportadas
-
-A continuación, se muestran algunos ejemplos de contraportadas según las Normas APA:
-
-* Ejemplo 1:  
-  ![Modelo de portada]({{'img/portada.webp'|relative_url}} "Modelo de portada")
-* Ejemplo 2:  
-  Ejemplo de contraportada 2 - HACER DISEÑO
-
 Es importante destacar que estas imágenes son solo ejemplos y que se deben adaptar a las especificaciones y pautas establecidas por las Normas APA para la presentación de trabajos escritos.
-
------
 
 ### Preguntas frecuentes sobre la portada de un trabajo escrito
 
