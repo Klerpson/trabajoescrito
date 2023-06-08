@@ -86,6 +86,14 @@
   
    {
      
+        "title"    : "Creando un informe académico impecable | 📑Normas y consejos",
+        "category" : "",
+        "url"      : "/informes"
+     
+   } ,
+  
+   {
+     
         "title"    : "Términos y Codiciones de Uso | trabajoescrito.com",
         "category" : "",
         "url"      : "/legal"
@@ -102,7 +110,7 @@
   
    {
      
-        "title"    : "Normas ICONTEC: Guía Completa 📚 para Formato y Citación - 2023",
+        "title"    : "Normas ICONTEC: aprende su formato y cómo citar 📚 2023",
         "category" : "",
         "url"      : "/normas-icontec"
      
@@ -145,14 +153,6 @@
    } ,
   
    {
-     
-   } ,
-  
-   {
-     
-        "title"    : "Los tipos de Trabajos Escritos 📚 | Referencia absoluta",
-        "category" : "",
-        "url"      : "/trabajos"
      
    } ,
   

@@ -39,6 +39,9 @@
 <loc>http://localhost:4000/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/informes</loc>
+</url>
+<url>
 <loc>http://localhost:4000/legal</loc>
 </url>
 <url>
@@ -58,9 +61,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/portada-trabajo-escrito</loc>
-</url>
-<url>
-<loc>http://localhost:4000/trabajos</loc>
 </url>
 <url>
 <loc>http://localhost:4000/admin/</loc>
