@@ -43,11 +43,11 @@ Estas normas establecen las pautas para la presentación de trabajos académicos
 
 El objetivo principal de las normas Icontec es estandarizar y reglamentar la presentación de un trabajo escrito, proporcionando una guía para los escritores y asegurando la calidad y coherencia en la presentación de los trabajos.
 
-Ten en cuentas las siguientes sugerencias al realizar el tuyo.
+Ten en cuentas el siguiente **paso a paso para presentar un Trabajo Escrito con las normas Icontec**.
 
 ### 1. Preparando tu Trabajo Escrito: configurando los márgenes y tipo de letra
 
-Lo primero que debes hacer antes de empezar a escribir tu trabajo es configurar los márgenes y el tipo de letra.
+Lo primero que debes hacer antes de empezar a escribir tu trabajo es **configurar los márgenes y el tipo de letra**.
 
 Según las Normas ICONTEC, los márgenes deben ser superior e inferior de 3 cm, izquierdo de 4 cm y derecho de 2 cm. El tipo de letra debe ser Times New Roman de 12 puntos.
 
@@ -58,13 +58,17 @@ Según las Normas ICONTEC, los márgenes deben ser superior e inferior de 3 cm, 
 > 3. En "Márgenes personalizados", ajusta los márgenes como se indicó anteriormente.
 > 4. Luego, haz clic en "Inicio", selecciona "Times New Roman" en el menú desplegable de la fuente y establece el tamaño en 12.
 
-**[Botón para "Más sobre la Configuración de Márgenes y Tipo de Letra según las Normas ICONTEC"]**
+[Más sobre Márgenes](# "Márgenes de un trabajo escrito"){:class="boton"}
+[Más sobre Fuentes](# "Fuentes de un trabajo escrito"){:class="boton"}
+
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="portada"}
 
 ### 2. La portada y contraportada según normas ICONTEC
 
-La portada y la contraportada son las primeras y últimas páginas de tu trabajo. En la portada, debe figurar el título del trabajo, el nombre del autor, el nombre de la institución y la fecha. La contraportada, por otro lado, debe contener un breve resumen del trabajo, las palabras clave y el lugar y fecha de la presentación.
+La portada y la contraportada son las primeras y últimas páginas de tu trabajo.
+
+En la portada, debe figurar **el título del trabajo, el nombre del autor, el nombre de la institución y la fecha**. La contraportada, por otro lado, debe contener un breve **resumen del trabajo, las palabras clave y el lugar y fecha** de la presentación.
 
 > **Ejemplo de Portada**:
 >
@@ -77,13 +81,17 @@ La portada y la contraportada son las primeras y últimas páginas de tu trabajo
 >
 > Resumen: Este trabajo proporciona un análisis exhaustivo de la economía colombiana... Palabras clave: Economía, Colombia, Análisis Lugar y fecha de presentación: Bogotá, Mayo 2023
 
-**[Botón para "Más sobre la Portada y Contraportada según las Normas ICONTEC"]**
+[Más sobre Portadas](# "Portadas de un trabajo escrito"){:class="boton"}
+[Más sobre Contraportadas](# "Contraportadas de un trabajo escrito"){:class="boton"}
+
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="contenido"}
 
 ### 3. Tabla de Contenido y Listado de Tablas, Gráficos y Anexos
 
-Después de la portada y contraportada, debes incluir la tabla de contenido y los listados de tablas, gráficos y anexos. La tabla de contenido proporciona una visión general de la estructura de tu trabajo, mientras que los listados permiten a los lectores localizar información visual o adicional con facilidad.
+Después de la portada y contraportada, debes incluir **la tabla de contenido y los listados de tablas, gráficos y anexos**.
+
+La tabla de contenido proporciona una visión general de la estructura de tu trabajo, mientras que los listados permiten a los lectores localizar información visual o adicional con facilidad.
 
 > **Ejemplo de Tabla de Contenido**:
 >
@@ -97,13 +105,19 @@ Después de la portada y contraportada, debes incluir la tabla de contenido y lo
 >
 > Tabla 1: Evolución del PIB de Colombia (2000-2023) - p.6
 
-**[Botón para "Más sobre la Tabla de Contenido y Listados según las Normas ICONTEC"]**
+[Tablas de Contenido](# "Tabla de contenido de un trabajo escrito"){:class="boton"}
+[Más sobre Listas](# "Listas de un trabajo escrito"){:class="boton"}
+[Más sobre Gráficos](# "Gráficos de un trabajo escrito"){:class="boton"}
+[Más sobre Anexos](# "Anexos de un trabajo escrito"){:class="boton"}
+
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="cuerpo"}
 
 ### 4. El Cuerpo del Trabajo
 
-El cuerpo del trabajo es la parte principal de tu documento. Aquí es donde presentas tu investigación, argumentos, evidencia, etc. Según las Normas ICONTEC, el cuerpo del trabajo debe estar compuesto por los siguientes elementos: introducción, desarrollo (que puede incluir subsecciones como marco teórico, metodología, resultados, etc.) y conclusiones.
+El cuerpo del trabajo es la parte principal de tu documento. Aquí es donde presentas tu investigación, argumentos, evidencia, etc.
+
+Según las Normas ICONTEC, el cuerpo del trabajo debe estar compuesto por los siguientes elementos: **introducción, desarrollo (que puede incluir subsecciones como marco teórico, metodología, resultados, etc.) y conclusiones**.
 
 > **Ejemplo de cómo presentar el Cuerpo del Trabajo**:
 >
@@ -113,38 +127,49 @@ El cuerpo del trabajo es la parte principal de tu documento. Aquí es donde pres
 > - Resultados: Nuestros resultados indican que...
 > - Conclusiones: En conclusión, la economía colombiana...
 
-**[Botón para "Más sobre el Cuerpo del Trabajo según las Normas ICONTEC"]**
+[Más sobre Introducción](# "Introducción de un trabajo escrito"){:class="boton"}
+[Más de Marcos Teóricos](# "Marcos Teóricos de un trabajo escrito"){:class="boton"}
+[Más sobre Conclusiones](# "Conclusiones de un trabajo escrito"){:class="boton"}
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="referencias"}
 
 ### 5. Referencias Bibliográficas y Citas
 
-Las referencias bibliográficas y las citas son cruciales en cualquier trabajo escrito. Permiten dar crédito a los autores de las fuentes que has utilizado en tu trabajo y permiten a los lectores rastrear estas fuentes.
+Las referencias bibliográficas y las citas son cruciales en cualquier trabajo escrito. Permiten **dar crédito a los autores de las fuentes** que has utilizado en tu trabajo y **permiten a los lectores rastrear estas fuentes**.
 
 > **Ejemplo de Referencia Bibliográfica y Cita**:
 >
 > - Referencia Bibliográfica: Pérez, J. (2020). Economía Colombiana. Editorial Económica.
 > - Cita en el Texto: Según Pérez (2020), la economía colombiana ha experimentado...
 
-**[Botón para "Más sobre las Referencias Bibliográficas y Citas según las Normas ICONTEC"]**
+[Más sobre Referencias](# "Referencias de un trabajo escrito"){:class="boton"}
+[Más sobre Citas](# "Citas de un trabajo escrito"){:class="boton"}
 
 Las Normas ICONTEC establecen directrices claras sobre cómo deben presentarse las referencias y citas.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
-## XXXXXXXXXXXXXXXX
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+-----
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="titulos"}
 
+## Partes del Trabajo Escrito con normas Icontec
+
+Según las Normas ICONTEC, hay ciertos criterios de formato y presentación para las algunas características de los Trabajos Escritos. Veamos **cómo van según las últimas normas actualizadas del {{ "now" | date:"%Y"}}.**
+
 ### Títulos y subtítulos
 
-Los títulos y subtítulos son elementos importantes en cualquier documento escrito, ya que permiten organizar y presentar la información de manera clara y concisa.
+Los títulos y subtítulos son elementos importantes en cualquier documento escrito. Estos son lo que **organizan y presentan la información de manera clara y concisa**.
 
-En las normas Icontec se establecen una serie de reglas para la presentación de títulos y subtítulos en documentos escritos, entre las cuales destacan: utilizar una fuente de tamaño 14 para los títulos y una fuente de tamaño 12 para los subtítulos, colocar los títulos en mayúsculas, centrar los títulos y alinear los subtítulos a la izquierda.
+En las normas Icontec se establecen una serie de reglas para la presentación de títulos y subtítulos en documentos escritos, entre las cuales destacan:
 
-Dentro de las normas Icontec, se especifica la forma correcta de utilizar los títulos y subtítulos en un trabajo de investigación.
+* Utilizar una fuente de tamaño 14 para los títulos
+* Una fuente de tamaño 12 para los subtítulos
+* Colocar los títulos en mayúsculas
+* Centrar los títulos
+* Alinear los subtítulos a la izquierda
+
+[Titulos y Subtítulos](# "Titulos y Subtítulos de un trabajo escrito"){:class="boton"}
 
 Es importante utilizar la jerarquía adecuada, empezando por el título principal en negrita y con un tamaño de letra mayor, seguido de los subtítulos en negrita y con un tamaño de letra menor.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
@@ -152,186 +177,147 @@ Es importante utilizar la jerarquía adecuada, empezando por el título principa
 
 ### Anexos
 
-Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal.
+Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal. En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
 
-En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
+[Más sobre Anexos](# "Anexos de un trabajo escrito"){:class="boton"}
 
 ### Numeración de páginas
 
 La numeración de páginas es clave en un trabajo académico, ya que ayuda a la organización y localización de información. Las normas Icontec establecen cómo se debe numerar las páginas de un documento, así como la ubicación de los números de página.
 
+[Más sobre Numeración](# "Numeración de un trabajo escrito"){:class="boton"}
+
 ### Hojas complementarias
 
 Las hojas complementarias se utilizan para incluir información adicional en un trabajo, como gráficos, tablas, imágenes, entre otros.
 
-En las normas Icontec, se especifica la forma correcta de presentar estas hojas complementarias.
+[Hojas complementarias](# "Hojas complementarias de un trabajo escrito"){:class="boton"}
+[Más sobre Imágenes](# "Imágenes de un trabajo escrito"){:class="boton"}
+[Más sobre Tablas](# "Tablas de un trabajo escrito"){:class="boton"}
 
 ### Citas y referencias
 
-Las citas y referencias son clave en un trabajo académico, ya que permiten identificar las fuentes de información utilizadas y evitar el plagio. Las normas Icontec establecen las normas para la presentación de citas y referencias.
+Las citas y referencias son clave en un trabajo académico, ya que permiten identificar las fuentes de información utilizadas y evitar el plagio. Las normas Icontec establecen las [normas para la presentación de citas y referencias](#referencias).
 
 ### Pie de página
 
 El pie de página se utiliza para incluir información adicional en la página, como notas aclaratorias, comentarios o referencias.
 
-En las normas Icontec, se establece la forma correcta de presentar el pie de página en un trabajo académico.
+[Más sobre Pie de página](# "Pie de página de un trabajo escrito"){:class="boton"}
 
 ### Listas especiales
 
-Las listas especiales se utilizan para presentar información en forma de lista, como en los casos de los índices o las listas de abreviaturas. En las normas Icontec, se establecen las normas para la presentación de estas listas especiales.
+Las listas especiales se utilizan para presentar información en forma de lista, como en los casos de los índices o las listas de abreviaturas.
 
-## Cómo aplicar las normas Icontec
+[Más sobre Listas](# "Listas de un trabajo escrito"){:class="boton"}
 
-### En Microsoft Word
+-----
 
-Aplicar las normas Icontec en Microsoft Word es una tarea sencilla gracias a la función de estilos de Word. Los estilos permiten aplicar de manera rápida y sencilla los formatos requeridos por las normas. Para aplicar las normas Icontec en Word, es necesario crear los estilos correspondientes. Se deben crear los estilos de título, subtítulo y cuerpo de texto. Es importante asegurarse de utilizar los formatos correctos para cada uno. En el caso de los títulos, se debe utilizar el tipo de letra Times New Roman en negrita, con un tamaño de 14 puntos y un interlineado de 1,5 líneas. Para los subtítulos se debe utilizar el mismo tipo de letra, pero con un tamaño de 12 puntos y un interlineado de una línea. Para el cuerpo de texto se debe utilizar el tipo de letra Times New Roman, con un tamaño de 12 puntos y un interlineado de 1,5 líneas. Además, se debe justificar el texto y utilizar un sangrado de primera línea de 1,27 cm.
+## Tutorial práctico de cómo aplicar las normas ICONTEC en Word
 
-## Ejemplo de introducción con normas Icontec
+Aquí te mostramos un tutorial práctico para **aplicar las Normas ICONTEC en Word**, paso a paso.
 
-A continuación, presentamos un ejemplo de introducción utilizando las normas Icontec: "Las investigaciones en torno a la implementación de tecnologías de la información en la educación han cobrado gran relevancia en los últimos años. En este trabajo se aborda la implementación de un sistema de aprendizaje online en una institución educativa, con la finalidad de mejorar la calidad de la educación y facilitar el acceso a la misma. Este trabajo se ha realizado siguiendo las normas Icontec para garantizar una presentación adecuada y coherente con los estándares aceptados en la comunidad académica."
+### Paso 1: Configura el Tamaño y Orientación de la Página
+
+Comienza abriendo un nuevo documento en Microsoft Word. Ve a la pestaña de "Diseño de Página" o "Layout" y selecciona "Tamaño" y luego "Carta" (21.59 cm x 27.94 cm). Asegúrate de que la orientación de la página esté configurada como "Vertical".
+
+### Paso 2: Ajusta los Márgenes
+
+Las normas ICONTEC especifican los márgenes de la siguiente manera:
+
+* Superior: 3 cm
+* Inferior: 3 cm
+* Izquierdo: 4 cm
+* Derecho: 2 cm
+
+Para ajustar los márgenes, ve a "**Márgenes**" en la pestaña "**Diseño de Página**" y selecciona "**Márgenes Personalizados**". Ingresas los valores correspondientes en los campos provistos y haces clic en "**Aceptar**".
+
+### Paso 3: Configura el Interlineado
+
+El interlineado debe estar a doble espacio. Para hacerlo, selecciona todo el texto (Ctrl + A), luego ve a la pestaña de "Inicio", haz clic en el ícono de "Interlineado" y selecciona "2.0".
+
+### Paso 4: Elige la Fuente y Tamaño de Letra Correctos
+
+Las Normas ICONTEC recomiendan usar una fuente clara y legible. Arial o Times New Roman son opciones aceptables. El tamaño de la fuente debe ser de 12 puntos. Estos ajustes se pueden realizar en la pestaña "Inicio".
+
+### Paso 5: Configura la Numeración de las Páginas
+
+Las Normas ICONTEC requieren que todas las páginas, excepto la portada y la contraportada, estén numeradas. Para configurar la numeración de las páginas, ve a la pestaña "Insertar" y selecciona "Número de Página". Elige la posición "Inferior de la Página" y luego elige el formato de número de página que prefieras.
+
+### Paso 6: Configura las Citas y Referencias Bibliográficas
+
+Finalmente, si estás citando fuentes en tu documento, deberás asegurarte de que estén formateadas de acuerdo con las Normas ICONTEC.
+
+Word tiene una herramienta útil llamada "Referencias" que te permite ingresar tus fuentes y luego insertar citas en el texto y generar automáticamente una bibliografía al final de tu documento.
+
+Este tutorial debería proporcionarte una buena base para aplicar las Normas ICONTEC en Word.
+
+Sin embargo, debes recordar que [ICONTEC también tiene normas específicas](#estructura) para cada parte del trabajo escrito, como la portada, la introducción, el cuerpo principal, las conclusiones, y las referencias bibliográficas.
+
+Te recomendamos revisar las normas específicas para cada una de estas secciones para asegurarte de que estás cumpliendo con todos los requisitos.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
 ## Descargar plantilla con normas Icontec
 
-Para facilitar la aplicación de las normas Icontec en trabajos académicos se han desarrollado plantillas que ya incluyen todos los formatos requeridos por las normas. Estas plantillas son de gran utilidad al momento de comenzar un trabajo académico. Existen varias opciones para descargar plantillas con normas Icontec, una de ellas es a través del sitio web oficial de Icontec donde se puede descargar una plantilla para Word que cumple con las normas Icontec.
+Para facilitar la aplicación de las normas Icontec en trabajos académicos se han desarrollado plantillas que ya incluyen todos los formatos requeridos por las normas.
 
-## normas Icontec en Word para Tesis, Trabajos de grado y otros escritos académicos
+Estas plantillas son de gran utilidad al momento de comenzar un trabajo académico. Existen varias opciones para descargar plantillas con normas Icontec, una de ellas es a través del sitio web oficial de Icontec donde se puede descargar una plantilla para Word que cumple con las normas Icontec.
 
-Las normas Icontec son ampliamente utilizadas en trabajos académicos como tesis, trabajos de grado, [informes]({{'informes'|relative_url}}) y otros escritos académicos. Es importante seguir las normas de presentación para garantizar una presentación adecuada y coherente, además de demostrar la capacidad del autor para seguir las directrices establecidas por la comunidad académica.
+## Normas Icontec en Word para Tesis, Trabajos de grado y otros escritos académicos
+
+Las normas Icontec son ampliamente utilizadas en trabajos académicos como tesis, trabajos de grado, [informes]({{'informes'|relative_url}}) y otros escritos académicos.
+
+Es importante seguir las normas de presentación para garantizar una presentación adecuada y coherente, además de demostrar la capacidad del autor para seguir las directrices establecidas por la comunidad académica.
 
 ## Puntos que mejoran la presentación con normas Icontec
 
-
 Estas normas establecen criterios como la disposición de títulos y subtítulos, los márgenes, las fuentes aceptadas y la numeración.
 
-Además de seguir los formatos requeridos por las normas Icontec, existen algunos puntos que pueden mejorar la presentación de un trabajo académico: - Utilizar una tabla de contenido y una lista de tablas o figuras si es necesario. - Utilizar imágenes y gráficos para ilustrar los temas abordados, siempre y cuando sean relevantes y aporten valor al trabajo. - Utilizar un lenguaje claro y conciso que permita una fácil comprensión del tema por parte del lector.
+Además de seguir los formatos requeridos por las normas Icontec, existen algunos puntos que pueden mejorar la presentación de un trabajo académico:
 
-## normas Icontec en otros países
+* Utilizar una tabla de contenido y una lista de tablas o figuras si es necesario.
+* Utilizar imágenes y gráficos para ilustrar los temas abordados, siempre y cuando sean relevantes y aporten valor al trabajo.
+* Utilizar un lenguaje claro y conciso que permita una fácil comprensión del tema por parte del lector.
 
+-----
+
+## Normas Icontec en otros países
 
 Las normas Icontec son ampliamente utilizadas en Colombia, pero también son conocidas y utilizadas en otros países de América Latina como Venezuela, Ecuador, Panamá y Perú. Es importante destacar que los requerimientos y formatos pueden variar ligeramente en cada país.
 
-<!-- 
+## Historia de las Normas ICONTEC
 
+Las Normas ICONTEC son el producto del trabajo del **Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC)**, una entidad privada sin ánimo de lucro fundada en 1963.
 
+>Desde su concepción, ICONTEC ha tenido la misión de promover la normalización, certificación, metrología y gestión de calidad en Colombia y en la región.
 
+**En 1987, ICONTEC publicó la Norma Técnica Colombiana (NTC) 1486**, que se convirtió en la norma de referencia para la presentación de trabajos escritos en Colombia.
 
+Esta norma, conocida popularmente como las Normas ICONTEC, estableció las pautas para la presentación de informes de investigación, tesis, trabajos de grado y otros documentos académicos.
 
+### Revisiones y versiones ICONTEC
 
+A lo largo de los años, ICONTEC ha revisado y actualizado regularmente las Normas ICONTEC para mantener su relevancia y utilidad en un mundo en constante cambio.
 
+Por ejemplo, las normas se han adaptado para abordar el uso de nuevas tecnologías en la preparación de documentos, como los programas de procesamiento de texto y los recursos de información en línea.
 
+>La última versión de las Normas ICONTEC, publicada en 2023, incorpora muchos años de experiencia y feedback de usuarios, y continúa siendo un recurso indispensable para estudiantes, académicos, investigadores y profesionales en una variedad de campos.
 
+Estas normas están diseñadas para ser claras, precisas y fácilmente aplicables, lo que hace que su uso sea accesible para cualquier persona que necesite presentar un trabajo escrito de forma profesional y coherente.
 
-Las normas Icontec son un conjunto de reglas y guías que se utilizan para la presentación de documentos escritos en Colombia y otros países de América Latina. Estas normas, que aseguran la correcta estructuración y organización del texto, establecen las pautas para la presentación de trabajos académicos, informes, manuales y más.
+## Datos Complementarios sobre las Normas ICONTEC
 
-<a name="componentes"></a>
+A lo largo de su existencia, las Normas ICONTEC han demostrado ser un recurso inestimable para garantizar la coherencia, legibilidad y profesionalismo en la presentación de trabajos escritos.
 
+Aquí te brindamos algunos **datos complementarios** que pueden ser de utilidad:
 
-Aquí hay una visión detallada de los componentes clave de las normas Icontec:
+* **Aplicabilidad Global**: Aunque ICONTEC es una organización colombiana, las Normas ICONTEC han adquirido reconocimiento y aceptación global. **Son utilizadas en muchos otros países**, especialmente en América Latina, y son aceptadas **por numerosas instituciones internacionales**.
+* **Diversidad de Aplicación**: Las Normas ICONTEC no se limitan a trabajos académicos. También son aplicables a una variedad de otros documentos, incluyendo **informes técnicos, documentos empresariales y propuestas de proyectos**. Al dominar estas normas, amplías tus habilidades para la presentación de documentos en una multitud de contextos.
+* **ICONTEC y la Certificación ISO**: ICONTEC es el representante oficial de Colombia en la Organización Internacional de Normalización (ISO) y la Comisión Panamericana de Normas Técnicas (COPANT). Esto significa que **las Normas ICONTEC están alineadas con las normas y estándares internacionales**.
+* **Actualizaciones Constantes**: ICONTEC realiza revisiones regulares de sus normas para asegurar su relevancia en el contexto actual. Es importante **mantenerse actualizado con las últimas versiones** para asegurarte de que estás aplicando las normas correctamente.
+* **Accesibilidad**: ICONTEC se ha esforzado por hacer que sus normas sean accesibles a todos. Las Normas ICONTEC están disponibles para su consulta y descarga en formato PDF desde el sitio web oficial de ICONTEC.
 
-## Preguntas frecuentes
+Estos datos resaltan el valor y la importancia de conocer y entender las Normas ICONTEC.
 
-### Numeración de páginas
-
-La numeración de páginas es un elemento importante en cualquier documento escrito, ya que permite a los lectores identificar y localizar rápidamente la información que buscan. En las normas Icontec se establecen reglas claras para la numeración de páginas, las cuales incluyen: utilizar números arábigos para la numeración de páginas, colocar los números en la parte superior derecha de la página, numerar todas las páginas del documento (incluyendo los anexos), evitar la numeración de páginas en blanco y no utilizar letras ni símbolos en la numeración de páginas.
-
-### Hojas complementarias
-
-Las hojas complementarias son elementos opcionales que se pueden incluir en un documento escrito para otorgarle una presentación más clara y atractiva. En las normas Icontec se establece que las hojas complementarias deben ir entre los títulos y las páginas del documento, y deben contener información pertinente y relevante para el documento. Además, las hojas complementarias deben estar numeradas y deben ser referenciadas en el texto principal del documento.
-
-### Citas y referencias
-
-Las citas y referencias son elementos fundamentales en cualquier documento escrito, ya que permiten identificar las fuentes de información utilizadas en el documento y otorgar credibilidad al autor. En las normas Icontec se establecen una serie de reglas para la presentación de citas y referencias, las cuales incluyen: utilizar el sistema de citas autor-año, incluir todas las fuentes utilizadas en el documento en una lista de referencias bibliográficas al final del documento, utilizar un formato específico para la presentación de referencias bibliográficas y citar las fuentes exactamente como aparecen en el texto original.
-
-### Pie de página
-
-El pie de página es un elemento opcional que se puede utilizar en un documento escrito para proporcionar información adicional al lector. En las normas Icontec se establece que los pies de página deben colocarse en la parte inferior de la página correspondiente y deben numerarse con números arábigos. Además, los pies de página deben contener información pertinente y relevante para el documento, y deben estar referenciados en el texto principal.
-
-### Listas especiales
-
-Las listas especiales son elementos opcionales que se pueden utilizar en un documento escrito para presentar información de manera clara y concisa. En las normas Icontec se establece que las listas especiales deben estar numeradas con números arábigos y deben estar precedidas por un título que refleje la información presentada en la lista. Además, cada elemento de la lista debe estar precedido por un número o letra, dependiendo del tipo de lista utilizada (numerada o alfabética). Finalmente, las listas especiales deben estar referenciadas en el texto principal del documento.
-
-**1. Títulos y subtítulos:** Los títulos y subtítulos son elementos vitales que permiten organizar y presentar la información de manera clara y concisa. Las normas Icontec ofrecen una serie de reglas para la presentación de estos en documentos escritos.
-
-**2. Anexos:** Estos son elementos adicionales que complementan el texto principal. Las normas Icontec definen cómo presentar los anexos y su ubicación en el trabajo.
-
-Los anexos son elementos complementarios de un documento escrito que ofrecen información adicional sobre el tema tratado en el texto principal. Las normas Icontec establecen que los anexos deben ir al final del documento, después de las referencias bibliográficas, y deben ir numerados en orden consecutivo con letras mayúsculas. Además, los anexos deben contener información pertinente y relevante para el documento, y deben estar referenciados en el texto principal.
-
-**3. Numeración de páginas:** Un elemento esencial para la organización y localización de información en un trabajo académico. Las normas Icontec detallan cómo se debe numerar las páginas de un documento.
-
-**4. Hojas complementarias:** Se utilizan para incluir información adicional en un trabajo, como gráficos, tablas, imágenes y más. Las normas Icontec especifican cómo presentar estas hojas.
-
-**5. Citas y referencias:** Elementos vitales para identificar las fuentes de información utilizadas y evitar el plagio.
-
-**6. Pie de página:** Se utiliza para incluir información adicional en la página, como notas aclaratorias, comentarios o referencias.
-
-**7. Listas especiales:** Se utilizan para presentar información en forma de lista, como en los casos de los índices o las listas de abreviaturas.
-
-<a
-
- name="preguntas"></a>
-
-## Preguntas frecuentes
-
-Aquí respondemos a algunas de las preguntas más comunes sobre las normas Icontec. Si tienes una pregunta que no aparece en esta lista, ¡no dudes en ponerla en los comentarios! 
-
-(aquí puedes colocar las preguntas y respuestas frecuentes)
-
-<a name="aplicacion-word"></a>
-
-## Cómo aplicar las normas Icontec en Microsoft Word
-
-Aprende paso a paso cómo configurar tu documento en Microsoft Word siguiendo las normas Icontec. Este tutorial te ayudará a realizar la configuración de la página, numeración, encabezados, pies de página y mucho más.
-
-(aquí puedes insertar un tutorial paso a paso)
-
-<a name="ejemplo"></a>
-
-## Un vistazo al uso de normas Icontec en un Ejemplo de Introducción
-
-(aquí puedes insertar un ejemplo de cómo se aplican las normas Icontec en un ensayo o trabajo académico)
-
-<a name="descarga"></a>
-
-## Descarga la plantilla para normas Icontec
-
-¿Te gustaría tener una plantilla pre-configurada de Microsoft Word que siga las normas Icontec? Descarga nuestra plantilla gratuita aquí. 
-
-(aquí puedes insertar un enlace a la descarga de la plantilla)
-
-<a name="uso-normas-icontec"></a>
-
-## Uso de normas Icontec para Tesis, Trabajos de Grado y Otros Escritos Académicos
-
-Las normas Icontec son esenciales para la presentación de trabajos académicos como tesis, trabajos de grado y ensayos en Colombia y otros países de América Latina. Aprende cómo aplicar estas normas en tu próximo trabajo académico para mejorar su presentación y organización.
-
-<a name="mejora"></a>
-
-## Mejora tu presentación con normas Icontec
-
-Sigue estas sencillas reglas y consejos para mejorar la presentación de tus trabajos académicos utilizando las normas Icontec.
-
-(aquí puedes insertar consejos sobre cómo mejorar la presentación de trabajos académicos usando las normas Icontec)
-
-<a name="uso-internacional"></a>
-
-## Uso de normas Icontec más allá de Colombia
-
-Las normas Icontec no son solo para uso en Colombia. Estas reglas también son reconocidas y utilizadas en otros países de América Latina. Aquí te mostramos cómo las normas Icontec pueden ayudarte a mejorar la presentación de tus trabajos académicos sin importar en qué país te encuentres.
-
-(aquí puedes insertar información sobre el uso internacional de las normas Icontec)
-
-<a name="comparativa"></a>
-
-## normas Icontec vs Normas APA vs Normas ISO
-
-Comparativa detallada entre las normas Icontec, las Normas APA y las Normas ISO. Aprende cuál de estas normas es la mejor para tu trabajo académico.
-
-(aquí puedes insertar una comparativa detallada entre las normas Icontec, las Normas APA y las Normas ISO)
-
-Recuerda, las normas Icontec son un conjunto de reglas que ayudan a presentar un trabajo académico de forma clara y organizada. Dominar estas normas puede mejorar la calidad de tus trabajos y facilitar su aceptación en instituciones académicas. ¡Buena suerte en tu camino hacia el dominio de las normas Icontec!
-
-¿Tienes alguna pregunta o comentario sobre las normas Icontec? ¡Déjan
-
-oslo saber en la sección de comentarios! Nos encanta escucharte y estamos aquí para ayudarte. -->
+Dominar estas normas te proporcionará una base sólida para la presentación de trabajos escritos en diversos contextos, tanto académicos como profesionales.

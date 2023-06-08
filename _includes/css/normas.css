@@ -33,3 +33,8 @@
   margin-bottom: 2rem;
   box-shadow: var(--shadow);
 }
+
+.normas_contenido .boton{
+  margin-right: 1em;
+  margin-top: 1em;
+}
