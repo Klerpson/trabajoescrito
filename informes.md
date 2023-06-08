@@ -1,17 +1,15 @@
 ---
 layout: default
 title: "Creando un informe académico impecable | 📑Normas y consejos"
-description: "🔖 ¿Buscas el formato ideal para tu próximo trabajo escrito? ¡Aquí lo tenemos! Ensayos, informes, tesis... todos reunidos en un solo lugar. ¡Haz clic y descubre el tuyo"
+description: "Con un informe presenta • Hallazgos • Análisis • Conclusiones de una investigación • Lecturas... ¿Sabes cómo hacerlos de forma profesional?"
 h1: "¿Cómo se hace un informe académico impecable? Nosotros te enseñamos"
-intro: "El arte de redactar un informe es más que solo juntar palabras. Un informe académico es una pieza vital en el ámbito académico y profesional. "
-boton_info: "estructura"
-boton_info_title: "Estructura APA"
-boton_mas: "descargas"
-boton_mas_title: "Plantillas"
+intro: "El arte de redactar un informe es más que solo juntar palabras. Si alguna vez te has preguntado, '¿Cómo realizar un informe?', esta guía práctica será tu faro en la vasta mar de la escritura académica."
+# boton_info: "estructura"
+# boton_info_title: "Estructura APA"
+# boton_mas: "descargas"
+# boton_mas_title: "Plantillas"
 vertical: true
 ---
-Si alguna vez te has preguntado, "¿Cómo realizar un informe?", esta guía práctica será tu faro en la vasta mar de la escritura académica.
-
 -----
 
 ## ¿Qué es un informe y cómo se diferencia de otros trabajos escritos?
@@ -121,7 +119,9 @@ Estos pueden incluir la tesis principal del autor, los argumentos principales y 
 
 #### Paso 3: estructura tu informe
 
-Tu informe de lectura debe tener una estructura clara y lógica. Generalmente, esto **incluirá una introducció**n en la que presentarás el material que has leído, **un cuerpo** en el que analizarás los puntos clave y **una conclusión** en la que resumirás tus pensamientos e impresiones sobre el material.
+Tu informe de lectura debe tener una estructura clara y lógica.
+
+Generalmente, esto **incluirá una introducción** en la que presentarás el material que has leído, **un cuerpo** en el que analizarás los puntos clave y **una conclusión** en la que resumirás tus pensamientos e impresiones sobre el material.
 
 #### Paso 4: escribe la introducción
 
@@ -131,7 +131,9 @@ También debes indicar el propósito de tu informe de lectura.
 
 #### Paso 5: analiza los puntos clave en el cuerpo
 
-En el cuerpo de tu informe, **debes analizar los puntos clave que has identificado**. Esto puede implicar discutir la tesis del autor, examinar sus argumentos y considerar cualquier evidencia que se haya presentado.
+En el cuerpo de tu informe, **debes analizar los puntos clave que has identificado**.
+
+Esto puede implicar discutir la tesis del autor, examinar sus argumentos y considerar cualquier evidencia que se haya presentado.
 
 Asegúrate de presentar tus propias ideas y pensamientos también.
 
