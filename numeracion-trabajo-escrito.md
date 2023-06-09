@@ -10,7 +10,6 @@ boton_mas: descargas
 boton_mas_title: Plantillas
 vertical: "true"
 ---
------
 La presentación adecuada de cualquier trabajo escrito es fundamental, y **la numeración de las páginas es una parte integral de esa presentación**.
 
 No importa si estás utilizando las normas APA o las normas Icontec, la numeración correcta puede facilitar en gran medida la navegación y la organización de tu documento.

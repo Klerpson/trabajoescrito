@@ -10,8 +10,6 @@ intro: "El arte de redactar un informe es más que solo juntar palabras. Si algu
 # boton_mas_title: "Plantillas"
 vertical: true
 ---
------
-
 ## ¿Qué es un informe y cómo se diferencia de otros trabajos escritos?
 
 Un informe es un documento que presenta **hallazgos, análisis, y conclusiones de una investigación, lectura, experimento de laboratorio, entre otros**.

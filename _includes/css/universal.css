@@ -1,8 +1,9 @@
 :root {
   /*** COLORES ***/
-  --principal: #1481ba;
-  --secundario: #0caadc;
+  --principal: #11b5e4;
+  --secundario: #1481BA;
   --accion: #11b5e4;
+  --boton: #f9a620;
   --complemento1: #e41111;
   --complemento2: #14ba83;
   --blanco: #fefefe;
@@ -63,6 +64,7 @@ h4 {
 
 h1 {
   font-size: clamp(2.5rem, 3.5vw + 1rem, 3.25rem);
+  margin: 0;
 }
 
 h2 {
@@ -95,16 +97,20 @@ a {
   font-family: var(--fuenteTexto);
   text-decoration-thickness: 2.6px;
   font-size: var(--small);
-  color: var(--accion);
+  color: var(--boton);
   font-weight: 900;
-  color: var(--accion);
   transition: all .1s ease-out;
+  color: var(--accion);
 }
 
 a:hover{
-  color: var(--principal);
+  transform: scale(1.02);
+  color: var(--secundario);
 }
 
+img{
+  border-radius: var(--radius);
+}
 
 abbr[title] {
   border-bottom: none;
@@ -199,26 +205,6 @@ li {
   list-style: none;
 }
 
-/* -----
-SVG Icons - svgicons.sparkk.fr
------ */
-
-.svg-icon {
-  width: 1em;
-  height: 1em;
-}
-
-.svg-icon path,
-.svg-icon polygon,
-.svg-icon rect {
-  fill: var(--secundario);
-}
-
-.svg-icon circle {
-  stroke: var(--secundario);
-  stroke-width: 1;
-}
-
 blockquote {
   border: 0.8px solid var(--gris1);
   border-radius: 8px;
@@ -265,18 +251,20 @@ table tr {
 .boton {
   display: inline-block;
   padding: 0.7em 1.7em;
-  font-size: 18px;
+  font-size: 1.2rem;
   border-radius: 0.5em;
-  background: var(--blanco);
-  border: 1px solid var(--blanco);
+  background: var(--boton);
+  border: 2px solid var(--grisFuentes);
   transition: all 0.3s;
-  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
   text-decoration: none;
   text-align: center;
+  color: var(--grisFuentes);
 }
 
-.boton:active {
-  box-shadow: none;
+.boton:hover {
+  box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
+  transform: scale(1.05);
+  color: var(--grisFuentes);
 }
 
 .cluster {
@@ -314,35 +302,22 @@ hr:after {
 }
 
 .cta{
-  padding: 3rem 0;
+  padding: 4rem 0;
   display: grid;
-  background-color: var(--secundario);
-  background-color: var(--secundario);
-  box-shadow: 0 0 0 100vmax var(--secundario);
+  background-color: var(--grisFuentes);
+  background-color: var(--grisFuentes);
+  box-shadow: 0 0 0 100vmax var(--grisFuentes);
   clip-path: inset(0 -100vmax);
   text-align: center;
   place-items: center;
   max-width: 992px;
-}
-
-.cta a{
-  margin: 3rem auto 6rem;
-  font-size: 1.8rem;
-  font-family: var(--fuenteTitulos);
-  display: inline-block;
-  padding: 0.7em 1.7em;
-  border-radius: 0.5em;
-  background: var(--blanco);
-  transition: all .1s ease-in;
+  color: var(--blanco);
 }
 
 .cta a:hover{
-  transform: scale(1.05);
+  box-shadow: none;
 }
 
-.cta a:active{
-  transform: scale(1);
-}
 
 header,
 .gallery-intro,
@@ -361,4 +336,13 @@ header,
 
 .destacado {
   background-image: url("/img/underline-text-img.png");
+}
+
+.seccion_a{
+  background-color: var(--grisFuentes);
+  background-color: var(--grisFuentes);
+  box-shadow: 0 0 0 100vmax var(--grisFuentes);
+  clip-path: inset(0 -100vmax);
+  color: var(--blanco);
+  padding: 4em 0;
 }

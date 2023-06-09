@@ -10,7 +10,6 @@ boton_mas: "descargas"
 boton_mas_title: "Plantillas"
 vertical: true
 ---
------
 La portada de un trabajo escrito debe contener los elementos esenciales como **el título del trabajo, el nombre del autor o autores, la institución a la que se presenta y la fecha de presentación**.
 
 Para hacerlo más fácil, existen normas establecidas que tienen pautas y recomendaciones específicas para la elaboración de una portada adecuada.

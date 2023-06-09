@@ -1,3 +1,7 @@
+.normas a{
+  color: var(--boton);
+}
+
 .links{
   display: flex;
   gap: 1rem 3rem ;
@@ -7,15 +11,9 @@
 
 .links article h3,
 .links li a{
-  flex: 1 0 360px;
   border-bottom: 1px dotted var(--gris1);
   padding-bottom: 1rem;
-  font-weight: 900;
   margin: 0;
-}
-
-.links article a:hover{
-  color: var(--principal);
 }
 
 .entradas{
@@ -63,7 +61,7 @@
   padding: 2rem 0 1rem;
   display: grid;
   grid-template-columns: auto 1fr;
-  gap: 1rem; 
+  gap: 1em; 
   border-bottom: 1px dotted var(--gris1);
 }
 

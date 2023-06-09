@@ -3,11 +3,11 @@ layout: post
 title: Tips para la presentación exitosa de Trabajos Escritos
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati
 category: Blog
-tags: [ipsum, aed, popo]
+tags: [Presentación]
 h1: Pasos estratégicos para crear y presentar un Trabajo Escrito de manera exitosa
 webp: apa.webp
 alt: Lorem ipsum dolor sit amet
-excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati
+excerpt: Te enseñamos una serie de claves para garantizar que tus presentaciones escritas sean coherentes, atractivas y efectivas.
 ---
 -----
 
@@ -17,7 +17,7 @@ excerpt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia s
 
 -----
 
-Preparar y presentar un trabajo escrito exitoso es una habilidad esencial que se necesita tanto en la academia como en el mundo profesional. Esta guía detallada te brinda todas las claves para garantizar que tus presentaciones escritas sean coherentes, atractivas y efectivas. No importa si estás preparando un informe de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.
+Preparar y presentar un trabajo escrito exitoso es una habilidad esencial que se necesita tanto en la academia como en el mundo profesional.  No importa si estás preparando un informe de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.
 
 Formato de un Trabajo Escrito
 

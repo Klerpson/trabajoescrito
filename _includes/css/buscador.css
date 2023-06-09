@@ -1,10 +1,11 @@
 .buscador{
-  background-color: var(--secundario);
-  padding: 6rem 1rem 4rem;
+  background-color: var(--grisFuentes);
+  padding: 4rem 1rem;
   margin-top: 4rem;
-  background-color: var(--secundario);
-box-shadow: 0 0 0 100vmax var(--secundario);
+  background-color: var(--grisFuentes);
+box-shadow: 0 0 0 100vmax var(--grisFuentes);
 clip-path: inset(0 -100vmax);
+color: var(--blanco);
 }
 
 .buscador div,

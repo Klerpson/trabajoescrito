@@ -4,12 +4,12 @@ nav {
   left: 0;
   right: 0;
   top: 0;
-  padding: 8px 5%;
-  height: 3rem;
-  background-color: rgba(191, 191, 191, 0.85);
+  padding: 12px 5% 8px;
+  background-color: var(--blanco);
   border-bottom: 1px solid var(--gris1);
   display: flex;
   box-shadow: var(--shadow);
+  max-height: 64px;
 }
 
 nav img {
@@ -27,6 +27,7 @@ nav ul {
 
 nav ul li {
   list-style: none;
+  position: relative;
 }
 
 nav ul li a,
@@ -34,14 +35,13 @@ nav ul li summary {
   text-decoration: none;
   display: block;
   padding: 0.5rem;
-  font-weight: 700;
+  font-weight: 900;
   color: var(--principal);
   cursor: pointer;
+  background-color: var(--blanco);
 }
 
 nav ul li details a{
-  background-color: var(--principal);
-  color: var(--blanco);
   text-decoration: underline;
   text-decoration-thickness: 2.8px;
   text-decoration-color: var(--blanco);
@@ -53,17 +53,8 @@ nav ul li details a{
 
 nav ul li details a:hover,
 nav ul li details a.active{
-  background-color: var(--blanco);
-  color: var(--principal);
-}
-
-nav ul li a:hover,
-nav ul li a.active,
-nav ul li summary:hover,
-nav ul li summary:active {
-  text-decoration: underline;
-  text-decoration-thickness: 3.2px;
-  text-decoration-color: var(--principal);
+  background-color: var(--accion);
+  color: var(--blanco);
 }
 
 #nav-toggle {
@@ -88,8 +79,17 @@ nav .icono-nav .line {
   transition: all 0.3s ease-in-out;
 }
 
-.cursos_menu{
-  background-color: var(--blanco);
+nav .cursos_menu{
+  background-color: var(--boton);
+  color: var(--grisFuentes);
+  border-radius: var(--radius);
+  transition: all 0.3s;
+  border: 2px solid var(--grisFuentes);
+}
+
+nav .cursos_menu:hover{
+  transform: scale(115%);
+  box-shadow: var(--shadow);
 }
 
 @media screen and (max-width: 768px) {
@@ -113,15 +113,16 @@ nav .icono-nav .line {
     height: auto;
     overflow: hidden;
     transition: all 0.4s ease-out;
-    background-color: var(--secundario);
+    background-color: var(--grisFuentes);
     align-items: center;
   }
 
   nav ul li a,
   nav ul li details summary,
   nav ul li details a{
-    font-size: 1.2rem;
+    font-size: 1.5rem;
     color: var(--blanco);
+    background-color: transparent;
   }
 
 

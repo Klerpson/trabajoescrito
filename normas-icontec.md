@@ -10,7 +10,6 @@ boton_mas: "descargas"
 boton_mas_title: "Plantillas"
 vertical: true
 ---
-
 ## ¿Qué son las normas Icontec?
 
 Las normas Icontec son un conjunto de **reglas y metodologías que deben aplicarse en trabajos escritos** como ensayos, tesis o trabajos de grado en Colombia y otros países de América Latina.

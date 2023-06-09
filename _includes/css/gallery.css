@@ -17,6 +17,7 @@
   place-items: center;
   border-radius: 50%;
   padding: 2px;
+  z-index: 10;
 }
 
 .gallery-slider span:first-child {
@@ -50,7 +51,7 @@
   width: min-content;
   margin-left: 16px;
   text-decoration: none;
-  border: 1px solid var(--gris1);
+  border: 2px solid var(--secundario);
   border-radius: 8px;
   box-shadow: var(--shadow);
   padding: 8px 12px;

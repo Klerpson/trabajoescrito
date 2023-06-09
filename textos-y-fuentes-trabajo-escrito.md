@@ -2,22 +2,17 @@
 layout: default
 title: Textos/Fuentes de un Trabajo Escrito - Aprende a usarlas
 description: " ¿Necesitas seleccionar las fuentes adecuadas para tus trabajos escritos? Al elegir la tipografía perfecta, destacará la calidad de tus textos académicos."
-h1: "Textos o fuentes de un trabajo escrito: Cómo elegir la tipografía perfecta
-  para tus documentos"
-intro: "En el mundo de los trabajos escritos, la elección de la tipografía
-  adecuada juega un papel fundamental en la presentación y legibilidad de tus
-  documentos. Si estás buscando consejos sobre cómo seleccionar las fuentes
-  ideales para tus trabajos académicos, has llegado al lugar correcto. En esta
-  guía, aprenderás a elegir los textos o fuentes apropiadas para tus ensayos,
-  informes y proyectos de investigación, asegurando así una presentación
-  profesional y una experiencia de lectura "
+h1: "Textos o fuentes de un trabajo escrito: Cómo elegir la tipografía perfecta para tus documentos"
+intro: "En el mundo de los trabajos escritos, la elección de la tipografía adecuada juega un papel fundamental en la presentación y legibilidad de tus documentos."
 boton_info: estructura
 boton_info_title: Normas
 boton_mas: descargas
 boton_mas_title: Plantillas
 vertical: "true"
-permalink: textos-fuentes-trabajo-escrito
+permalink: textos-y-fuentes-trabajo-escrito
 ---
+ Si estás buscando consejos sobre cómo seleccionar las fuentes ideales para tus trabajos académicos, has llegado al lugar correcto. En esta guía, aprenderás a elegir los textos o fuentes apropiadas para tus ensayos, informes y proyectos de investigación, asegurando así una presentación profesional y una experiencia de lectura 
+ 
 Sección 1: Importancia de la elección de la tipografía en los trabajos escritos
 
 Los estudios demuestran que la elección de la tipografía adecuada puede influir en la comprensión y percepción de un texto. Los lectores tienden a sentirse más atraídos y comprometidos con documentos que utilizan fuentes legibles y estéticamente agradables. Además, las fuentes seleccionadas deben transmitir la formalidad y la seriedad requeridas en los trabajos académicos. Aquí es donde entra en juego la selección de las fuentes adecuadas.
