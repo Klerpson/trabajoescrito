@@ -50,15 +50,15 @@ Lo primero que debes hacer antes de empezar a escribir tu trabajo es **configura
 
 Según las Normas ICONTEC, los márgenes deben ser superior e inferior de 3 cm, izquierdo de 4 cm y derecho de 2 cm. El tipo de letra debe ser Times New Roman de 12 puntos.
 
+[Más sobre Márgenes](# "Márgenes de un trabajo escrito"){:class="boton"}
+[Más sobre Fuentes](# "Fuentes de un trabajo escrito"){:class="boton"}
+
 > **Ejemplo de uso en Word**:
 >
 > 1. Abre un nuevo documento en Word.
 > 2. Haz clic en "Diseño de página" y luego en "Márgenes".
 > 3. En "Márgenes personalizados", ajusta los márgenes como se indicó anteriormente.
 > 4. Luego, haz clic en "Inicio", selecciona "Times New Roman" en el menú desplegable de la fuente y establece el tamaño en 12.
-
-[Más sobre Márgenes](# "Márgenes de un trabajo escrito"){:class="boton"}
-[Más sobre Fuentes](# "Fuentes de un trabajo escrito"){:class="boton"}
 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="portada"}

@@ -17,8 +17,6 @@ Las normas APA son un antes y un después de los trabajos escritos. Con estas no
 Ahora existen diferentes herramientas que pueden facilitar la aplicación de las normas APA, lo que permite ahorrar tiempo y evitar errores.
 
 Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo académico](/#partes), las formas correctas de citar y de hacer referencias a las fuentes, así como algunos consejos y trucos para aplicar con éxito las normas APA.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="estructura"}
 
 ----------
 
@@ -46,7 +44,8 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 * [⇾ Generador de citas](#generador)
 * [⇾ Verificador de citas](#verificador)
 * [⇾ Detectores de plagio](#plagio)
-{:class="links"}
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:class="links" id="estructura"}
 
 ----------
 

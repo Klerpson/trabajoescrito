@@ -233,17 +233,26 @@ blockquote a:active {
   box-shadow: none;
 }
 
-table tr {
-  border-bottom: 2px solid var(--gris1);
-  display: block;
-  margin-bottom: 0.625em;
+table{
+  width: 100%;
+  margin: 2em 0 ;
 }
 
-table th,
 table tr {
+  border-bottom: 2px dotted var(--gris1);
   display: flex;
-  flex-wrap: wrap;
-  gap: 0.3rem 1.8rem;
+  padding: 1.2em 0;
+  flex-wrap: wrap ;
+  gap: 1em;
+  width: 100%;
+}
+
+table th{
+  font-weight: 900;
+}
+
+table td, table th{
+  flex: 1 0 200px;
 }
 
 .boton {
