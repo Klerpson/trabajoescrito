@@ -3,7 +3,7 @@ layout: post
 title: "La magia de un Trabajo Escrito a mano + Normas APA/Icontec"
 description: "¿Cómo harías un trabajo escrito a mano sorprendente? Con las normas APA/Icontec, crea una presentación impactante.¡Entra y deslumbra con tus letras únicas! ✨"
 category: Blog
-tags: [Presentación, Normas]
+tags: [Presentación, APA, Icontec]
 h1: Aprende a hacer un trabajo escrito a mano que dejará a todos sin palabras en el 2023
 webp: blog/trabajo-escrito-a-mano.webp
 alt: Trabajo a mano

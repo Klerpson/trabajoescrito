@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 08 Jun 2023 23:29:30 -0500</pubDate>
-    <lastBuildDate>Thu, 08 Jun 2023 23:29:30 -0500</lastBuildDate>
+    <pubDate>Fri, 09 Jun 2023 00:13:11 -0500</pubDate>
+    <lastBuildDate>Fri, 09 Jun 2023 00:13:11 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -96,14 +96,16 @@
 
 &lt;p&gt;Así que no teman, ¡sigan escribiendo con estilo y brillando con sus trabajos a mano! ¡El futuro es nuestro, y nuestras palabras escritas a mano lo iluminan!&lt;/p&gt;
 </description>
-        <pubDate>Sun, 05 Mar 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/trabajo-escrito-quinto-post</link>
-        <guid isPermaLink="true">http://localhost:4000/trabajo-escrito-quinto-post</guid>
+        <pubDate>Mon, 05 Jun 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/trabajo-escrito-a-mano</link>
+        <guid isPermaLink="true">http://localhost:4000/trabajo-escrito-a-mano</guid>
         
         
         <category>Presentación</category>
         
-        <category>Normas</category>
+        <category>APA</category>
+        
+        <category>Icontec</category>
         
         
         
@@ -116,62 +118,153 @@
         <description>&lt;hr /&gt;
 
 &lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#comprendiendo-las-normas-apa-en-powerpoint&quot; id=&quot;markdown-toc-comprendiendo-las-normas-apa-en-powerpoint&quot;&gt;Comprendiendo las Normas APA en PowerPoint&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#las-normas-apa-para-power-point&quot; id=&quot;markdown-toc-las-normas-apa-para-power-point&quot;&gt;Las Normas APA para Power Point&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#creando-la-portada-perfecta-en-powerpoint&quot; id=&quot;markdown-toc-creando-la-portada-perfecta-en-powerpoint&quot;&gt;Creando la portada perfecta en PowerPoint&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#elementos-de-una-buena-portada&quot; id=&quot;markdown-toc-elementos-de-una-buena-portada&quot;&gt;Elementos de una buena portada&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#organizando-nuestras-diapositivas&quot; id=&quot;markdown-toc-organizando-nuestras-diapositivas&quot;&gt;Organizando nuestras diapositivas&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#normas-apa-para-diapositivas&quot; id=&quot;markdown-toc-normas-apa-para-diapositivas&quot;&gt;Normas APA para diapositivas&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#citas-y-referencias-según-las-normas-apa&quot; id=&quot;markdown-toc-citas-y-referencias-según-las-normas-apa&quot;&gt;Citas y referencias según las Normas APA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#la-bibliografía-el-gran-final&quot; id=&quot;markdown-toc-la-bibliografía-el-gran-final&quot;&gt;La bibliografía: El gran final&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#poniendo-en-práctica-las-normas-apa-en-powerpoint&quot; id=&quot;markdown-toc-poniendo-en-práctica-las-normas-apa-en-powerpoint&quot;&gt;Poniendo en práctica las Normas APA en PowerPoint&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Cuando se trata de realizar presentaciones de PowerPoint para exposiciones académicas o profesionales, a menudo debemos considerar ciertos estándares de formato y citación. ¿Alguna vez te has preguntado cómo implementar las normas APA en PowerPoint? Estas normas, reconocidas y respetadas en el mundo académico, también aplican a tus presentaciones digitales.&lt;/p&gt;
+&lt;p&gt;Es hora de llevar tus presentaciones de PowerPoint al siguiente nivel, y estoy aquí para mostrarte cómo. Quiero mostrarte &lt;strong&gt;cómo aplicar las Normas APA en tus presentaciones&lt;/strong&gt; y darles ese toque de excelencia.&lt;/p&gt;
 
-&lt;p&gt;Aquí te proporcionamos una recopilación de consejos esenciales para implementar estas normas en tus presentaciones. Desde cómo diseñar una portada en PowerPoint acorde a las normas APA hasta cómo presentar correctamente tu bibliografía, te guiaremos en cada paso del proceso.&lt;/p&gt;
+&lt;h2 id=&quot;comprendiendo-las-normas-apa-en-powerpoint&quot;&gt;Comprendiendo las Normas APA en PowerPoint&lt;/h2&gt;
 
-&lt;p&gt;Implementando las Normas APA en PowerPoint: Lo Esencial
-Las normas APA, en su sexta edición, ofrecen una estructura que ayuda a presentar la información de forma organizada y coherente. A continuación, te proporcionamos algunos puntos clave que te ayudarán a adaptar tu presentación de PowerPoint a estas normas:&lt;/p&gt;
+&lt;p&gt;Antes de que comencemos a crear presentaciones excepcionales, necesitamos familiarizarnos con las reglas del juego. &lt;a href=&quot;/normas-apa&quot;&gt;Las Normas APA&lt;/a&gt;, en este caso, son nuestras mejores aliadas.&lt;/p&gt;
 
-&lt;ol&gt;
-  &lt;li&gt;
-    &lt;p&gt;Diseñando la Portada en PowerPoint:
-La primera diapositiva de tu presentación debe ser la portada. Según las normas APA, esta debe incluir: el título de la presentación, tu nombre y el de cualquier coautor, la institución a la que perteneces y la fecha.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Organizando el Contenido de las Diapositivas:
-Las normas APA para diapositivas se enfocan en mantener la consistencia y claridad. Así, se recomienda utilizar fuentes legibles, colores coherentes y un número razonable de puntos por diapositiva.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Citas y Referencias:
-Es fundamental citar todas las fuentes que utilices en tu presentación, tal y como lo harías en un trabajo escrito. Esto se puede hacer dentro del texto de la diapositiva o al final de la presentación.&lt;/p&gt;
-  &lt;/li&gt;
-  &lt;li&gt;
-    &lt;p&gt;Bibliografía:
-La última diapositiva de tu presentación debe ser la bibliografía, donde enumerarás todas las fuentes que citaste durante la presentación, siguiendo el formato APA.&lt;/p&gt;
-  &lt;/li&gt;
-&lt;/ol&gt;
+&lt;h3 id=&quot;las-normas-apa-para-power-point&quot;&gt;Las Normas APA para Power Point&lt;/h3&gt;
 
-&lt;p&gt;Ejemplo de Presentación en PowerPoint Siguiendo las Normas APA
-Imagina que estás preparando una presentación sobre el cambio climático. Tienes algunas imágenes, gráficos y citas extraídas de diversas fuentes. Para cada diapositiva que contenga esta información, debes añadir una cita en formato APA. Al final, tu diapositiva de bibliografía incluirá todas las fuentes en este formato.&lt;/p&gt;
+&lt;p&gt;Las Normas APA son un conjunto de reglas que nos guiarán. En Power Point, nos servirán para saber &lt;strong&gt;cómo citar, referenciar y dar formato a nuestras presentaciones&lt;/strong&gt;. Tendrán un papel vital en esta tarea, así que asegúrate de comprenderlas bien.&lt;/p&gt;
 
-&lt;p&gt;Además, no olvides seguir las normas APA para el diseño de tus diapositivas, manteniéndolas limpias, organizadas y fáciles de leer.&lt;/p&gt;
+&lt;h2 id=&quot;creando-la-portada-perfecta-en-powerpoint&quot;&gt;Creando la portada perfecta en PowerPoint&lt;/h2&gt;
+
+&lt;p&gt;Una vez que comprendamos las Normas APA, el primer paso en nuestra aventura será &lt;a href=&quot;/portada-trabajo-escrito&quot;&gt;la creación de una portada&lt;/a&gt; impactante.&lt;/p&gt;
+
+&lt;h3 id=&quot;elementos-de-una-buena-portada&quot;&gt;Elementos de una buena portada&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Título de la presentación:&lt;/strong&gt; Debe ser atractivo y reflejar con precisión el contenido de la presentación.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Tu nombre:&lt;/strong&gt; Debes poner tu nombre para que la audiencia sepa quién es el experto detrás de la presentación.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Nombre de la institución:&lt;/strong&gt; No olvides incluir el nombre de tu institución, si corresponde.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fecha:&lt;/strong&gt; La fecha de la presentación también debe estar presente en la portada.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;organizando-nuestras-diapositivas&quot;&gt;Organizando nuestras diapositivas&lt;/h2&gt;
+
+&lt;p&gt;El núcleo de nuestra presentación son las diapositivas. Deben estar organizadas de forma que la información se entregue &lt;strong&gt;de manera coherente y atractiva&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;normas-apa-para-diapositivas&quot;&gt;Normas APA para diapositivas&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Diseño coherente:&lt;/strong&gt; Asegúrate de que todas las diapositivas sigan el mismo patrón de diseño.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Fuentes legibles:&lt;/strong&gt; Usa fuentes que sean fáciles de leer.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Colores que no distraigan:&lt;/strong&gt; Elige colores que sean agradables a la vista y que no distraigan de la información principal.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Número adecuado de puntos:&lt;/strong&gt; No sobrecargues las diapositivas con demasiada información.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;citas-y-referencias-según-las-normas-apa&quot;&gt;Citas y referencias según las Normas APA&lt;/h2&gt;
+
+&lt;p&gt;Las citas y referencias son vitales en cualquier presentación académica o profesional. Asegúrate de seguir las Normas APA para citar correctamente.&lt;/p&gt;
+
+&lt;h2 id=&quot;la-bibliografía-el-gran-final&quot;&gt;La bibliografía: El gran final&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;La última diapositiva de nuestra presentación será la bibliografía&lt;/strong&gt;. Aquí enumeraremos todas las fuentes que hemos citado en nuestra presentación, siguiendo el formato APA.&lt;/p&gt;
+
+&lt;h2 id=&quot;poniendo-en-práctica-las-normas-apa-en-powerpoint&quot;&gt;Poniendo en práctica las Normas APA en PowerPoint&lt;/h2&gt;
+
+&lt;p&gt;Estás listo para aplicar todo lo que has aprendido. Ya sea que estés preparando una presentación sobre cambio climático o cualquier otro tema, recuerda aplicar las Normas APA en cada paso.&lt;/p&gt;
+
+&lt;p&gt;Al final de este post, &lt;strong&gt;ya tienes claras las Normas APA en PowerPoint&lt;/strong&gt;. Estoy seguro de que tus presentaciones brillarán y serán un ejemplo de excelencia. ¡Adelante, y haz brillar tus presentaciones de PowerPoint!&lt;/p&gt;
 </description>
-        <pubDate>Wed, 22 Feb 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/trabajo-escrito-cuarto-post</link>
-        <guid isPermaLink="true">http://localhost:4000/trabajo-escrito-cuarto-post</guid>
+        <pubDate>Fri, 02 Jun 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/normas-apa-power-point</link>
+        <guid isPermaLink="true">http://localhost:4000/normas-apa-power-point</guid>
         
         
-        <category>lorem</category>
+        <category>Power point</category>
         
-        <category>aed</category>
-        
-        <category>yayo</category>
-        
-        <category>popo</category>
+        <category>APA</category>
         
         
         
-        <category>hoteles</category>
+        <category>Blog</category>
         
       </item>
     
       <item>
-        <title>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati, placeat architecto unde ratione tempore libero dolore, non impedit iusto, doloremque laboriosam eveniet? Explicabo est architecto dignissimos, nihil autem enim quibusdam molestiae neque reprehenderit sed sit odio quia nulla, alias inventore harum ipsum repellat ad sapiente? Facere, eum perspiciatis? Provident error accusantium cupiditate. Maxime nulla nisi veritatis nemo obcaecati animi necessitatibus asperiores aliquid ipsum iure accusamus, dolorum eos earum est nihil voluptatum ullam corporis dolores perspiciatis in temporibus. Sed perspiciatis iusto iste repudiandae velit ea ullam assumenda vel maiores officiis cum totam ad voluptate ipsum dolorum et adipisci nisi, autem reiciendis. Iure odio eum, voluptate amet unde ipsam quibusdam sequi ex? Ab sit sint, reprehenderit at asperiores, autem amet voluptatem beatae nesciunt aut suscipit tenetur repellendus nulla! Ipsam cupiditate earum similique, quos ullam asperiores ea sed eius mollitia, quaerat voluptas fuga inventore repellendus odio unde suscipit ipsum quam ut maxime nemo distinctio explicabo doloribus? Nulla excepturi autem animi, eveniet perferendis nemo cum qui sed nihil, ab harum consequatur quidem vitae commodi dolores neque. Nisi laudantium odit quisquam ullam perspiciatis rerum aspernatur debitis dignissimos, veniam iure ea repellendus voluptatibus unde quod sit error. Facilis dolores provident qui blanditiis impedit, eaque earum assumenda! Iusto autem, porro vero ullam accusamus exercitationem harum debitis ut excepturi omnis ipsa. Tempore eveniet aliquid illo ad unde obcaecati saepe! Consequuntur aut culpa, ad nulla quam quibusdam voluptates rem, alias impedit tempore minima, quos ipsa dignissimos fuga laboriosam inventore laborum magni deleniti numquam temporibus omnis ullam! Quaerat dolorum accusantium ipsum ratione repellat laboriosam incidunt? Non eos, laudantium nobis deserunt placeat minima veritatis! Accusantium, laborum praesentium necessitatibus doloremque consequuntur blanditiis enim fuga quo vel voluptatum corporis et delectus debitis eveniet inventore commodi assumenda dignissimos aliquam laudantium iste fugiat reiciendis illum! Sunt, alias dignissimos laborum atque omnis iste repellat quo nesciunt voluptas soluta, iusto modi ipsa? Id minima, ipsum excepturi possimus numquam accusantium aut explicabo, eos consequatur dolorum cupiditate voluptate temporibus perspiciatis! Quasi nemo consectetur debitis aliquid voluptatem magnam perferendis, sint alias dolores, quas praesentium rem, quos laboriosam voluptatibus est aut nam non omnis? Dolorum unde distinctio quam harum nostrum quibusdam nemo, earum quidem recusandae laboriosam accusantium dolore sequi vero consequuntur, odit possimus suscipit ut at nisi maxime cum? Perspiciatis cum deserunt quasi harum, fugit asperiores accusantium iure enim voluptatum eum architecto dolorum ullam, incidunt vero, facilis aspernatur aliquam accusamus a iste qui! Deserunt, doloremque consequuntur sapiente delectus assumenda dolorem ipsam unde, voluptates repudiandae, nostrum totam! Hic vel debitis vero modi odit quos ipsum, qui sunt molestiae quasi fugit. Ipsa omnis laborum laudantium placeat earum consectetur, voluptates asperiores quaerat ut explicabo, sunt eos? Autem suscipit voluptatum explicabo sequi accusantium accusamus, exercitationem ipsam, nam a dignissimos nostrum impedit rem eligendi maxime, nesciunt quaerat obcaecati eos eum corporis quo. Sequi rem consequatur deleniti eum ipsum quos laudantium incidunt officiis corporis commodi ut, voluptatum mollitia maiores deserunt natus, fugiat rerum distinctio atque dolor! Aut aspernatur quibusdam commodi omnis ab ut aliquid inventore!&lt;/p&gt;
+        <title>Tips para la presentación exitosa de Trabajos Escritos</title>
+        <description>&lt;hr /&gt;
+
+&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Preparar y presentar un trabajo escrito exitoso es una habilidad esencial que se necesita tanto en la academia como en el mundo profesional. Esta guía detallada te brinda todas las claves para garantizar que tus presentaciones escritas sean coherentes, atractivas y efectivas. No importa si estás preparando un informe de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.&lt;/p&gt;
+
+&lt;p&gt;Formato de un Trabajo Escrito&lt;/p&gt;
+
+&lt;p&gt;Es esencial entender la importancia de la estructura y el formato al presentar un trabajo escrito. Para una presentación de alto impacto, considera lo siguiente:&lt;/p&gt;
+
+&lt;p&gt;Utiliza papel blanco y escribe en un solo lado: Esto garantiza que tu trabajo sea limpio y legible.&lt;/p&gt;
+
+&lt;p&gt;Deja márgenes adecuados: Esto te ayudará a mantener el texto centrado y agradable a la vista.&lt;/p&gt;
+
+&lt;p&gt;Organiza tu texto en párrafos: Cada párrafo debe tratar una idea principal. Asegúrate de cambiar de párrafo cuando introduzcas una nueva idea.&lt;/p&gt;
+
+&lt;p&gt;Evita los tachones: Piensa bien antes de escribir para evitar tachar palabras o frases.&lt;/p&gt;
+
+&lt;p&gt;Además, la presentación de un trabajo escrito debe contener:&lt;/p&gt;
+
+&lt;p&gt;Portada
+Índice o tabla de contenidos
+Introducción
+Cuerpo del trabajo
+Conclusiones
+Anexos (si es necesario)
+Bibliografía
+Cómo Crear una Presentación Exitosa&lt;/p&gt;
+
+&lt;p&gt;Crear una presentación exitosa requiere planificación y estrategia. Aquí hay algunos pasos clave para ayudarte a crear una presentación que capte la atención de tu audiencia y presente de manera efectiva tu trabajo escrito:&lt;/p&gt;
+
+&lt;p&gt;Determina tu audiencia: Antes de empezar, es importante que entiendas a quién va dirigida tu presentación. Esto te ayudará a ajustar el tono y el contenido de tu presentación para hacerla más atractiva y efectiva.&lt;/p&gt;
+
+&lt;p&gt;Prepara un esquema de tu presentación: Un esquema te ayuda a organizar tus ideas y a asegurarte de que cubres todos los puntos importantes.&lt;/p&gt;
+
+&lt;p&gt;Elabora un borrador de tu presentación: Escribe un borrador de tu presentación para tener una idea de cómo se verá el producto final.&lt;/p&gt;
+
+&lt;p&gt;Revisa y edita tu presentación: Asegúrate de revisar y editar tu presentación antes de entregarla. Busca errores gramaticales y de ortografía, y asegúrate de que tu presentación sea coherente y fácil de seguir.&lt;/p&gt;
+
+&lt;p&gt;Cómo Presentar un Trabajo Escrito de Manera Efectiva&lt;/p&gt;
+
+&lt;p&gt;Presentar un trabajo escrito de manera efectiva puede ser un reto, pero con los consejos y técnicas adecuados, puedes destacar:&lt;/p&gt;
+
+&lt;p&gt;Define el tema principal de la presentación: Este será el eje central de tu presentación, por lo que debe estar claramente definido y comunicado.&lt;/p&gt;
+
+&lt;p&gt;Busca y selecciona información relevante: El contenido de tu presentación debe ser relevante para el tema principal. Asegúrate de investigar y seleccionar solo la información más relevante.&lt;/p&gt;
+
+&lt;p&gt;Utiliza ayudas visuales: Las ayudas visuales, como las diapositivas de PowerPoint, pueden hacer que tu presentación sea más interesante y atractiva.&lt;/p&gt;
+
+&lt;p&gt;Practica tu presentación: Antes de la presentación real, practica frente a un espejo o con amigos o familiares para obtener feedback y ganar confianza.&lt;/p&gt;
+
+&lt;p&gt;Conclusión&lt;/p&gt;
+
+&lt;p&gt;Crear y presentar un trabajo escrito no tiene por qué ser una tarea abrumadora. Con la preparación adecuada y las técnicas correctas, puedes presentar un trabajo que no solo cumpla con las expectativas de tu profesor o jefe, sino que también te haga destacar.&lt;/p&gt;
+
+&lt;p&gt;Este artículo ha sido diseñado para superar los desafíos que enfrentan muchos estudiantes y profesionales al preparar trabajos escritos y presentaciones. Asegúrate de seguir estos consejos y técnicas para que puedas presentar un trabajo de alta calidad que impresione a tu audiencia.&lt;/p&gt;
+
+&lt;p&gt;Finalmente, recuerda que la clave para una presentación exitosa es la preparación y la práctica. Cuanto más te prepares y practiques, más cómodo te sentirás al presentar tu trabajo escrito. ¡Buena suerte!&lt;/p&gt;
 </description>
         <pubDate>Sat, 04 Feb 2023 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/trabajo-escrito-tercer-post</link>
@@ -186,7 +279,7 @@ Imagina que estás preparando una presentación sobre el cambio climático. Tien
         
         
         
-        <category>hoteles</category>
+        <category>Blog</category>
         
       </item>
     
