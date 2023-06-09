@@ -63,6 +63,9 @@
 <loc>http://localhost:4000/portada-trabajo-escrito</loc>
 </url>
 <url>
+<loc>http://localhost:4000/textos-fuentes-trabajo-escrito</loc>
+</url>
+<url>
 <loc>http://localhost:4000/admin/</loc>
 <lastmod>2023-05-05T23:31:52-05:00</lastmod>
 </url>
