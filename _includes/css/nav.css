@@ -73,7 +73,7 @@ nav .icono-nav {
 nav .icono-nav .line {
   width: 32px;
   height: 4px;
-  background-color: var(--accion);
+  background-color: var(--grisFuentes);
   margin: 4px;
   border-radius: 3px;
   transition: all 0.3s ease-in-out;
@@ -108,7 +108,7 @@ nav .cursos_menu:hover{
     left: 0;
     right: 0;
     bottom: 100%;
-    top: 2.6rem;
+    top: 64px;
     width: auto;
     height: auto;
     overflow: hidden;

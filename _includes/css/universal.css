@@ -59,7 +59,7 @@ h4 {
   text-transform: initial;
   max-width: 720px;
   line-height: 1.2;
-  margin: 1.5em 0;
+  margin: 1.2em 0;
 }
 
 h1 {
@@ -94,21 +94,19 @@ pre {
 }
 
 a {
-  font-family: var(--fuenteTexto);
   text-decoration-thickness: 2.6px;
   font-size: var(--small);
-  color: var(--boton);
   font-weight: 900;
   transition: all .1s ease-out;
   color: var(--accion);
 }
 
 a:hover{
-  transform: scale(1.02);
+  transform: scale(1.05);
   color: var(--secundario);
 }
 
-img{
+img:not(.slide-container img){
   border-radius: var(--radius);
 }
 
