@@ -19,8 +19,6 @@
 }
 
 .normas_contenido blockquote {
-  background-color: var(--secundario);
-  background-color: var(--secundario);
   box-shadow: 0 0 0 100vmax var(--secundario);
   clip-path: inset(0 -100vmax);
   border: none;

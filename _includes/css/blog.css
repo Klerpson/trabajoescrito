@@ -14,7 +14,7 @@
 /* BREADCRUMBS */
 
 #breadcrumbs {
-  margin-bottom: 2rem;
+  margin-bottom: 1em;
 }
 
 /* SHARE */
@@ -154,4 +154,8 @@
   border-bottom: 1.2px dotted var(--gris1);
   max-width: max-content;
   padding-bottom: 1rem;
+}
+
+.post-content{
+  margin-top: 0;
 }
