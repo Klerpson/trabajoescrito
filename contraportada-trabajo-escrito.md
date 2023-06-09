@@ -11,7 +11,7 @@ boton_mas_title: "Plantillas"
 vertical: true
 ---
 -----
-La contraportada es una parte importante de la presentación de un trabajo escrito, ya que **es una oportunidad adicional para impartir información relevante sobre el proyecto**.
+La contraportada es una parte importante de la presentación de un trabajo escrito, ya que **es una oportunidad adicional para impartir información relevante sobre el proyecto**. En algunas partes **se conoce como subportada**.
 
 Esta página a menudo se utiliza para incluir información adicional, como detalles sobre el autor, agradecimientos y otros créditos.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
@@ -21,7 +21,7 @@ Esta página a menudo se utiliza para incluir información adicional, como detal
 
 ### Pautas a seguir
 
-Para elaborar una contraportada según las Normas APA, es importante seguir las mismas pautas que para la [portada]({{'portada-trabajo-escrito'|relative_url}}).
+Para elaborar una contraportada o subportada según las Normas APA, es importante seguir las mismas pautas que para la [portada]({{'portada-trabajo-escrito'|relative_url}}).
 
 Esto significa tener en cuenta lo siguiente:
 

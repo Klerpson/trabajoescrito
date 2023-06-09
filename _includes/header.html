@@ -12,7 +12,7 @@
     {% else %}
     <h1>{{page.h1}}</h1>
     <img src="{{site.baseurl}}/img/{{page.webp}}" alt="{{page.alt}}" title="{{page.title}}">
-    <p class="excerpt">{{page.excerpt}}</p>
+    {{page.excerpt|markdownify}}
     {% endif %}
   </div>
 </header>
