@@ -85,10 +85,10 @@ nav .icono-nav .line {
 
 nav .cursos_menu {
   background-color: var(--secundario);
-  color: var(--blanco);
+  color: var(--grisFuentes);
   border-radius: var(--radius);
   transition: all 0.3s;
-  /* border: 2px solid var(--grisFuentes); */
+  border: 2px solid var(--grisFuentes);
 }
 
 nav .cursos_menu:hover {

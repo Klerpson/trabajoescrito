@@ -3,17 +3,20 @@
   padding: 0;
 }
 
-.normas_contenido ol li{
+.normas_contenido ol li,
+.post-content ol li{
   list-style: decimal;
   margin-left: 2rem;
 }
 
-.normas_contenido ol li::marker{
+.normas_contenido ol li::marker,
+.post-content ol li::marker{
   font-weight: 900;
   font-size: 1.5rem;
 }
 
-.normas_contenido ul li:not(.links li){
+.normas_contenido ul li:not(.links li),
+.post-content ul li:not(#markdown-toc li){
   margin: 0 0 1rem 2rem;
   list-style-type: disc;
 }

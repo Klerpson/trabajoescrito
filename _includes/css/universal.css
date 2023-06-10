@@ -202,31 +202,19 @@ li {
 blockquote {
   border: 0.8px solid var(--gris1);
   border-radius: 8px;
-  padding: 2rem;
-  margin: 1.2rem 0;
+  padding: 3em 0;
+  margin: 3em 0;
   background-color: var(--secundario);
-  color: white;
 }
 
-blockquote a {
-  margin: 1rem 0 0;
-  display: block;
-  float: right;
-  background-color: var(--accion);
-  color: white !important;
-  text-decoration: none;
-  padding: 12px 22px;
-  border-radius: 12px;
-  box-shadow: none;
-  transition: 0.2s all ease-out;
+blockquote::before{
+  content: '◜◜';
+  font-weight: 900;
+  font-size: 2em;
 }
 
-blockquote a:hover {
-  box-shadow: var(--shadow);
-}
-
-blockquote a:active {
-  box-shadow: none;
+blockquote a{
+  color: var(--blanco);
 }
 
 table{

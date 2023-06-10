@@ -1,8 +1,0 @@
-@media screen and (min-width: 769px) {
-  
-.title h1, .title p{
-  grid-column: span 2;
-}
-
-.title img{ grid-row: span 2;}
-}
