@@ -52,7 +52,7 @@
   width: min-content;
   margin-left: 16px;
   text-decoration: none;
-  border: 2px solid var(--secundario);
+  border: 2px solid var(--principal);
   border-radius: 8px;
   box-shadow: var(--shadow);
   padding: 8px 12px;

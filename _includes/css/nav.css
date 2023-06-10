@@ -34,25 +34,29 @@ nav ul li a,
 nav ul li summary {
   text-decoration: none;
   display: block;
-  padding: 0.5rem;
+  padding: 8px 16px;
   font-weight: 900;
-  color: var(--principal);
+  color: var(--accion);
   cursor: pointer;
   background-color: var(--blanco);
+  border-radius: var(--radius);
 }
 
-nav ul li details a{
+nav ul li details a {
   text-decoration: underline;
   text-decoration-thickness: 2.8px;
+  -webkit-text-decoration-color: var(--blanco);
   text-decoration-color: var(--blanco);
-  padding: 8px 12px 12px;
+  padding: 12px 20px;
   border-bottom: 1px dotted var(--gris1);
   box-shadow: var(--shadow);
   transition: .2s all ease-in;
 }
 
+nav ul li a:hover,
 nav ul li details a:hover,
-nav ul li details a.active{
+nav ul li details summary:hover,
+nav ul li a.active {
   background-color: var(--accion);
   color: var(--blanco);
 }
@@ -73,23 +77,28 @@ nav .icono-nav {
 nav .icono-nav .line {
   width: 32px;
   height: 4px;
-  background-color: var(--grisFuentes);
+  background-color: var(--accion);
   margin: 4px;
   border-radius: 3px;
   transition: all 0.3s ease-in-out;
 }
 
-nav .cursos_menu{
-  background-color: var(--boton);
-  color: var(--grisFuentes);
+nav .cursos_menu {
+  background-color: var(--secundario);
+  color: var(--blanco);
   border-radius: var(--radius);
   transition: all 0.3s;
-  border: 2px solid var(--grisFuentes);
+  /* border: 2px solid var(--grisFuentes); */
 }
 
-nav .cursos_menu:hover{
+nav .cursos_menu:hover {
   transform: scale(115%);
   box-shadow: var(--shadow);
+  color: var(--blanco);
+}
+
+nav ul li:last-child{
+  display: none;
 }
 
 @media screen and (max-width: 768px) {
@@ -113,25 +122,26 @@ nav .cursos_menu:hover{
     height: auto;
     overflow: hidden;
     transition: all 0.4s ease-out;
-    background-color: var(--grisFuentes);
+    background-color: var(--blanco);
     align-items: center;
   }
 
   nav ul li a,
   nav ul li details summary,
-  nav ul li details a{
+  nav ul li details a {
     font-size: 1.5rem;
-    color: var(--blanco);
     background-color: transparent;
   }
 
+  nav ul li a.active {
+    text-decoration-thickness: 3.6px;
+    -webkit-text-decoration-color: var(--blanco);
+    text-decoration-color: var(--blanco);
+    color: var(--blanco);
+    background-color: var(--accion);
+  }
 
-nav ul li a.active {
-  text-decoration-thickness: 3.6px;
-  text-decoration-color: var(--blanco);
-}
-
-  nav :checked ~ ul {
+  nav :checked~ul {
     bottom: 0;
   }
 
@@ -139,22 +149,26 @@ nav ul li a.active {
     display: block;
   }
 
-  nav :checked ~ .icono-nav .line:nth-child(1) {
+  nav :checked~.icono-nav .line:nth-child(1) {
     transform: translateY(10px) rotate(225deg);
   }
 
-  nav :checked ~ .icono-nav .line:nth-child(2) {
+  nav :checked~.icono-nav .line:nth-child(2) {
     opacity: 0;
   }
 
-  nav :checked ~ .icono-nav .line:nth-child(3) {
+  nav :checked~.icono-nav .line:nth-child(3) {
     transform: translateY(-10px) rotate(-225deg);
   }
-  
-  .cursos_menu{
-    color: var(--accion);
+
+  .cursos_menu {
+    color: var(--grisFuentes);
     padding: 12px 20px;
     border-radius: var(--radius);
     box-shadow: var(--shadow);
+  }
+
+  nav ul li:last-child{
+    display: inline-block;
   }
 }

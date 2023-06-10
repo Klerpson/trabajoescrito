@@ -76,14 +76,7 @@ En la página web de Microsoft Office se pueden encontrar plantillas para portad
 
 Estos recursos son ideales para aquellos que buscan una portada atractiva y profesional, sin tener que preocuparse por el diseño.
 
-#### Instrucciones para la elaboración de la portada en Word
-
-Para **crear una portada en Word**, haz los siguientes pasos:
-
-1. Se debe abrir un *nuevo documento* en blanco
-2. *Establece los márgenes*, eligiendo opciones como el tamaño del papel y los márgenes superior, inferior, derecho e izquierdo.
-3. Elige el *tipo de letra y tamaño* adecuados para el título y los demás elementos
-4. *Ajusta el interlineado y el espaciado* según las normas establecidas.
+{% include cluster2.html img="portada.webp" alt="Modelo de portada" h3="Instrucciones para la elaboración de la portada en Word" punto1="Se debe abrir un *nuevo documento* en blanco" punto2="*Establece los márgenes*, eligiendo opciones como el tamaño del papel y los márgenes superior, inferior, derecho e izquierdo." punto3="Elige el *tipo de letra y tamaño* adecuados para el título y los demás elementos. *Ajusta el interlineado y el espaciado* según las normas establecidas." %}
 
 Se pueden encontrar plantillas en línea que pueden ser útiles para asegurarse de que se está siguiendo el formato correcto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
@@ -91,7 +84,7 @@ Se pueden encontrar plantillas en línea que pueden ser útiles para asegurarse 
 
 ## Descarga de plantillas de portadas
 
-![Modelo de portada]({{'img/portada.webp'|relative_url}} "Modelo de portada")
+<!-- ![Modelo de portada]({{'img/portada.webp'|relative_url}} "Modelo de portada") -->
 
 Para facilitar el proceso de diseño de la portada del trabajo escrito, se pueden encontrar plantillas de portada en línea para Word o para otros programas de procesamiento de texto.
 
@@ -122,4 +115,3 @@ La estructura y diseño de la portada y contraportada deben seguir las normas AP
 La portada debe incluir el título del trabajo, nombre del autor o autores, institución y fecha de presentación, y debe ser presentada en letra Arial de 12 puntos.
 
 **Se recomienda utilizar [una plantilla de portada](#descargas) para asegurar la uniformidad**. En cuanto al diseño, se sugiere utilizar márgenes de 2.5 cm y un interlineado de 1.5 espacios. Se deben utilizar mayúsculas y minúsculas adecuadamente, y evitar el uso de caracteres o imágenes innecesarios.
-

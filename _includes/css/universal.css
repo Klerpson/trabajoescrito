@@ -1,18 +1,15 @@
 :root {
   /*** COLORES ***/
-  --principal: #11b5e4;
-  --secundario: #1481BA;
-  --accion: #11b5e4;
-  --boton: #f9a620;
-  --complemento1: #e41111;
-  --complemento2: #14ba83;
+  --principal: #1481BA;
+  --accion: #11B5E4;
+  --secundario: #F4B942;
   --blanco: #fefefe;
+  --grisFuentes: #253439;
 
   --gris1: rgba(191, 191, 191, 1);
   --gris2: rgba(140, 140, 140, 1);
   --gris3: rgba(89, 89, 89, 1);
   --gris4: rgba(64, 64, 64, 1);
-  --grisFuentes: #253439;
 
   /*** FUENTES ***/
   --fuenteTitulos: "Special Elite", cursive;
@@ -101,9 +98,8 @@ a {
   color: var(--accion);
 }
 
-a:hover{
-  transform: scale(1.05);
-  color: var(--secundario);
+a:hover:not(.boton){
+  color: var(--principal);
 }
 
 img:not(.slide-container img){
@@ -260,18 +256,17 @@ table td, table th{
   padding: 0.7em 1.7em;
   font-size: 1.2rem;
   border-radius: 0.5em;
-  background: var(--boton);
+  background: var(--accion);
   border: 2px solid var(--grisFuentes);
   transition: all 0.3s;
   text-decoration: none;
   text-align: center;
-  color: var(--grisFuentes);
+  color: var(--blanco);
 }
 
 .boton:hover {
   box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
   transform: scale(1.05);
-  color: var(--grisFuentes);
 }
 
 .cluster {
@@ -312,13 +307,17 @@ hr:after {
   padding: 4rem 0;
   display: grid;
   background-color: var(--grisFuentes);
-  background-color: var(--grisFuentes);
   box-shadow: 0 0 0 100vmax var(--grisFuentes);
   clip-path: inset(0 -100vmax);
   text-align: center;
   place-items: center;
   max-width: 992px;
   color: var(--blanco);
+}
+
+.cta a{
+  background-color: var(--secundario);
+  color: var(--grisFuentes);
 }
 
 .cta a:hover{
@@ -352,4 +351,31 @@ header,
   clip-path: inset(0 -100vmax);
   color: var(--blanco);
   padding: 4em 0;
+}
+
+.seccion_a .links a{
+  color: var(--secundario);
+}
+
+.cluster2{
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  background-color: var(--grisFuentes);
+  box-shadow: 0 0 0 100vmax var(--grisFuentes);
+  clip-path: inset(0 -100vmax);
+  color: var(--blanco);
+  padding: 3em 0;
+  margin: 3em 0;
+}
+
+.normas_contenido .cluster2 img{
+  margin: 0;
+}
+
+.normas_contenido .cluster2 div{
+  flex: 1 0 520px;
+  max-width: 100%;
 }

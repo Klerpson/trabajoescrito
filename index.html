@@ -15,23 +15,23 @@ boton_mas_title: "Buscador"
   <div class="gallery-slider">
     <span id="left" class="next"><img src="/img/prev.svg" alt=""></span>
     <div class="slide-container">
-      <a href="{{site.baseurl}}/portada-trabajo-escrito">
+      <a href="{{site.baseurl}}/portada-trabajo-escrito" title="Portadas">
         <img src="/img/portada.svg" alt="Portada de un trabajo escrito" draggable="false">
         <p>Portadas</p>
       </a>
-      <a href="">
+      <a href="" title="Márgenes">
         <img src="/img/margenes.svg" alt="Márgenes de un trabajo escrito" draggable="false">
         <p>Márgenes</p>
       </a>
-      <a href="">
+      <a href="" title="Contenido">
         <img src="/img/tabla-de-contenido.svg" alt="Tabla de contenido de un trabajo escrito" draggable="false">
         <p>Contenido</p>
       </a>
-      <a href="">
+      <a href="" title="Fuentes o Textos">
         <img src="/img/texto.svg" alt="Textos en un trabajo escrito" draggable="false">
         <p>Textos</p>
       </a>
-      <a href="">
+      <a href="" title="Citas">
         <img src="/img/citas.svg" alt="Citas de un trabajo escrito" draggable="false">
         <p>Citas</p>
       </a>
@@ -39,7 +39,7 @@ boton_mas_title: "Buscador"
         <img src="/img/anexo.svg" alt="Anexo en un trabajo escrito" draggable="false">
         <p>Anexos</p>
       </a>
-      <a href="">
+      <a href="" title="Listas">
         <img src="/img/listas.svg" alt="Listas para un trabajo escrito" draggable="false">
         <p>Listas</p>
       </a>
@@ -59,7 +59,7 @@ boton_mas_title: "Buscador"
       <a href="{{site.baseurl}}/normas-apa" title="Normas APA"><h3>⇾ Normas APA</h3></a>
     </article>
     <article>
-      <a href="{{site.baseurl}}/normas-icontec"><h3>⇾ Normas Icontec</h3></a>
+      <a href="{{site.baseurl}}/normas-icontec" title="Normas Icontec"><h3>⇾ Normas Icontec</h3></a>
     </article>
   </div>
   <!-- Anclaje para que el subtitulo no quede detrás de la barra superior -->
@@ -186,25 +186,25 @@ boton_mas_title: "Buscador"
     <p>Hay muchas clases de trabajos escritos. Te enseñamos sobre los más conocidos. Haz clic en el tipo de Trabajos Escrito que estás buscando:</p>
     <div class="links">
       <article>
-        <a href="#"><h3>⇾ Ensayos</h3></a>
+        <a href="#" title="Ensayos"><h3>⇾ Ensayos</h3></a>
       </article>
       <article>
-        <a href="#"><h3>⇾ Tesis</h3></a>
+        <a href="#" title="Tesis"><h3>⇾ Tesis</h3></a>
       </article>
       <article>
-        <a href="#"><h3>⇾ Investigación</h3></a>
+        <a href="#" title="Investigación"><h3>⇾ Investigación</h3></a>
       </article>
       <article>
-        <a href="#"><h3>⇾ Cartas</h3></a>
+        <a href="#" title="Cartas"><h3>⇾ Cartas</h3></a>
       </article>
       <article>
-        <a href="{{site.baseurl}}/informes"><h3>⇾ Informe</h3></a>
+        <a href="{{site.baseurl}}/informes" title="Informe"><h3>⇾ Informe</h3></a>
       </article>
       <article>
-        <a href="#"><h3>⇾ Monografía</h3></a>
+        <a href="#" title="Monografía"><h3>⇾ Monografía</h3></a>
       </article>
       <article>
-        <a href="#"><h3>⇾ Artículo</h3></a>
+        <a href="#" title="Artículo"><h3>⇾ Artículo</h3></a>
       </article>
     </div>
     </section>
@@ -218,7 +218,7 @@ boton_mas_title: "Buscador"
       {% assign post1 = site.posts[0] %}
       <article>
         <img src="{{ site.baseurl }}/img/{{ post1.webp }}" alt="{{ post1.alt }}" loading="lazy">
-        <a href="{{site.baseurl}}{{ post1.url }}">
+        <a href="{{site.baseurl}}{{ post1.url }}" title="{{post1.title}}">
           <h4>{{ post1.h1 }}</h4>
         </a>
         {{ post1.excerpt | truncate: 80 | markdownify}}
@@ -226,7 +226,7 @@ boton_mas_title: "Buscador"
       {% assign post2 = site.posts[1] %}
       <article>
         <img src="{{ site.baseurl }}/img/{{ post2.webp }}" alt="{{ post2.alt }}" loading="lazy">
-        <a href="{{site.baseurl}}{{ post2.url }}">
+        <a href="{{site.baseurl}}{{ post2.url }}" title="{{post2.title}}">
           <h4>{{ post2.h1 }}</h4>
         </a>
         {{ post2.excerpt | truncate: 80 | markdownify}}
@@ -234,7 +234,7 @@ boton_mas_title: "Buscador"
       {% assign post3 = site.posts[2] %}
       <article>
         <img src="{{ site.baseurl }}/img/{{ post3.webp }}" alt="{{ post3.alt }}" loading="lazy">
-        <a href="{{site.baseurl}}{{ post3.url }}">
+        <a href="{{site.baseurl}}{{ post3.url }}" title="{{post3.title}}">
           <h4>{{ post3.h1 }}</h4>
         </a>
         {{ post3.excerpt | truncate: 80 | markdownify}}
@@ -242,7 +242,7 @@ boton_mas_title: "Buscador"
       {% assign post4 = site.posts[3] %}
       <article>
         <img src="{{ site.baseurl }}/img/{{ post4.webp }}" alt="{{ post4.alt }}" loading="lazy">
-        <a href="{{site.baseurl}}{{ post4.url }}">
+        <a href="{{site.baseurl}}{{ post4.url }}" title="{{post4.title}}">
           <h4>{{ post4.h1 }}</h4>
         </a>
         {{ post4.excerpt | truncate: 80 | markdownify}}
