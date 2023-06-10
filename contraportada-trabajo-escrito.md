@@ -42,6 +42,14 @@ La contraportada debe contener información sobre *el título del trabajo, el au
 Se puede incluir una foto o una imagen relacionada con el proyecto.
 
 Puedes incluir elementos adicionales como **la cita de algún fragmento relevante del trabajo, la identificación de la versión de trabajo (borrador, primera versión, etc.) y la información del financiamiento** si aplica.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
+
+## ¿Necesitas plantillas de contraportadas?
+
+Estamos preparando plantillas para que se te haga más fácil inspirarte en una buena contraportada para tu trabajo escrito.
+
+### La contraportada, un detalle para no pasar por alto
 
 Además, la contraportada puede incluir información adicional sobre el trabajo, como el número de páginas, el número de palabras y/o cualquier otra información relevante.
 

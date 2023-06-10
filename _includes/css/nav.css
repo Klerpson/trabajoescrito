@@ -34,7 +34,7 @@ nav ul li a,
 nav ul li summary {
   text-decoration: none;
   display: block;
-  padding: 8px 16px;
+  padding: 8px 12px;
   font-weight: 900;
   color: var(--accion);
   cursor: pointer;
@@ -101,7 +101,7 @@ nav ul li:last-child{
   display: none;
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
   nav .logo {
     float: none;
     width: auto;
