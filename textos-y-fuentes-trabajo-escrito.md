@@ -7,7 +7,7 @@ intro: "En el mundo de los trabajos escritos, la elección de la tipografía ade
 boton_info: estructura
 boton_info_title: Normas
 boton_mas: descargas
-boton_mas_title: Plantillas
+boton_mas_title: Tips
 vertical: "true"
 permalink: textos-y-fuentes-trabajo-escrito
 ---
@@ -18,6 +18,8 @@ Aprende a elegir los textos o fuentes apropiadas para tus ensayos, informes y pr
 Los estudios demuestran que **la elección de la tipografía adecuada puede influir en la comprensión y percepción** de un texto. Los lectores tienden a sentirse más atraídos y comprometidos con documentos que utilizan fuentes legibles y estéticamente agradables.
 
 Las fuentes seleccionadas deben transmitir la **formalidad** y la **seriedad** requeridas en los trabajos académicos. Aquí es donde entra en juego la selección de las fuentes adecuadas.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ## Factores a considerar al elegir las fuentes para tus trabajos escritos
 
@@ -80,6 +82,8 @@ Times New Roman **transmite formalidad y se asocia con la seriedad** requerida e
 Similar a Times New Roman pero con un toque más elegante, Georgia es una fuente serif que combina legibilidad y estética.
 
 Es una excelente opción si deseas darle a tus trabajos escritos **un aspecto más sofisticado**.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Adaptando el texto del trabajo a tus necesidades
 
