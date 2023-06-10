@@ -27,7 +27,7 @@ boton_mas_title: "Buscador"
         <img src="/img/tabla-de-contenido.svg" alt="Tabla de contenido de un trabajo escrito" draggable="false">
         <p>Contenido</p>
       </a>
-      <a href="" title="Fuentes o Textos">
+      <a href="{{site.baseurl}}/textos-y-fuentes-trabajo-escrito" title="Fuentes o Textos">
         <img src="/img/texto.svg" alt="Textos en un trabajo escrito" draggable="false">
         <p>Textos</p>
       </a>
@@ -85,7 +85,7 @@ boton_mas_title: "Buscador"
         <a href="#" class="boton" title="Sangría">Sangría</a>
       </li>
       <li>
-        <a href="#" class="boton" title="Texto">Texto</a>
+        <a href="{{site.baseurl}}/textos-y-fuentes-trabajo-escrito" class="boton" title="Texto">Texto</a>
       </li>
     </ul>
   <p><b>RECUERDA:</b> La correcta selección del formato contribuye a una presentación visualmente atractiva y ordenada del contenido, mejorando la experiencia de lectura de tu trabajo.</p>
@@ -211,13 +211,13 @@ boton_mas_title: "Buscador"
 
   <section class="entradas">
     <h2 class="entrada1">Te damos más tips</h2>
-    <span class="entrada2"><img src="{{'img/blog.svg'|relative_url}}" alt="Blog de TrabajoEscrito.com"></span>
+    <span class="entrada2"><img loading="lazy" src="{{'img/blog.svg'|relative_url}}" alt="Blog de TrabajoEscrito.com"></span>
     <p class="entrada3">Aprende muchos tips, consejos y trucos con nuestro blog de TrabajoEscrito.com</p>
     <h2 class="entrada4">para tu Trabajo Escrito</h2>
     <div class="entradas-blog">
       {% assign post1 = site.posts[0] %}
       <article>
-        <img src="{{ site.baseurl }}/img/{{ post1.webp }}" alt="{{ post1.alt }}" loading="lazy">
+        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post1.webp }}" alt="{{ post1.alt }}" loading="lazy">
         <a href="{{site.baseurl}}{{ post1.url }}" title="{{post1.title}}">
           <h4>{{ post1.h1 }}</h4>
         </a>
@@ -225,7 +225,7 @@ boton_mas_title: "Buscador"
       </article>
       {% assign post2 = site.posts[1] %}
       <article>
-        <img src="{{ site.baseurl }}/img/{{ post2.webp }}" alt="{{ post2.alt }}" loading="lazy">
+        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post2.webp }}" alt="{{ post2.alt }}" loading="lazy">
         <a href="{{site.baseurl}}{{ post2.url }}" title="{{post2.title}}">
           <h4>{{ post2.h1 }}</h4>
         </a>
@@ -233,7 +233,7 @@ boton_mas_title: "Buscador"
       </article>
       {% assign post3 = site.posts[2] %}
       <article>
-        <img src="{{ site.baseurl }}/img/{{ post3.webp }}" alt="{{ post3.alt }}" loading="lazy">
+        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post3.webp }}" alt="{{ post3.alt }}" loading="lazy">
         <a href="{{site.baseurl}}{{ post3.url }}" title="{{post3.title}}">
           <h4>{{ post3.h1 }}</h4>
         </a>
@@ -241,7 +241,7 @@ boton_mas_title: "Buscador"
       </article>
       {% assign post4 = site.posts[3] %}
       <article>
-        <img src="{{ site.baseurl }}/img/{{ post4.webp }}" alt="{{ post4.alt }}" loading="lazy">
+        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post4.webp }}" alt="{{ post4.alt }}" loading="lazy">
         <a href="{{site.baseurl}}{{ post4.url }}" title="{{post4.title}}">
           <h4>{{ post4.h1 }}</h4>
         </a>

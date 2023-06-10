@@ -11,7 +11,7 @@ boton_mas_title: Plantillas
 vertical: "true"
 permalink: textos-y-fuentes-trabajo-escrito
 ---
- Si estás buscando consejos sobre cómo seleccionar las fuentes ideales para tus trabajos académicos, has llegado al lugar correcto. En esta guía, aprenderás a elegir los textos o fuentes apropiadas para tus ensayos, informes y proyectos de investigación, asegurando así una presentación profesional y una experiencia de lectura 
+Aprende a elegir los textos o fuentes apropiadas para tus ensayos, informes y proyectos de investigación, asegurando así una presentación profesional y una experiencia de lectura 
  
 Sección 1: Importancia de la elección de la tipografía en los trabajos escritos
 

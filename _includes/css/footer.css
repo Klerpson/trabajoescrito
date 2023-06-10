@@ -38,7 +38,7 @@ footer div{
 }
 
 footer div img{
-  width: 100%;
+  max-width: 120px;
 }
 
 footer section p{
