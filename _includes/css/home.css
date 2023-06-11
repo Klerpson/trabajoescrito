@@ -1,7 +1,3 @@
-.normas a{
-  color: var(--boton);
-}
-
 .links{
   display: flex;
   gap: 1rem 3rem ;

@@ -78,6 +78,7 @@ h4 {
   font-size: clamp(1.25rem, 0.8vw + 1rem, 1.5rem);
 }
 
+h5,
 p,
 .post-content li,
 .normas_contenido li {
@@ -334,7 +335,6 @@ header,
 
 .seccion_a{
   background-color: var(--grisFuentes);
-  background-color: var(--grisFuentes);
   box-shadow: 0 0 0 100vmax var(--grisFuentes);
   clip-path: inset(0 -100vmax);
   color: var(--blanco);
@@ -357,13 +357,4 @@ header,
   color: var(--blanco);
   padding: 3em 0;
   margin: 3em 0;
-}
-
-.normas_contenido .cluster2 img{
-  margin: 0;
-}
-
-.normas_contenido .cluster2 div{
-  flex: 1 0 520px;
-  max-width: 100%;
 }
