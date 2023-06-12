@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Mon, 12 Jun 2023 11:42:14 -0500</pubDate>
-    <lastBuildDate>Mon, 12 Jun 2023 11:42:14 -0500</lastBuildDate>
+    <pubDate>Mon, 12 Jun 2023 14:24:27 -0500</pubDate>
+    <lastBuildDate>Mon, 12 Jun 2023 14:24:27 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -204,63 +204,86 @@
       </item>
     
       <item>
-        <title>Tips para la presentación exitosa de Trabajos Escritos</title>
+        <title>Tips para la presentación exitosa de Trabajos Escritos ✓</title>
         <description>&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#formato-de-un-trabajo-escrito&quot; id=&quot;markdown-toc-formato-de-un-trabajo-escrito&quot;&gt;Formato de un Trabajo Escrito&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cómo-crear-una-presentación-exitosa&quot; id=&quot;markdown-toc-cómo-crear-una-presentación-exitosa&quot;&gt;Cómo Crear una presentación exitosa&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#determina-tu-audiencia&quot; id=&quot;markdown-toc-determina-tu-audiencia&quot;&gt;Determina tu audiencia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#prepara-un-esquema-de-tu-presentación&quot; id=&quot;markdown-toc-prepara-un-esquema-de-tu-presentación&quot;&gt;Prepara un esquema de tu presentación&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#elabora-un-borrador-de-tu-presentación&quot; id=&quot;markdown-toc-elabora-un-borrador-de-tu-presentación&quot;&gt;Elabora un borrador de tu presentación&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#revisa-y-edita-tu-presentación&quot; id=&quot;markdown-toc-revisa-y-edita-tu-presentación&quot;&gt;Revisa y edita tu presentación&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cómo-presentar-un-trabajo-escrito-de-manera-efectiva&quot; id=&quot;markdown-toc-cómo-presentar-un-trabajo-escrito-de-manera-efectiva&quot;&gt;Cómo presentar un Trabajo Escrito de manera efectiva&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#ahora-sí-presenta-tu-trabajo-escrito&quot; id=&quot;markdown-toc-ahora-sí-presenta-tu-trabajo-escrito&quot;&gt;Ahora sí presenta tu Trabajo Escrito&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;hr /&gt;
 
-&lt;p&gt;Preparar y presentar un trabajo escrito exitoso es una habilidad esencial que se necesita tanto en la academia como en el mundo profesional.  No importa si estás preparando un informe de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.&lt;/p&gt;
+&lt;p&gt;No importa si estás preparando un informe de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.&lt;/p&gt;
 
-&lt;p&gt;Formato de un Trabajo Escrito&lt;/p&gt;
+&lt;h2 id=&quot;formato-de-un-trabajo-escrito&quot;&gt;Formato de un Trabajo Escrito&lt;/h2&gt;
 
 &lt;p&gt;Es esencial entender la importancia de la estructura y el formato al presentar un trabajo escrito. Para una presentación de alto impacto, considera lo siguiente:&lt;/p&gt;
 
-&lt;p&gt;Utiliza papel blanco y escribe en un solo lado: Esto garantiza que tu trabajo sea limpio y legible.&lt;/p&gt;
-
-&lt;p&gt;Deja márgenes adecuados: Esto te ayudará a mantener el texto centrado y agradable a la vista.&lt;/p&gt;
-
-&lt;p&gt;Organiza tu texto en párrafos: Cada párrafo debe tratar una idea principal. Asegúrate de cambiar de párrafo cuando introduzcas una nueva idea.&lt;/p&gt;
-
-&lt;p&gt;Evita los tachones: Piensa bien antes de escribir para evitar tachar palabras o frases.&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Utiliza papel blanco y escribe en un solo lado&lt;/strong&gt;: Esto garantiza que tu trabajo sea limpio y legible.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Deja márgenes adecuados&lt;/strong&gt;: Esto te ayudará a mantener el texto centrado y agradable a la vista.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Organiza tu texto en párrafos&lt;/strong&gt;: Cada párrafo debe tratar una idea principal. Asegúrate de cambiar de párrafo cuando introduzcas una nueva idea.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Evita los tachones&lt;/strong&gt;: Piensa bien antes de escribir para evitar tachar palabras o frases.&lt;/li&gt;
+&lt;/ol&gt;
 
 &lt;p&gt;Además, la presentación de un trabajo escrito debe contener:&lt;/p&gt;
 
-&lt;p&gt;Portada
-Índice o tabla de contenidos
-Introducción
-Cuerpo del trabajo
-Conclusiones
-Anexos (si es necesario)
-Bibliografía
-Cómo Crear una Presentación Exitosa&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;/portada-trabajo-escrito&quot;&gt;Portada&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/tabla-de-contenido-trabajo-escrito&quot;&gt;Índice o tabla de contenidos&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Introducción&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/cuerpo-trabajo-escrito&quot;&gt;Cuerpo del trabajo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/conclusiones-trabajo-escrito&quot;&gt;Conclusiones&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/anexos-trabajo-escrito&quot;&gt;Anexos&lt;/a&gt; (si es necesario)&lt;/li&gt;
+  &lt;li&gt;Bibliografía&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;cómo-crear-una-presentación-exitosa&quot;&gt;Cómo Crear una presentación exitosa&lt;/h2&gt;
 
 &lt;p&gt;Crear una presentación exitosa requiere planificación y estrategia. Aquí hay algunos pasos clave para ayudarte a crear una presentación que capte la atención de tu audiencia y presente de manera efectiva tu trabajo escrito:&lt;/p&gt;
 
-&lt;p&gt;Determina tu audiencia: Antes de empezar, es importante que entiendas a quién va dirigida tu presentación. Esto te ayudará a ajustar el tono y el contenido de tu presentación para hacerla más atractiva y efectiva.&lt;/p&gt;
+&lt;h3 id=&quot;determina-tu-audiencia&quot;&gt;Determina tu audiencia&lt;/h3&gt;
 
-&lt;p&gt;Prepara un esquema de tu presentación: Un esquema te ayuda a organizar tus ideas y a asegurarte de que cubres todos los puntos importantes.&lt;/p&gt;
+&lt;p&gt;Antes de empezar, es importante que entiendas &lt;strong&gt;a quién va dirigida tu presentación&lt;/strong&gt;.&lt;/p&gt;
 
-&lt;p&gt;Elabora un borrador de tu presentación: Escribe un borrador de tu presentación para tener una idea de cómo se verá el producto final.&lt;/p&gt;
+&lt;p&gt;Esto te ayudará a ajustar el tono y el contenido de tu presentación para hacerla más atractiva y efectiva.&lt;/p&gt;
 
-&lt;p&gt;Revisa y edita tu presentación: Asegúrate de revisar y editar tu presentación antes de entregarla. Busca errores gramaticales y de ortografía, y asegúrate de que tu presentación sea coherente y fácil de seguir.&lt;/p&gt;
+&lt;h3 id=&quot;prepara-un-esquema-de-tu-presentación&quot;&gt;Prepara un esquema de tu presentación&lt;/h3&gt;
 
-&lt;p&gt;Cómo Presentar un Trabajo Escrito de Manera Efectiva&lt;/p&gt;
+&lt;p&gt;Un esquema &lt;strong&gt;te ayuda a organizar tus ideas&lt;/strong&gt; y a asegurarte de que cubres todos los puntos importantes.&lt;/p&gt;
+
+&lt;h3 id=&quot;elabora-un-borrador-de-tu-presentación&quot;&gt;Elabora un borrador de tu presentación&lt;/h3&gt;
+
+&lt;p&gt;Escribe un borrador de tu presentación &lt;strong&gt;para tener una idea de cómo se verá&lt;/strong&gt; el producto final.&lt;/p&gt;
+
+&lt;h3 id=&quot;revisa-y-edita-tu-presentación&quot;&gt;Revisa y edita tu presentación&lt;/h3&gt;
+
+&lt;p&gt;Asegúrate de revisar y editar tu presentación antes de entregarla. &lt;strong&gt;Busca errores&lt;/strong&gt; gramaticales y de ortografía, y asegúrate de que tu presentación sea coherente y fácil de seguir.&lt;/p&gt;
+
+&lt;h2 id=&quot;cómo-presentar-un-trabajo-escrito-de-manera-efectiva&quot;&gt;Cómo presentar un Trabajo Escrito de manera efectiva&lt;/h2&gt;
 
 &lt;p&gt;Presentar un trabajo escrito de manera efectiva puede ser un reto, pero con los consejos y técnicas adecuados, puedes destacar:&lt;/p&gt;
 
-&lt;p&gt;Define el tema principal de la presentación: Este será el eje central de tu presentación, por lo que debe estar claramente definido y comunicado.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Define el tema principal de la presentación:&lt;/strong&gt; Este será el eje central de tu presentación, por lo que debe estar claramente definido y comunicado.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Busca y selecciona información relevante:&lt;/strong&gt; El contenido de tu presentación debe ser relevante para el tema principal. Asegúrate de investigar y seleccionar solo la información más relevante.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Utiliza ayudas visuales:&lt;/strong&gt; Las ayudas visuales, como las diapositivas de PowerPoint, pueden hacer que tu presentación sea más interesante y atractiva.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Practica tu presentación:&lt;/strong&gt; Antes de la presentación real, practica frente a un espejo o con amigos o familiares para obtener feedback y ganar confianza.&lt;/li&gt;
+&lt;/ul&gt;
 
-&lt;p&gt;Busca y selecciona información relevante: El contenido de tu presentación debe ser relevante para el tema principal. Asegúrate de investigar y seleccionar solo la información más relevante.&lt;/p&gt;
-
-&lt;p&gt;Utiliza ayudas visuales: Las ayudas visuales, como las diapositivas de PowerPoint, pueden hacer que tu presentación sea más interesante y atractiva.&lt;/p&gt;
-
-&lt;p&gt;Practica tu presentación: Antes de la presentación real, practica frente a un espejo o con amigos o familiares para obtener feedback y ganar confianza.&lt;/p&gt;
-
-&lt;p&gt;Conclusión&lt;/p&gt;
+&lt;h2 id=&quot;ahora-sí-presenta-tu-trabajo-escrito&quot;&gt;Ahora sí presenta tu Trabajo Escrito&lt;/h2&gt;
 
 &lt;p&gt;Crear y presentar un trabajo escrito no tiene por qué ser una tarea abrumadora. Con la preparación adecuada y las técnicas correctas, puedes presentar un trabajo que no solo cumpla con las expectativas de tu profesor o jefe, sino que también te haga destacar.&lt;/p&gt;
 
-&lt;p&gt;Este artículo ha sido diseñado para superar los desafíos que enfrentan muchos estudiantes y profesionales al preparar trabajos escritos y presentaciones. Asegúrate de seguir estos consejos y técnicas para que puedas presentar un trabajo de alta calidad que impresione a tu audiencia.&lt;/p&gt;
+&lt;p&gt;Este artículo ha sido diseñado para superar los desafíos que enfrentan muchos estudiantes y profesionales al preparar trabajos escritos y presentaciones. Asegúrate de seguir estos consejos y técnicas &lt;strong&gt;para que puedas presentar un trabajo de alta calidad que impresione a tu audiencia&lt;/strong&gt;.&lt;/p&gt;
 
 &lt;p&gt;Finalmente, recuerda que la clave para una presentación exitosa es la preparación y la práctica. Cuanto más te prepares y practiques, más cómodo te sentirás al presentar tu trabajo escrito. ¡Buena suerte!&lt;/p&gt;
 </description>
@@ -274,50 +297,6 @@ Cómo Crear una Presentación Exitosa&lt;/p&gt;
         
         
         <category>Blog</category>
-        
-      </item>
-    
-      <item>
-        <title>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati, placeat architecto unde ratione tempore libero dolore, non impedit iusto, doloremque laboriosam eveniet? Explicabo est architecto dignissimos, nihil autem enim quibusdam molestiae neque reprehenderit sed sit odio quia nulla, alias inventore harum ipsum repellat ad sapiente? Facere, eum perspiciatis? Provident error accusantium cupiditate. Maxime nulla nisi veritatis nemo obcaecati animi necessitatibus asperiores aliquid ipsum iure accusamus, dolorum eos earum est nihil voluptatum ullam corporis dolores perspiciatis in temporibus. Sed perspiciatis iusto iste repudiandae velit ea ullam assumenda vel maiores officiis cum totam ad voluptate ipsum dolorum et adipisci nisi, autem reiciendis. Iure odio eum, voluptate amet unde ipsam quibusdam sequi ex? Ab sit sint, reprehenderit at asperiores, autem amet voluptatem beatae nesciunt aut suscipit tenetur repellendus nulla! Ipsam cupiditate earum similique, quos ullam asperiores ea sed eius mollitia, quaerat voluptas fuga inventore repellendus odio unde suscipit ipsum quam ut maxime nemo distinctio explicabo doloribus? Nulla excepturi autem animi, eveniet perferendis nemo cum qui sed nihil, ab harum consequatur quidem vitae commodi dolores neque. Nisi laudantium odit quisquam ullam perspiciatis rerum aspernatur debitis dignissimos, veniam iure ea repellendus voluptatibus unde quod sit error. Facilis dolores provident qui blanditiis impedit, eaque earum assumenda! Iusto autem, porro vero ullam accusamus exercitationem harum debitis ut excepturi omnis ipsa. Tempore eveniet aliquid illo ad unde obcaecati saepe! Consequuntur aut culpa, ad nulla quam quibusdam voluptates rem, alias impedit tempore minima, quos ipsa dignissimos fuga laboriosam inventore laborum magni deleniti numquam temporibus omnis ullam! Quaerat dolorum accusantium ipsum ratione repellat laboriosam incidunt? Non eos, laudantium nobis deserunt placeat minima veritatis! Accusantium, laborum praesentium necessitatibus doloremque consequuntur blanditiis enim fuga quo vel voluptatum corporis et delectus debitis eveniet inventore commodi assumenda dignissimos aliquam laudantium iste fugiat reiciendis illum! Sunt, alias dignissimos laborum atque omnis iste repellat quo nesciunt voluptas soluta, iusto modi ipsa? Id minima, ipsum excepturi possimus numquam accusantium aut explicabo, eos consequatur dolorum cupiditate voluptate temporibus perspiciatis! Quasi nemo consectetur debitis aliquid voluptatem magnam perferendis, sint alias dolores, quas praesentium rem, quos laboriosam voluptatibus est aut nam non omnis? Dolorum unde distinctio quam harum nostrum quibusdam nemo, earum quidem recusandae laboriosam accusantium dolore sequi vero consequuntur, odit possimus suscipit ut at nisi maxime cum? Perspiciatis cum deserunt quasi harum, fugit asperiores accusantium iure enim voluptatum eum architecto dolorum ullam, incidunt vero, facilis aspernatur aliquam accusamus a iste qui! Deserunt, doloremque consequuntur sapiente delectus assumenda dolorem ipsam unde, voluptates repudiandae, nostrum totam! Hic vel debitis vero modi odit quos ipsum, qui sunt molestiae quasi fugit. Ipsa omnis laborum laudantium placeat earum consectetur, voluptates asperiores quaerat ut explicabo, sunt eos? Autem suscipit voluptatum explicabo sequi accusantium accusamus, exercitationem ipsam, nam a dignissimos nostrum impedit rem eligendi maxime, nesciunt quaerat obcaecati eos eum corporis quo. Sequi rem consequatur deleniti eum ipsum quos laudantium incidunt officiis corporis commodi ut, voluptatum mollitia maiores deserunt natus, fugiat rerum distinctio atque dolor! Aut aspernatur quibusdam commodi omnis ab ut aliquid inventore!&lt;/p&gt;
-</description>
-        <pubDate>Fri, 03 Feb 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/trabajo-escrito-segundo-post</link>
-        <guid isPermaLink="true">http://localhost:4000/trabajo-escrito-segundo-post</guid>
-        
-        
-        <category>lorem</category>
-        
-        <category>yayo</category>
-        
-        <category>popo</category>
-        
-        
-        
-        <category>hoteles</category>
-        
-      </item>
-    
-      <item>
-        <title>Haz conclusiones memorables en un Trabajo Escrito ✓ PENDIENTE</title>
-        <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati, placeat architecto unde ratione tempore libero dolore, non impedit iusto, doloremque laboriosam eveniet? Explicabo est architecto dignissimos, nihil autem enim quibusdam molestiae neque reprehenderit sed sit odio quia nulla, alias inventore harum ipsum repellat ad sapiente? Facere, eum perspiciatis? Provident error accusantium cupiditate. Maxime nulla nisi veritatis nemo obcaecati animi necessitatibus asperiores aliquid ipsum iure accusamus, dolorum eos earum est nihil voluptatum ullam corporis dolores perspiciatis in temporibus. Sed perspiciatis iusto iste repudiandae velit ea ullam assumenda vel maiores officiis cum totam ad voluptate ipsum dolorum et adipisci nisi, autem reiciendis. Iure odio eum, voluptate amet unde ipsam quibusdam sequi ex? Ab sit sint, reprehenderit at asperiores, autem amet voluptatem beatae nesciunt aut suscipit tenetur repellendus nulla! Ipsam cupiditate earum similique, quos ullam asperiores ea sed eius mollitia, quaerat voluptas fuga inventore repellendus odio unde suscipit ipsum quam ut maxime nemo distinctio explicabo doloribus? Nulla excepturi autem animi, eveniet perferendis nemo cum qui sed nihil, ab harum consequatur quidem vitae commodi dolores neque. Nisi laudantium odit quisquam ullam perspiciatis rerum aspernatur debitis dignissimos, veniam iure ea repellendus voluptatibus unde quod sit error. Facilis dolores provident qui blanditiis impedit, eaque earum assumenda! Iusto autem, porro vero ullam accusamus exercitationem harum debitis ut excepturi omnis ipsa. Tempore eveniet aliquid illo ad unde obcaecati saepe! Consequuntur aut culpa, ad nulla quam quibusdam voluptates rem, alias impedit tempore minima, quos ipsa dignissimos fuga laboriosam inventore laborum magni deleniti numquam temporibus omnis ullam! Quaerat dolorum accusantium ipsum ratione repellat laboriosam incidunt? Non eos, laudantium nobis deserunt placeat minima veritatis! Accusantium, laborum praesentium necessitatibus doloremque consequuntur blanditiis enim fuga quo vel voluptatum corporis et delectus debitis eveniet inventore commodi assumenda dignissimos aliquam laudantium iste fugiat reiciendis illum! Sunt, alias dignissimos laborum atque omnis iste repellat quo nesciunt voluptas soluta, iusto modi ipsa? Id minima, ipsum excepturi possimus numquam accusantium aut explicabo, eos consequatur dolorum cupiditate voluptate temporibus perspiciatis! Quasi nemo consectetur debitis aliquid voluptatem magnam perferendis, sint alias dolores, quas praesentium rem, quos laboriosam voluptatibus est aut nam non omnis? Dolorum unde distinctio quam harum nostrum quibusdam nemo, earum quidem recusandae laboriosam accusantium dolore sequi vero consequuntur, odit possimus suscipit ut at nisi maxime cum? Perspiciatis cum deserunt quasi harum, fugit asperiores accusantium iure enim voluptatum eum architecto dolorum ullam, incidunt vero, facilis aspernatur aliquam accusamus a iste qui! Deserunt, doloremque consequuntur sapiente delectus assumenda dolorem ipsam unde, voluptates repudiandae, nostrum totam! Hic vel debitis vero modi odit quos ipsum, qui sunt molestiae quasi fugit. Ipsa omnis laborum laudantium placeat earum consectetur, voluptates asperiores quaerat ut explicabo, sunt eos? Autem suscipit voluptatum explicabo sequi accusantium accusamus, exercitationem ipsam, nam a dignissimos nostrum impedit rem eligendi maxime, nesciunt quaerat obcaecati eos eum corporis quo. Sequi rem consequatur deleniti eum ipsum quos laudantium incidunt officiis corporis commodi ut, voluptatum mollitia maiores deserunt natus, fugiat rerum distinctio atque dolor! Aut aspernatur quibusdam commodi omnis ab ut aliquid inventore!&lt;/p&gt;
-</description>
-        <pubDate>Wed, 01 Feb 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/aaaa-aaaa-aaaa-aaaa</link>
-        <guid isPermaLink="true">http://localhost:4000/aaaa-aaaa-aaaa-aaaa</guid>
-        
-        
-        <category>Exterttoenmae</category>
-        
-        <category>ipsum</category>
-        
-        <category>yayo</category>
-        
-        <category>popo</category>
-        
-        
-        
-        <category>lorem</category>
         
       </item>
     
