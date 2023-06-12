@@ -9,8 +9,6 @@ webp: apa.webp
 alt: Lorem ipsum dolor sit amet
 excerpt: Te enseñamos una serie de claves para garantizar que tus presentaciones escritas sean coherentes, atractivas y efectivas.
 ---
------
-
 **Atajos:**
 * Do not remove this line (it will not be displayed)
 {:toc}
