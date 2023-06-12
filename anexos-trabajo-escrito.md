@@ -32,20 +32,32 @@ Los anexos pueden variar **según el tipo de trabajo escrito y la disciplina aca
 
 Estos ejemplos son solo una guía, y los anexos pueden variar según las necesidades específicas del trabajo y las indicaciones proporcionadas por el instructor o la institución.
 
-**¿Cómo Hacer y Presentar los Anexos?**
+## ¿Cómo Hacer y Presentar los Anexos?
 
 A continuación, se presentan algunos consejos prácticos sobre cómo hacer y presentar los anexos en un trabajo escrito:
 
-1. Organización y numeración: Enumera los anexos de manera consecutiva utilizando letras mayúsculas (Anexo A, Anexo B, etc.) o números (Anexo 1, Anexo 2, etc.) para facilitar su referencia en el texto principal.
-2. Referencias en el texto: Durante el cuerpo principal del trabajo, menciona claramente los anexos relevantes cuando sea necesario. Por ejemplo, puedes incluir frases como "consulte el Anexo A para obtener más detalles" o "los resultados se presentan en el Anexo 1".
-3. Formato y presentación: Asegúrate de seguir las directrices de formato y estilo establecidas por tu institución académica. Los anexos generalmente se presentan después de las conclusiones o la bibliografía y se numeran o titulan claramente para su fácil identificación.
+### Organización y numeración
 
-**Ubicación de los Anexos en un Trabajo Escrito**
+Enumera los anexos de manera consecutiva utilizando letras mayúsculas (Anexo A, Anexo B, etc.) o números (Anexo 1, Anexo 2, etc.) para facilitar su referencia en el texto principal.
 
-Los anexos se ubican al final del trabajo escrito, después de las conclusiones o la bibliografía. Puedes presentarlos en una sección separada titulada "Anexos" o "Apéndices". Asegúrate de numerar o titular cada anexo de manera clara para que los lectores puedan referirse a ellos fácilmente.
+### Referencias en el texto
+
+Durante el cuerpo principal del trabajo, menciona claramente los anexos relevantes cuando sea necesario. Por ejemplo, puedes incluir frases como "consulte el Anexo A para obtener más detalles" o "los resultados se presentan en el Anexo 1".
+
+### Formato y presentación
+
+Asegúrate de seguir las directrices de formato y estilo establecidas por tu institución académica. Los anexos generalmente se presentan después de las conclusiones o la bibliografía y se numeran o titulan claramente para su fácil identificación.
+
+## Ubicación de los anexos en un Trabajo Escrito
+
+Los anexos se ubican **al final del trabajo escrito, después de las conclusiones o la bibliografía**. Puedes presentarlos en una sección separada titulada "Anexos" o "Apéndices".
+
+Asegúrate de numerar o titular cada anexo de manera clara para que los lectores puedan referirse a ellos fácilmente.
 
 ## Puntos finales sobre los anexos en un Trabajo Escrito
 
-En resumen, los anexos son elementos complementarios que se adjuntan a un trabajo escrito para brindar información adicional y respaldo a los datos presentados. Son una herramienta valiosa para respaldar argumentos, proporcionar detalles adicionales y mejorar la credibilidad de un trabajo académico. Al seguir las pautas adecuadas para hacer y presentar los anexos, puedes enriquecer la calidad de tu trabajo escrito y brindar una experiencia de usuario más completa a tus lectores.
+En resumen, los anexos son elementos complementarios que se adjuntan a un trabajo escrito para brindar información adicional y respaldo a los datos presentados.
+
+Los anexos son una herramienta valiosa para respaldar argumentos, proporcionar detalles adicionales y mejorar la credibilidad de un trabajo académico. Al seguir las pautas adecuadas para hacer y presentar los anexos, puedes **enriquecer la calidad de tu trabajo escrito y brindar una experiencia de usuario más completa** a tus lectores.
 
 Recuerda consultar las directrices específicas de tu institución académica o el estilo de citación requerido para asegurarte de seguir las normas establecidas al incluir anexos en tu trabajo escrito.
