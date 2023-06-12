@@ -135,6 +135,11 @@ La cita de cita se utiliza para citar información que has encontrado en una fue
 
 [Más sobre las citas](# "Citas"){:class="boton"}
 
+## Listas
+
+CONTENIDO SOBRE LAS LISTAS SEGÚN NORMAS APA
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+
 ## Reglas específicas de las normas APA en algunos tipos de trabajos académicos
 
 Las normas APA también establecen reglas específicas para algunos tipos de trabajos escritos, como tesis, trabajos de grado y monografías, y artículos científicos. A continuación, se detallan algunas de estas reglas:
