@@ -10,40 +10,52 @@ boton_mas: "descargas"
 boton_mas_title: "Estándar"
 vertical: true
 ---
-# : Un Recorrido Paso a Paso
+## Preparando el título ideal
 
-## Comienzo del Viaje hacia el Título Ideal:
+En la travesía académica, la creación del **"título de un trabajo escrito"** representa una de las etapas más cruciales, pues es la primera impresión que los lectores tienen de tu obra.
 
-En la travesía académica, la creación del **"título de un trabajo escrito"** representa una de las etapas más cruciales, pues es la primera impresión que los lectores tienen de tu obra. Ya sea para una tesis, un ensayo o un artículo científico, aquí te ofrecemos una guía para articular el título perfecto.
+Si estás haciendo una tesis, un ensayo o un artículo científico, aquí te ofrecemos una guía para articular el título perfecto.
 
-### Paso 1: Conocimiento y Público Objetivo:
+### Paso 1: Conocimiento y público objetivo
 
-El punto de partida es tener una comprensión profunda de tu tema y conocer a tu audiencia. Un título potente debe condensar la esencia de tu trabajo y captar la atención de tus lectores.
+El punto de partida es tener **una comprensión profunda de tu tema y conocer a tu audiencia**. Un título potente debe condensar la esencia de tu trabajo y captar la atención de tus lectores.
 
-### Paso 2: Definición del Problema o Hipótesis:
+### Paso 2: Definición del problema o hipótesis
 
-Debes poder expresar con claridad el problema o la hipótesis que tu trabajo aborda. Tomemos como ejemplo una investigación que explora las principales causas de la pobreza en Cusco durante el periodo 2000-2019. Este sería el problema o la hipótesis central de tu trabajo.
+Debes poder expresar con claridad el problema o la hipótesis que tu trabajo aborda.
 
-### Paso 3: Establecimiento de Delimitaciones Espaciales y Temporales:
+Tomemos como ejemplo una investigación que explora las principales causas de la pobreza en Cusco durante el periodo 2000-2019. Este sería el problema o la hipótesis central de tu trabajo.
 
-Integrar en el título una delimitación espacial y/o temporal ayuda a indicar el alcance de tu investigación. Siguiendo el ejemplo anterior, "en Cusco durante el periodo 2000-2019" establece las delimitaciones de tu trabajo.
+### Paso 3: Establecimiento de delimitaciones espaciales y temporales
 
-### Paso 4: Incorporación de Palabras Clave:
+Integrar en el título una delimitación espacial y/o temporal ayuda a indicar el alcance de tu investigación.
 
-Para potenciar el alcance de tu trabajo, es crucial incluir de manera orgánica la palabra clave **"título de un trabajo escrito"** en el título, así como en distintas partes del texto, de manera que mejore su visibilidad en búsquedas online.
+Siguiendo el ejemplo anterior, "en Cusco durante el periodo 2000-2019" establece las delimitaciones de tu trabajo.
 
-### Paso 5: Composición Final y Comprobación:
+### Paso 4: Incorporación de palabras clave
 
-Finalmente, debes conjugar todos los elementos para formular el título. Asegúrate de que es conciso, y capaz de captar la esencia de tu investigación en unas 15 palabras. Es esencial evitar preguntas, exclamaciones, términos ambiguos, jergas y abreviaturas.
+Para potenciar el alcance de tu trabajo, es crucial **incluir de manera orgánica la palabra clave del título de tu trabajo escrito** en el título, valga la redundancia.
+
+Por otra parte, esas palabras clave deben incluirse en distintas partes del texto, de manera que mejore su visibilidad en búsquedas online. Además, si está en formato impreso, ayudará a tu lector a mantener claridad del tema mientras abarca el contenido escrito.
+
+### Paso 5: Composición final y comprobación
+
+Finalmente, debes conjugar todos los elementos para formular el título. **Asegúrate de que es conciso, y capaz de captar la esencia de tu investigación en unas 15 palabras**.
+
+Es esencial *evitar preguntas, exclamaciones, términos ambiguos, jergas y abreviaturas*.
 
 Un buen ejemplo de título, podría ser: **"Determinantes de la Pobreza en Cusco: Un Análisis del Periodo 2000-2019"**.
 
-## Errores Comunes a Evitar:
+## Errores comunes a evitar
 
-Existen errores frecuentes que se deben evitar al crear un **"título de un trabajo escrito"**. Entre ellos, el uso redundante de frases como "estudio sobre", "investigación acerca de", "contribución a", etc. Estas frases, además de ser innecesarias, pueden distraer del propósito central de tu trabajo.
+Existen errores frecuentes que se deben evitar al crear un **"título de un trabajo escrito"**:
 
-## Reflexión Final:
+* El uso redundante de frases como "estudio sobre", "investigación acerca de", "contribución a", etc.
+* Incluir términos y frases innecesarias, que pueden distraer del propósito central de tu trabajo.
+* No utilizar formatos que den jerarquía al título, diferenciándolo del resto del texto del escrito.
 
-La elección del título es un aspecto fundamental en el proceso de redacción y no debe ser subestimado. Siguiendo estos pasos, te encontrarás bien preparado para concebir un título que cumpla con los criterios de SEO, que atraiga la atención de tus lectores y que refleje adecuadamente el contenido de tu trabajo escrito.
+## Reflexión Final
 
-Emplea estos consejos para construir el **"título de un trabajo escrito"** más eficaz posible. Recuerda que estamos aquí para asistirte en cada etapa de tu camino académico. Para obtener más orientación y consejos detallados, no dudes en ponerse en contacto con nosotros.
+La elección del título es un aspecto fundamental en el proceso de redacción y no debe ser subestimado. Siguiendo estos pasos, te encontrarás bien preparado para concebir un título que cumpla con las normas sobre Trabajos Escritos, que atraiga la atención de tus lectores y que refleje adecuadamente el contenido de tu trabajo.
+
+Emplea estos consejos para construir el **título de un trabajo escrito lo más eficaz posible**. Para obtener más orientación y consejos detallados, **haz clic en la sección de capacitaciones que encuentras más abajo**.
