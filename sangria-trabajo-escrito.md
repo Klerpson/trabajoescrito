@@ -46,4 +46,4 @@ A continuación, te proporcionamos instrucciones detalladas para configurar la s
 
 La correcta aplicación de la sangría y la mejora de la experiencia de usuario en tus trabajos escritos **son elementos clave para atraer y retener a tus lectores**.
 
-Aplica estos consejos y deleita a tus lectores con trabajos académicos bien estructurados y de alta calidad.
+Aplica estos consejos e impresiona a tus lectores con [trabajos académicos bien estructurados y de alta calidad]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}).

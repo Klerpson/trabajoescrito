@@ -14,7 +14,7 @@ Queremos ayudarte a entender qué es un índice, cómo se elabora y qué element
 
 ## ¿Qué es un Índice?
 
-El índice, también conocido como tabla de contenido, es un elemento esencial de cualquier trabajo escrito. Es un listado que refleja la organización de los contenidos del documento. En otras palabras, es el mapa que guía a los lectores a través de tu trabajo.
+El índice, también conocido como tabla de contenido, es un elemento esencial de cualquier [trabajo escrito](/). Es un listado que refleja la organización de los contenidos del documento. En otras palabras, es el mapa que guía a los lectores a través de tu trabajo.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
@@ -25,7 +25,7 @@ Crear un índice es un proceso bastante sencillo que puede hacerse tanto manualm
 ### Pasos para hacer un Índice
 
 1. **Finaliza tu trabajo escrito:** Antes de comenzar a hacer el índice, asegúrate de que todas las secciones de tu trabajo están completas y en el orden correcto.
-2. **Enumera las secciones:** Anota todos los títulos y subtítulos en el orden en que aparecen en tu trabajo.
+2. **Enumera las secciones:** Anota todos los [títulos]({{'titulos-trabajo-escrito'|relative_url}} "Títulos") y subtítulos en el orden en que aparecen en tu trabajo.
 3. **Asigna números de página:** Deberás asociar cada sección con su respectiva página de inicio.
 
 ### ¿Dónde va la Tabla de contenido?
@@ -38,9 +38,9 @@ Esto ayuda a los lectores a **entender rápidamente la estructura** de tu trabaj
 
 Un índice debería incluir los títulos y subtítulos de todas las secciones principales de tu trabajo, así como las páginas en las que comienza cada una.
 
->Recuerda, el índice es la brújula que guía a tus lectores a través de tu trabajo. Hacerlo bien te ayudará a presentar tu trabajo de la manera más clara y accesible posible.
+>Recuerda, el índice es la brújula que guía a tus lectores a través de tu trabajo. Hacerlo bien te ayudará a [presentar tu trabajo de la manera más clara y accesible]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}) posible.
 
-En un trabajo académico o de investigación, es posible que también desees incluir elementos como gráficos, tablas o apéndices.
+En un trabajo académico como un [informe]({{'informes'|relative_url}} "El Informe") o un documento de investigación, es posible que también desees incluir elementos como gráficos, tablas o apéndices.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
