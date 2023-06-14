@@ -22,7 +22,7 @@ Te enseñaremos **cómo enumerar y paginar tus trabajos escritos según las norm
 
 ### Cómo numerar con las normas APA
 
-En las [normas APA]({{'normas-apa'|relative_url}}), la numeración de las páginas en los trabajos escritos **comienza desde la portada**. Sin embargo, los números de página no se muestran en la portada ni en la página del índice o tabla de contenidos.
+En las [normas APA]({{'normas-apa'|relative_url}}), la numeración de las páginas en los trabajos escritos **comienza [desde la portada]({{'portada-trabajo-escrito'|relative_url}} "Portadas")**. Sin embargo, los números de página no se muestran en la portada ni en la página del [índice o tabla de contenidos]({{'tabla-de-contenido-trabajo-escrito'|relative_url}} "Tabla de contenido").
 
 En general, el primer número de página visible (que suele ser "1") **aparece en la primera página del cuerpo principal del texto.**
 
@@ -51,7 +51,7 @@ Aquí tienes una tabla simple que resalta las diferencias entre la numeración s
 
 La paginación va más allá de simplemente agregar números a las páginas de tu documento. Involucra también **cómo dividir un documento en páginas y cómo cada página está estructurada**.
 
-Para que tu trabajo sea coherente y fácil de seguir, es importante que utilices estilos y formatos consistentes en todo el documento. Esto incluye tener márgenes uniformes, un tamaño de fuente consistente y un espaciado de línea consistente.
+Para que tu trabajo sea coherente y fácil de seguir, es importante que utilices estilos y formatos consistentes en todo el documento. Esto incluye tener [márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes") uniformes, un [tamaño de fuente]({{'textos-y-fuentes-trabajo-escrito'|relative_url}} "Letras y fuentes") consistente y un espaciado de línea consistente.
 
 ## Herramientas para manejar la numeración y paginación
 
@@ -61,11 +61,11 @@ Por ejemplo, muchos procesadores de texto, como Word en office, ofrecen funcione
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-## Descarga nuestras plantillas: un recurso para enumerar y paginar fácilmente
+<!-- ## Descarga nuestras plantillas: un recurso para enumerar y paginar fácilmente
 
 Para ayudarte aún más en este proceso, ofrecemos **plantillas descargables que siguen las normas APA e Icontec**.
 
-Estas plantillas ya tienen incorporadas las reglas de numeración y paginación apropiadas, lo que te permite centrarte en la creación de contenido en lugar de preocuparte por los detalles del formato.
+Estas plantillas ya tienen incorporadas las reglas de numeración y paginación apropiadas, lo que te permite centrarte en la creación de contenido en lugar de preocuparte por los detalles del formato. -->
 
 Recuerda, la correcta numeración y paginación de tu trabajo no solo facilita la lectura, sino que también refleja tu atención al detalle y tu compromiso con la presentación de un trabajo de alta calidad.
 
