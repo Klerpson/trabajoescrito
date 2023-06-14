@@ -83,16 +83,14 @@ Estos recursos son ideales para aquellos que buscan una portada atractiva y prof
 Se pueden encontrar plantillas en línea que pueden ser útiles para asegurarse de que se está siguiendo el formato correcto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
-
+<!-- 
 ## Descarga de plantillas de portadas
-
-<!-- ![Modelo de portada]({{'img/portada.webp'|relative_url}} "Modelo de portada") -->
 
 Para facilitar el proceso de diseño de la portada del trabajo escrito, se pueden encontrar plantillas de portada en línea para Word o para otros programas de procesamiento de texto.
 
 Estas plantillas pueden ayudar a mantener el formato y diseño adecuados, así como a proporcionar modelos para incluir los elementos esenciales como el título, el nombre del autor o autores, la institución y la fecha.
 
-Es importante destacar que estas imágenes son solo ejemplos y que se deben adaptar a las especificaciones y pautas establecidas por las Normas APA para la presentación de trabajos escritos.
+Es importante destacar que estas imágenes son solo ejemplos y que se deben adaptar a las especificaciones y pautas establecidas por las Normas APA para la presentación de trabajos escritos. -->
 
 ### Preguntas frecuentes sobre la portada de un trabajo escrito
 
@@ -112,8 +110,10 @@ La información de la institución y fecha **es requerida por las normas APA e I
 
 #### ¿Cómo se debe estructurar y diseñar la portada?
 
-La estructura y diseño de la portada y contraportada deben seguir las normas APA e Icontec específicas.
+La estructura y diseño de la portada y [contraportada]({{'contraportada-trabajo-escrito'|relative_url}} "Contraportadas") deben seguir las normas APA e Icontec específicas.
 
 La portada debe incluir el título del trabajo, nombre del autor o autores, institución y fecha de presentación, y debe ser presentada en letra Arial de 12 puntos.
 
 **Se recomienda utilizar [una plantilla de portada](#descargas) para asegurar la uniformidad**. En cuanto al diseño, se sugiere utilizar márgenes de 2.5 cm y un interlineado de 1.5 espacios. Se deben utilizar mayúsculas y minúsculas adecuadamente, y evitar el uso de caracteres o imágenes innecesarios.
+
+Recuerda: si tu portada brilla, la expectativa sobre el resto de tu Trabajo Escrito será más positiva y ayudará en la percepción de tus resultados.
