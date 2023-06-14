@@ -67,6 +67,8 @@ Para ayudarte aún más en este proceso, ofrecemos **plantillas descargables que
 
 Estas plantillas ya tienen incorporadas las reglas de numeración y paginación apropiadas, lo que te permite centrarte en la creación de contenido en lugar de preocuparte por los detalles del formato. -->
 
+## Numerar y organizar, esa es la cuestión
+
 Recuerda, la correcta numeración y paginación de tu trabajo no solo facilita la lectura, sino que también refleja tu atención al detalle y tu compromiso con la presentación de un trabajo de alta calidad.
 
 ¡Descarga nuestras plantillas y da el primer paso hacia una presentación de trabajo excepcional hoy mismo!
