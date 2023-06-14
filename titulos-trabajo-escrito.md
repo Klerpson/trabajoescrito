@@ -4,10 +4,10 @@ title: "El Título Perfecto de tu Trabajo Escrito | Pasos y Consejos"
 description: "📚¿Buscando cómo redactar el título de tu trabajo escrito? Te decimos cómo hacerlos y evitar errores comunes. ¡Atrae lectores y sobresale en tus escritos."
 h1: "Cómo crear el título perfecto para un Trabajo Escrito"
 intro: "El diseño y formato de un trabajo escrito son aspectos cruciales que no debemos pasar por alto. "
-boton_info: "estructura"
-boton_info_title: "Medidas"
+boton_info: "normas"
+boton_info_title: "Pasos"
 boton_mas: "descargas"
-boton_mas_title: "Estándar"
+boton_mas_title: "Errores"
 vertical: true
 ---
 ## Preparando el título ideal
@@ -15,6 +15,8 @@ vertical: true
 En la travesía académica, la creación del **"título de un trabajo escrito"** representa una de las etapas más cruciales, pues es la primera impresión que los lectores tienen de tu obra.
 
 Si estás haciendo una tesis, un ensayo o un artículo científico, aquí te ofrecemos una guía para articular el título perfecto.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ### Paso 1: Conocimiento y público objetivo
 
@@ -45,6 +47,8 @@ Finalmente, debes conjugar todos los elementos para formular el título. **Aseg�
 Es esencial *evitar preguntas, exclamaciones, términos ambiguos, jergas y abreviaturas*.
 
 Un buen ejemplo de título, podría ser: **"Determinantes de la Pobreza en Cusco: Un Análisis del Periodo 2000-2019"**.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="errores"}
 
 ## Errores comunes a evitar
 
