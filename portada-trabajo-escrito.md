@@ -10,7 +10,7 @@ boton_mas: "descargas"
 boton_mas_title: "Plantillas"
 vertical: true
 ---
-La portada de un trabajo escrito debe contener los elementos esenciales como **el título del trabajo, el nombre del autor o autores, la institución a la que se presenta y la fecha de presentación**.
+La portada de un trabajo escrito debe contener los elementos esenciales como **[el título del trabajo]({{'titulos-trabajo-escrito'|relative_url}} "Títulos"), el nombre del autor o autores, la institución a la que se presenta y la fecha de presentación**.
 
 Para hacerlo más fácil, existen normas establecidas que tienen pautas y recomendaciones específicas para la elaboración de una portada adecuada.
 
@@ -20,11 +20,11 @@ Aprende **cómo elaborar [una portada según las normas Icontec]({{site.baseurl}
 
 ## Normas y pautas para la portada de trabajos escritos
 
-Hay que considerar el diseño y formato de la portada, incluyendo el tipo de letra, tamaño, márgenes e interlineado.
+Hay que considerar el diseño y formato de la portada, incluyendo [el tipo de letra]({{'textos-y-fuentes-trabajo-escrito'|relative_url}} "Letras y fuentes"), tamaño, [márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes") e interlineado.
 
 Las normas **Icontec y APA son las principales normas utilizadas para la elaboración de portadas en trabajos escritos**. Estas normas establecen los elementos esenciales que deben incluirse en la portada, así como las pautas para su formato y diseño.
 
-Siguiendo las normas establecidas por APA e Icontec se garantiza una presentación adecuada y profesional de los trabajos escritos.
+Siguiendo las normas establecidas por APA e Icontec se garantiza [una presentación adecuada y profesional de los trabajos escritos]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}).
 
 Con lo anterior, la información presentada será clara y organizada. Así, leer y comprender tu contenido será más fácil.
 
@@ -64,7 +64,9 @@ En cuanto al interlineado, se recomienda utilizar un interlineado sencillo para 
 
 ### Mayúsculas y minúsculas en la portada
 
-En la portada, se utilizan letras mayúsculas **para el título** del trabajo escrito y **para los nombres de las instituciones**, mientras que los nombres de los autores y sus afiliaciones se escriben en letras minúsculas. También se recomienda evitar el uso de abreviaturas no estándar.
+En la portada, se utilizan letras mayúsculas **para el título** del trabajo escrito y **para los nombres de las instituciones**, mientras que los nombres de los autores y sus afiliaciones se escriben en letras minúsculas.
+
+También se recomienda evitar el uso de abreviaturas no estándar.
 
 -----
 
@@ -72,7 +74,7 @@ En la portada, se utilizan letras mayúsculas **para el título** del trabajo es
 
 ### Enlaces a plantillas y modelos de portada
 
-En la página web de Microsoft Office se pueden encontrar plantillas para portadas de trabajos escritos que se ajustan a las normas [APA]({{site.baseurl}}/normas-apa) e [Icontec]({{site.baseurl}}/normas-icontec).También se puede utilizar Pinterest para buscar inspiración y modelos de portadas.
+[En la página web de Microsoft Office](https://support.microsoft.com/es-es/office/descargar-plantillas-pregeneradas-gratuitas-29f2a18d-29a6-4a07-998b-cfe5ff7ffbbb){:rel="nofollow noopener noreferrer" target="_blank"} se pueden encontrar plantillas para portadas de trabajos escritos que se ajustan a las normas [APA]({{site.baseurl}}/normas-apa) e [Icontec]({{site.baseurl}}/normas-icontec).También se puede utilizar Pinterest para buscar inspiración y modelos de portadas.
 
 Estos recursos son ideales para aquellos que buscan una portada atractiva y profesional, sin tener que preocuparse por el diseño.
 
