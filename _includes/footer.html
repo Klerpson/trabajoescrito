@@ -8,35 +8,35 @@
     </div>
     <div>
       <h4>Normas</h4>
-      <a href="{{ site.baseurl }}/#">⇾ APA</a>
-      <a href="{{ site.baseurl }}/#">⇾ Icontec</a>
-      <a href="{{ site.baseurl }}/#">⇾ IEEE</a>
+      <a href="{{ site.baseurl }}/normas-apa">⇾ APA</a>
+      <a href="{{ site.baseurl }}/normas-icontec">⇾ Icontec</a>
+      <!-- <a href="{{ site.baseurl }}/#">⇾ IEEE</a>
       <a href="{{ site.baseurl }}/#">⇾ Vancouver</a>
       <a href="{{ site.baseurl }}/#">⇾ Chicago</a>
       <a href="{{ site.baseurl }}/#">⇾ Harvard</a>
-      <a href="{{ site.baseurl }}/#">⇾ Upel</a>
+      <a href="{{ site.baseurl }}/#">⇾ Upel</a> -->
     </div>
     <div>
       <h4>Tipos</h4>
       <a href="{{ site.baseurl }}/#">⇾ Tesis</a>
       <a href="{{ site.baseurl }}/#">⇾ Investigación</a>
       <a href="{{ site.baseurl }}/#">⇾ Ensayo</a>
-      <a href="{{ site.baseurl }}/#">⇾ Informe</a>
-      <a href="{{ site.baseurl }}/#">⇾ Monografía</a>
+      <a href="{{ site.baseurl }}/informes">⇾ Informe</a>
+      <a href="{{ site.baseurl }}/monografia">⇾ Monografía</a>
       <a href="{{ site.baseurl }}/#">⇾ Artículo</a>
       <a href="{{ site.baseurl }}/#">⇾ Proyecto</a>
     </div>
     <div>
       <h4>Blog</h4>
       {% assign post1 = site.posts[0] %}
-      <a href="{{site.baseurl}}{{ post1.url }}">⇾ {{ post1.h1 | truncate: 40}}</a>
+      <a href="{{site.baseurl}}{{ post1.url }}" title="{{post1.title}}">⇾ {{ post1.h1 | truncate: 40}}</a>
       {% assign post2 = site.posts[1] %}
-      <a href="{{site.baseurl}}{{ post2.url }}">⇾ {{ post2.h1 | truncate: 40}}</a>
+      <a href="{{site.baseurl}}{{ post2.url }}" title="{{post2.title}}">⇾ {{ post2.h1 | truncate: 40}}</a>
       {% assign post3 = site.posts[2] %}
-      <a href="{{site.baseurl}}{{ post3.url }}">⇾ {{ post3.h1 | truncate: 40}}</a>
+      <a href="{{site.baseurl}}{{ post3.url }}" title="{{post3.title}}">⇾ {{ post3.h1 | truncate: 40}}</a>
       {% assign post4 = site.posts[3] %}
-      <a href="{{site.baseurl}}{{ post4.url }}">⇾ {{ post4.h1 | truncate: 40}}</a>
-      <a href="{{site.baseurl}}/blog">⇾ Ver más posts</a>
+      <a href="{{site.baseurl}}{{ post4.url }}" title="{{post4.title}}">⇾ {{ post4.h1 | truncate: 40}}</a>
+      <a href="{{site.baseurl}}/tips-y-consejos">⇾ Ver más posts</a>
     </div>
     <div>
       <h4>Consultas</h4>

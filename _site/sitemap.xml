@@ -82,6 +82,14 @@
   
   
   
+      <url>
+        <loc>http://localhost:4000/dedicatoria-trabajo-escrito</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
   
   
       <url>

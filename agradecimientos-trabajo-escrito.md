@@ -7,7 +7,7 @@ intro: "Los agradecimientos en un trabajo escrito son una forma de mostrar grati
 boton_info: "normas"
 boton_info_title: "Recomendaciones"
 boton_mas: "descargas"
-boton_mas_title: "Con normas"
+boton_mas_title: "Ejemplos"
 vertical: true
 ---
 ## Consejos para elaborar los agradecimientos del trabajo escrito de forma profesional
@@ -88,6 +88,8 @@ Recuerda contratar a quienes ya tengan una experiencia comprobada en cumplimient
 ### Corrección de agradecimientos de tesis
 
 Otro servicio ofrecido es el de corrección de agradecimientos de tesis, que consiste en la revisión de los agradecimientos escritos por el estudiante, con el objetivo de corregir posibles errores ortográficos o gramaticales y mejorar la estructura de los mismos.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Ejemplos de agradecimientos en distintos tipos de trabajos académicos
 
