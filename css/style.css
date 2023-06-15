@@ -11,6 +11,7 @@ layout: compress
 {% include css/follow.css %}
 {% include css/footer.css %}
 {% include css/boton-up.css %}
+{% include css/cursos.css %}
 {% include css/blog.css %}
 {% include css/gallery-posts.css %}
 {% include css/contacto.css %}

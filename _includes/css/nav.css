@@ -53,10 +53,10 @@ nav ul li details a {
   transition: .2s all ease-in;
 }
 
-nav ul li a:hover,
-nav ul li details a:hover,
-nav ul li details summary:hover,
-nav ul li a.active {
+nav a:hover,
+nav details a:hover,
+nav summary:hover,
+nav a.active {
   background-color: var(--accion);
   color: var(--blanco);
 }
@@ -87,12 +87,13 @@ nav .cursos_menu {
   background-color: var(--secundario);
   color: var(--grisFuentes);
   border-radius: var(--radius);
-  transition: all 0.3s;
+  transition: all 0.2s ease-in;
   border: 2px solid var(--grisFuentes);
+  padding: 4px 16px;
 }
 
 nav .cursos_menu:hover {
-  transform: scale(115%);
+  transform: scale(110%);
   box-shadow: var(--shadow);
   color: var(--blanco);
 }

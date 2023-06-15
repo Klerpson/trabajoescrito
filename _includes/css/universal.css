@@ -80,8 +80,7 @@ h4 {
 
 h5,
 p,
-.post-content li,
-.normas_contenido li {
+li {
   word-wrap: break-word;
   font-size: clamp(1.125rem, 0.5vw + 1rem, 1.25rem);
   margin-bottom: 1rem;
@@ -99,11 +98,11 @@ a {
   color: var(--accion);
 }
 
-a:hover:not(.boton){
+a:hover:not(.boton) {
   color: var(--principal);
 }
 
-img:not(.slide-container img){
+img:not(.slide-container img) {
   border-radius: var(--radius);
 }
 
@@ -208,35 +207,36 @@ blockquote {
   background-color: var(--secundario);
 }
 
-blockquote::before{
+blockquote::before {
   content: '◜◜';
   font-weight: 900;
   font-size: 2em;
 }
 
-blockquote a{
+blockquote a {
   color: var(--blanco);
 }
 
-table{
+table {
   width: 100%;
-  margin: 2em 0 ;
+  margin: 2em 0;
 }
 
 table tr {
   border-bottom: 2px dotted var(--gris1);
   display: flex;
   padding: 1.2em 0;
-  flex-wrap: wrap ;
+  flex-wrap: wrap;
   gap: 1em;
   width: 100%;
 }
 
-table th{
+table th {
   font-weight: 900;
 }
 
-table td, table th{
+table td,
+table th {
   flex: 1 0 200px;
 }
 
@@ -274,7 +274,8 @@ table td, table th{
 }
 
 hr {
-  overflow: visible; /* For IE */
+  overflow: visible;
+  /* For IE */
   padding: 0;
   border: none;
   border-top: medium double #333;
@@ -292,7 +293,7 @@ hr:after {
   background: var(--blanco);
 }
 
-.cta{
+.cta {
   padding: 4rem 0;
   display: grid;
   background-color: var(--grisFuentes);
@@ -304,15 +305,14 @@ hr:after {
   color: var(--blanco);
 }
 
-.cta a{
+.cta a {
   background-color: var(--secundario);
   color: var(--grisFuentes);
 }
 
-.cta a:hover{
+.cta a:hover {
   box-shadow: none;
 }
-
 
 header,
 .gallery-intro,
@@ -323,7 +323,8 @@ header,
 .cta,
 .normas_contenido,
 .blog-gallery,
-.post-content {
+.post-content,
+.cursos {
   width: min(100%, 1128px);
   margin-inline: auto;
   margin-top: 6rem;
@@ -333,19 +334,38 @@ header,
   background-image: url("/img/underline-text-img.png");
 }
 
-.seccion_a{
+.seccion_a {
   background-color: var(--grisFuentes);
   box-shadow: 0 0 0 100vmax var(--grisFuentes);
   clip-path: inset(0 -100vmax);
   color: var(--blanco);
   padding: 4em 0;
+
+  & p {
+    width: min(100%, 1128px);
+    margin-inline: auto;
+  }
+
+  & ol {
+    width: min(100%, 1128px);
+    margin-inline: auto;
+    padding-left: 3em;
+  }
+
+  & ol li {
+    list-style: decimal;
+
+    &::marker {
+      font-size: 2em;
+    }
+  }
 }
 
-.seccion_a .links a{
+.seccion_a .links a {
   color: var(--secundario);
 }
 
-.cluster2{
+.cluster2 {
   display: flex;
   flex-wrap: wrap;
   align-items: center;

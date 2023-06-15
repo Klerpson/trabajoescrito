@@ -1,0 +1,55 @@
+---
+layout: compress
+title: Cursos de normas APA, Icontec y otras más
+h1: Cursos de normas APA, Icontec y otras más
+description: ¿Necesitas capacitarte sobre normas APA 📑? ¿O sobre normas Icontec 📃? Te ofrecemos los cursos mejor calificados para aprender a hacer tu Trabajo Escrito
+webp: tips.webp
+permalink: /cursos-de-trabajos-escritos
+---
+{% include head.html %}
+<body>
+  {% include nav.html %}
+  <header>
+    <div class="title">
+      <h1>{{page.h1}}</h1>
+      <img src="{{site.baseurl}}/img/{{page.webp}}" alt="{{page.alt}}" title="{{page.title}}">
+    </div>
+  </header>
+  <section class="seccion_a">
+    <h2>Cursos para aprender a hacer Trabajos Escritos mucho más rápido y fácil</h2>
+    <p>Buscamos por ti los <strong>cursos mejor calificados para aprender sobre normas APA, normas Icontec, IEEE, Vancouver, redacción, investigación, etc.</strong> Solo sigue estos pasos:</p>
+    <ol>
+      <li>Haz clic en el curso que necesitas.</li>
+      <li>Mira las calificaciones y su contenido.</li>
+      <li>Compra y gana tiempo y reduce las dificultades de presentar tu mejor versión de un Trabajo Escrito</li>
+    </ol>
+  </section>
+  <main class="cursos">
+      {% for curso in site.data.afiliados %}
+      <article>
+        <img src="{{site.baseurl}}/img/{{curso.img}}" alt="Imagen del curso titulado {{curso.title}}" loading="lazy">
+        <div>
+          <h3>
+            <a href="{{ site.baseurl }}{{ curso.url }}" title="{{curso.title}}" rel="nofollow noopener noreferrer" target="_blank">{{ curso.title | escape }}</a>
+          </h3> 
+          <p>{{curso.p|markdownify}}</p>
+        </div>
+      </article>
+      {% endfor %}
+  </main>
+  <section class="normas_contenido">
+  <blockquote>
+    <h3>¿Estás listo para transformar tu forma de escribir y aumentar el impacto de tus trabajos?</h3>
+    <p>
+      No busques más. Estos cursos detallados y prácticos te proporcionarán todas las herramientas necesarias para escribir introducciones efectivas y envolventes que mantengan a tus lectores enganchados.
+    </p>
+    <p>
+      Estos no son solo otro curso teórico. <strong>Son una experiencia interactiva, llena de ejemplos reales, actividades prácticas, feedback personalizado y un camino claro hacia el éxito</strong>. No dejes pasar esta oportunidad para <strong>perfeccionar tu redacción, diferenciarte y transformar</strong> tus trabajos escritos en obras maestras. ¡Inscríbete ahora y empieza a captar la atención de tus lectores desde la primera frase!
+    </p> 
+  </blockquote>
+  </section>
+
+  {% include footer.html %}
+  <a href="#">{% include boton-up.html %}</a>
+  </body>
+</html>

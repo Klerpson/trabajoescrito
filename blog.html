@@ -53,17 +53,13 @@ permalink: /tips-y-consejos
   {% endunless %}
   <article>
     <h4>
-      <a href="{{ site.baseurl }}{{ post.url }}" >{{ post.title | escape }}</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" >{{ post.h1 | escape }}</a>
     </h4> 
-    {{ post.excerpt }}
+    {{ post.excerpt | markdownify }}
   </article>
   {% endfor %}
-</section>
+  </section>
   </main>
-
-
-
-
   {% include cta.html %}
   {% include footer.html %}
   <a href="#">{% include boton-up.html %}</a>
@@ -82,8 +78,8 @@ permalink: /tips-y-consejos
   });
 </script>
 
-<!-- JS para el filtro de la galeria de posts -->
-<script>
+<!-- FILTRO DE BOTONES PARA GALERIA
+   <script>
   const filterButtons = document.querySelectorAll(".blog-tags button");
   const filterPosts = document.querySelectorAll(".posts .post");
 
@@ -96,6 +92,6 @@ permalink: /tips-y-consejos
   };
 
   filterButtons.forEach(button => button.addEventListener("click", filter));
-</script>
+</script> -->
   </body>
 </html>
