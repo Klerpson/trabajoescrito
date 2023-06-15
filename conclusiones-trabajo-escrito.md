@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Redacta conclusiones de Trabajos Escritos ✍️ Ejemplos Prácticos"
+title: "Redacta las conclusiones de tu Trabajo Escrito ✍️"
 description: 💡 ¿No sabes cómo redactar la conclusión de tu trabajo? ¡Te tenemos cubierto! Descubre ✅ qué es, 📍 dónde va, 📝 cómo hacerla y mucho más. ¡Haz clic!
 h1: "Conclusiones de un Trabajo Escrito: cómo redactarla y ejemplos prácticos"
 intro: "Las conclusiones de un trabajo escrito son un elemento esencial en cualquier texto académico, científico o profesional."
