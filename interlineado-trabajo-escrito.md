@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Cómo ajustar el interlineado en tus Trabajos Escritos"
-description: "Te queremos compartir las técnicas y los pasos para realizar una introducción cautivadora, además de los consjos de los expertos en introducciones. ¡Entra!"
+description: "✍️ Aprenda a manejar el 𝗜𝗻𝘁𝗲𝗿𝗹𝗶𝗻𝗲𝗮𝗱𝗼 en Trabajos Escritos con nuestra guía detallada. ¡No más confusiones con APA, MLA, Chicago! 🔍 Click para más."
 h1: "Cómo ajustar el interlineado en tus Trabajos Escritos"
 intro: "Si eres estudiante universitario, investigador o simplemente un profesional que se preocupa por la presentación de sus documentos, sabes lo importante que es dar formato con interlineados en la redacción de trabajos escritos."
 boton_info: "normas"
