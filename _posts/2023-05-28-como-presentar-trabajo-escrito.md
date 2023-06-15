@@ -15,7 +15,7 @@ excerpt: Te enseñamos una serie de claves para garantizar que tus presentacione
 
 -----
 
-No importa si estás preparando un informe de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.
+No importa si estás preparando un [informe]({{'informes'|relative_url}} "Informes") de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.
 
 ## Formato de un Trabajo Escrito
 
@@ -30,7 +30,7 @@ Además, la presentación de un trabajo escrito debe contener:
 
 * [Portada]({{'portada-trabajo-escrito'|relative_url}})
 * [Índice o tabla de contenidos]({{'tabla-de-contenido-trabajo-escrito'|relative_url}})
-* Introducción
+* [Introducción]({{'introduccion-trabajo-escrito'|relative_url}})
 * [Cuerpo del trabajo]({{'cuerpo-trabajo-escrito'|relative_url}})
 * [Conclusiones]({{'conclusiones-trabajo-escrito'|relative_url}})
 * [Anexos]({{'anexos-trabajo-escrito'|relative_url}}) (si es necesario)
@@ -69,7 +69,7 @@ Presentar un trabajo escrito de manera efectiva puede ser un reto, pero con los 
 
 ## Ahora sí presenta tu Trabajo Escrito
 
-Crear y presentar un trabajo escrito no tiene por qué ser una tarea abrumadora. Con la preparación adecuada y las técnicas correctas, puedes presentar un trabajo que no solo cumpla con las expectativas de tu profesor o jefe, sino que también te haga destacar.
+Crear y presentar un trabajo escrito no tiene por qué ser una tarea abrumadora. Con la preparación adecuada y [las técnicas correctas]({{'cursos-de-trabajos-escritos'|relative_url}}), puedes presentar un trabajo que no solo cumpla con las expectativas de tu profesor o jefe, sino que también te haga destacar.
 
 Este artículo ha sido diseñado para superar los desafíos que enfrentan muchos estudiantes y profesionales al preparar trabajos escritos y presentaciones. Asegúrate de seguir estos consejos y técnicas **para que puedas presentar un trabajo de alta calidad que impresione a tu audiencia**.
 

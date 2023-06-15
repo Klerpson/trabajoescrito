@@ -5,8 +5,8 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 15 Jun 2023 06:59:20 -0500</pubDate>
-    <lastBuildDate>Thu, 15 Jun 2023 06:59:20 -0500</lastBuildDate>
+    <pubDate>Thu, 15 Jun 2023 08:55:54 -0500</pubDate>
+    <lastBuildDate>Thu, 15 Jun 2023 08:55:54 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
@@ -221,7 +221,7 @@
 
 &lt;hr /&gt;
 
-&lt;p&gt;No importa si estás preparando un informe de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.&lt;/p&gt;
+&lt;p&gt;No importa si estás preparando un &lt;a href=&quot;/informes&quot; title=&quot;Informes&quot;&gt;informe&lt;/a&gt; de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.&lt;/p&gt;
 
 &lt;h2 id=&quot;formato-de-un-trabajo-escrito&quot;&gt;Formato de un Trabajo Escrito&lt;/h2&gt;
 
@@ -239,7 +239,7 @@
 &lt;ul&gt;
   &lt;li&gt;&lt;a href=&quot;/portada-trabajo-escrito&quot;&gt;Portada&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/tabla-de-contenido-trabajo-escrito&quot;&gt;Índice o tabla de contenidos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;Introducción&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;/introduccion-trabajo-escrito&quot;&gt;Introducción&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/cuerpo-trabajo-escrito&quot;&gt;Cuerpo del trabajo&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/conclusiones-trabajo-escrito&quot;&gt;Conclusiones&lt;/a&gt;&lt;/li&gt;
   &lt;li&gt;&lt;a href=&quot;/anexos-trabajo-escrito&quot;&gt;Anexos&lt;/a&gt; (si es necesario)&lt;/li&gt;
@@ -281,7 +281,7 @@
 
 &lt;h2 id=&quot;ahora-sí-presenta-tu-trabajo-escrito&quot;&gt;Ahora sí presenta tu Trabajo Escrito&lt;/h2&gt;
 
-&lt;p&gt;Crear y presentar un trabajo escrito no tiene por qué ser una tarea abrumadora. Con la preparación adecuada y las técnicas correctas, puedes presentar un trabajo que no solo cumpla con las expectativas de tu profesor o jefe, sino que también te haga destacar.&lt;/p&gt;
+&lt;p&gt;Crear y presentar un trabajo escrito no tiene por qué ser una tarea abrumadora. Con la preparación adecuada y &lt;a href=&quot;/cursos-de-trabajos-escritos&quot;&gt;las técnicas correctas&lt;/a&gt;, puedes presentar un trabajo que no solo cumpla con las expectativas de tu profesor o jefe, sino que también te haga destacar.&lt;/p&gt;
 
 &lt;p&gt;Este artículo ha sido diseñado para superar los desafíos que enfrentan muchos estudiantes y profesionales al preparar trabajos escritos y presentaciones. Asegúrate de seguir estos consejos y técnicas &lt;strong&gt;para que puedas presentar un trabajo de alta calidad que impresione a tu audiencia&lt;/strong&gt;.&lt;/p&gt;
 
