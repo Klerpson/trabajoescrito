@@ -233,6 +233,32 @@
       type="font/woff2"
       crossorigin
     />
+    <!-- SCHEMA -->
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "{{page.h1}}",
+        "description": "{{page.description}}",
+        "author": {
+          "@type": "Person",
+          "name": "{% if page.autor %}{{page.autor}}{% else %}{{site.name}}{% endif %}o"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TrabajoEscrito.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "{{site.baseurl}}/logotipo.webp"
+          }
+        },
+        "datePublished": "{{page.date}}",
+        "image": "{% if page.webp %}{{site.baseurl}}/img/{{page.webp}}{% else %}{{site.baseurl}}/logotipo.webp{% endif %}",
+        "articleSection": "{% if page.vertical %}{{page.title}}{% else %}Tips y consejos sobre Trabajos Escritos{% endif %}"
+      }
+      
+  </script>
+
     <!-- Slider /js -->
     <script src="/js/slider.js" defer></script>
     <!-- Google tag (gtag.js) -->
