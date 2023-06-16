@@ -138,7 +138,7 @@
   
    {
      
-        "title"    : "Gracias por escribir a sanagustinhuila.com.co",
+        "title"    : "Gracias por escribir a trabajoescrito.com",
         "category" : "",
         "url"      : "/gracias"
      
@@ -305,6 +305,14 @@
         "title"    : "El Índice de un Trabajo Escrito: tu mapa hacia el éxito Ξ",
         "category" : "",
         "url"      : "/tabla-de-contenido-trabajo-escrito"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Tesis con normas APA: presenta fácilmente tu trabajo",
+        "category" : "",
+        "url"      : "/tesis-normas-apa"
      
    } ,
   

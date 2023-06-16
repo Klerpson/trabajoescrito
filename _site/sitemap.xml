@@ -295,6 +295,14 @@
   
   
       <url>
+        <loc>http://localhost:4000/tesis-normas-apa</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>http://localhost:4000/textos-y-fuentes-trabajo-escrito</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>

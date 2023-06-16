@@ -135,10 +135,30 @@ La cita de cita se utiliza para citar información que has encontrado en una fue
 
 [Más sobre las citas](# "Citas"){:class="boton"}
 
-## Listas
+<!-- ## Listas
 
 CONTENIDO SOBRE LAS LISTAS SEGÚN NORMAS APA
-ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ
+ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ -->
+
+## Cómo el uso de Normas APA afecta a nuestra comunidad académica
+
+Las Normas APA son esenciales en el ámbito académico, y su utilización no solo beneficia a los estudiantes, sino que también a toda la comunidad académica.
+
+### ¿Por qué es importante seguir las Normas APA en la universidad?
+
+El uso de las Normas APA es esencial en la universidad ya que garantiza la calidad y originalidad de los trabajos académicos, además de evitar el plagio y facilitar la lectura y comprensión del contenido. La universidad es un ambiente académico y profesional, y el uso de las Normas APA es una demostración de compromiso y responsabilidad con la calidad y rigurosidad en la presentación de trabajos.
+
+### ¿Cómo el uso de las Normas APA mejora la calidad de nuestros trabajos académicos?
+
+El uso de las Normas APA en la elaboración de trabajos académicos mejora su calidad al asegurar una estructura clara y coherente, la utilización correcta de citas y referencias, y la adopción de un formato estandarizado que facilita su lectura y comprensión. Además, el uso de las Normas APA permite una presentación profesional y acorde a los estándares del ámbito académico y laboral.
+
+### ¿Cómo el uso de Normas APA nos prepara para el mundo laboral?
+
+El uso de las Normas APA es fundamental en el mundo laboral, ya que su aplicación garantiza la calidad y eficacia en la elaboración de informes, presentaciones y otros documentos. El uso de las Normas APA es una habilidad necesaria en empresas y organizaciones que requieren presentaciones y documentos de alta calidad y coherencia, por lo que su aprendizaje y aplicación en la universidad es una preparación invaluable para el mundo laboral.
+
+### ¿Cómo se benefician los estudiantes al aprender las Normas APA?
+
+Los estudiantes se benefician enormemente al aprender y aplicar las Normas APA en sus trabajos académicos. El uso de las Normas APA permite a los estudiantes ser más rigurosos y precisos en la elaboración de sus trabajos, lo que simplifica su lectura y comprensión por parte de los evaluadores. Además, el uso de las Normas APA facilita el aprendizaje y la investigación, y contribuye al desarrollo de habilidades esenciales en el ámbito académico y laboral.
 
 ## Reglas específicas de las normas APA en algunos tipos de trabajos académicos
 
@@ -148,7 +168,7 @@ Las normas APA también establecen reglas específicas para algunos tipos de tra
 
 ### Tesis
 
-Al escribir una tesis, se deben seguir ciertas pautas adicionales a las normas APA en cuanto a la estructura del trabajo. Es necesario incluir una [portada]({{site.baseurl}}/portada-trabajo-escrito "Portadas") y resumen, y la estructura del trabajo debe seguir un marco teórico, metodología, resultados y discusión.
+[Al escribir una tesis]({{'tesis-normas-apa'|relative_url}} "Tesis con Normas APA"), se deben seguir ciertas pautas adicionales a las normas APA en cuanto a la estructura del trabajo. Es necesario incluir una [portada]({{site.baseurl}}/portada-trabajo-escrito "Portadas") y resumen, y la estructura del trabajo debe seguir un marco teórico, metodología, resultados y discusión.
 
 Todas las tablas y figuras deben estar numeradas y tener un título y una explicación adecuada. Las citas y referencias deben ser precisas y estar correctamente formateadas siguiendo las normas APA.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
