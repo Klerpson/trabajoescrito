@@ -45,7 +45,7 @@ Estas medidas se consideran ideales ya que proporcionan un espacio suficiente pa
 
 ### Medidas de Portada y Hoja Guía
 
-[La portada]({{'portada-trabjo-escrito'|relative_url}} "Portada Trabajo Escrito") y la hoja guía (o página de título interno) deben seguir las mismas reglas de margen que el resto del documento.
+[La portada]({{'portada-trabajo-escrito'|relative_url}} "Portada Trabajo Escrito") y la hoja guía (o página de título interno) deben seguir las mismas reglas de margen que el resto del documento.
 
 Sin embargo, si incluyes elementos gráficos o logotipos, es posible que debas hacer algunos ajustes en el diseño. Recuerda mantener la consistencia en el formato de todo el documento.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
