@@ -290,8 +290,8 @@ Garantiza la uniformidad, facilita el seguimiento de las fuentes y da credibilid
 
 ----------
 
-## Descarga plantillas con las normas APA
+## Breve historia de las Normas APA
 
-Para aquellos interesados en aplicar correctamente las normas APA, **ofrecemos una sección de descarga de plantillas**. Estas plantillas preformateadas siguen las normas APA y te ayudarán a estructurar tu trabajo de manera correcta y eficiente.
+Las Normas APA fueron desarrolladas por la American Psychological Association en 1929 con el objetivo de unificar la presentación de los trabajos académicos.
 
-Puedes descargarlas y usarlas como base para tu tesis, artículo científico o cualquier otro trabajo académico.
+Desde entonces, el manual de estilo ha sido actualizado periódicamente para incluir nuevas exigencias y adaptarse a los cambios tecnológicos. Actualmente, las Normas APA son un elemento fundamental en la escritura académica en todo el mundo.
