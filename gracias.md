@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Gracias por escribir a sanagustinhuila.com.co
-h1: Gracias por escribir a sanagustinhuila.com.co
+title: Gracias por escribir a trabajoescrito.com
+h1: Gracias por escribir a trabajoescrito.com
 description: Ya tenemos tu información. La trataremos siguiendo nuestra política de privacidad. Te escribiremos prontamente.
 permalink: /gracias
 noindex: true
