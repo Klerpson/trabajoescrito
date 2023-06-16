@@ -23,7 +23,7 @@ Son la clave para **dar crédito a los autores originales y evitar así el plagi
 Hacer referencias en un trabajo escrito puede parecer una tarea desalentadora, pero es esencial para validar la integridad y la credibilidad de tu trabajo. Aquí te ofrecemos un guía paso a paso sobre cómo hacerlo:
 
 1. **Identifica la fuente:** Se puede tratar de un libro, un artículo de revista, una página web, entre otros. Recuerda recolectar toda la información relevante como el nombre del autor, [el título de la obra]({{'titulos-trabajo-escrito'|relative_url}}), la fecha de publicación, y demás datos necesarios según el tipo de fuente.
-2. **Selecciona el estilo de cita:** Dependiendo del campo de estudio o las directrices de la institución, es posible que se prefieran ciertos [estilos de cita]({{'citas-trabajo-escrito'|relative_url}}) como el [APA]({{'normas-apa'|relative_url}}), MLA, Chicago, entre otros. Es fundamental conocer y seguir las reglas del estilo seleccionado.
+2. **Selecciona el estilo de cita:** Dependiendo del campo de estudio o las directrices de la institución, es posible que se prefieran ciertos [estilos de cita]({{'cita-trabajo-escrito'|relative_url}}) como el [APA]({{'normas-apa'|relative_url}}), MLA, Chicago, entre otros. Es fundamental conocer y seguir las reglas del estilo seleccionado.
 3. **Formatea correctamente:** Siguiendo las directrices del estilo seleccionado, formatea correctamente la referencia. Asegúrate de incluir todos los detalles necesarios y organízalos en el orden correcto.
 4. **Inserta la referencia en el texto:** Finalmente, asegúrate de insertar las referencias en el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}}) donde correspondan y de listarlas en la sección de referencias al final de tu trabajo.
 
