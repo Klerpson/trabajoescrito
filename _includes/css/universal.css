@@ -340,6 +340,7 @@ header,
   clip-path: inset(0 -100vmax);
   color: var(--blanco);
   padding: 4em 0;
+  margin: 3em 0;
 
   & p {
     width: min(100%, 1128px);

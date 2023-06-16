@@ -7,7 +7,7 @@ intro: "La palabra 'referencia' puede parecer común, pero cuando se trata de su
 boton_info: "normas"
 boton_info_title: "Cómo hacer"
 boton_mas: "descargas"
-boton_mas_title: "Ejemplos"
+boton_mas_title: "Tipos"
 vertical: true
 ---
 ## Desvendando el propósito de las referencias en Trabajos Escritos
@@ -15,6 +15,8 @@ vertical: true
 En pocas palabras, **las referencias en un trabajo escrito son herramientas que nos permiten citar la fuente original** de una idea, un concepto o una afirmación que no es de nuestra propia autoría.
 
 Son la clave para **dar crédito a los autores originales y evitar así el plagio**, y también sirven como un respaldo para fortalecer los argumentos presentados en nuestro texto.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ## Cómo hacer Referencias en un Trabajo Escrito
 
@@ -48,6 +50,8 @@ Aportan contexto y muestran cómo tu trabajo se inserta en ese panorama más amp
 Además, el uso adecuado de referencias bibliográficas mejora la legibilidad de tu trabajo, **al proporcionar una ruta clara para aquellos que deseen seguir tus pasos e investigar más a fondo**.
 
 Las referencias actúan como signos en un mapa, mostrando el camino que has tomado para llegar a tus conclusiones y permitiendo a los lectores seguir ese camino si así lo desean.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Tipos de Referencias y dónde Encontrarlas
 
