@@ -261,6 +261,14 @@
   
   
       <url>
+        <loc>http://localhost:4000/proyecto</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>http://localhost:4000/referencias-trabajo-escrito</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>

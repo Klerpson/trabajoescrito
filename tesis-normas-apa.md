@@ -14,9 +14,30 @@ Las Normas APA son una guía imprescindible para la presentación de trabajos ac
 
 También hablaremos sobre la importancia de seguir estas normas en nuestro ámbito académico y en el mundo laboral. No te pierdas esta guía práctica y fácil para [la elaboración de trabajos académicos con Normas APA]({{'normas-apa'|relative_url}} "Normas APA").
 
+----
+
 ## Tesis con normas APA: guía práctica para la elaboración de una tesis
 
-Elaborar una tesis puede ser un proceso complejo, pero las Normas APA ofrecen una guía clara y precisa para facilitar su elaboración y presentación.
+Una tesis es un documento académico que presenta una investigación original realizada por un estudiante universitario en su programa de pre-grado o posgrado. En Colombia y en muchas otras partes del mundo, las normas APA e Icontec se utilizan para el desarrollo de este tipo de trabajos.
+
+Para presentar una tesis con éstas normas, es importante tener en cuenta la estructura del documento, la cual debe contar con:
+
+* Resumen
+* Introducción
+* Revisión de literatura
+* Metodología
+* Resultados
+* Discusión
+* Conclusiones
+* Recomendaciones
+* Bibliografía
+* Anexos
+
+En la presentación de la tesis, se debe prestar atención a la redacción, citación y referenciación de acuerdo con las normas establecidas y es importante contar con una correcta revisión ortográfica y gramatical.
+
+Tener una tesis bien escrita y estructurada es fundamental para lograr una buena calificación en el trabajo presentado y es importante para la carrera y futuro profesional del estudiante.
+
+>Elaborar una tesis puede ser un proceso complejo, pero las Normas APA ofrecen una guía clara y precisa para facilitar su elaboración y presentación.
 
 En esta sección, se aborda de manera detallada **la estructura, citación, formato y prevención del plagio en una tesis** de acuerdo a las Normas APA.
 
@@ -24,18 +45,16 @@ En esta sección, se aborda de manera detallada **la estructura, citación, form
 
 Para estructurar correctamente una tesis según las Normas APA, se recomienda seguir los siguientes pasos:
 
-- **Portada**: Incluye el título, autor, institución y fecha.
-- **Resumen**: Síntesis del trabajo, no más de 250 palabras.
-- **Índice**: Enumera el contenido del trabajo.
-- **Introducción**: Presenta el tema y los objetivos de la investigación.
-- **Marco teórico**: Revisión de la literatura y teorías pertinentes al tema.
-- **Métodos**: Descripción de cómo se llevó a cabo la investigación.
-- **Resultados**: Presentación de los resultados obtenidos en la investigación.
-- **Discusión**: Interpretación y análisis de los resultados obtenidos.
-- **Conclusiones**: Síntesis de los resultados y respuesta a los objetivos planteados.
-- **Referencias bibliográficas**: Lista de las fuentes consultadas siguiendo las Normas APA.
-
-### ¿Cómo citar referencias bibliográficas y documentos en una tesis?
+* **Portada**: Incluye el título, autor, institución y fecha.
+* **Resumen**: Síntesis del trabajo, no más de 250 palabras.
+* **Índice**: Enumera el contenido del trabajo.
+* **Introducción**: Presenta el tema y los objetivos de la investigación.
+* **Marco teórico**: Revisión de la literatura y teorías pertinentes al tema.
+* **Métodos**: Descripción de cómo se llevó a cabo la investigación.
+* **Resultados**: Presentación de los resultados obtenidos en la investigación.
+* **Discusión**: Interpretación y análisis de los resultados obtenidos.
+* **Conclusiones**: Síntesis de los resultados y respuesta a los objetivos planteados.
+* **Referencias bibliográficas**: Lista de las fuentes consultadas siguiendo las Normas APA.
 
 Es esencial [citar correctamente las fuentes consultadas]({{'cita-trabajo-escrito'|relative_url}} "Citaciones") para evitar plagio y respetar los derechos de autor.
 
@@ -74,10 +93,9 @@ Las Normas APA se utilizan como guía para la presentación y citación de fuent
 
 De esta forma, se presta mayor credibilidad y calidad al trabajo académico y se facilita el acceso y uso de la información a otros investigadores.
 
-### ¿Cómo citar tablas, figuras y otras imágenes en tu trabajo según las Normas APA?
-
-- Las tablas, figuras y otras imágenes **deben ser citadas en el texto y numeradas en orden consecutivo**. Las tablas se indican mediante la palabra "Tabla" seguida de su número y el título de la tabla en cursiva. Las figuras se indican con la palabra "Figura" seguida de su número y el título de la figura en cursiva.
-- Las tablas, figuras y otras imágenes **deben incluir una fuente y una descripción detallada de su contenido**. En el caso de las tablas y figuras obtenidas de fuentes externas, se debe indicar la fuente original y citarla adecuadamente según las Normas APA.
+* Las tablas, figuras y otras imágenes **deben ser citadas en el texto y numeradas en orden consecutivo**. Las tablas se indican mediante la palabra "Tabla" seguida de su número y el título de la tabla en cursiva. Las figuras se indican con la palabra "Figura" seguida de su número y el título de la figura en cursiva.
+* Las tablas, figuras y otras imágenes **deben incluir una fuente y una descripción detallada de su contenido**. En el caso de las tablas y figuras obtenidas de fuentes externas, se debe indicar la fuente original y citarla adecuadamente según las Normas APA.
+{:class="seccion_a"}
 
 ### ¿Cómo hacer una tabla de contenido y lista de tablas y figuras en formato APA?
 

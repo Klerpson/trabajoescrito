@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Cómo Hacer una Monografía 📝 | Normas APA: Guía Paso a Paso"
+title: "Cómo Hacer una Monografía 📝 | Normas APA: paso a paso"
 description: "Aprende a redactar una monografía siguiendo las normas APA con nuestra guía completa. Desde seleccionar el tema hasta la versión final. 💡 ¡Haz clic aquí!"
 h1: "Cómo hacer una Monografía siguiendo las Normas APA"
 intro: "Redactar una monografía puede ser un reto. Este trabajo académico requiere una investigación exhaustiva y una redacción cuidadosa."
@@ -10,7 +10,9 @@ intro: "Redactar una monografía puede ser un reto. Este trabajo académico requ
 # boton_mas_title: "Plantillas"
 vertical: true
 ---
-Si no estás seguro de cómo se hace una monografía, no te preocupes. En este artículo, te guiaremos paso a paso para que puedas **elaborar tu monografía siguiendo las normas APA**.
+Una monografía es un tipo de trabajo escrito que **se enfoca en investigar y explorar exhaustivamente un tema en particular**, utilizando fuentes fiables y adecuadas.
+
+Si no estás seguro de cómo se hace una monografía, no te preocupes. En este artículo, te guiaremos paso a paso para que puedas **elaborar tu monografía siguiendo [las normas APA]({{'normas-apa'|relative_url}} "Normas APA")**.
 
 ## ¿Qué es una monografía y cuáles son sus partes?
 
@@ -62,6 +64,18 @@ Para realizar una monografía, sigue estos pasos:
 
 Para facilitarte el proceso, puedes utilizar una plantilla de monografía. Muchas universidades ofrecen plantillas que ya están formateadas según las normas APA, lo que puede ahorrarte mucho tiempo y esfuerzo.
 
-<!-- Además, para darte una mejor idea de cómo debe verse una monografía, te proporcionamos un ejemplo de monografía que puedes consultar. -->
+## Monografías con Normas APA e Icontec
+
+Para hacer una monografía con normas APA e [Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec"), debes seguir las pautas de estructura específicas para este tipo de trabajo.
+
+Es importante incluir la portada, la página de aceptación, la lista de contenido, la introducción, el desarrollo y la bibliografía. Siguiendo estas pautas, puedes crear una monografía clara y coherente, que cumpla con los estándares de calidad establecidos para este tipo de trabajo.
+
+- Para la portada de la monografía, utiliza la información requerida, como el título del trabajo, el autor, el nombre de la institución, la fecha y otros detalles.
+- En la página de aceptación, incluye información sobre el asesor del trabajo, el jurado y la fecha de presentación.
+- La lista de contenido debe incluir las secciones principales de la monografía, organizadas en su orden correspondiente.
+- En la introducción, debes presentar el tema, el problema de investigación y los objetivos de la monografía. Además, debes mencionar la relevancia del tema y la metodología que utilizarás para llevar a cabo la investigación.
+- En el desarrollo, debes presentar los hallazgos de la investigación haciendo uso de fuentes fiables y adecuadas. Además, debes establecer un análisis crítico de los datos e identificar las conclusiones a las que se llega.
+- Por último, la bibliografía debe incluir los libros, ensayos y otros recursos utilizados en la investigación, siguiendo las pautas establecidas por las Normas APA e Icontec para citar y referenciar las fuentes utilizadas.
+{:class="seccion_a"}
 
 Asegúrate de seguir la estructura y el formato adecuado, y recuerda, la clave para una buena monografía es la investigación exhaustiva y una redacción cuidadosa. ¡Buena suerte!

@@ -207,6 +207,10 @@ blockquote {
   background-color: var(--secundario);
 }
 
+blockquote p{
+  font-weight: 700;
+}
+
 blockquote::before {
   content: '◜◜';
   font-weight: 900;
@@ -341,6 +345,7 @@ header,
   color: var(--blanco);
   padding: 4em 0;
   margin: 3em 0;
+  margin-inline: auto;
 
   & p {
     width: min(100%, 1128px);

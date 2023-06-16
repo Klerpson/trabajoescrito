@@ -58,6 +58,8 @@ Escribe un borrador de tu presentación **para tener una idea de cómo se verá*
 
 Asegúrate de revisar y editar tu presentación antes de entregarla. **Busca errores** gramaticales y de ortografía, y asegúrate de que tu presentación sea coherente y fácil de seguir.
 
+-----
+
 ## Cómo presentar un Trabajo Escrito de manera efectiva
 
 Presentar un trabajo escrito de manera efectiva puede ser un reto, pero con los consejos y técnicas adecuados, puedes destacar:
@@ -66,6 +68,66 @@ Presentar un trabajo escrito de manera efectiva puede ser un reto, pero con los 
 * **Busca y selecciona información relevante:** El contenido de tu presentación debe ser relevante para el tema principal. Asegúrate de investigar y seleccionar solo la información más relevante.
 * **Utiliza ayudas visuales:** Las ayudas visuales, como las diapositivas de PowerPoint, pueden hacer que tu presentación sea más interesante y atractiva.
 * **Practica tu presentación:** Antes de la presentación real, practica frente a un espejo o con amigos o familiares para obtener feedback y ganar confianza.
+
+## Establecer muchos puntos que mejoran tus trabajos escritos
+
+Además de seguir las normas APA e ICONTEC en cuanto a márgenes, fuentes y demás aspectos técnicos, hay otros muchos puntos que se deben tener en cuenta para presentar trabajos escritos de forma eficiente. A continuación, se detallan algunos de los aspectos que se deben considerar para mejorar tus trabajos:
+
+### ¿Cómo debe estar el borde inferior y superior según las Normas APA e ICONTEC?
+
+En cuanto a los márgenes inferior y superior, deben tener una medida de 2,54 cm (1 pulgada) en las Normas APA mientras que en las Normas ICONTEC se debe establecer una medida de 3 cm para el margen superior y 3 cm para el margen inferior. El resto de los márgenes debe ser de 2,5 cm (1 pulgada).
+
+-----
+
+### ¿Qué normas se deben respetar en la presentación de ensayos, tesis, monografías y artículos?
+
+* Utilizar hojas tamaño carta y numerarlas
+* Usar fuente Arial tamaño 12 para todo el trabajo
+* El tamaño de letra utilizado debe ser el mismo en todo el trabajo
+* Realizar una tabla de contenido y referenciar las páginas
+* Presentación ordenada y lógica de la información
+* (Solo si se justifica) dejar la última hoja en blanco
+* Las imágenes y tablas deben aparecer dentro del cuerpo del texto y no en una página aparte
+{:class="seccion_a"}
+
+### ¿Qué tipo de contenido se debe presentar en cada parte de tus trabajos escritos?
+
+Es importante tener en cuenta que cada parte del trabajo debe contener cierta información específica para cumplir con las normas APA e ICONTEC, a continuación se detallan las partes del trabajo:
+
+#### Portada
+
+* Nombre de la institución o universidad
+* Título de la tesis
+* Autor del trabajo
+
+#### Índice
+
+* (Lista de las partes de tu trabajo y las páginas en que se pueden encontrar)
+* Deberá ser ordenado y estructurado para facilitar la navegación por la información
+
+#### Introducción
+
+* Contexto del trabajo
+* Objetivos del trabajo
+* Justificación del trabajo
+
+#### Cuerpo
+
+* Desarrollo de los temas
+* Argumentaciones
+* Sustento bibliográfico
+* Innovación
+
+#### Conclusión
+
+* Resumen de los objetivos principales
+* Conclusiones derivadas del cuerpo del trabajo
+* Recomendaciones para futuras investigaciones
+
+#### Anexos
+
+* (Material gráfico, tablas, cuadros y cualquier otro documento adicional)
+* Estarán ubicados después de las conclusiones
 
 ## Ahora sí presenta tu Trabajo Escrito
 
