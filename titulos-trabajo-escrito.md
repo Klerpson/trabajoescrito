@@ -18,6 +18,8 @@ Si estás haciendo una tesis, un ensayo o un artículo científico, aquí te ofr
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
+-----
+
 ### Paso 1: Conocimiento y público objetivo
 
 El punto de partida es tener **una comprensión profunda de tu tema y conocer a tu audiencia**. Un título potente debe condensar la esencia de tu trabajo y captar la atención de tus lectores.

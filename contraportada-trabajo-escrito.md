@@ -33,6 +33,8 @@ Esto significa tener en cuenta lo siguiente:
 
 {% include cluster2.html img="contraportada-trabajo-escrito.webp" alt="Modelo de contraportada" h3="Partes que debe contener una Contraportada" punto1="El título del trabajo en mayúsculas y negrita." punto2="El nombre completo del autor o autores y de la institución en la que se presenta el trabajo." punto3="La fecha de presentación." %}
 
+-----
+
 ## Contenido de la contraportada
 
 La contraportada debe contener información sobre *el título del trabajo, el autor o autores, la institución, la facultad o departamento, la fecha de presentación, el nombre del tutor o asesor, y cualquier otro detalle* que se considere relevante.

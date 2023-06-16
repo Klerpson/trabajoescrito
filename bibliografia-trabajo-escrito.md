@@ -34,7 +34,9 @@ Aquí está tu guía paso a paso sobre **cómo hacer una bibliografía para un t
 4. **Viste tus citas correctamente**: Cada estilo de citación tiene sus propias reglas para cómo se debe formatear cada tipo de fuente (libros, revistas, sitios web, etc.). Asegúrate de seguir estas reglas al formatear tus citas para que tu bibliografía luzca profesional.
 5. **Haz una inspección final**: Es crucial que todas las fuentes que has citado en tu trabajo aparezcan en tu bibliografía, y viceversa. Así que haz una última revisión para asegurarte de que nada se te ha escapado.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
+{:id="descargas" class="seccion_a"}
+
+-----
 
 ## Ejemplos de Bibliografías de Trabajos Escritos
 

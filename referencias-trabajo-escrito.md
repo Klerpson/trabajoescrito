@@ -78,11 +78,11 @@ La correcta aplicación de las Normas APA e Icontec en la realización de citas 
 1. Citas parenthéticas
 2. Citas narrativas
 
-#### Las citas parenthéticas
+### Las citas parenthéticas
 
 Son aquellas en las que **la referencia se coloca entre paréntesis inmediatamente después de la cita o la paráfrasis**. Por ejemplo: "El cambio climático es una amenaza existencial para la humanidad" (Smith, 2022).
 
-#### Las citas narrativas
+### Las citas narrativas
 
 **Las citas narrativas incorporan la referencia dentro de la oración**. Por ejemplo: "Según Smith (2022), el cambio climático es una amenaza existencial para la humanidad". La forma exacta de citar depende del estilo de cita que estés utilizando.
 

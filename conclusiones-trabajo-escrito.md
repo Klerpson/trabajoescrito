@@ -26,6 +26,8 @@ La conclusión normalmente **se ubica al final del trabajo escrito**, después d
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
+-----
+
 ## Pasos para hacer una conclusión
 
 Realizar una conclusión efectiva implica una serie de pasos. Aquí te mostramos cómo hacer una conclusión en simples etapas:
