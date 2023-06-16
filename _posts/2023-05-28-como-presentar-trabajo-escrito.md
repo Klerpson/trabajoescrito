@@ -129,6 +129,24 @@ Es importante tener en cuenta que cada parte del trabajo debe contener cierta in
 * (Material gráfico, tablas, cuadros y cualquier otro documento adicional)
 * Estarán ubicados después de las conclusiones
 
+## La importancia de la ortografía y la redacción impersonal en tercera persona del singular
+
+La ortografía es clave en cualquier presentación de un trabajo escrito. La redacción impersonal en tercera persona del singular **hace que el proyecto sea más formal, y se le conceda mayor importancia por su imparcialidad**, haciendo que se aleje del sesgo emocional y añadiendo mayor objetividad a la presentación.
+
+### Uso de conectores gramaticales para unificar ideas en el texto
+
+El correcto uso de conectores gramaticales es fundamental **para unificar ideas en el texto y hacer que nuestra presentación sea coherente y fácil de entender**.
+
+Conectores gramaticales como 'Además', 'Por otro lado', 'Así mismo', 'Por lo tanto' y 'En conclusión' son ejemplos de palabras que pueden ser utilizadas para crear fluidez en la presentación.
+
+### Utilización del menú de opciones en Word para aplicar las normas de formato y diseño
+
+Microsoft Word es la herramienta más utilizada para aplicar las normas de formato y diseño de trabajos académicos.
+
+En el menú de opciones se pueden encontrar herramientas para configurar las diferentes características del trabajo, **como el tamaño de la hoja, los [márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes"), ({{'interlineado-trabajo-escrito'|relative_url}} "Interlineado") y [la numeración de páginas]({{'numeracion-trabajo-escrito'|relative_url}} "Numeración")**.
+
+Es importante que el trabajo esté diseñado y presentado de forma ordenada y con una clara separación entre [títulos]({{'titulos-trabajo-escrito'|relative_url}} "Títulos") y subtítulos.
+
 ## Ahora sí presenta tu Trabajo Escrito
 
 Crear y presentar un trabajo escrito no tiene por qué ser una tarea abrumadora. Con la preparación adecuada y [las técnicas correctas]({{'cursos-de-trabajos-escritos'|relative_url}}), puedes presentar un trabajo que no solo cumpla con las expectativas de tu profesor o jefe, sino que también te haga destacar.

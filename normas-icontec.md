@@ -10,6 +10,14 @@ boton_mas: "descargas"
 boton_mas_title: "Plantillas"
 vertical: true
 ---
+## Normas colombianas de presentación de proyectos: Instituto Colombiano de Normas Técnicas y Certificación
+
+El Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) establece las normas colombianas para la presentación de trabajos académicos, las cuales deben ser cumplidas en la elaboración de cualquier tipo de documento.
+
+### Características específicas de las normas colombianas de presentación de documentos
+
+Las normas colombianas se enfocan principalmente en establecer un patrón de presentación ordenado y claro, adecuado **para garantizar la comprensión y sistematización de la información** contenida en los trabajos académicos.
+
 ## ¿Qué son las normas Icontec?
 
 Las normas Icontec son un conjunto de **reglas y metodologías que deben aplicarse en trabajos escritos** como ensayos, tesis o trabajos de grado en Colombia y otros países de América Latina.
