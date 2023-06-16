@@ -58,8 +58,22 @@ Para ilustrar cómo se escribe la bibliografía en un trabajo escrito, aquí te 
 
    Martínez, Laura, and Pedro Gómez. 2019. "La influencia del entorno social en el comportamiento humano." *Revista de Psicología Social* 34, no. 2: 45-67.
 
-## Finalizando con Éxito: El Impacto de una Bibliografía Bien Hecha
+### Las bibliografías y las refencias bibliográficas no son lo mismo
 
-En conclusión, la bibliografía de un trabajo escrito es un componente esencial que otorga credibilidad a tu investigación y respeta el trabajo intelectual de otros autores.
+Las referencias bibliográficas y la bibliografía son elementos fundamentales de un trabajo escrito, pero su propósito y la forma en que se utilizan son diferentes.
+
+**Las referencias bibliográficas son una lista detallada de las fuentes que se han citado directamente en el trabajo**. Esto incluye cualquier fuente de la que se haya extraído información, datos, ideas o argumentos específicos, y se haya mencionado en el texto.
+
+En otras palabras, si citaste una fuente en tu trabajo, esa fuente debe estar en tu lista de referencias. Las referencias permiten a los lectores rastrear y verificar las fuentes citadas directamente en tu trabajo.
+
+Por otro lado, **la bibliografía es una lista más amplia que incluye todas las obras que has consultado durante la investigación**, aunque no necesariamente las hayas citado en el texto.
+
+Esto puede incluir trabajos que te han dado un conocimiento de fondo o que has leído para familiarizarte con el tema, pero a los que no te has referido directamente en tu trabajo. **La bibliografía permite a los lectores ver la amplitud de tu investigación y encontrar otras fuentes relevantes** que podrían interesarles.
+
+>En resumen, las referencias bibliográficas están directamente vinculadas a las citas en tu texto, mientras que la bibliografía incluye estas y otras fuentes que has consultado durante tu investigación. Sin embargo, vale la pena mencionar que los términos se utilizan de manera intercambiable en algunos contextos, y las reglas pueden variar dependiendo del estilo de cita que estés utilizando.
+
+## Finalizando con éxito: el impacto de una Bibliografía bien hecha
+
+En conclusión, **la bibliografía** de un trabajo escrito es un componente esencial que **otorga credibilidad a tu investigación y respeta el trabajo intelectual de otros autores**.
 
 Aunque puede parecer un proceso laborioso, crear una bibliografía precisa y completa es una habilidad valiosa en la academia y más allá. Ahora que sabes cómo se realiza una bibliografía en un trabajo escrito, estás un paso más cerca de presentar trabajos académicos de alta calidad.
