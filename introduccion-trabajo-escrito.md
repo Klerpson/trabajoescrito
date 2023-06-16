@@ -5,14 +5,16 @@ description: "Te queremos compartir las técnicas y los pasos para realizar una 
 h1: "La introducción de un Trabajo Escrito: técnicas, ejemplos y consejos"
 intro: "Alguna vez te has preguntado, '¿qué es y cómo se hace una introducción de un trabajo escrito?' Si es así, no estás solo."
 boton_info: "estructura"
-boton_info_title: "Medidas"
+boton_info_title: "Cómo hacer"
 boton_mas: "descargas"
-boton_mas_title: "Estándar"
+boton_mas_title: "Ejemplos"
 vertical: true
 ---
 Como muchos autores saben, comenzar es a menudo lo más difícil. Pero, como dijo una vez el famoso escritor Mark Twain, "el secreto de adelantar es comenzar".
 
 Te queremos compartir las técnicas y los pasos para realizar una introducción cautivadora. También, te proporcionaremos ejemplos concretos y asesoramiento de expertos para ayudarte a dominar este arte crucial.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
 
 ## Cómo se hace una buena introducción
 
@@ -38,7 +40,33 @@ Esta es tu oportunidad para decirle a tu lector qué puede esperar aprender o ob
 
 La brevedad es el alma de la ingeniosidad, y eso también se aplica a las introducciones. Como afirma el profesor de inglés Jack Lynch, "tu lector no necesita tu introducción para comprender tu tesis, solo necesita tu introducción para entender por qué tu tesis es importante".
 
------
+----
+
+## Estructura de la introducción
+
+La introducción es la primera sección de un trabajo académico y es vital para presentar la información y los objetivos del trabajo.
+
+La siguiente es una serie de elementos que se presentan en un orden estandarizado, como el contexto, la justificación, los objetivos y la metodología.
+
+- **Contexto:** la introducción debe comenzar estableciendo el marco teórico y metodológico en el que se desarrolla el trabajo.
+- **Justificación:** la introducción debe presentar de manera convincente las razones por las que el trabajo es relevante y valioso para la disciplina o el campo de estudio.
+- **Objetivos:** los objetivos deben estar claramente definidos y expresados en términos concretos y alcanzables.
+- **Metodología:** en la introducción se debe presentar la metodología utilizada para llevar a cabo el trabajo.
+
+### Funciones de la introducción
+
+La introducción tiene varias funciones en el trabajo académico, como:
+
+- **Contextualización:** la introducción proporciona el contexto para el trabajo y lo sitúa en un contexto más amplio.
+- **Justificación:** la introducción justifica el trabajo y lo presenta como relevante y valioso.
+- **Delimitación:** la introducción define los límites del trabajo y establece los objetivos y la metodología para cumplirlos.
+- **Presentación:** la introducción presenta los resultados esperados y proporciona una idea general del contenido del trabajo.
+
+La introducción es una parte fundamental de un trabajo académico y es importante que se redacte de manera clara y precisa para que cumpla con sus funciones y presentación adecuada de la información.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
+
+----
 
 ## Ejemplos de introducciones cautivantes
 
