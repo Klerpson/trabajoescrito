@@ -52,6 +52,8 @@ Un buen ejemplo de título, podría ser: **"Determinantes de la Pobreza en Cusco
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="errores"}
 
+----
+
 ## Errores comunes a evitar cuando haces títulos
 
 Existen errores frecuentes que se deben evitar al crear un **"título de un trabajo escrito"**:

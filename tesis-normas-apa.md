@@ -45,16 +45,16 @@ En esta sección, se aborda de manera detallada **la estructura, citación, form
 
 Para estructurar correctamente una tesis según las Normas APA, se recomienda seguir los siguientes pasos:
 
-* **Portada**: Incluye el título, autor, institución y fecha.
-* **Resumen**: Síntesis del trabajo, no más de 250 palabras.
-* **Índice**: Enumera el contenido del trabajo.
-* **Introducción**: Presenta el tema y los objetivos de la investigación.
-* **Marco teórico**: Revisión de la literatura y teorías pertinentes al tema.
-* **Métodos**: Descripción de cómo se llevó a cabo la investigación.
-* **Resultados**: Presentación de los resultados obtenidos en la investigación.
-* **Discusión**: Interpretación y análisis de los resultados obtenidos.
-* **Conclusiones**: Síntesis de los resultados y respuesta a los objetivos planteados.
-* **Referencias bibliográficas**: Lista de las fuentes consultadas siguiendo las Normas APA.
+>* **Portada**: Incluye el título, autor, institución y fecha.
+>* **Resumen**: Síntesis del trabajo, no más de 250 palabras.
+>* **Índice**: Enumera el contenido del trabajo.
+>* **Introducción**: Presenta el tema y los objetivos de la investigación.
+>* **Marco teórico**: Revisión de la literatura y teorías pertinentes al tema.
+>* **Métodos**: Descripción de cómo se llevó a cabo la investigación.
+>* **Resultados**: Presentación de los resultados obtenidos en la investigación.
+>* **Discusión**: Interpretación y análisis de los resultados obtenidos.
+>* **Conclusiones**: Síntesis de los resultados y respuesta a los objetivos planteados.
+>* **Referencias bibliográficas**: Lista de las fuentes consultadas siguiendo las Normas APA.
 
 Es esencial [citar correctamente las fuentes consultadas]({{'cita-trabajo-escrito'|relative_url}} "Citaciones") para evitar plagio y respetar los derechos de autor.
 
@@ -74,6 +74,8 @@ El formato para la elaboración de una tesis de grado según las Normas APA sigu
 Para evitar el plagio en una tesis, se recomienda **citar correctamente todas las fuentes consultadas y parafrasear cuando sea necesario**.
 
 Es importante utilizar herramientas de detección de plagio en caso de duda y revisar minuciosamente el trabajo antes de entregarlo para asegurarse de que no existen plagios involuntarios.
+
+----
 
 ## Manual de las Normas APA: todo lo que necesitas saber
 

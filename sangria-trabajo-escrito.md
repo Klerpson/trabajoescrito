@@ -34,6 +34,8 @@ Para insertar la sangría correctamente, **evita usar la barra espaciadora y uti
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
+-----
+
 ## ¿Cómo insertar la sangría en tus trabajos escritos?
 
 A continuación, te proporcionamos instrucciones detalladas para configurar la sangría en los editores de texto más comunes:
@@ -41,6 +43,7 @@ A continuación, te proporcionamos instrucciones detalladas para configurar la s
 * **Sangría en Pages**: En el editor de texto de Apple, selecciona los párrafos que deseas modificar y arrastra el marcador de sangría de la primera línea a la medida deseada. También puedes ajustar la sangría mediante los controles de la barra lateral "Formato".
 * **Sangría en Word**: En Word, busca la opción "Párrafo" en el menú de inicio y haz clic en el botón correspondiente. Luego, en la pestaña "Sangría y espacio", selecciona "primera línea" en el menú desplegable y establece el valor de 1.27 en el campo "En".
 * **Sangría en Google Docs**: En Google Docs, haz clic en "Formato" y selecciona "Alinear y aplicar sangría". Luego, elige "Opciones de sangría" y selecciona "primera línea" en el menú desplegable. Asegúrate de que aparezca automáticamente el valor de 1.27 cm en el recuadro correspondiente.
+{:class"seccion_a"}
 
 ## La sangría en tus trabajos escritos y la presentación profesional
 

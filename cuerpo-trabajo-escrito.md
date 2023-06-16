@@ -26,6 +26,8 @@ Un factor crucial en la escritura del cuerpo de un trabajo es el desarrollo del 
 
 >El desarrollo del tema se realiza de manera sistemática y lógica, asegurando que cada punto se enlace con el siguiente de manera coherente.
 
+-----
+
 ## ¿Cómo se Realiza el Desarrollo del Tema?
 
 El desarrollo del tema inicia con una tesis o argumento principal. Luego, se presenta la evidencia o datos que respaldan este argumento en párrafos sucesivos.

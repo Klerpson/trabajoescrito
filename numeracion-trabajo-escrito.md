@@ -61,12 +61,6 @@ Por ejemplo, muchos procesadores de texto, como Word en office, ofrecen funcione
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-<!-- ## Descarga nuestras plantillas: un recurso para enumerar y paginar fácilmente
-
-Para ayudarte aún más en este proceso, ofrecemos **plantillas descargables que siguen las normas APA e Icontec**.
-
-Estas plantillas ya tienen incorporadas las reglas de numeración y paginación apropiadas, lo que te permite centrarte en la creación de contenido en lugar de preocuparte por los detalles del formato. -->
-
 ## Numerar y organizar, esa es la cuestión
 
 Recuerda, la correcta numeración y paginación de tu trabajo no solo facilita la lectura, sino que también refleja tu atención al detalle y tu compromiso con la presentación de un trabajo de alta calidad.

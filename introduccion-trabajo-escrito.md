@@ -38,6 +38,8 @@ Esta es tu oportunidad para decirle a tu lector qué puede esperar aprender o ob
 
 La brevedad es el alma de la ingeniosidad, y eso también se aplica a las introducciones. Como afirma el profesor de inglés Jack Lynch, "tu lector no necesita tu introducción para comprender tu tesis, solo necesita tu introducción para entender por qué tu tesis es importante".
 
+-----
+
 ## Ejemplos de introducciones cautivantes
 
 Te dejamos **3 ejemplos de introducciones para trabajos escritos en tres áreas diferentes**: ciencias sociales, literatura y ciencia.
@@ -54,6 +56,7 @@ Cada uno muestra diferentes formas de utilizar 3 puntos clave:
 "La magia de "Cien años de soledad" de Gabriel García Márquez no solo reside en su vibrante realismo mágico, sino también en su capacidad para resonar en nuestros corazones, independientemente de nuestras propias historias personales. Este análisis literario busca desentrañar las capas de esta emblemática obra, explorando cómo los temas de amor, soledad y destino se entrelazan en la saga de la familia Buen día. En cada página, encontraremos la humanidad reflejada en los matices de su narrativa, llevándonos a una profunda reflexión sobre la vida y la muerte, la realidad y la fantasía."
 3. Ciencia:  
 "Cuando Neil Armstrong dio sus primeros pasos en la luna en 1969, marcó un hito en la exploración espacial. Sin embargo, ese gigantesco salto para la humanidad no habría sido posible sin una comprensión sólida de la física. Este trabajo explora las leyes fundamentales de la física que han permitido la exploración espacial, desde la ley de la gravitación de Newton hasta las ecuaciones de campo de Einstein en la relatividad general. Al desentrañar estas teorías, nos adentraremos en la fascinante intersección de la física y la astronomía, y descubriremos cómo la humanidad ha logrado alcanzar las estrellas."
+{:class="seccion_a"}
 
 >Cada uno de estos ejemplos proporciona un gancho interesante, establece el contexto y el propósito del trabajo, e invita al lector a seguir leyendo.
 

@@ -14,6 +14,8 @@ Una monografía es un tipo de trabajo escrito que **se enfoca en investigar y ex
 
 Si no estás seguro de cómo se hace una monografía, no te preocupes. En este artículo, te guiaremos paso a paso para que puedas **elaborar tu monografía siguiendo [las normas APA]({{'normas-apa'|relative_url}} "Normas APA")**.
 
+-----
+
 ## ¿Qué es una monografía y cuáles son sus partes?
 
 La monografía es un documento que presenta la investigación y los hallazgos de un autor sobre un tema específico.
@@ -61,6 +63,7 @@ Para realizar una monografía, sigue estos pasos:
 3. **Redacta el borrador**: Escribe un borrador de tu monografía siguiendo la estructura mencionada anteriormente.
 4. **Revisa y corrige**: Verifica la coherencia, la gramática, y el formato según las normas APA.
 5. **Prepara la versión final**: Una vez corregido, prepara la versión final de tu monografía.
+{:class="seccion_a"}
 
 Para facilitarte el proceso, puedes utilizar una plantilla de monografía. Muchas universidades ofrecen plantillas que ya están formateadas según las normas APA, lo que puede ahorrarte mucho tiempo y esfuerzo.
 

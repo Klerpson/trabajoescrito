@@ -39,7 +39,7 @@ La dedicatoria no tiene un [título]({{'titulos-trabajo-escrito'|relative_url}})
 
 Es importante recordar que, aunque la dedicatoria es un toque personal en un trabajo académico, debe mantener un grado de profesionalismo en términos de su presentación.
 
-Asegúrate de seguir cualquier guía de estilo o normativa que tu institución o profesor pueda haber proporcionado en cuanto a formato y ubicación de la dedicatoria.
+>Asegúrate de seguir cualquier guía de estilo o normativa que tu institución o profesor pueda haber proporcionado en cuanto a formato y ubicación de la dedicatoria.
 
 Por último, aunque **la dedicatoria es una adición significativa, es opcional**. No todos los trabajos académicos incluyen una, pero cuando se hace, agrega una conexión personal y significativa a tu obra.
 

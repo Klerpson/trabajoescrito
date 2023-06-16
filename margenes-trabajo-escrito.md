@@ -51,6 +51,8 @@ Sin embargo, si incluyes elementos gráficos o logotipos, es posible que debas h
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
+-----
+
 ## Tabla de resumen de medidas de margen estándar
 
 | Margen    | Medida |

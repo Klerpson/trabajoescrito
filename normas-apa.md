@@ -135,11 +135,6 @@ La cita de cita se utiliza para citar información que has encontrado en una fue
 
 [Más sobre las citas](# "Citas"){:class="boton"}
 
-<!-- ## Listas
-
-CONTENIDO SOBRE LAS LISTAS SEGÚN NORMAS APA
-ZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZZ -->
-
 ## Cómo el uso de Normas APA afecta a nuestra comunidad académica
 
 Las Normas APA son esenciales en el ámbito académico, y su utilización no solo beneficia a los estudiantes, sino que también a toda la comunidad académica.
