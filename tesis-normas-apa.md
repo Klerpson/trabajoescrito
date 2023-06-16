@@ -64,7 +64,7 @@ En esta sección, se presentan **los cambios en la séptima edición de las Norm
 
 ### ¿Qué cambios hay en la séptima edición de las Normas APA?
 
-La séptima edición de las Normas APA incorpora algunos cambios importantes que afectan a la presentación y citación de fuentes. Por ejemplo, se han introducido** nuevos tipos de fuentes, como tweets y posts en redes sociales, y se han simplificado las reglas de uso de mayúsculas y minúsculas**.
+La séptima edición de las Normas APA incorpora algunos cambios importantes que afectan a la presentación y citación de fuentes. Por ejemplo, se han introducido **nuevos tipos de fuentes, como tweets y posts en redes sociales, y se han simplificado las reglas de uso de mayúsculas y minúsculas**.
 
 También se han actualizado las pautas para la presentación de tablas y figuras, entre otros cambios. Es importante estar actualizados y aplicar las normas y reglas de la séptima edición para garantizar la calidad y originalidad de los trabajos académicos.
 
@@ -87,42 +87,8 @@ Las tablas y figuras, por su parte, requieren una lista numerada de todas las ta
 
 Para hacer una tabla de contenido y lista de tablas y figuras en formato APA, **se debe usar el mismo tipo de letra y tamaño que en el texto principal**. Además, **las tablas y figuras deben tener un título en cursiva y numerarse con números arábigos** consecutivos. La tabla de contenido, a su vez, debe indicar el número de página correspondiente a cada sección o subsección del trabajo.
 
-## Normas APA: Guía para la presentación de trabajos académicos
+## Presenta una Tesis memorable y eficaz
 
-Las Normas APA son lineamientos que indican cómo presentar y citar las fuentes en un trabajo académico. Estas normas son ampliamente utilizadas en universidades y en investigaciones relacionadas con las ciencias sociales y se deben seguir para garantizar la calidad y originalidad del trabajo.
+La redacción y citación de una tesis utilizando las normas APA puede parecer abrumadora al principio, pero con esta guía se puede lograr de manera efectiva.
 
-### ¿Qué son las Normas APA y para qué se utilizan?
-
-Las Normas APA son reglas establecidas para la presentación de trabajos académicos que incluyen la organización de la estructura, la citación de fuentes y el formato en sí del trabajo escrito. Estas normas se utilizan en el ámbito académico para garantizar que los trabajos presentados cumplen con unos estándares de calidad y originalidad.
-
-### ¿Cuál es la estructura de un trabajo escrito según las Normas APA?
-
-Un trabajo escrito según las Normas APA debe seguir una estructura clara que incluye la portada, resumen, introducción, sección de métodos, resultados y discusión, lista de referencias y bibliografía. También se pueden incluir elementos opcionales como objetivos, justificación, marco teórico y metodológico, hipótesis, tabla de contenidos e estado del arte.
-
-### ¿Cómo citar correctamente las fuentes consultadas en un trabajo escrito?
-
-Es importante citar correctamente las fuentes consultadas en un trabajo escrito. Las Normas APA establecen pautas para la citación y la organización de las referencias, que deben estar ordenadas alfabéticamente por el apellido del primer autor y seguir el formato de la séptima edición. Además, en el caso de que se tengan varios documentos del mismo autor y año, se distinguen con una letra minúscula a, b, c, etc. después del año.
-
-### ¿Cuál es el formato adecuado para la presentación de un trabajo según las Normas APA?
-
-El formato es importante para la presentación de cualquier trabajo escrito bajo las Normas APA. Debe seguir las normas de estilo, como el tamaño de página, los márgenes, el tipo de fuente, el interlineado y la alineación. Las Normas APA también contemplan el uso de abreviaturas, comillas, cursiva, listas, números, mayúsculas y minúsculas.
-
-## Cómo el uso de Normas APA afecta a nuestra comunidad académica
-
-Las Normas APA son esenciales en el ámbito académico, y su utilización no solo beneficia a los estudiantes, sino que también a toda la comunidad académica.
-
-### ¿Por qué es importante seguir las Normas APA en la universidad?
-
-El uso de las Normas APA es esencial en la universidad ya que garantiza la calidad y originalidad de los trabajos académicos, además de evitar el plagio y facilitar la lectura y comprensión del contenido. La universidad es un ambiente académico y profesional, y el uso de las Normas APA es una demostración de compromiso y responsabilidad con la calidad y rigurosidad en la presentación de trabajos.
-
-### ¿Cómo el uso de las Normas APA mejora la calidad de nuestros trabajos académicos?
-
-El uso de las Normas APA en la elaboración de trabajos académicos mejora su calidad al asegurar una estructura clara y coherente, la utilización correcta de citas y referencias, y la adopción de un formato estandarizado que facilita su lectura y comprensión. Además, el uso de las Normas APA permite una presentación profesional y acorde a los estándares del ámbito académico y laboral.
-
-### ¿Cómo el uso de Normas APA nos prepara para el mundo laboral?
-
-El uso de las Normas APA es fundamental en el mundo laboral, ya que su aplicación garantiza la calidad y eficacia en la elaboración de informes, presentaciones y otros documentos. El uso de las Normas APA es una habilidad necesaria en empresas y organizaciones que requieren presentaciones y documentos de alta calidad y coherencia, por lo que su aprendizaje y aplicación en la universidad es una preparación invaluable para el mundo laboral.
-
-### ¿Cómo se benefician los estudiantes al aprender las Normas APA?
-
-Los estudiantes se benefician enormemente al aprender y aplicar las Normas APA en sus trabajos académicos. El uso de las Normas APA permite a los estudiantes ser más rigurosos y precisos en la elaboración de sus trabajos, lo que simplifica su lectura y comprensión por parte de los evaluadores. Además, el uso de las Normas APA facilita el aprendizaje y la investigación, y contribuye al desarrollo de habilidades esenciales en el ámbito académico y laboral.
+Siguiendo la estructura recomendada y las pautas de citación, los autores pueden presentar sus trabajos de manera clara y coherente, garantizando la calidad y la validez de la investigación. Además, el uso correcto de las normas APA muestra respeto por el trabajo académico previo y facilita la comunicación entre investigadores.
