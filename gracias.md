@@ -12,7 +12,7 @@ noindex: true
 
 ¡Gracias por ser un héroe en el mundo de los trabajos escritos!
 
-En TrabajosEscritos.com, estamos encantados de ser tu aliado en esta emocionante travesía académica y profesional. Queremos celebrar tu dedicación y valentía al buscar las herramientas y conocimientos necesarios para triunfar en tus proyectos escritos.
+En TrabajoEscrito.com, estamos encantados de ser tu aliado en esta emocionante travesía académica y profesional. Queremos celebrar tu dedicación y valentía al buscar las herramientas y conocimientos necesarios para triunfar en tus proyectos escritos.
 
 Imagina un sendero desafiante, lleno de obstáculos y preguntas sin respuesta. Pero no te preocupes, ¡estamos aquí para ayudarte a encontrar el camino correcto! Como tu guía en esta aventura, te brindamos recursos valiosos y compartimos historias de éxito de otros héroes como tú.
 
@@ -25,4 +25,4 @@ Eres el protagonista de tu propia historia y queremos ayudarte a escribir el cap
 ¡Eres un héroe de los trabajos escritos y estamos orgullosos de ser parte de tu éxito!
 
 Con gratitud,
-El equipo de TrabajosEscritos.com
+El equipo de TrabajoEscrito.com
