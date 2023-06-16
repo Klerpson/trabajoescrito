@@ -55,7 +55,7 @@ Tenemos la portada, [la contraportada]({{'contraportada-trabajo-escrito'|relativ
 
 El índice es como nuestro mapa mágico que nos ayuda a **navegar por el trabajo escrito a mano**.
 
-[Enumeremos]({{'numeración-trabajo-escrito'|relative_url}}) las secciones y subsecciones con sus respectivos números de página. De esta manera siempre sabremos dónde encontrar lo que buscamos.
+[Enumeremos]({{'numeracion-trabajo-escrito'|relative_url}}) las secciones y subsecciones con sus respectivos números de página. De esta manera siempre sabremos dónde encontrar lo que buscamos.
 
 ### Presentación de primera clase
 
