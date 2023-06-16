@@ -50,7 +50,7 @@ Un buen ejemplo de título, podría ser: **"Determinantes de la Pobreza en Cusco
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="errores"}
 
-## Errores comunes a evitar
+## Errores comunes a evitar cuando haces títulos
 
 Existen errores frecuentes que se deben evitar al crear un **"título de un trabajo escrito"**:
 
@@ -58,7 +58,7 @@ Existen errores frecuentes que se deben evitar al crear un **"título de un trab
 * Incluir términos y frases innecesarias, que pueden distraer del propósito central de tu trabajo.
 * No utilizar formatos que den jerarquía al título, diferenciándolo del resto del texto del escrito.
 
-## Reflexión Final
+## Elije un buen título para tu trabajo escrito
 
 La elección del título es un aspecto fundamental en el proceso de redacción y no debe ser subestimado. Siguiendo estos pasos, te encontrarás bien preparado para concebir un título que cumpla con las normas sobre Trabajos Escritos, que atraiga la atención de tus lectores y que refleje adecuadamente el contenido de tu trabajo.
 

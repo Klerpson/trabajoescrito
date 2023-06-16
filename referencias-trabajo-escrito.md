@@ -61,9 +61,19 @@ Los libros tienen autores, títulos, editores y fechas de publicación. Las revi
 
 Asegúrate de registrar esta información mientras investigas para que no tengas que buscarla nuevamente más tarde.
 
-### Cita de Referencias en el Texto
+-----
 
-El primer paso en la realización de referencias bibliográficas es **citar las fuentes en el texto de tu trabajo escrito**. Esto se hace generalmente de 2 formas:
+## Cita de Referencias en el Texto
+
+Las citas y referencias bibliográficas son partes fundamentales en un anteproyecto, y deben realizarse de manera precisa y rigurosa para dar credibilidad a la información presentada. Para utilizar Normas APA e [Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec") en las citas y referencias bibliográficas, es importante seguir los siguientes aspectos:
+
+- Las Normas APA e Icontec establecen la forma de citar tanto una fuente directa como una fuente indirecta o parafraseada. Para una *fuente directa*, se debe *incluir el apellido del autor, el año de publicación y el número de página*. Para una *fuente indirecta o parafraseada, se deberá incluir solamente el autor y el año de publicación*.
+- En cuanto a las referencias bibliográficas, estas deben estar *ordenadas alfabéticamente por autor y, dentro de un mismo autor, por orden cronológico*. Se especifican, además, el autor, el título del artículo o libro, el año de publicación, la editorial o revista, la ciudad y el número de página.
+- En cuanto al formato, es importante tener en cuenta algunas particularidades como *la cursiva para los títulos de libros y revistas y el uso de mayúsculas para los nombres propios*. Además, es importante incluir la fecha de acceso y la URL en caso de tratarse de una fuente digital.
+- Es importante revisar las Normas APA o Icontec específicas para cada tipo de fuente bibliográfica, *tales como revistas, libros o documentos electrónicos, y seguir los ejemplos proporcionados por las guías*.
+{:class="seccion_a"}
+
+La correcta aplicación de las Normas APA e Icontec en la realización de citas y referencias bibliográficas es fundamental para la elaboración de un trabajo escrito riguroso y confiable. El primer paso en la realización de referencias bibliográficas es **citar las fuentes en el texto de tu trabajo escrito**. Esto se hace generalmente de 2 formas:
 
 1. Citas parenthéticas
 2. Citas narrativas

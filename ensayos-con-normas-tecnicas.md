@@ -29,7 +29,7 @@ Las Normas APA (American Psychological Association) son un conjunto de estándar
 Las Normas ICONTEC (Instituto Colombiano de Normas Técnicas y Certificación) son otro conjunto de reglas para la presentación de trabajos académicos.
 
 * **Portada**: La portada debe incluir el nombre de la institución, el título del trabajo, el nombre del autor, la ciudad y el año.
-* **Índice**: Después de la portada, se debe presentar un índice con las secciones y subsecciones del ensayo, junto con sus respectivas páginas.
+* **Índice**: Después de la portada, se debe presentar un índice con las secciones y sub-secciones del ensayo, junto con sus respectivas páginas.
 * **Cuerpo del Ensayo**: Al igual que las Normas APA, un ensayo ICONTEC debe seguir una estructura general de introducción, desarrollo y conclusión.
 * **Citas**: Las citas en el texto deben ser numeradas consecutivamente y corresponder a las referencias en una bibliografía al final del documento.
 * **Formato general**: Las normas ICONTEC exigen una presentación limpia y organizada, con márgenes específicos (3 cm en la parte superior e inferior, 4 cm a la izquierda y 2 cm a la derecha).

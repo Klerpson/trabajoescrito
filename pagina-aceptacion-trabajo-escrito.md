@@ -30,7 +30,7 @@ La elaboración de la página de aceptación no debe ser un proceso complejo. Si
 
 ### Paso 1: Encabezado
 
-Lo primero que debes escribir es el encabezado. Este normalmente se compone del [título del trabajo escrito]({{'titulos-trabajo-escrito'|relative_url}}) y la declaración de aceptación.
+Lo primero que debes escribir es el encabezado. Este normalmente se compone del [título del trabajo escrito]({{'titulos-trabajo-escrito'|relative_url}}) y la declaración de aceptación. 
 
 ### Paso 2: Declaración de aceptación
 
@@ -41,6 +41,10 @@ Esta es la parte donde se declara que el trabajo ha sido aceptado por la institu
 En la parte inferior de la página se suelen colocar los espacios para las firmas. Es importante que cada firma venga acompañada del nombre completo de la persona que firma, así como su título o rol en la supervisión del trabajo.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
+
+### Ubicación de la página de aceptación
+
+Asimismo, la página de aceptación debe ir ubicada **justo después de la portada del trabajo, y antes de la introducción**. Además, se debe numerar como la página "ii" en números romanos.
 
 ## El modelo de la página de aceptación
 
@@ -59,6 +63,8 @@ En este punto, es posible que te preguntes cómo se ve un ejemplo real de la pá
 >**Firma del Miembro del Comité**
 >
 >**Fecha: __**
+
+Es importante incluir la fecha en la que se realiza la aprobación, así como los nombres y apellidos de todos los tutores o profesores involucrados en la revisión del trabajo. Además, se debe incluir una frase que indique claramente que el trabajo ha sido aprobado.
 
 ## Haz que acepten tu página de aceptación
 

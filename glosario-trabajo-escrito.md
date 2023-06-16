@@ -17,6 +17,8 @@ Exactamente lo que **un glosario bien construido** puede prevenir en tu propio [
 ## ¿Qué es un glosario en un Trabajo Escrito?
 
 Un glosario es una sección del trabajo donde se explican palabras o términos técnicos que pueden ser desconocidos para algunos lectores. **Funciona como una mini-enciclopedia personalizada para tu trabajo**, asegurándose de que todos puedan entender completamente lo que estás diciendo, sin importar su nivel de conocimiento previo.
+
+En cuanto a las normativas específicas, las listas especiales deben seguir una estructura específica indicando los correspondientes títulos, subtítulos y numeración, utilizando una fuente y tamaño de letra acorde con las normas establecidas. El glosario, por su parte, se debe presentar en orden alfabético y cada término deberá ir seguido de su correspondiente definición, también siguiendo las normas establecidas por [APA]({{'normas-apa'|relative_url}} "Normas APA") o [Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec").
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 

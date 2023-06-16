@@ -134,7 +134,7 @@ Al aplicar estas mejores prácticas, podrás citar adecuadamente las citas de ci
 
 > #### Consejos para evitar el plagio al parafrasear
 >
->1. Lee el texto que se va a parafrasear y compéndelo completamente.  
+>1. Lee el texto que se va a parafrasear y compréndelo completamente.  
 >2. Explica la idea con tus propias palabras, manteniendo el sentido original.  
 >3. Asegúrate de citar siempre la fuente original al final de la paráfrasis.
 

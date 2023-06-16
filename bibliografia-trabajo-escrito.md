@@ -58,7 +58,7 @@ Para ilustrar cómo se escribe la bibliografía en un trabajo escrito, aquí te 
 
    Martínez, Laura, and Pedro Gómez. 2019. "La influencia del entorno social en el comportamiento humano." *Revista de Psicología Social* 34, no. 2: 45-67.
 
-### Las bibliografías y las refencias bibliográficas no son lo mismo
+### Las bibliografías y las referencias bibliográficas no son lo mismo
 
 Las referencias bibliográficas y la bibliografía son elementos fundamentales de un trabajo escrito, pero su propósito y la forma en que se utilizan son diferentes.
 

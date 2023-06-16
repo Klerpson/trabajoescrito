@@ -48,7 +48,7 @@ Algunas personas que deberían aparecer en los agradecimientos **son el tutor, l
 
 ### Agradecimientos obligatorios a instituciones
 
-Es necesario incluir una lista de instituciones que **hayan otorgado apoyo financiero** durante el proceso de investigación. Estas instituciones deben ser mecionadas en los agradecimientos de forma específica, de acuerdo a sus políticas y requisitos.
+Es necesario incluir una lista de instituciones que **hayan otorgado apoyo financiero** durante el proceso de investigación. Estas instituciones deben ser mencionadas en los agradecimientos de forma específica, de acuerdo a sus políticas y requisitos.
 
 ## Consejos para redactar agradecimientos de forma estratégica
 
@@ -99,7 +99,7 @@ A continuación, se presentan algunos ejemplos de agradecimientos en diferentes 
 >- **Monografía de Historia:** "Expreso mi agradecimiento al profesor Carlos Hernández, quien me brindó valiosos consejos y orientación en la elaboración de este trabajo. Además, agradezco a mis amigos y familiares por su apoyo incondicional en todo momento."
 >- **Trabajo de Investigación en Biología:** "Desde el fondo de mi corazón, agradezco a mi familia, en especial a mis padres, por ser mi fuente de inspiración y motivación en todos mis proyectos. También agradezco al investigador José Reyes, quien me brindó su asesoría y apoyo en la realización de este trabajo."
 
-En general, los agradecimientos deben ser dirigidos hacia personas e instituciones que hayan brindado su tiempo, expertise o recursos. Es importante **expersar el agradecimiento sincero** del autor del trabajo.
+En general, los agradecimientos deben ser dirigidos hacia personas e instituciones que hayan brindado su tiempo, expertise o recursos. Es importante **expresar el agradecimiento sincero** del autor del trabajo.
 
 ## Preguntas frecuentes sobre agradecimientos de tesis
 
