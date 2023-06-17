@@ -35,7 +35,7 @@ La citación adecuada es fundamental en el ámbito académico por varias razones
 
 ### Selección del estilo bibliográfico adecuado
 
-Es esencial seleccionar el estilo bibliográfico apropiado para tu disciplina y tipo de trabajo académico. Algunos de los estilos más comunes son APA (American Psychological Association), MLA (Modern Language Association) y Chicago.
+Es esencial seleccionar el estilo bibliográfico apropiado para tu disciplina y tipo de trabajo académico. Algunos de los estilos más comunes son [APA (American Psychological Association)]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas con normas APA"), MLA (Modern Language Association) y Chicago.
 
 * **APA**: Ampliamente utilizado en ciencias sociales y de la salud, el estilo APA se enfoca en la claridad y la precisión en la citación y las referencias bibliográficas.
 * **MLA**: Comúnmente utilizado en humanidades, artes y literatura, el estilo MLA se centra en la simplicidad y la concisión en las citas y las referencias.
@@ -109,34 +109,15 @@ Aprenderemos cómo citar una idea que ha sido citada en otra fuente y cómo orga
 
 En ocasiones, puede ser necesario citar una idea que ha sido citada en otra fuente. Aquí hay algunas pautas para hacerlo correctamente:
 
-* Mención de ambos trabajos: Asegúrate de mencionar tanto el trabajo original como la fuente secundaria en la que encontraste la cita. Esto proporcionará un contexto completo y reconocerá adecuadamente a los autores originales.
-* Cita en el texto: Dentro del texto, indica el autor y el año de publicación del trabajo original, seguido de la expresión "citado en" y el autor y el año del trabajo secundario en el que encontraste la cita.
-* Lista de referencias: En la lista de referencias bibliográficas, incluye solo la referencia completa del trabajo secundario, ya que no has consultado directamente el trabajo original.
+* **Mención de ambos trabajos**: Asegúrate de mencionar tanto el trabajo original como la fuente secundaria en la que encontraste la cita. Esto proporcionará un contexto completo y reconocerá adecuadamente a los autores originales.
+* **Cita en el texto**: Dentro del texto, indica el autor y el año de publicación del trabajo original, seguido de la expresión "citado en" y el autor y el año del trabajo secundario en el que encontraste la cita.
+* **Lista de referencias**: En la lista de referencias bibliográficas, incluye solo la referencia completa del trabajo secundario, ya que no has consultado directamente el trabajo original.
 
-### Elaboración de bibliografías: mejores prácticas
+#### Consejos para evitar el plagio al parafrasear
 
-Una bibliografía bien elaborada es crucial para respaldar tus fuentes y permitir que otros accedan a la información que has utilizado en tu trabajo.
-
-Aquí hay algunas mejores prácticas para elaborar bibliografías:
-
-* Organización alfabética: Enumera las referencias bibliográficas en orden alfabético, según el apellido del autor o el título si no hay un autor identificado.
-* Formato consistente: Utiliza un formato de citación consistente en todas las referencias bibliográficas. Sigue las pautas del estilo bibliográfico requerido por tu disciplina.
-* Detalles completos: Asegúrate de incluir todos los detalles necesarios en cada referencia bibliográfica, como el apellido y las iniciales del autor, el año de publicación, el título del trabajo y la información de publicación.
-* Verificación de la exactitud: Antes de finalizar tu trabajo, revisa minuciosamente las referencias bibliográficas para asegurarte de que sean precisas y estén formateadas correctamente.
-
-### Uso de herramientas de gestión bibliográfica
-
-Considera utilizar herramientas de gestión bibliográfica, como Zotero, Mendeley o EndNote, para facilitar el proceso de organización y citación de tus referencias bibliográficas.
-
-Estas herramientas te permiten gestionar y formatear automáticamente las citas y las referencias según los estilos bibliográficos requeridos.
-
-Al aplicar estas mejores prácticas, podrás citar adecuadamente las citas de citas y elaborar bibliografías completas y precisas, agregando un valor adicional a tu trabajo académico y manteniendo la integridad de tus fuentes.
-
-> #### Consejos para evitar el plagio al parafrasear
->
->1. Lee el texto que se va a parafrasear y compréndelo completamente.  
->2. Explica la idea con tus propias palabras, manteniendo el sentido original.  
->3. Asegúrate de citar siempre la fuente original al final de la paráfrasis.
+1. Lee el texto que se va a parafrasear y compréndelo completamente.  
+2. Explica la idea con tus propias palabras, manteniendo el sentido original.  
+3. Asegúrate de citar siempre la fuente original al final de la paráfrasis.
 
 ------
 
@@ -169,57 +150,15 @@ La comunicación responsable y ética de los resultados de la investigación es 
 * **Honestidad en la interpretación**: No exageres ni hagas afirmaciones infundadas sobre los resultados de tu investigación. Sé honesto y objetivo al interpretar los datos y presenta cualquier incertidumbre o limitación de manera transparente.
 * **Reconocimiento de colaboradores y contribuciones**: Asegúrate de reconocer y atribuir adecuadamente las contribuciones de tus colaboradores, tanto en la investigación como en la redacción del trabajo. Da crédito a quienes han contribuido de manera significativa.
 
-> #### Ejemplo según el estilo APA
->
->Si se quiere citar una idea de Bass (1983) que recoge el libro de Harrison, E.F. (1987):  
->##### Cita en el texto  
->La función de comparar y evaluar alternativas es sumamente compleja. Incluye evaluar beneficios y costos, la aceptación de los afectados por la alternativa elegida y considerar los riesgos que conlleva. (Bass, 1983, citado en Harrison, 1987)  
->##### En la Lista de referencias se pondría  
->Bass, B. M. (1983). Organizatoional decision making. Homewook, III.: Citado en: Harrison, E. F. (1987). The managerial decision-making process. Boston: Houghton Mifflin.  
->En la Bibliografía se pondría:  
->Harrison, E. F. (1987). The managerial decision-making process. Boston: Houghton Mifflin.
-
-Al seguir estas prácticas éticas y responsables, contribuirás a la calidad y la confiabilidad de la investigación académica, promoviendo la integridad y la confianza en la comunidad científica.
+>Al seguir estas prácticas éticas y responsables, contribuirás a la calidad y la confiabilidad de la investigación académica, promoviendo la integridad y la confianza en la comunidad científica.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
 ------
 
-## Sección 5: Evitando errores comunes y mejorando la experiencia de usuario
-
-### Errores frecuentes en la elaboración de bibliografías y cómo evitarlos
-
-Los errores frecuentes en la elaboración de bibliografías pueden afectar la precisión y credibilidad de un trabajo académico.
-
-Algunos de estos errores comunes incluyen la omisión de información esencial en las referencias, errores de formato en las citas, falta de consistencia en el estilo de citación y falta de actualización de las referencias.
-
-Para evitar estos errores, es importante revisar cuidadosamente cada referencia, asegurarse de incluir todos los datos necesarios (autor, título, año, etc.), seguir las normas de formato y estilo requeridas por la institución o guía de estilo utilizada, y mantener las referencias actualizadas.
-
-Al prestar atención a estos detalles, se garantiza la precisión y fiabilidad de las bibliografías en los trabajos académicos.
-
-### Consejos prácticos para organizar y presentar adecuadamente las referencias bibliográficas
-
-Organizar y presentar adecuadamente las referencias bibliográficas es fundamental para asegurar la claridad y la accesibilidad de la información.
-
-Algunos consejos prácticos incluyen seguir una estructura lógica en la lista de referencias, ordenar alfabéticamente los nombres de los autores, aplicar correctamente las normas de puntuación, mantener consistencia en el estilo de citación utilizado y utilizar un formato visualmente atractivo y fácil de seguir.
-
-Estos consejos ayudarán a los lectores a localizar rápidamente las fuentes citadas y a comprender mejor el contexto de la investigación.
-
-### Mejorando la legibilidad y la experiencia de usuario del trabajo académico a través de una estructura clara y coherente
-
-Mejorar la legibilidad y la experiencia de usuario en un trabajo académico se logra mediante una estructura clara y coherente.
-
-Esto implica utilizar una introducción concisa y relevante que capte la atención del lector, organizar los párrafos de desarrollo de manera lógica y secuencial, y proporcionar una conclusión sólida que sintetice los puntos clave.
-
-Además, es importante utilizar encabezados y subtítulos claros para guiar al lector a través del contenido y establecer conexiones coherentes entre las ideas presentadas.
-
-Al implementar una estructura clara y coherente, se facilita la comprensión del trabajo y se brinda una experiencia de usuario más satisfactoria.
-
-------
-
 ## Cómo usar el generador de citas Scribbr Citation Generator
 
-El generador de citas de Scribbr es una herramienta imprescindible para cualquier persona que desee escribir documentos académicos y cumplir con las normas APA.
+El generador de citas de [Scribbr](https://www.scribbr.com/citation/generator/apa/){:rel="nofollow noopener noreferrer" target="_blank"} es una herramienta imprescindible para cualquier persona que desee escribir documentos académicos y cumplir con las normas APA.
 
 Esta herramienta automatiza el proceso de creación de citas y referencias bibliográficas, lo que significa que no tienes que preocuparte por la ortografía, el formato o la jerarquía de los datos, ¡solo tienes que escribir el contenido del trabajo!
 
@@ -232,7 +171,7 @@ Esta herramienta automatiza el proceso de creación de citas y referencias bibli
 
 ### Pasos para utilizar el generador de citas de Scribbr
 
-El proceso de integración del generador de citas de Scribbr con Microsoft Word es sumamente sencillo y solo requiere de unos pocos pasos:
+El proceso de integración del generador de citas de Scribbr con [Microsoft Word](https://www.microsoft.com/es-co/microsoft-365/word?activetab=tabs%3afaqheaderregion3){:rel="nofollow noopener noreferrer" target="_blank"} es sumamente sencillo y solo requiere de unos pocos pasos:
 
 * Abre Microsoft Word
 * Dirígete a la pestaña de Referencias

@@ -36,6 +36,8 @@ Además, la presentación de un trabajo escrito debe contener:
 * [Anexos]({{'anexos-trabajo-escrito'|relative_url}}) (si es necesario)
 * Bibliografía
 
+----
+
 ## Cómo Crear una presentación exitosa
 
 Crear una presentación exitosa requiere planificación y estrategia. Aquí hay algunos pasos clave para ayudarte a crear una presentación que capte la atención de tu audiencia y presente de manera efectiva tu trabajo escrito:
@@ -129,6 +131,8 @@ Es importante tener en cuenta que cada parte del trabajo debe contener cierta in
 * (Material gráfico, tablas, cuadros y cualquier otro documento adicional)
 * Estarán ubicados después de las conclusiones
 
+-----
+
 ## La importancia de la ortografía y la redacción impersonal en tercera persona del singular
 
 La ortografía es clave en cualquier presentación de un trabajo escrito. La redacción impersonal en tercera persona del singular **hace que el proyecto sea más formal, y se le conceda mayor importancia por su imparcialidad**, haciendo que se aleje del sesgo emocional y añadiendo mayor objetividad a la presentación.
@@ -146,6 +150,16 @@ Microsoft Word es la herramienta más utilizada para aplicar las normas de forma
 En el menú de opciones se pueden encontrar herramientas para configurar las diferentes características del trabajo, **como el tamaño de la hoja, los [márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes"), ({{'interlineado-trabajo-escrito'|relative_url}} "Interlineado") y [la numeración de páginas]({{'numeracion-trabajo-escrito'|relative_url}} "Numeración")**.
 
 Es importante que el trabajo esté diseñado y presentado de forma ordenada y con una clara separación entre [títulos]({{'titulos-trabajo-escrito'|relative_url}} "Títulos") y subtítulos.
+
+### Mejorando la legibilidad y la experiencia de usuario del trabajo académico a través de una estructura clara y coherente
+
+Mejorar la legibilidad y la experiencia de usuario en un trabajo académico se logra mediante una estructura clara y coherente.
+
+Esto implica utilizar una introducción concisa y relevante que capte la atención del lector, organizar los párrafos de desarrollo de manera lógica y secuencial, y proporcionar una conclusión sólida que sintetice los puntos clave.
+
+Además, es importante utilizar encabezados y subtítulos claros para guiar al lector a través del contenido y establecer conexiones coherentes entre las ideas presentadas.
+
+>Al implementar una estructura clara y coherente, se facilita la comprensión del trabajo y se brinda una experiencia de usuario más satisfactoria.
 
 ## Ahora sí presenta tu Trabajo Escrito
 

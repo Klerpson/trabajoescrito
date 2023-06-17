@@ -29,7 +29,7 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 * [⇾ Hojas o formato](#hoja)
 * [⇾ Citas APA](#citas)
 * [⇾ Listas - FALTA ESCRIBIR SOBRE ESTO](#listas)
-* [⇾ Referencias - FALTA ESCRIBIR SOBRE ESTO](#referencias)
+* [⇾ Referencias bibliográficas](#referencias)
 {:class="links"}
 
 ### Reglas específicas en algunos tipos de trabajos
@@ -74,13 +74,13 @@ Según las normas APA, se debe utilizar hasta tres niveles de títulos y subtít
 
 ### Letra o textos
 
-**La letra debe ser Times New Roman, tamaño 12, en todo el texto**, incluyendo títulos y subtítulos. **El interlineado debe ser doble para todo el texto**, excepto para notas a pie de página, tablas, listas y bibliografía, que se presenta interlineado sencillo.
+Los textos en normas APA requieren seguir una serie de pautas específicas que **garantizan la claridad y coherencia en la presentación de ideas**. Estas normas abarcan **desde el formato del papel y el tipo de letra** utilizado hasta la organización de los encabezados y **la estructura de los párrafos**.
 
-**El párrafo debe estar alineado a la izquierda y sin sangría en la primera línea**, salvo en citas textuales y notas a pie de página, donde se debe utilizar sangría.
+Al seguir estas pautas, los textos en normas APA adquieren un estilo académico y profesional que facilita la comprensión y la comunicación efectiva de la información.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="parrafos"}
 
-[Más sobre los textos](# "Textos o letras"){:class="boton"}
+[Más sobre los textos o letras](# "Textos o letras"){:class="boton"}
 
 ### Párrafos y sangría
 
@@ -98,7 +98,7 @@ El margen izquierdo y derecho debe ser de 2,54cm, mientras que los márgenes sup
 
 [Más sobre las márgenes](# "Márgenes"){:class="boton"}
 
-### Hojas o formato
+### Las hojas o formato
 
 Todo el contenido del trabajo debe estar en papel tamaño A4. Además, se recomienda utilizar el mismo tipo de fuente en todo el trabajo, incluyendo en títulos y subtítulos, como se mencionó anteriormente.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
@@ -106,34 +106,29 @@ Todo el contenido del trabajo debe estar en papel tamaño A4. Además, se recomi
 
 [Más sobre los formatos](# "Formato de hojas"){:class="boton"}
 
-## Cómo citar siguiendo las normas APA
+### Cómo citar siguiendo las normas APA
 
-Las normas APA ofrecen tres maneras diferentes de citar información dentro del texto, todas ellas deben ir acompañadas de la referencia en la lista final de referencias bibliográficas:
+Las normas APA ofrecen tres maneras diferentes de citar información dentro del texto, todas ellas deben ir acompañadas de la referencia en la lista final de referencias bibliográficas. Los diferentes tipos de cita son:
 
-### Cita textual
+* La cita textual
+* La cita parafraseada
+* Cita de cita
 
-La cita textual es una cita directa que se extrae del texto original y se presenta entre comillas. Cada cita debe ir acompañada del autor, el año de publicación y el número de página:
+**Es importante seguir las reglas de las normas APA para citar correctamente** dentro del texto y en la lista de [referencias bibliográficas]({{'referencias-trabajo-escrito'|relative_url}}), de esta manera se garantiza el reconocimiento de las fuentes de información utilizadas en el trabajo académico.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="referencias"}
 
-* Según Smith (2017), "la vida es corta y el arte es largo" (p. 27).
-* En un estudio reciente, se descubrió que "las personas que hacen ejercicio regularmente tienen una mejor calidad de vida" (Pérez, 2019, p. 15).
+[Más sobre las citas]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas con normas APA"){:class="boton"}
 
-### Cita parafraseada
+### Referencias bibliográficas con normas APA
 
-La cita parafraseada es la explicación de la idea de otra persona en tus propias palabras. La parafrasea debe indicar los autores y el año:
+Las referencias en normas APA son una parte fundamental de cualquier trabajo académico. **Estas referencias permiten reconocer y dar crédito adecuado a las fuentes utilizadas**, asegurando la integridad y la ética en la investigación.
 
-* Según Smith (2017), el tiempo y el esfuerzo son inversamente proporcionales.
-* En un estudio reciente, se afirmó que hacer ejercicio de forma regular puede influir positivamente en la calidad de vida (Pérez, 2019).
+Siguiendo las pautas establecidas por las normas APA, **se debe proporcionar información detallada sobre cada fuente, incluyendo el autor, el año de publicación, el título, el lugar de publicación** y otros detalles relevantes.
 
-### Cita de cita
+Una lista de referencias bien elaborada no solo respalda tus argumentos, sino que también permite a los lectores profundizar en el tema y verificar la información presentada.
 
-La cita de cita se utiliza para citar información que has encontrado en una fuente secundaria. En este caso, se debe citar la fuente primaria y la fuente secundaria en el texto:
-
-* Como señala Smith (citado en Pérez, 2018), la falta de sueño puede ser perjudicial para la salud.
-* García (citado por Pérez, 2019) indica que una buena alimentación puede ayudar a prevenir enfermedades.
-
-**Es importante seguir las reglas de las normas APA para citar correctamente** dentro del texto y en la lista de referencias bibliográficas, de esta manera se garantiza el reconocimiento de las fuentes de información utilizadas en el trabajo académico.
-
-[Más sobre las citas](# "Citas"){:class="boton"}
+[Más de referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias bibliográficas con normas APA"){:class="boton"}
 
 ## Cómo el uso de Normas APA afecta a nuestra comunidad académica
 
