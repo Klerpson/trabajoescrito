@@ -114,7 +114,7 @@ Las normas APA ofrecen tres maneras diferentes de citar información dentro del 
 * La cita parafraseada
 * Cita de cita
 
-**Es importante seguir las reglas de las normas APA para citar correctamente** dentro del texto y en la lista de [referencias bibliográficas]({{'referencias-trabajo-escrito'|relative_url}}), de esta manera se garantiza el reconocimiento de las fuentes de información utilizadas en el trabajo académico.
+**Es importante seguir las reglas de las normas APA para citar correctamente** dentro del texto y en la lista de referencias bibliográficas, de esta manera se garantiza el reconocimiento de las fuentes de información utilizadas en el trabajo académico.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="referencias"}
 
