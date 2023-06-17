@@ -70,7 +70,7 @@ Según las normas APA, se debe utilizar hasta tres niveles de títulos y subtít
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="texto"}
 
-[Más sobre títulos y subtítulos](# "Títulos y subtítulos"){:class="boton"}
+[Más sobre títulos y subtítulos]({{site.baseulr}}/normas-apa/titulos-y-subtitulos-normas-apa){:class="boton"}
 
 ### Letra o textos
 

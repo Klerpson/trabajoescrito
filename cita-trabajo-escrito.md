@@ -217,6 +217,31 @@ Al implementar una estructura clara y coherente, se facilita la comprensión del
 
 ------
 
+## Cómo usar el generador de citas Scribbr Citation Generator
+
+El generador de citas de Scribbr es una herramienta imprescindible para cualquier persona que desee escribir documentos académicos y cumplir con las normas APA.
+
+Esta herramienta automatiza el proceso de creación de citas y referencias bibliográficas, lo que significa que no tienes que preocuparte por la ortografía, el formato o la jerarquía de los datos, ¡solo tienes que escribir el contenido del trabajo!
+
+### Características y ventajas del generador de citas de Scribbr
+
+* Automatización de citas y referencias bibliográficas en normas APA
+* Integración con Microsoft Word
+* Más de 70 fuentes diferentes para el uso de citas y referencias
+* Diseño intuitivo y fácil de usar
+
+### Pasos para utilizar el generador de citas de Scribbr
+
+El proceso de integración del generador de citas de Scribbr con Microsoft Word es sumamente sencillo y solo requiere de unos pocos pasos:
+
+* Abre Microsoft Word
+* Dirígete a la pestaña de Referencias
+* Haz clic en el botón "Citas" y selecciona la opción "Agregar nueva fuente"
+* Selecciona la opción "Bibliografía" y completa la información requerida
+* Haz clic en "Aceptar y añadir" y sitúa el cursor donde desees insertar la cita
+* En la pestaña "Citas" de Microsoft Word, selecciona "Estilo" y elige el formato APA
+* ¡Listo! La cita y la bibliografía se agregarán automáticamente
+
 ## Potenciando la calidad de las citas en un trabajo escrito
 
 Dominar las técnicas de citación y elaboración de bibliografía es esencial para cualquier estudiante o académico comprometido con la excelencia académica.
