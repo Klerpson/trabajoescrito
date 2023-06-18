@@ -31,6 +31,14 @@ Para todas las referencias bibliográficas en formato APA, se deben tener en cue
 * Si el trabajo tiene más de un autor, se deben listar todos los autores y separarlos con una coma (,).
 {:class="seccion_a"}
 
+### Formato de las referencias bibliográficas según el tipo de publicación
+
+* **Libros:** Se debe incluir el apellido y la inicial del nombre del autor o autores (en orden natural), año de publicación, título del libro (en cursiva), nombre del editor, ciudad y país de publicación.
+* **Artículos de revista:** Se debe incluir el apellido y la inicial del nombre del autor o autores, año de publicación, título del artículo, título de la revista (en cursiva), volumen de la revista (número de volumen), número de página inicial y final
+* **Publicaciones en línea:** Se debe incluir el apellido y la inicial del nombre del autor o autores, año de publicación, título del artículo, nombre del sitio web, dirección URL del sitio web y la fecha de acceso.
+
+Veamos otros formatos adicionales que se acostumbra a utilizar constantemente:
+
 #### Referencias de libros
 
 Las referencias de libros en formato APA se estructuran de la siguiente manera:
