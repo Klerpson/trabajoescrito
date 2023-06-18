@@ -258,9 +258,9 @@ La aplicación de las normas APA puede resultar en un proceso tedioso y complica
 
 ### Generador de citas
 
-Una de las principales herramientas disponibles es el generador de citas, el cual permite generar citas bibliográficas en formato APA al introducir la información correspondiente.
+Una de las principales herramientas disponibles es [el generador de citas]({% post_url 2023-06-18-generadores-normas-apa %}). Estas herramientas generan citas bibliográficas en formato APA al introducir la información correspondiente.
 
-Esta herramienta **facilita el proceso de citar fuentes, ahorrando tiempo y esfuerzo**. Además, permite añadir varias fuentes y generar una lista de referencias bibliográficas automáticamente.
+Estas herramientas **facilita el proceso de citar fuentes, ahorrando tiempo y esfuerzo**. Además, permite añadir varias fuentes y generar una lista de referencias bibliográficas automáticamente.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="verificador"}
 
