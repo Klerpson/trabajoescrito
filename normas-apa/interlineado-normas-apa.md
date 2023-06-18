@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Interlineado normas APA: ¿1,5 o doble? ↕"
-description: "Entre los aspectos formales de las normas APA que se deben tener en cuenta se encuentra el Interlineado. ↕ Y tú qué opinas: ¿1,5 o doble?"
+description: "✦ Aprende todo sobre interlineado y espaciado según las normas APA. ↕ Y tú qué opinas: ¿1,5 o doble espacio?"
 h1: "Interlineado normas APA: ¿1,5 o doble? Cómo espaciar en trabajos académicos"
 intro: "Aunque en la mayoría de veces se sugiere un interlineado doble, también hay quienes recomiendan el uso de un interlineado de 1,5 para evitar el desperdicio de papel"
 boton_info: "normas"
@@ -9,7 +9,7 @@ boton_info_title: "Cómo hacer"
 boton_mas: "descargas"
 boton_mas_title: "Formato"
 vertical: true
-permalink: /normas-apa/referencias-bibliograficas-normas-apa
+permalink: /normas-apa/interlineado-normas-apa
 ---
 Hay que seguir las indicaciones de los profesores para evitar problemas académicos. Ahora bien, nosotros te brindaremos **más información sobre el interlineado y su aplicación en las Normas APA** en Latinoamérica.
 

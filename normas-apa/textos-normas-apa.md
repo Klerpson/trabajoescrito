@@ -5,9 +5,9 @@ description: "Redacta textos con las Normas APA de forma precisa y coherente. �
 h1: "Creando un Texto según las Normas APA"
 intro: "Con las Normas APA  se busca establecer una uniformidad en la estructura y una adecuada citación de las fuentes utilizadas, lo que es fundamental para el otorgamiento de crédito académico."
 boton_info: "normas"
-boton_info_title: "Generadores"
+boton_info_title: "Formato"
 boton_mas: "descargas"
-boton_mas_title: "Ejemplos"
+boton_mas_title: "Espaciados"
 vertical: true
 permalink: /normas-apa/textos-normas-apa
 ---
@@ -18,6 +18,8 @@ La estructura de un texto según las Normas APA es importante para garantizar qu
 Por lo anterior, **la estructura varía dependiendo del tipo de trabajo que se esté realizando**, ya sea una [monografía]({{'monografia'|relative_url}} "Monografías), una [tesis]({{'tesis-normas-apa'|relative_url}}), un [artículo]({{'articulos-con-normas-apa'|relative_url}} "Artículos") o cualquier otro tipo de trabajo académico.
 
 Las Normas APA, propuestas por la Asociación Americana de Psicología, son uno de los estilos de citación y formato más utilizados en la redacción académica y científica. A continuación, te proporcionaremos una visión general de **cómo crear un texto siguiendo las normas APA**.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ## Formato general del documento
 
@@ -26,18 +28,23 @@ Las Normas APA establecen ciertos requisitos para la presentación general del d
 - **Tipo de Letra y Tamaño**: Se recomienda usar una fuente legible, como **Times New Roman de tamaño 12**.
 - **Espaciado**: El documento debe estar a **doble espacio, incluyendo las citas y las referencias**.
 - **Formato de letras**: Se recomienda no utilizar negrita, cursiva o subrayado en el cuerpo del trabajo.
+{:class="seccion_a"}
 
-## Uso de Encabezados
+### Uso de encabezados
 
 [Las Normas APA tienen un sistema específico para el uso de encabezados o títulos]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Titulos y subtítulos normas APA"). Este sistema se divide en cinco niveles, cada uno con su formato. Asegúrate de utilizar estos niveles de encabezados para organizar tu documento de manera coherente.
 
-## Citas en el Texto
+### Citas en el texto
 
 [Las normas APA proporcionan pautas específicas para las citas en el texto]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA"). Al citar, se debe incluir el apellido del autor y el año de publicación. Si estás citando directamente, también debes incluir la página.
 
-## Referencias Bibliográficas
+### Referencias bibliográficas
 
 [Las referencias bibliográficas en APA]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliograficas APA") deben incluir información específica y seguir un formato determinado.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
+
+----
 
 ## Tamaño de la página, interlineado, fuente y sangría
 
@@ -56,6 +63,12 @@ La compaginación de [títulos y subtítulos con normas APA]({{'normas-apa/titul
 ### Interlineado recomendado
 
 El interlineado recomendado en las Normas APA es de 2,0. Esto significa que el espacio entre cada línea debería ser el doble del tamaño de la fuente utilizada. El interlineado también puede ser 1,5.
+
+### Uso de cursiva y listas en el texto
+
+**La cursiva se utiliza para enfatizar palabras o frases**. En los trabajos académicos, la cursiva se usa para marcar nombres de libros, revistas, películas, entre otros.
+
+Asimismo, se puede usar viñetas o listas numeradas **para enumerar elementos que se presentan en el texto, pero solo en los casos que sea necesario**.
 
 ### Alineación y sangría
 
