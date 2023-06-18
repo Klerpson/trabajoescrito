@@ -2,7 +2,7 @@
 layout: default
 title: "Textos con Normas APA: guía completa y ejemplos ✓"
 description: "Redacta textos con las Normas APA de forma precisa y coherente. 📝 Mira ejemplos prácticos para estructurar tus textos académicos según las pautas establecidas"
-h1: "Citar con Normas APA: la estructura adecuada"
+h1: "Creando un Texto según las Normas APA"
 intro: "Con las Normas APA  se busca establecer una uniformidad en la estructura y una adecuada citación de las fuentes utilizadas, lo que es fundamental para el otorgamiento de crédito académico."
 boton_info: "normas"
 boton_info_title: "Generadores"
@@ -13,15 +13,52 @@ permalink: /normas-apa/textos-normas-apa
 ---
 ## Estructura de un texto según las Normas APA
 
-La estructura de un texto según las Normas APA es importante para garantizar que el trabajo se presente de manera organizada y coherente. En este sentido, la estructura varía dependiendo del tipo de trabajo que se esté realizando, ya sea una monografía, una tesis, un artículo o cualquier otro tipo de trabajo académico.
+La estructura de un texto según las Normas APA es importante para garantizar que el trabajo se presente de manera organizada y coherente.
 
-### Introducción, Método, Resultados y Discusión
+Por lo anterior, **la estructura varía dependiendo del tipo de trabajo que se esté realizando**, ya sea una [monografía]({{'monografia'|relative_url}} "Monografías), una [tesis]({{'tesis-normas-apa'|relative_url}}), un [artículo]({{'articulos-con-normas-apa'|relative_url}} "Artículos") o cualquier otro tipo de trabajo académico.
 
-Una estructura común a muchos trabajos es la que se basa en una organización en cuatro partes: Introducción, Método, Resultados y Discusión.
+Las Normas APA, propuestas por la Asociación Americana de Psicología, son uno de los estilos de citación y formato más utilizados en la redacción académica y científica. A continuación, te proporcionaremos una visión general de **cómo crear un texto siguiendo las normas APA**.
 
-* **Introducción:** La introducción describe el tema del trabajo y su relevancia. Además, se presenta la hipótesis que se va a confirmar o refutar en el trabajo y se establece el objetivo del mismo.
-* **Método:** El método describe los procedimientos que se han llevado a cabo durante la investigación y se especifica la población y muestras utilizadas. También se indica la metodología y los instrumentos utilizados para recolectar datos.
-* **Resultados:** En esta sección se muestran los resultados obtenidos en el estudio y se presentan en forma de tablas o gráficos. Se deben también incluir los análisis estadísticos utilizados y la interpretación de los resultados.
-* **Discusión:** La discusión es la sección del trabajo en la que se analizan los resultados obtenidos y se establecen las conclusiones. Además, se pueden presentar sugerencias para futuras investigaciones que puedan surgir a partir de los resultados obtenidos.
+## Formato general del documento
 
-Es importante destacar que esta es una estructura general y existen varias variaciones de la misma que se adaptan a cada tipo de trabajo específico. Siguiendo una adecuada estructura, se puede lograr que el trabajo sea más claro y fácil de entender para los lectores. En el siguiente apartado se hablará sobre la forma de citar correctamente siguiendo las Normas APA.
+Las Normas APA establecen ciertos requisitos para la presentación general del documento. Algunos de estos incluyen:
+
+- **Tipo de Letra y Tamaño**: Se recomienda usar una fuente legible, como **Times New Roman de tamaño 12**.
+- **Espaciado**: El documento debe estar a **doble espacio, incluyendo las citas y las referencias**.
+- **Formato de letras**: Se recomienda no utilizar negrita, cursiva o subrayado en el cuerpo del trabajo.
+
+## Uso de Encabezados
+
+[Las Normas APA tienen un sistema específico para el uso de encabezados o títulos]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Titulos y subtítulos normas APA"). Este sistema se divide en cinco niveles, cada uno con su formato. Asegúrate de utilizar estos niveles de encabezados para organizar tu documento de manera coherente.
+
+## Citas en el Texto
+
+[Las normas APA proporcionan pautas específicas para las citas en el texto]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA"). Al citar, se debe incluir el apellido del autor y el año de publicación. Si estás citando directamente, también debes incluir la página.
+
+## Referencias Bibliográficas
+
+[Las referencias bibliográficas en APA]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliograficas APA") deben incluir información específica y seguir un formato determinado.
+
+## Tamaño de la página, interlineado, fuente y sangría
+
+La presentación del trabajo es una parte fundamental de las Normas APA. A continuación, se explican las reglas a seguir sobre el tamaño de la página, interlineado, fuente y sangría
+
+### Tamaño de la página recomendado
+
+El tamaño de papel recomendado en las Normas APA es de 8,5 x 11 pulgadas, que equivale a 21,59 x 27,94 centímetros.
+
+### Compaginación de títulos y subtítulos
+
+Los títulos principales deben estar centrados, en negrita y en mayúscula. Por otro lado, los subtítulos deben estar alineados a la izquierda, en negrita y en minúscula.
+
+La compaginación de [títulos y subtítulos con normas APA]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos normas APA") es fundamental para la estética y organización del trabajo.
+
+### Interlineado recomendado
+
+El interlineado recomendado en las Normas APA es de 2,0. Esto significa que el espacio entre cada línea debería ser el doble del tamaño de la fuente utilizada. El interlineado también puede ser 1,5.
+
+### Alineación y sangría
+
+**El texto debe estar justificado con una sangría de 0,5 pulgadas, exceptuando la primera línea de cada párrafo**. Además, se deberá ajustar la sangría según la encuadernación especial del trabajo.
+
+En conclusión, el estilo APA es un conjunto de normas que proporciona coherencia y claridad a la redacción académica y científica. Al seguir estas normas, **puedes garantizar que tu texto será fácil de entender y de citar** por otros investigadores.

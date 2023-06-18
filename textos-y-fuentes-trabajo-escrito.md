@@ -11,7 +11,7 @@ boton_mas_title: Tips
 vertical: "true"
 permalink: textos-y-fuentes-trabajo-escrito
 ---
-Aprende a elegir los textos o fuentes apropiadas para tus ensayos, informes y proyectos de investigación, asegurando así una presentación profesional y una experiencia de lectura
+Aprende a elegir los textos o fuentes apropiadas para tus [ensayos]({{'ensayos-con-normas-tecnicas'|relative_url}} "Ensayos"), [informes]({{'informes'|relative_url}} "Informes") y [proyectos de investigación]({{'investigacion-con-normas-apa-icontec'|relative_url}} "Investigación"), asegurando así una [presentación profesional]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}) y una experiencia de lectura
 
 ## Importancia de la elección de la tipografía en los trabajos escritos
 
@@ -91,7 +91,7 @@ Además de elegir la fuente adecuada, es importante tener en cuenta otros aspect
 
 * **Tamaño de letra:** Asegúrese de seleccionar un tamaño de letra apropiado para garantizar la legibilidad. Como mencionamos anteriormente, un tamaño de 12 o 14 puntos suele ser recomendado para [el cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}}), pero **verifica las pautas específicas de estilo** que está siguiendo.
 
-* **Énfasis y jerarquía:** Utiliza opciones de formato como **negrita, cursiva o subrayado** para resaltar elementos importantes en tu texto, como títulos, subtítulos o palabras clave. Esto ayuda a establecer una **jerarquía visual** y **facilitar la comprensión** del contenido.
+* **Énfasis y jerarquía:** Utiliza opciones de formato como **negrita, cursiva o subrayado** para resaltar elementos importantes en tu texto, [como títulos, subtítulos]({{'titulos-trabajo-escrito'|relative_url}} "Títulos y subtítulos") o palabras clave. Esto ayuda a establecer una **jerarquía visual** y **facilitar la comprensión** del contenido.
 
 * **Consistencia en estilos:** Mantén la coherencia en la elección de fuentes y estilos a lo largo de todo tu trabajo escrito. Evite mezclar demasiadas fuentes diferentes, ya que esto puede dificultar la lectura y distraer al lector.
 

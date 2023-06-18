@@ -63,10 +63,7 @@ Para citar siguiendo estas normas, se **deben conocer las diferentes formas de c
 
 ![Títulos en Normas APA]({{'img/blog/normas-apa-titulos.webp'|relative_url}} "Normas APA - Títulos"){:width="480"}
 
-Según las normas APA, se debe utilizar hasta tres niveles de títulos y subtítulos para organizar el contenido del trabajo.
-
-* El primer nivel de título, en negrita y centrado, se refiere al título del trabajo.
-* Los subtítulos de segundo y tercer nivel se alinean a la izquierda y se presentan en cursiva y negrita, respectivamente.
+Según las normas APA, se debe utilizar hasta tres niveles de títulos y subtítulos para organizar el contenido del trabajo. Tienen condiciones de mayúsculas y minúsculas, además de tamaños de jerarquía y alineación en el cuerpo del texto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="texto"}
 
@@ -80,7 +77,7 @@ Al seguir estas pautas, los textos en normas APA adquieren un estilo académico 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="parrafos"}
 
-[Textos o letras APA](# "Textos o letras APA"){:class="boton"}
+[Textos o letras APA]({{'normas-apa/textos-normas-apa'|relative_url}} "Textos o letras APA"){:class="boton"}
 
 ### Párrafos y sangría
 
@@ -92,7 +89,7 @@ Los párrafos deben estar separados entre sí por una línea en blanco, sin aña
 
 ### Margenes o medidas
 
-El margen izquierdo y derecho debe ser de 2,54cm, mientras que los márgenes superior e inferior deben medir 2,54cm.
+El margen izquierdo y derecho y las márgenes superior e inferior deben seguir unas medidas estándar que mejoran la presentación y facilitan la lectura del texto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="hoja"}
 
@@ -249,7 +246,7 @@ Las Normas APA establecen reglas claras para la presentación de trabajos acadé
 
 Por ello, conocer y aplicar las Normas APA es fundamental para elaborar trabajos académicos rigurosos y de alta calidad en las ciencias sociales y humanidades.
 
------
+----
 
 ## Aplica fácilmente las normas APA con estas herramientas
 
