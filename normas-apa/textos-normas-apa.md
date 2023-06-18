@@ -9,7 +9,7 @@ boton_info_title: "Generadores"
 boton_mas: "descargas"
 boton_mas_title: "Ejemplos"
 vertical: true
-permalink: /normas-apa/citas-normas-apa
+permalink: /normas-apa/textos-normas-apa
 ---
 ## Estructura de un texto según las Normas APA
 

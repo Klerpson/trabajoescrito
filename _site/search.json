@@ -54,6 +54,14 @@
   
    {
      
+        "title"    : "Cómo incorporar un apéndice en un Trabajo Escrito",
+        "category" : "",
+        "url"      : "/apendice-trabajo-escrito"
+     
+   } ,
+  
+   {
+     
         "title"    : "Normas APA para Artículos Científicos 📑",
         "category" : "",
         "url"      : "/articulos-con-normas-apa"
@@ -234,6 +242,14 @@
   
    {
      
+        "title"    : "Márgenes en Normas APA: Ajustando el formato ↔",
+        "category" : "",
+        "url"      : "/normas-apa/margenes-normas-apa"
+     
+   } ,
+  
+   {
+     
         "title"    : "Cómo configurar márgenes en Trabajos Escritos como un Pro ↹",
         "category" : "",
         "url"      : "/margenes-trabajo-escrito"
@@ -284,7 +300,7 @@
      
         "title"    : "✓ Portada trabajo escrito: pautas y recomendaciones",
         "category" : "",
-        "url"      : "/portada-normas-apa"
+        "url"      : "/normas-apa/portada-normas-apa"
      
    } ,
   
@@ -376,7 +392,7 @@
      
         "title"    : "Textos con Normas APA: guía completa y ejemplos ✓",
         "category" : "",
-        "url"      : "/normas-apa/citas-normas-apa"
+        "url"      : "/normas-apa/textos-normas-apa"
      
    } ,
   

@@ -96,7 +96,7 @@ El margen izquierdo y derecho debe ser de 2,54cm, mientras que los márgenes sup
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="hoja"}
 
-[Más sobre las márgenes](# "Márgenes"){:class="boton"}
+[Más sobre las márgenes]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes"){:class="boton"}
 
 ### Las hojas o formato
 
@@ -166,13 +166,13 @@ Las normas APA también establecen reglas específicas para algunos tipos de tra
 
 ### Tesis
 
-[Al escribir una tesis]({{'tesis-normas-apa'|relative_url}} "Tesis con Normas APA"), se deben seguir ciertas pautas adicionales a las normas APA en cuanto a la estructura del trabajo. Es necesario incluir una [portada]({{site.baseurl}}/portada-trabajo-escrito "Portadas") y resumen, y la estructura del trabajo debe seguir un marco teórico, metodología, resultados y discusión.
+**Al escribir una tesis, se deben seguir ciertas pautas adicionales a las normas APA en cuanto a la estructura del trabajo**. Es necesario incluir una [portada]({{site.baseurl}}/portada-trabajo-escrito "Portadas") y resumen, y la estructura del trabajo debe seguir un marco teórico, metodología, resultados y discusión.
 
 Todas las tablas y figuras deben estar numeradas y tener un título y una explicación adecuada. Las citas y referencias deben ser precisas y estar correctamente formateadas siguiendo las normas APA.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="grado"}
 
-[Trabajos escritos: Tesis]({{''tesis-normas-apa'|relative_url}} "Tesis"){:class="boton"}
+[Trabajos escritos: Tesis]({{'tesis-normas-apa'|relative_url}} "Tesis"){:class="boton"}
 
 ### Trabajos de grado y monografías
 

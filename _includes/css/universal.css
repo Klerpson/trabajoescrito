@@ -200,11 +200,12 @@ li {
 }
 
 blockquote {
-  border: 0.8px solid var(--gris1);
   border-radius: 8px;
   padding: 3em 0;
   margin: 3em 0;
   background-color: var(--secundario);
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  clip-path: inset(0 -100vmax);
 }
 
 blockquote p{

@@ -20,7 +20,7 @@ Los márgenes adecuados ofrecen *una presentación ordenada y legible* para el l
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-### Medidas de Margen Estándar
+### Medidas de margen estándar
 
 Las medidas de margen estándar para un trabajo escrito **suelen ser de una pulgada (o 2.54 cm) en todos los lados** - arriba, abajo, izquierda y derecha.
 
@@ -30,8 +30,6 @@ Esta es una norma generalmente aceptada para la mayoría de [los trabajos escrit
 
 Microsoft Word es una de las herramientas más populares para la redacción y el formato de trabajos escritos. Utiliza sus ventajas para establecer sus márgenes fácilmente.
 
-{% include cluster2.html img="margenes-trabajo-escrito.webp" alt="Modelo de Márgenes" h3="Configuración de Márgenes en Word (Ejemplo Normas APA)" punto1="Abre tu documento en Word y clic en el menú 'Diseño de Página' y selecciona la opción 'Márgenes'" punto2="En el menú desplegable, elige la opción 'Márgenes personalizados'" punto3="En la ventana que se abre, puedes establecer las medidas deseadas para cada uno de los márgenes." %}
-
 ### Medidas Específicas de Margen
 
 Para un trabajo escrito más profesional y efectivo, las medidas recomendadas son:
@@ -40,6 +38,7 @@ Para un trabajo escrito más profesional y efectivo, las medidas recomendadas so
 - Margen inferior: 2.5 cm
 - Margen izquierdo: 3 cm
 - Margen derecho: 3 cm
+{:class="seccion_a"}
 
 Estas medidas se consideran ideales ya que proporcionan un espacio suficiente para el texto sin hacerlo parecer apretado o desorganizado. Además, facilitan la lectura.
 
