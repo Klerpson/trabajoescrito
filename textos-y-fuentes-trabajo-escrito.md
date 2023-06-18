@@ -43,9 +43,9 @@ Si el trabajo se presenta en formato digital, asegúrese de elegir una fuente qu
 
 ### Normas de estilo y citación
 
-Ten en cuenta las recomendaciones de estilo de escritura, como las establecidas por [APA]({{'normas-apa'|relative_url}} "Normas APA") o MLA, en cuanto a las fuentes y el tamaño de letra en los trabajos académicos.
+Ten en cuenta las recomendaciones de estilo de escritura, como las establecidas por [APA]({{'normas-apa/textos-normas-apa'|relative_url}} "Normas APA") o MLA, en cuanto a las fuentes y el tamaño de letra en los trabajos académicos.
 
-Esto garantiza que su documento cumpla con los estándares aceptados en el ámbito académico y facilite la comprensión de las citas y referencias.
+Esto garantiza que su documento cumpla con los estándares aceptados en el ámbito académico y facilite la comprensión de las [citas]({{'cita-trabajo-escrito'|relative_url}}) y [referencias]({{'referencias-trabajo-escrito'|relative_url}}).
 
 ----
 
@@ -89,7 +89,7 @@ Es una excelente opción si deseas darle a tus trabajos escritos **un aspecto m�
 
 Además de elegir la fuente adecuada, es importante tener en cuenta otros aspectos relacionados con la tipografía de tus trabajos escritos:
 
-* **Tamaño de letra:** Asegúrese de seleccionar un tamaño de letra apropiado para garantizar la legibilidad. Como mencionamos anteriormente, un tamaño de 12 o 14 puntos suele ser recomendado para el cuerpo del texto, pero **verifica las pautas específicas de estilo** que está siguiendo.
+* **Tamaño de letra:** Asegúrese de seleccionar un tamaño de letra apropiado para garantizar la legibilidad. Como mencionamos anteriormente, un tamaño de 12 o 14 puntos suele ser recomendado para [el cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}}), pero **verifica las pautas específicas de estilo** que está siguiendo.
 
 * **Énfasis y jerarquía:** Utiliza opciones de formato como **negrita, cursiva o subrayado** para resaltar elementos importantes en tu texto, como títulos, subtítulos o palabras clave. Esto ayuda a establecer una **jerarquía visual** y **facilitar la comprensión** del contenido.
 

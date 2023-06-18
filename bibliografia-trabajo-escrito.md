@@ -95,7 +95,7 @@ Al aplicar estas mejores prácticas, podrás citar adecuadamente las citas de ci
 
 Los errores frecuentes en la elaboración de bibliografías pueden afectar la precisión y credibilidad de un trabajo académico.
 
-Algunos de estos errores comunes incluyen la omisión de información esencial en las referencias, errores de formato en las citas, falta de consistencia en el estilo de citación y falta de actualización de las referencias.
+Algunos de estos errores comunes incluyen **la omisión de información esencial en las referencias, errores de formato en las citas, falta de consistencia en el estilo de citación y falta de actualización de las referencias**.
 
 Para evitar estos errores, es importante revisar cuidadosamente cada referencia, asegurarse de incluir todos los datos necesarios (autor, título, año, etc.), seguir las normas de formato y estilo requeridas por la institución o guía de estilo utilizada, y mantener las referencias actualizadas.
 
@@ -105,7 +105,7 @@ Al prestar atención a estos detalles, se garantiza la precisión y fiabilidad d
 
 Organizar y presentar adecuadamente las referencias bibliográficas es fundamental para asegurar la claridad y la accesibilidad de la información.
 
-Algunos consejos prácticos incluyen seguir una estructura lógica en la lista de referencias, ordenar alfabéticamente los nombres de los autores, aplicar correctamente las normas de puntuación, mantener consistencia en el estilo de citación utilizado y utilizar un formato visualmente atractivo y fácil de seguir.
+Algunos consejos prácticos incluyen *seguir una estructura lógica en la lista de referencias, ordenar alfabéticamente los nombres de los autores, aplicar correctamente las normas de puntuación, mantener consistencia en el estilo de citación utilizado y utilizar un formato visualmente atractivo y fácil de seguir*.
 
 Estos consejos ayudarán a los lectores a localizar rápidamente las fuentes citadas y a comprender mejor el contexto de la investigación.
 

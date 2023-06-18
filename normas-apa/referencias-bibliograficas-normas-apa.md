@@ -100,4 +100,26 @@ Cada entrada bibliográfica debe seguir el siguiente formato:
 
 Es importante también incluir toda la información necesaria en la referencia bibliográfica según el tipo de fuente (libro, artículo, etc.), tales como el nombre de la editorial, el lugar de publicación y el número de edición del libro.
 
+## Cómo utilizar BibGuru para hacer referencias bibliográficas según las Normas APA
+
+[BibGuru es una herramienta en línea que facilita la creación de referencias bibliográficas en formato APA](https://www.bibguru.com/es/){:rel="nofollow noopener noreferrer" target="_blank"}. Esta herramienta es de gran utilidad para estudiantes, profesores e investigadores que desean hacer referencias bibliográficas en trabajos académicos y científicos. A continuación, se describen los pasos para utilizar BibGuru:
+
+1. Ingresa a la página web de BibGuru
+2. Para utilizar BibGuru, primero debes ingresar a la página web de la herramienta a través de tu navegador web.
+3. Selecciona el tipo de fuente que deseas citar o referenciar  
+BibGuru te permite seleccionar diferentes tipos de fuentes, incluyendo libros, revistas, artículos científicos, páginas web y otros documentos electrónicos. Selecciona el tipo de fuente que deseas citar o referenciar.
+4. Ingresa la información de la fuente  
+BibGuru te guiará para que ingreses la información requerida de acuerdo al tipo de fuente que elegiste. Asegúrate de ingresar la información de forma completa y correcta.
+5. Genera la cita o referencia bibliográfica
+
+Una vez que hayas ingresado toda la información necesaria, BibGuru generará automáticamente la cita o referencia bibliográfica en formato APA.
+
+Finalmente, copia y pega la cita o referencia bibliográfica generada por BibGuru en tu trabajo académico o científico.
+
+BibGuru es una herramienta de referencia generada automáticamente, por lo que es recomendable **verificar la exactitud y corrección de la información generada** antes de incluirla en nuestro trabajo.
+
+## Haz tus referencias con las normas APA
+
 **Al organizar las referencias bibliográficas según las Normas APA**, se logra una presentación uniforme y ordenada que ayuda a facilitar la lectura y comprensión del documento.
+
+Finalmente, siguiendo esta gran guía de referencias APA, podrás destacar con un [trabajo escrito](/) que cumpla con los más altos estándares de presentación académica.

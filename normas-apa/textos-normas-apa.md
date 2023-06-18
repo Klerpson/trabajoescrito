@@ -1,3 +1,16 @@
+---
+layout: default
+title: "Textos con Normas APA: guía completa y ejemplos ✓"
+description: "Redacta textos con las Normas APA de forma precisa y coherente. 📝 Mira ejemplos prácticos para estructurar tus textos académicos según las pautas establecidas"
+h1: "Citar con Normas APA: la estructura adecuada"
+intro: "Con las Normas APA  se busca establecer una uniformidad en la estructura y una adecuada citación de las fuentes utilizadas, lo que es fundamental para el otorgamiento de crédito académico."
+boton_info: "normas"
+boton_info_title: "Generadores"
+boton_mas: "descargas"
+boton_mas_title: "Ejemplos"
+vertical: true
+permalink: /normas-apa/citas-normas-apa
+---
 ## Estructura de un texto según las Normas APA
 
 La estructura de un texto según las Normas APA es importante para garantizar que el trabajo se presente de manera organizada y coherente. En este sentido, la estructura varía dependiendo del tipo de trabajo que se esté realizando, ya sea una monografía, una tesis, un artículo o cualquier otro tipo de trabajo académico.

@@ -29,7 +29,7 @@ Hacer referencias en un trabajo escrito puede parecer una tarea desalentadora, p
 
 ## Ejemplo de Referencia en un Trabajo Escrito
 
-Para ayudar a visualizar cómo se aplica todo esto en la práctica, considera **el siguiente ejemplo de una referencia en estilo APA**:
+Para ayudar a visualizar cómo se aplica todo esto en la práctica, considera **el siguiente ejemplo de una [referencia en estilo APA]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias normas APA")**:
 
 >*Hawking, S. (1988). A brief history of time: From the big bang to black holes. Bantam Books.*
 
@@ -53,21 +53,23 @@ Las referencias actúan como signos en un mapa, mostrando el camino que has toma
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-## Tipos de Referencias y dónde Encontrarlas
+## Tipos de Referencias y dónde encontrarlas
 
 Cada fuente de información que utilices en tu trabajo escrito tiene un tipo específico de referencia.
 
 Los libros tienen autores, títulos, editores y fechas de publicación. Las revistas y los periódicos tienen títulos de artículos, autores, nombres de revistas o periódicos, números de volumen y números de páginas. Las páginas web tienen autores (o nombres de las organizaciones), títulos de las páginas, fechas de publicación o de última actualización, y URL.
 
-Asegúrate de registrar esta información mientras investigas para que no tengas que buscarla nuevamente más tarde.
+>Asegúrate de registrar esta información mientras investigas para que no tengas que buscarla nuevamente más tarde.
 
 -----
 
 ## Cita de Referencias en el Texto
 
-Las citas y referencias bibliográficas son partes fundamentales en un anteproyecto, y deben realizarse de manera precisa y rigurosa para dar credibilidad a la información presentada. Para utilizar Normas APA e [Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec") en las citas y referencias bibliográficas, es importante seguir los siguientes aspectos:
+[Las citas]({{'cita-trabajo-escrito'|relative_url}} "Citas") y referencias bibliográficas son partes fundamentales en un anteproyecto, y deben realizarse de manera precisa y rigurosa para dar credibilidad a la información presentada.
 
-- Las Normas APA e Icontec establecen la forma de citar tanto una fuente directa como una fuente indirecta o parafraseada. Para una *fuente directa*, se debe *incluir el apellido del autor, el año de publicación y el número de página*. Para una *fuente indirecta o parafraseada, se deberá incluir solamente el autor y el año de publicación*.
+Para utilizar Normas APA e [Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec") en las citas y referencias bibliográficas, es importante seguir los siguientes aspectos:
+
+- [Las Normas APA]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas con normas APA") e Icontec establecen la forma de citar tanto una fuente directa como una fuente indirecta o parafraseada. Para una *fuente directa*, se debe *incluir el apellido del autor, el año de publicación y el número de página*. Para una *fuente indirecta o parafraseada, se deberá incluir solamente el autor y el año de publicación*.
 - En cuanto a las referencias bibliográficas, estas deben estar *ordenadas alfabéticamente por autor y, dentro de un mismo autor, por orden cronológico*. Se especifican, además, el autor, el título del artículo o libro, el año de publicación, la editorial o revista, la ciudad y el número de página.
 - En cuanto al formato, es importante tener en cuenta algunas particularidades como *la cursiva para los títulos de libros y revistas y el uso de mayúsculas para los nombres propios*. Además, es importante incluir la fecha de acceso y la URL en caso de tratarse de una fuente digital.
 - Es importante revisar las Normas APA o Icontec específicas para cada tipo de fuente bibliográfica, *tales como revistas, libros o documentos electrónicos, y seguir los ejemplos proporcionados por las guías*.
@@ -80,19 +82,21 @@ La correcta aplicación de las Normas APA e Icontec en la realización de citas 
 
 ### Las citas parenthéticas
 
-Son aquellas en las que **la referencia se coloca entre paréntesis inmediatamente después de la cita o la paráfrasis**. Por ejemplo: "El cambio climático es una amenaza existencial para la humanidad" (Smith, 2022).
+Son aquellas en las que **la referencia se coloca entre paréntesis inmediatamente después de la cita o la paráfrasis**. Por ejemplo: *"El cambio climático es una amenaza existencial para la humanidad" (Smith, 2022)*.
 
 ### Las citas narrativas
 
-**Las citas narrativas incorporan la referencia dentro de la oración**. Por ejemplo: "Según Smith (2022), el cambio climático es una amenaza existencial para la humanidad". La forma exacta de citar depende del estilo de cita que estés utilizando.
+**Las citas narrativas incorporan la referencia dentro de la oración**. Por ejemplo: *"Según Smith (2022), el cambio climático es una amenaza existencial para la humanidad"*. La forma exacta de citar depende del estilo de cita que estés utilizando.
 
-## Creación de la Lista de Referencias
+## Creación de la lista de Referencias
 
 **Al final de tu trabajo, deberías tener una lista completa de todas las referencias** que citaste en el texto. Esta lista **se ordena alfabéticamente** por el apellido del primer autor de cada fuente.
 
-Cada entrada de la lista debe tener suficiente información para que tus lectores puedan encontrar la fuente por sí mismos. Esto generalmente incluye el nombre del autor, el título de la obra, la fecha de publicación y detalles de la publicación (por ejemplo, el nombre de la editorial para los libros o el nombre de la revista y el número de volumen y página para los artículos de revistas).
+Cada entrada de la lista debe tener suficiente información para que tus lectores puedan encontrar la fuente por sí mismos.
 
-## La Última Palabra en Referencias Bibliográficas
+Esto generalmente incluye el nombre del autor, el título de la obra, la fecha de publicación y detalles de la publicación (por ejemplo, el nombre de la editorial para los libros o el nombre de la revista y el número de volumen y página para los artículos de revistas).
+
+## La última palabra en Referencias Bibliográficas
 
 Recuerda, cada cita que haces es un testimonio de **la integridad de tu trabajo y un reconocimiento a los investigadores** cuyo trabajo te ayudó a construir el tuyo.
 
