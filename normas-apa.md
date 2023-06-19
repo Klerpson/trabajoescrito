@@ -27,6 +27,7 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 * [⇾ Párrafos y sangría](#parrafos)
 * [⇾ Margenes o medidas](#margenes)
 * [⇾ Hojas o formato](#hoja)
+* [⇾ Tablas y figuras](#tablas)
 * [⇾ Citas APA](#citas)
 * [⇾ Listas - FALTA ESCRIBIR SOBRE ESTO](#listas)
 * [⇾ Referencias bibliográficas](#referencias)
@@ -85,7 +86,7 @@ Los párrafos deben estar separados entre sí por una línea en blanco, sin aña
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="margenes"}
 
-[Más sobre los párrafos](# "Párrafos"){:class="boton"}
+[Párrafos con normas APA](# "Párrafos"){:class="boton"}
 
 ### Margenes o medidas
 
@@ -93,15 +94,25 @@ El margen izquierdo y derecho y las márgenes superior e inferior deben seguir u
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="hoja"}
 
-[Más sobre las márgenes]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes"){:class="boton"}
+[Márgenes con normas APA]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes"){:class="boton"}
 
 ### Las hojas o formato
 
 Todo el contenido del trabajo debe estar en papel tamaño A4. Además, se recomienda utilizar el mismo tipo de fuente en todo el trabajo, incluyendo en títulos y subtítulos, como se mencionó anteriormente.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="citas"}
+{:id="tablas"}
 
 [Más sobre los formatos](# "Formato de hojas"){:class="boton"}
+
+### Tablas y figuras
+
+Las Normas APA son un conjunto de reglas y estándares que se utilizan para formatear documentos académicos y científicos. Como tal, proporcionan pautas detalladas sobre cómo se deben presentar las tablas y figuras.
+
+Estos elementos visuales juegan un papel crucial en la **presentación de los datos de manera clara y concisa**. Explora el uso de tablas y figuras bajo las Normas APA.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="citas"}
+
+[Tablas y figuras APA]({{'normas-apa/tablas-y-figuras-normas-apa'|relative_url}} "Tablas y figuras"){:class="boton"}
 
 ### Cómo citar siguiendo las normas APA
 
@@ -126,6 +137,8 @@ Siguiendo las pautas establecidas por las normas APA, **se debe proporcionar inf
 Una lista de referencias bien elaborada no solo respalda tus argumentos, sino que también permite a los lectores profundizar en el tema y verificar la información presentada.
 
 [Referencias bibliográficas APA]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias bibliográficas con normas APA"){:class="boton"}
+
+----
 
 ## Cómo el uso de Normas APA afecta a nuestra comunidad académica
 

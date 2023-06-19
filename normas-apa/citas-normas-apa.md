@@ -97,6 +97,19 @@ Un tweet puede ser una buena fuente para respaldar una afirmación (López, 2022
 
 Con estos ejemplos, es posible entender mejor **cómo aplicar las Normas APA** en diferentes situaciones. Es importante recordar que **el mismo formato se debe usar tanto en las citas como en las referencias bibliográficas** para garantizar la uniformidad y la claridad en la presentación de la información.
 
+### Cómo citar estadísticas de una base de datos
+
+La cita de estadísticas de una base de datos según las normas APA requiere información específica, como el nombre de la base de datos, el año de publicación de la información, el titulo de la tabla o figura, el número de la tabla o figura, la fecha de acceso y la URL de la página que contiene la información.
+
+* Apellido y las iniciales del autor.
+* Año de publicación.
+* Título del trabajo.
+* Información sobre la ubicación del texto (página, volumen, número).
+* Información sobre la fuente del texto (editorial, nombre de la revista, nombre de la base de datos).
+* Información sobre la versión del texto utilizada, si corresponde (edición, revisión).
+* Fecha de acceso, en caso de tratarse de una fuente en línea.
+* URL de la página que contiene la información, en caso de ser una fuente en línea.
+
 ## Errores comunes en las citas en APA
 
 El manejo de las Normas APA puede resultar confuso y complicado y es fácil cometer errores, especialmente en relación a las citas. A continuación, se presentan algunos de los errores más comunes:
