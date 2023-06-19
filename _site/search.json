@@ -108,6 +108,14 @@
   
    {
      
+        "title"    : "Citas y referencias según las normas ICONTEC ⁂",
+        "category" : "",
+        "url"      : "/normas-icontec/citas-referencias-normas-icontec"
+     
+   } ,
+  
+   {
+     
         "title"    : "Redacta las conclusiones de tu Trabajo Escrito ✍️",
         "category" : "",
         "url"      : "/conclusiones-trabajo-escrito"
@@ -143,6 +151,14 @@
         "title"    : "El cuerpo de un Trabajo Escrito: el desarrollo bien hecho",
         "category" : "",
         "url"      : "/cuerpo-trabajo-escrito"
+     
+   } ,
+  
+   {
+     
+        "title"    : "Márgenes según las normas Icontec para presentar trabajos",
+        "category" : "",
+        "url"      : "/normas-icontec/cuerpo-trabajo-normas-icontec"
      
    } ,
   

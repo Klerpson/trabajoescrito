@@ -28,14 +28,16 @@ Estas normas establecen las pautas para la presentación de trabajos académicos
 
 -----
 
-### Te enseñamos a aplicar las normas Icontec
+### Estructura y aplicación de las normas Icontec
 
 * [⇾ Margenes y textos](#margenes)
+* [⇾ Títulos y subtítulos](#titulos)
 * [⇾ Portada y contraportada](#portada)
 * [⇾ Tabla de contenido o índice](#contenido)
+* [⇾ Introducción](#introduccion)
 * [⇾ Cuerpo de trabajo](#cuerpo)
-* [⇾ Referencias y citas](#referencias)
-* [⇾ Títulos y subtítulos](#titulos)
+* [⇾ Conclusiones](#conclusiones)
+* [⇾ Referencias bibliográficas y citas](#referencias)
 * [⇾ Anexos](#anexos)
 {:class="links"}
 
@@ -99,15 +101,7 @@ La tabla de contenido proporciona una visión general de la estructura de tu tra
 
 El cuerpo del trabajo es la parte principal de tu documento. Aquí es donde presentas tu investigación, argumentos, evidencia, etc.
 
-Según las Normas ICONTEC, el cuerpo del trabajo debe estar compuesto por los siguientes elementos: **introducción, desarrollo (que puede incluir subsecciones como marco teórico, metodología, resultados, etc.) y conclusiones**.
-
-> **Ejemplo de cómo presentar el Cuerpo del Trabajo**:
->
-> - Introducción: En este trabajo, analizaremos la economía colombiana...
-> - Marco Teórico: La economía colombiana se ha estudiado desde varias perspectivas...
-> - Metodología: Para este análisis, utilizamos datos de...
-> - Resultados: Nuestros resultados indican que...
-> - Conclusiones: En conclusión, la economía colombiana...
+Según las Normas ICONTEC, el cuerpo del trabajo debe estar compuesto por los siguientes elementos: **introducción, desarrollo (que puede incluir sub-secciones como marco teórico, metodología, resultados, etc.) y conclusiones**.
 
 [Más sobre Introducción](# "Introducción de un trabajo escrito"){:class="boton"}
 [Más de Marcos Teóricos](# "Marcos Teóricos de un trabajo escrito"){:class="boton"}
@@ -115,19 +109,18 @@ Según las Normas ICONTEC, el cuerpo del trabajo debe estar compuesto por los si
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="referencias"}
 
-### 5. Referencias Bibliográficas y Citas
+### 5. Citas y Referencias Bibliográficas
 
-Las referencias bibliográficas y las citas son cruciales en cualquier trabajo escrito. Permiten **dar crédito a los autores de las fuentes** que has utilizado en tu trabajo y **permiten a los lectores rastrear estas fuentes**.
+**Las referencias bibliográficas y las citas** son cruciales en cualquier trabajo escrito. Permiten **dar crédito a los autores de las fuentes** que has utilizado en tu trabajo y **permiten a los lectores rastrear estas fuentes**.
 
-> **Ejemplo de Referencia Bibliográfica y Cita**:
+> **Ejemplo de Citas y Referencia Bibliográfica**:
 >
 > - Referencia Bibliográfica: Pérez, J. (2020). Economía Colombiana. Editorial Económica.
 > - Cita en el Texto: Según Pérez (2020), la economía colombiana ha experimentado...
 
-[Más sobre Referencias](# "Referencias de un trabajo escrito"){:class="boton"}
-[Más sobre Citas](# "Citas de un trabajo escrito"){:class="boton"}
+[Citas y Referencias Icontec]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas de un trabajo escrito"){:class="boton"}
 
-Las Normas ICONTEC establecen directrices claras sobre cómo deben presentarse las referencias y citas.
+Las Normas ICONTEC establecen directrices claras sobre **cómo deben presentarse las referencias y citas**.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 

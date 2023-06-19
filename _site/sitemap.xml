@@ -77,6 +77,14 @@
   
   
       <url>
+        <loc>http://localhost:4000/normas-icontec/citas-referencias-normas-icontec</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>http://localhost:4000/conclusiones-trabajo-escrito</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -110,6 +118,14 @@
   
       <url>
         <loc>http://localhost:4000/cuerpo-trabajo-escrito</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/normas-icontec/cuerpo-trabajo-normas-icontec</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
