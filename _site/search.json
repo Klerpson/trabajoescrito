@@ -282,7 +282,7 @@
      
         "title"    : "Márgenes según las normas Icontec para presentar trabajos",
         "category" : "",
-        "url"      : "/normas-apa/contraportada-normas-apa"
+        "url"      : "/normas-icontec/margenes-normas-icontec"
      
    } ,
   
@@ -346,7 +346,7 @@
      
         "title"    : "Portada normas APA: mejora tu presentación ✓",
         "category" : "",
-        "url"      : "/normas-apa/contraportada-normas-apa"
+        "url"      : "/normas-icontec/portada-contraportada-normas-icontec"
      
    } ,
   
@@ -355,14 +355,6 @@
         "title"    : "Portada normas APA: mejora tu presentación ✓",
         "category" : "",
         "url"      : "/normas-apa/portada-normas-apa"
-     
-   } ,
-  
-   {
-     
-        "title"    : "✓ Portada trabajo escrito: pautas y recomendaciones",
-        "category" : "",
-        "url"      : "/portada-normas-icontec"
      
    } ,
   

@@ -235,7 +235,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/normas-apa/contraportada-normas-apa</loc>
+        <loc>http://localhost:4000/normas-icontec/margenes-normas-icontec</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -299,7 +299,7 @@
   
   
       <url>
-        <loc>http://localhost:4000/normas-apa/contraportada-normas-apa</loc>
+        <loc>http://localhost:4000/normas-icontec/portada-contraportada-normas-icontec</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -308,14 +308,6 @@
   
       <url>
         <loc>http://localhost:4000/normas-apa/portada-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/portada-normas-icontec</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

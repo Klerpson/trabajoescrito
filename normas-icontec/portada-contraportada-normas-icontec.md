@@ -9,7 +9,7 @@ boton_info_title: "Normas"
 boton_mas: "descargas"
 boton_mas_title: "Afiliación institucional"
 vertical: true
-permalink: /normas-apa/contraportada-normas-apa
+permalink: /normas-icontec/portada-contraportada-normas-icontec
 ---
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
@@ -23,3 +23,9 @@ La portada debe incluir, además del título del trabajo y el nombre del autor, 
 - Fecha de entrega del trabajo
 
 Como recomendación adicional, se sugiere incluir una fotografía o imagen relacionada con el tema del trabajo, con el fin de enriquecer su aspecto visual.
+
+[Las Normas Icontec]({{site.baseurl}}/normas-icontec "Normas Icontec") requieren que la portada de un trabajo escrito **incluya el título del trabajo, el nombre del autor o autores, la institución a la que se presenta el trabajo y la fecha de presentación**.
+
+El título debe ser breve y conciso, y debe reflejar el contenido del trabajo. Se recomienda utilizar una **tipografía clara y legible, en negrita y con un tamaño superior al del resto del texto** de la portada.
+
+El nombre del autor o autores debe aparecer debajo del título, con una fuente más pequeña. La institución y la fecha de presentación se colocan en la parte inferior de la portada.

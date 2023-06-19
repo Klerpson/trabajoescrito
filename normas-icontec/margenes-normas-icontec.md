@@ -1,22 +1,19 @@
 ---
 layout: default
 title: "Márgenes según las normas Icontec para presentar trabajos"
-description: La portada con normas APA debe incluir un título claro y descriptivo, el nombre del autor o autores, su afiliación institucional y fecha de entrega. Mira más!
+description: La presentación física de un trabajo escrito es uno de los aspectos más importantes de las normas Icontec yse destacan las indicaciones acerca de los márgenes
 h1: "Márgenes según las normas Icontec para presentación de trabajos"
-intro: "La portada es la cara de cualquier trabajo académico que se presente y su presentación correctamente es muy importante para mostrar profesionalismo y precisión en la comunicación escrita."
+intro: "Es importante aplicar los márgenes adecuados a las normas Icontec para lograr una presentación uniforme y profesional, y para facilitar la lectura y corrección del texto."
 boton_info: "normas"
-boton_info_title: "Normas"
+boton_info_title: "Cómo hacer"
 boton_mas: "descargas"
-boton_mas_title: "Afiliación institucional"
+boton_mas_title: "Portadas"
 vertical: true
-permalink: /normas-apa/contraportada-normas-apa
+permalink: /normas-icontec/margenes-normas-icontec
 ---
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="normas"}
-
 ## Presentación del trabajo escrito: ¿Cómo se establecen los márgenes según Icontec?
 
-La presentación física de un trabajo escrito es uno de los aspectos más importantes de las normas Icontec. Entre las recomendaciones específicas de este conjunto de reglas, **se destacan las indicaciones acerca de los márgenes** que se deben utilizar en el texto.
+La presentación física de un trabajo escrito es uno de los aspectos más importantes de [las normas Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec"). Entre las recomendaciones específicas de este conjunto de reglas, **se destacan las indicaciones acerca de los márgenes** que se deben utilizar en el texto.
 
 A continuación, se explicará cuáles son los márgenes adecuados según Icontec y cómo establecerlos en un documento.
 
@@ -32,8 +29,10 @@ Las normas ICONTEC especifican los márgenes de la siguiente manera:
 
 Para ajustar los márgenes, ve a "**Márgenes**" en la pestaña "**Diseño de Página**" y selecciona "**Márgenes Personalizados**". Ingresas los valores correspondientes en los campos provistos y haces clic en "**Aceptar**".
 
-- Estos márgenes deben aplicarse a todas las páginas del documento, incluyendo la portada, la tabla de contenido, el cuerpo del documento y la bibliografía.
-- Los márgenes adecuados permiten una lectura y corrección más sencillas, y esto es fundamental en la presentación de documentos académicos.
+- Estos márgenes deben aplicarse a todas las páginas del documento, incluyendo [la portada]({{'normas-icontec/portada-contraportada-normas-icontec'|relative_url}} "Portada y Contraportada Normas Icontec"), [la tabla de contenido]({{'normas-icontec/tabla-contenido-normas-icontec'|relative_url}} "Tabla de contenido Normas Icontec"), el cuerpo del documento y la bibliografía.
+- Los márgenes adecuados permiten una lectura y corrección más sencillas, y esto es fundamental en [la presentación de documentos académicos]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}).
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ### ¿Cómo establecer los márgenes según Icontec?
 
@@ -48,14 +47,26 @@ Los pasos a seguir para establecer los márgenes en Word según las normas Icont
 5. **Hacer click en "Aceptar"** para aplicar los márgenes a todo el documento.
 
 Establecer los márgenes según las normas Icontec es una tarea sencilla gracias a las herramientas digitales que se tienen a disposición.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ----
 
 ## Márgenes de la portada según las normas Icontec
 
-Para cumplir con las normas Icontec, [la portada]({{'normas-icontec/portada-contraportada-normas-icontec'|relative_url}} "Portada y contraportada normas Icontec") debe ser elaborada en una hoja tamaño carta de manera vertical, de acuerdo con las siguiente medidas:
+Para cumplir con las normas Icontec, la portada debe ser elaborada en una hoja tamaño carta de manera vertical, de acuerdo con las siguiente medidas:
 
 - Márgenes superior e izquierdo: 4 cm
 - Márgenes inferior y derecho: 2 cm
 
-Es importante aplicar los márgenes adecuados para lograr una presentación uniforme y profesional, y para facilitar la lectura y corrección del texto.
+## Mantén tu trabajo dentro de las márgenes establecidas
+
+En definitiva, respetar y seguir las normas ICONTEC para los márgenes en trabajos escritos es de suma importancia. Cumplir con estas normas no solo demuestra nuestro compromiso y respeto por las directrices académicas, sino que también ayuda a presentar nuestro trabajo de manera más legible y ordenada.
+
+A lo largo de este artículo, hemos explorado **cómo los márgenes adecuados facilitan la lectura y permiten el espacio necesario para anotaciones y encuadernación**. Asimismo, hemos aprendido a **configurar correctamente estos márgenes de acuerdo con las normas ICONTEC**.
+
+Como hemos visto, aunque pueda parecer un detalle menor, la aplicación correcta de los márgenes según las normas ICONTEC puede marcar la diferencia en la presentación final de tu trabajo. Por lo tanto, te alentamos a que apliques este conocimiento en tus futuros trabajos académicos y profesionales.
+
+Recuerda que, a pesar de las recomendaciones y consejos ofrecidos en este artículo, **siempre es útil revisar las normas ICONTEC más recientes**, ya que pueden haber actualizaciones o modificaciones.
+
+Es hora de poner en práctica lo que has aprendido y demostrar tu dominio de las normas ICONTEC en cada uno de tus trabajos.
