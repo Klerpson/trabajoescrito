@@ -29,7 +29,7 @@ Los márgenes **son los espacios en blanco que se encuentran en los bordes del d
 
 Según las Normas APA en su séptima edición, los márgenes recomendados en el documento académico **son de 2,54 centímetros (1 pulgada) en todos los lados**.
 
-Estos márgenes deben ser aplicados en todo el documento de manera uniforme, incluyendo la primera página, [la página de resumen]({{'resumen-trabajo-escrito'|relative_url}} "Hoja de Resumen"), el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo escrito"), [las referencias bibliográficas]({{'normas-apa/referencia-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas"), las tablas, las figuras y los apéndices.
+Estos márgenes deben ser aplicados en todo el documento de manera uniforme, incluyendo la primera página, [la página de resumen]({{'resumen-trabajo-escrito'|relative_url}} "Hoja de Resumen"), el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo escrito"), [las referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas"), las tablas, las figuras y los apéndices.
 
 ### Ajuste de márgenes en caso de encuadernación especial
 
