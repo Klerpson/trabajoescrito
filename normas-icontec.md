@@ -12,7 +12,9 @@ vertical: true
 ---
 ## Normas colombianas de presentación de proyectos: Instituto Colombiano de Normas Técnicas y Certificación
 
-El Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) establece las normas colombianas para la presentación de trabajos académicos, las cuales deben ser cumplidas en la elaboración de cualquier tipo de documento.
+El Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) establece **las normas colombianas para la presentación de trabajos académicos**, las cuales deben ser cumplidas en la elaboración de cualquier tipo de documento.
+
+Estas reglas se enfocan en aspectos como **los márgenes, la tipografía, la numeración y las citas bibliográficas.** Además, se establecen pautas para **el uso de hojas tamaño carta, textos justificados y respetando los márgenes.**
 
 ### Características específicas de las normas colombianas de presentación de documentos
 
@@ -30,18 +32,11 @@ Estas normas establecen las pautas para la presentación de trabajos académicos
 
 * [⇾ Margenes y textos](#margenes)
 * [⇾ Portada y contraportada](#portada)
-* [⇾ Tabla de contenido y gráficos](#contenido)
+* [⇾ Tabla de contenido o índice](#contenido)
 * [⇾ Cuerpo de trabajo](#cuerpo)
 * [⇾ Referencias y citas](#referencias)
-{:class="links"}
-
-### Componentes clave de las normas Icontec
-
 * [⇾ Títulos y subtítulos](#titulos)
 * [⇾ Anexos](#anexos)
-* [⇾ Tabla de contenido y gráficos](#contenido)
-* [⇾ Cuerpo de trabajo](#cuerpo)
-* [⇾ Referencias y citas](#referencias)
 {:class="links"}
 
 -----
@@ -54,12 +49,12 @@ Ten en cuentas el siguiente **paso a paso para presentar un Trabajo Escrito con 
 
 ### 1. Preparando tu Trabajo Escrito: configurando los márgenes y tipo de letra
 
-Lo primero que debes hacer antes de empezar a escribir tu trabajo es **configurar los márgenes y el tipo de letra**.
+Según las normas Icontec, **las márgenes deben cumplir ciertos requisitos** tanto en medidas y diseño como en cuanto a las fuentes que debe incluir.
 
-Según las Normas ICONTEC, los márgenes deben ser superior e inferior de 3 cm, izquierdo de 4 cm y derecho de 2 cm. El tipo de letra debe ser Times New Roman de 12 puntos.
+Lo primero que debes hacer antes de empezar a escribir tu trabajo es **configurar los márgenes y el formato de la hoja, con sus interlineados, fuentes o textos, y demás**.
 
-[Más sobre Márgenes](# "Márgenes de un trabajo escrito"){:class="boton"}
-[Más sobre Fuentes](# "Fuentes de un trabajo escrito"){:class="boton"}
+[Márgenes Icontec]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Icontec"){:class="boton"}
+[Formato normas Icontec]({{'normas-icontec/formato-normas-icontec'|relative_url}} "Formato Icontec"){:class="boton"}
 
 > **Ejemplo de uso en Word**:
 >
@@ -73,7 +68,7 @@ Según las Normas ICONTEC, los márgenes deben ser superior e inferior de 3 cm, 
 
 ### 2. La portada y contraportada según normas ICONTEC
 
-La portada y la contraportada son las primeras y últimas páginas de tu trabajo.
+**La portada y la contraportada** son las primeras y últimas páginas de tu trabajo.
 
 En la portada, debe figurar **el título del trabajo, el nombre del autor, el nombre de la institución y la fecha**. La contraportada, por otro lado, debe contener un breve **resumen del trabajo, las palabras clave y el lugar y fecha** de la presentación.
 
@@ -224,34 +219,23 @@ Las listas especiales se utilizan para presentar información en forma de lista,
 
 Aquí te mostramos un tutorial práctico para **aplicar las Normas ICONTEC en Word**, paso a paso.
 
-### Paso 1: Configura el Tamaño y Orientación de la Página
+### Configura el Tamaño y Orientación de la Página
 
 Comienza abriendo un nuevo documento en Microsoft Word. Ve a la pestaña de "Diseño de Página" o "Layout" y selecciona "Tamaño" y luego "Carta" (21.59 cm x 27.94 cm). Asegúrate de que la orientación de la página esté configurada como "Vertical".
 
-### Paso 2: Ajusta los Márgenes
-
-Las normas ICONTEC especifican los márgenes de la siguiente manera:
-
-* Superior: 3 cm
-* Inferior: 3 cm
-* Izquierdo: 4 cm
-* Derecho: 2 cm
-
-Para ajustar los márgenes, ve a "**Márgenes**" en la pestaña "**Diseño de Página**" y selecciona "**Márgenes Personalizados**". Ingresas los valores correspondientes en los campos provistos y haces clic en "**Aceptar**".
-
-### Paso 3: Configura el Interlineado
+### Configura el Interlineado
 
 El interlineado debe estar a doble espacio. Para hacerlo, selecciona todo el texto (Ctrl + A), luego ve a la pestaña de "Inicio", haz clic en el ícono de "Interlineado" y selecciona "2.0".
 
-### Paso 4: Elige la Fuente y Tamaño de Letra Correctos
+### Elige la Fuente y Tamaño de Letra Correctos
 
 Las Normas ICONTEC recomiendan usar una fuente clara y legible. Arial o Times New Roman son opciones aceptables. El tamaño de la fuente debe ser de 12 puntos. Estos ajustes se pueden realizar en la pestaña "Inicio".
 
-### Paso 5: Configura la Numeración de las Páginas
+### Configura la Numeración de las Páginas
 
 Las Normas ICONTEC requieren que todas las páginas, excepto la portada y la contraportada, estén numeradas. Para configurar la numeración de las páginas, ve a la pestaña "Insertar" y selecciona "Número de Página". Elige la posición "Inferior de la Página" y luego elige el formato de número de página que prefieras.
 
-### Paso 6: Configura las Citas y Referencias Bibliográficas
+### Configura las Citas y Referencias Bibliográficas
 
 Finalmente, si estás citando fuentes en tu documento, deberás asegurarte de que estén formateadas de acuerdo con las Normas ICONTEC.
 
@@ -265,13 +249,7 @@ Te recomendamos revisar las normas específicas para cada una de estas secciones
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-## Descargar plantilla con normas Icontec
-
-Para facilitar la aplicación de las normas Icontec en trabajos académicos se han desarrollado plantillas que ya incluyen todos los formatos requeridos por las normas.
-
-Estas plantillas son de gran utilidad al momento de comenzar un trabajo académico. Existen varias opciones para descargar plantillas con normas Icontec, una de ellas es a través del sitio web oficial de Icontec donde se puede descargar una plantilla para Word que cumple con las normas Icontec.
-
-## Normas Icontec en Word para Tesis, Trabajos de grado y otros escritos académicos
+## Normas Icontec en Word para tesis, trabajos de grado y otros escritos académicos
 
 Las normas Icontec son ampliamente utilizadas en trabajos académicos como tesis, trabajos de grado, [informes]({{'informes'|relative_url}}) y otros escritos académicos.
 
@@ -289,6 +267,59 @@ Además de seguir los formatos requeridos por las normas Icontec, existen alguno
 
 -----
 
+### Preguntas frecuentes sobre Normas Icontec en trabajos de investigación y escritos académicos
+
+Las Normas Icontec son un conjunto de reglas que deben ser seguidas al elaborar trabajos escritos en Colombia. A continuación, se presentan las preguntas más frecuentes sobre las Normas Icontec en los trabajos de investigación y escritos académicos.
+
+### ¿Son obligatorias las normas Icontec?
+
+Sí, son obligatorias para presentar cualquier trabajo escrito en Colombia, ya que son un conjunto de reglas y pautas adoptadas por el Instituto Colombiano de Normas Técnicas y Certificación desde 1970.
+
+### ¿Los trabajos de grado deben seguir las normas Icontec?
+
+Sí, los trabajos de grado en Colombia, ya sean tesis, ensayos o trabajos de investigación, deben seguir las Normas Icontec para su presentación y evaluación.
+
+### ¿Dónde puedo encontrar plantillas de trabajo que sigan las normas Icontec?
+
+Existen diversas plantillas de trabajo en línea que siguen las normas Icontec y que pueden ser descargadas de forma gratuita. Además, es posible encontrar plantillas en algunos proveedores de servicios de texto como Word.
+
+## Consejos para usar las Normas Icontec en tus trabajos escritos
+
+Si bien las Normas Icontec pueden parecer complejas, hay una serie de consejos y herramientas que pueden ayudarte a aplicarlas correctamente y evitar equivocaciones en la presentación de tus trabajos escritos.
+
+### Consejos útiles para trabajar con las Normas Icontec y evitar equivocaciones
+
+* Lee cuidadosamente las Normas Icontec antes de empezar a trabajar en tu proyecto para que sepas qué debes hacer y qué se espera de ti.
+* Usa una plantilla preestablecida que se ajuste a las Normas Icontec para evitar errores en el formato y asegurarte de que todo esté debidamente ubicado en su lugar.
+* Revisa cuidadosamente tu trabajo antes de entregarlo, prestando especial atención a la presentación, las citas, las referencias y la ortografía.
+* Pide ayuda si tienes dudas sobre la aplicación de alguna de las normas o si necesitas que alguien revise tu trabajo antes de entregarlo.
+{:class="seccion_a"}
+
+### Servicios de asesoría personalizada para comprobar tus trabajos según normas Icontec
+
+Si sientes que necesitas ayuda adicional con la elaboración de tus trabajos escritos, hay servicios de asesoría personalizada disponibles que pueden revisar tu trabajo y darte retroalimentación sobre cómo aplicar correctamente las Normas Icontec.
+
+### Herramientas digitales para aplicar las normas Icontec de forma automática
+
+Existen herramientas digitales que facilitan la aplicación de las Normas Icontec de forma automática en tus trabajos escritos. Estas herramientas te permiten ahorrar tiempo y reducir el margen de error al aplicar las normas, ya que automatizan procesos tediosos como la numeración de páginas o la creación de tablas de contenido.
+
+Algunas herramientas que puedes utilizar son:
+
+* Generadores de tablas de contenido.
+* Correctores ortográficos integrados en procesadores de texto.
+* Programas de edición de textos que incluyen plantillas preestablecidas según las Normas Icontec.
+{:class="seccion_a"}
+
+#### Descargar plantilla con normas Icontec
+
+Para facilitar la aplicación de las normas Icontec en trabajos académicos **se han desarrollado plantillas que ya incluyen todos los formatos** requeridos por las normas.
+
+Estas plantillas son de gran utilidad al momento de comenzar un trabajo académico. Existen varias opciones para descargar plantillas con normas Icontec, una de ellas es a través del sitio web oficial de Icontec donde se puede descargar una plantilla para Word que cumple con las normas Icontec.
+
+Estos recursos pueden apoyarte en la aplicación de las Normas Icontec en tus trabajos escritos, permitiéndote lograr una presentación uniforme y profesional.
+
+-----
+
 ## Normas Icontec en otros países
 
 Las normas Icontec son ampliamente utilizadas en Colombia, pero también son conocidas y utilizadas en otros países de América Latina como Venezuela, Ecuador, Panamá y Perú. Es importante destacar que los requerimientos y formatos pueden variar ligeramente en cada país.
@@ -303,7 +334,7 @@ Las Normas ICONTEC son el producto del trabajo del **Instituto Colombiano de Nor
 
 Esta norma, conocida popularmente como las Normas ICONTEC, estableció las pautas para la presentación de informes de investigación, tesis, trabajos de grado y otros documentos académicos.
 
-### Revisiones y versiones ICONTEC
+## Revisiones y versiones ICONTEC
 
 A lo largo de los años, ICONTEC ha revisado y actualizado regularmente las Normas ICONTEC para mantener su relevancia y utilidad en un mundo en constante cambio.
 
@@ -313,7 +344,7 @@ Por ejemplo, las normas se han adaptado para abordar el uso de nuevas tecnologí
 
 Estas normas están diseñadas para ser claras, precisas y fácilmente aplicables, lo que hace que su uso sea accesible para cualquier persona que necesite presentar un trabajo escrito de forma profesional y coherente.
 
-## Datos Complementarios sobre las Normas ICONTEC
+### Datos Complementarios sobre las Normas ICONTEC
 
 A lo largo de su existencia, las Normas ICONTEC han demostrado ser un recurso inestimable para garantizar la coherencia, legibilidad y profesionalismo en la presentación de trabajos escritos.
 
@@ -324,6 +355,7 @@ Aquí te brindamos algunos **datos complementarios** que pueden ser de utilidad:
 * **ICONTEC y la Certificación ISO**: ICONTEC es el representante oficial de Colombia en la Organización Internacional de Normalización (ISO) y la Comisión Panamericana de Normas Técnicas (COPANT). Esto significa que **las Normas ICONTEC están alineadas con las normas y estándares internacionales**.
 * **Actualizaciones Constantes**: ICONTEC realiza revisiones regulares de sus normas para asegurar su relevancia en el contexto actual. Es importante **mantenerse actualizado con las últimas versiones** para asegurarte de que estás aplicando las normas correctamente.
 * **Accesibilidad**: ICONTEC se ha esforzado por hacer que sus normas sean accesibles a todos. Las Normas ICONTEC están disponibles para su consulta y descarga en formato PDF desde el sitio web oficial de ICONTEC.
+{:class="seccion_a"}
 
 Estos datos resaltan el valor y la importancia de conocer y entender las Normas ICONTEC.
 

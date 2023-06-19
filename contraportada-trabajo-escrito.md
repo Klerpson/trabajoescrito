@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "✓ Portada trabajo escrito: pautas y recomendaciones"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati
+description: La contraportada es una parte importante de la presentación de un trabajo escrito, ya que es una oportunidad adicional para impartir información 📃
 h1: "Portada de un trabajo escrito: pautas y recomendaciones"
 intro: "La portada de un trabajo escrito es la primera impresión que se tiene del mismo. Es por eso que es importante que esta tenga un diseño y formato adecuados."
 boton_info: "normas"

@@ -25,6 +25,7 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 * [⇾ Títulos y subtítulos](#titulos)
 * [⇾ Letra o texto](#texto)
 * [⇾ Portada](#portada)
+* [⇾ Contraportada](#contraportada)
 * [⇾ Parágrafos y sangría](#sangria)
 * [⇾ Margenes o medidas](#margenes)
 * [⇾ Numeración](#numeracion)
@@ -88,9 +89,18 @@ Conocer las normas APA y saber cómo aplicarlas en la portada es fundamental.
 
 La portada debe incluir un título claro y descriptivo, el nombre del autor o autores, su afiliación institucional y la fecha de entrega. Aprende más sobre las portadas.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="sangria"}
+{:id="contraportada"}
 
 [Portadas con normas APA]({{'normas-apa/portada-normas-apa'|relative_url}} "Portada normas APA"){:class="boton"}
+
+### Contraportada
+
+Conocer las normas APA y saber cómo aplicarlas en la contraportada es muy importante para complementar la portada.
+
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="sangria"}
+
+[Contraportadas con normas APA]({{'normas-apa/contraportada-normas-apa'|relative_url}} "Contraportada normas APA"){:class="boton"}
 
 ### Parágrafos y sangría
 
