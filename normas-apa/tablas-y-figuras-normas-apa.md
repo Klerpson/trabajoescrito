@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Referencias bibliografía según las normas APA ⁂"
-description: "Haz referencias bibliográficas con las Normas APA 📑 Descubre ejemplos para citar libros, artículos o sitios web ¡Garantiza la integridad de tu textos!"
+title: "Tablas y figuras según las normas APA"
+description: "Aprende cómo elaborar tablas siguiendo las Normas APA de la 7ª edición para tu Universidad u otro campo profesional."
 h1: "Tablas y figuras según las normas APA para tus Trabajos Escritos"
 intro: "Las Normas APA establecen pautas claras para la presentación de tablas y figuras en trabajos académicos. Es importante seguir estas normas para mostrar la información de una forma clara y organizada."
 boton_info: "normas"
