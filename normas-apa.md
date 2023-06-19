@@ -29,7 +29,7 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 * [⇾ Hojas o formato](#hoja)
 * [⇾ Tablas y figuras](#tablas)
 * [⇾ Citas APA](#citas)
-* [⇾ Listas - FALTA ESCRIBIR SOBRE ESTO](#listas)
+* [⇾ Listas](#listas)
 * [⇾ Referencias bibliográficas](#referencias)
 {:class="links"}
 
@@ -124,9 +124,17 @@ Las normas APA ofrecen tres maneras diferentes de citar información dentro del 
 
 **Es importante seguir las reglas de las normas APA para citar correctamente** dentro del texto y en la lista de referencias bibliográficas, de esta manera se garantiza el reconocimiento de las fuentes de información utilizadas en el trabajo académico.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="referencias"}
+{:id="listas"}
 
 [Citas con normas APA]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas con normas APA"){:class="boton"}
+
+### Listas con normas APA
+
+Las Normas APA son una herramienta necesaria para citar correctamente en trabajos académicos. Entre las principales recomendaciones está el uso de listas con viñetas para elementos cortos y sin estructura jerárquica.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="referencias"}
+
+[Listas con normas APA]({{'normas-apa/listas-normas-apa'|relative_url}} "Listas con normas APA"){:class="boton"}
 
 ### Referencias bibliográficas con normas APA
 

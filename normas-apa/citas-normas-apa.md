@@ -19,7 +19,13 @@ Para la construcción de un buen texto científico o académico, es fundamental 
 
 En esta sección, se explicará de manera detallada cómo se lleva a cabo la citación en formato APA para diferentes tipos de textos, ya sea para citas textuales, parafraseadas o citas de citas.
 
-### Citas textuales
+### Cita narrativa: integrar la cita en el texto
+
+La cita narrativa se utiliza para **integrar la información de una fuente en el texto**.
+
+En este caso, el nombre del autor y año de publicación se colocan en la oración. Por ejemplo: *Según Smith (2015), la educación es un derecho fundamental para todos los ciudadanos*.
+
+### Citas textuales: transcribir exactamente la fuente
 
 **La cita textual es una cita directa** que se extrae del texto original. Las citas textuales se reproducen en el mismo formato en que aparecen originalmente en el texto citado.
 
@@ -30,6 +36,15 @@ La norma APA establece que las citas **deben estar entre comillas y seguidas por
 >* “El pájaro mirlo tiene un plumaje negro” (Pérez, 2020, p. 54)
 
 Es importante no modificar el texto original, así como también respetar la puntuación y la ortografía tal y como aparecen en la fuente citada.
+
+### Cita en bloque: separar la cita del texto principal
+
+La cita en bloque se utiliza para **citar información extensa que no se puede integrar en el texto principal**. En este caso, se debe separar la cita del texto principal y utilizar sangría en ambas margenes.
+
+Además, no es necesario utilizar comillas y se especifica el número de página. Por ejemplo:
+
+>* Según Smith (2015):  
+>* La educación debería ser accesible para todos los ciudadanos, independientemente de su origen social. Si no se garantiza este derecho, se está contribuyendo a perpetuar la desigualdad en la sociedad (p. 25).
 
 ### Citas parafraseadas
 

@@ -2,14 +2,14 @@
 layout: default
 title: "Referencias bibliografía según las normas APA ⁂"
 description: "Haz referencias bibliográficas con las Normas APA 📑 Descubre ejemplos para citar libros, artículos o sitios web ¡Garantiza la integridad de tu textos!"
-h1: "Tablas y Figuras según las Normas APA para tus Trabajos Académicos"
+h1: "Tablas y figuras según las normas APA para tus Trabajos Escritos"
 intro: "Las Normas APA establecen pautas claras para la presentación de tablas y figuras en trabajos académicos. Es importante seguir estas normas para mostrar la información de una forma clara y organizada."
 boton_info: "normas"
 boton_info_title: "Tablas"
 boton_mas: "descargas"
 boton_mas_title: "Figuras"
 vertical: true
-permalink: /normas-apa/referencias-bibliograficas-normas-apa
+permalink: /normas-apa/tablas-y-figuras-normas-apa
 ---
 La creación de tablas y figuras es importante para mostrar datos en un formato visualmente atractivo.
 
@@ -74,19 +74,23 @@ Para elaborar tablas en Word o Excel se recomienda seguir las siguientes pautas:
 - Mantener un tipo y tamaño de fuente consistente con el resto del trabajo académico.
 - Asegurarse de que la tabla no contenga errores al momento de su elaboración.
 
-## Títulos y subtítulos de tablas
+## Partes de las tablas en las que aplican las normas APA
+
+### Títulos y subtítulos de tablas
 
 El título de la tabla debe ser claro, específico y conciso, para que el lector entienda de manera fácil el contenido de la tabla.
 
 En caso de que se deseen añadir subtítulos a la tabla, estos **deben estar en cursiva y debajo del título general**. Se sugiere que los subtítulos no sean tan detallados para no sobrecargar la tabla.
 
-## Numeración de tablas y notas de tabla
+### Numeración de tablas y notas de tabla
 
 Como ya se mencionó, las tablas tienen un número consecutivo en la lista de tablas del trabajo académico. Además, se sugiere que cada tabla **tenga una nota explicativa debajo de la misma que indique la fuente original y la fecha de acceso a dicha información**, si es el caso.
 
-## Atribución de derechos de autor en tablas
+### Atribución de derechos de autor en tablas
 
-Es importante garantizar que las tablas cumplan con las normas de derechos de autor y no infrinjan los derechos de autor de otros autores. Para ello, es fundamental citar adecuadamente las fuentes de información de la tabla y proteger los derechos de autor al momento de su creación.
+Debes garantizar que las tablas cumplan con las normas de derechos de autor y no infrinjan los derechos de autor de otros autores.
+
+Es fundamental citar adecuadamente las fuentes de información de la tabla y proteger los derechos de autor al momento de su creación.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
@@ -146,7 +150,7 @@ Los apéndices se organizan en la sección de apéndices del documento, **despu�
 
 En el texto principal, se debe hacer referencia al apéndice en cuestión, por ejemplo: "como se puede ver en el apéndice A" o "más detalles están disponibles en el apéndice B".
 
-Los apéndices que contienen material no-textual (como diagramas y fotografías) deben estar acompañados de una breve descripción para facilitar su comprensión y para asegurar que cualquier información importante no se pierda al separar estos elementos del cuerpo principal del documento.
+Los apéndices que contienen material no-textual (como diagramas y fotografías) **deben estar acompañados de una breve descripción** que facilite su comprensión y asegure que cualquier información importante no se pierda al separar estos elementos del cuerpo principal del documento.
 
 ### Inclusión de comunicaciones personales en los apéndices
 
@@ -160,7 +164,7 @@ El aspecto de los derechos de autor es fundamental en cualquier trabajo académi
 
 A continuación, se explican algunas de las consideraciones más importantes que debes tener en cuenta.
 
-### Protección de los derechos de autor en los trabajos académicos
+### Protección de los derechos de autor de tablas y figuras
 
 En el caso de **las tablas y figuras, si estos elementos son creaciones originales**, los mismos pueden ser protegidos por derechos de autor.
 
@@ -168,7 +172,7 @@ En el caso de **las tablas y figuras, si estos elementos son creaciones original
 
 Siendo así, al usar tablas y figuras propiedad de otros autores en tus trabajos académicos, **es necesario obtener los permisos adecuados y dar crédito a los dueños** de los derechos de autor.
 
-### Inclusión de citas y atribución de derechos de autor en contenido propio
+### Inclusión de citas y atribución de derechos de autor en las tablas y figuras
 
 En el caso de las tablas y figuras que se han creado para el trabajo académico que se está realizando, **el autor debe incluir una nota de atribución en la tabla**, indicando que dicha tabla o figura es suya originalmente.
 
