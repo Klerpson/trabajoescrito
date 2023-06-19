@@ -24,9 +24,10 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 
 * [⇾ Títulos y subtítulos](#titulos)
 * [⇾ Letra o texto](#texto)
+* [⇾ Portada](#portada)
 * [⇾ Párrafos y sangría](#parrafos)
 * [⇾ Margenes o medidas](#margenes)
-* [⇾ Numeración](#margenes)
+* [⇾ Numeración](#numeracion)
 * [⇾ Hojas o formato](#hoja)
 * [⇾ Tablas y figuras](#tablas)
 * [⇾ Citas APA](#citas)
@@ -77,9 +78,19 @@ Los textos en normas APA requieren seguir una serie de pautas específicas que *
 
 Al seguir estas pautas, los textos en normas APA adquieren un estilo académico y profesional que facilita la comprensión y la comunicación efectiva de la información.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="parrafos"}
+{:id="portada"}
 
 [Textos o letras APA]({{'normas-apa/textos-normas-apa'|relative_url}} "Textos o letras APA"){:class="boton"}
+
+### Portada
+
+Conocer las normas APA y saber cómo aplicarlas en la portada es fundamental.
+
+La portada debe incluir un título claro y descriptivo, el nombre del autor o autores, su afiliación institucional y la fecha de entrega. Aprende más sobre las portadas.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="parrafos"}
+
+[Portadas con normas APA]({{'normas-apa/portada-normas-apa'|relative_url}} "Portada normas APA"){:class="boton"}
 
 ### Párrafos y sangría
 
@@ -87,7 +98,7 @@ Los párrafos deben estar separados entre sí por una línea en blanco, sin aña
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="margenes"}
 
-[Párrafos con normas APA](# "Párrafos"){:class="boton"}
+[Párrafos con normas APA]({{'normas-apa/sangria-paragrafos-normas-apa'|relative_url}} "Sangría y parágrafos"){:class="boton"}
 
 ### Margenes o medidas
 
