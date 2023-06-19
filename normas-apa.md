@@ -25,7 +25,7 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 * [⇾ Títulos y subtítulos](#titulos)
 * [⇾ Letra o texto](#texto)
 * [⇾ Portada](#portada)
-* [⇾ Párrafos y sangría](#parrafos)
+* [⇾ Parágrafos y sangría](#sangria)
 * [⇾ Margenes o medidas](#margenes)
 * [⇾ Numeración](#numeracion)
 * [⇾ Hojas o formato](#hoja)
@@ -88,17 +88,17 @@ Conocer las normas APA y saber cómo aplicarlas en la portada es fundamental.
 
 La portada debe incluir un título claro y descriptivo, el nombre del autor o autores, su afiliación institucional y la fecha de entrega. Aprende más sobre las portadas.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="parrafos"}
+{:id="sangria"}
 
 [Portadas con normas APA]({{'normas-apa/portada-normas-apa'|relative_url}} "Portada normas APA"){:class="boton"}
 
-### Párrafos y sangría
+### Parágrafos y sangría
 
-Los párrafos deben estar separados entre sí por una línea en blanco, sin añadir ningún espacio extra entre párrafos. Se debe utilizar sangría en las citas textuales de más de 40 palabras, así como en sus correspondientes notas de pie de página.
+Los parágrafos deben estar separados entre sí por una línea en blanco, sin añadir ningún espacio extra entre párrafos. Se debe utilizar sangría en las citas textuales de más de 40 palabras, así como en sus correspondientes notas de pie de página.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="margenes"}
 
-[Párrafos con normas APA]({{'normas-apa/sangria-paragrafos-normas-apa'|relative_url}} "Sangría y parágrafos"){:class="boton"}
+[Sangría y parágrafos APA]({{'normas-apa/sangria-paragrafos-normas-apa'|relative_url}} "Sangría y parágrafos"){:class="boton"}
 
 ### Margenes o medidas
 
