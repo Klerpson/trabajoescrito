@@ -16,17 +16,17 @@ El Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) establece
 
 Estas reglas se enfocan en aspectos como **los márgenes, la tipografía, la numeración y las citas bibliográficas.** Además, se establecen pautas para **el uso de hojas tamaño carta, textos justificados y respetando los márgenes.**
 
-### Características específicas de las normas colombianas de presentación de documentos
-
-Las normas colombianas se enfocan principalmente en establecer un patrón de presentación ordenado y claro, adecuado **para garantizar la comprensión y sistematización de la información** contenida en los trabajos académicos.
-
-## ¿Qué son las normas Icontec?
+### ¿Qué son las normas Icontec?
 
 Las normas Icontec son un conjunto de **reglas y metodologías que deben aplicarse en trabajos escritos** como ensayos, tesis o trabajos de grado en Colombia y otros países de América Latina.
 
 Estas normas establecen las pautas para la presentación de trabajos académicos, informes, manuales, entre otros, y aseguran la correcta estructuración y organización del texto.
 
 -----
+
+## Características específicas de las normas ICONTEC
+
+Las normas colombianas se enfocan principalmente en establecer un patrón de presentación ordenado y claro, adecuado **para garantizar la comprensión y sistematización de la información** contenida en los trabajos académicos.
 
 ### Estructura y aplicación de las normas Icontec
 
@@ -38,7 +38,9 @@ Estas normas establecen las pautas para la presentación de trabajos académicos
 * [⇾ Cuerpo de trabajo](#cuerpo)
 * [⇾ Conclusiones](#conclusiones)
 * [⇾ Referencias bibliográficas y citas](#referencias)
+* [⇾ Listas](#referencias)
 * [⇾ Anexos](#anexos)
+* [⇾ Glosario](#glosario)
 {:class="links"}
 
 -----
@@ -49,7 +51,7 @@ El objetivo principal de las normas Icontec es estandarizar y reglamentar la pre
 
 Ten en cuentas el siguiente **paso a paso para presentar un Trabajo Escrito con las normas Icontec**.
 
-### 1. Preparando tu Trabajo Escrito: configurando los márgenes y tipo de letra
+### Preparando tu Trabajo Escrito: configurando los márgenes y tipo de letra
 
 Según las normas Icontec, **las márgenes deben cumplir ciertos requisitos** tanto en medidas y diseño como en cuanto a las fuentes que debe incluir.
 
@@ -60,7 +62,7 @@ Lo primero que debes hacer antes de empezar a escribir tu trabajo es **configura
 [Márgenes Icontec]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Icontec"){:class="boton"}
 [Formato normas Icontec]({{'normas-icontec/formato-normas-icontec'|relative_url}} "Formato Icontec"){:class="boton"}
 
-### 2. La portada y contraportada según normas ICONTEC
+### La portada y contraportada según normas ICONTEC
 
 **La portada y la contraportada** son las primeras y últimas páginas de tu trabajo.
 
@@ -71,7 +73,7 @@ En la portada, debe figurar **el título del trabajo, el nombre del autor, el no
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="contenido"}
 
-### 3. Tabla de Contenido y Listado de Tablas, Gráficos y Anexos
+### Tabla de Contenido o índice
 
 Después de la portada y contraportada, debes incluir **la tabla de contenido y los listados de tablas, gráficos y anexos**.
 
@@ -88,24 +90,29 @@ La tabla de contenido proporciona una visión general de la estructura de tu tra
 > **Ejemplo de Listado de Tablas**:
 >
 > Tabla 1: Evolución del PIB de Colombia (2000-2023) - p.6
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="introduccion"}
 
 [Tablas de Contenido](# "Tabla de contenido de un trabajo escrito"){:class="boton"}
 [Más sobre Listas](# "Listas de un trabajo escrito"){:class="boton"}
 [Más sobre Gráficos](# "Gráficos de un trabajo escrito"){:class="boton"}
 [Más sobre Anexos](# "Anexos de un trabajo escrito"){:class="boton"}
 
+### Introducción
+
+Una buena introducción con Normas Icontec debe establecer e informar sobre los aspectos más importantes de la investigación, así como ser clara y precisa.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="cuerpo"}
 
-### 4. El Cuerpo del Trabajo
+[Introducción Icontec]({{'normas-icontec/introduccion-normas-icontec'|relative_url}} "Introducción Icontec"){:class="boton"}
+
+### El Cuerpo del Trabajo
 
 El cuerpo del trabajo es la parte principal de tu documento. Aquí es donde presentas tu investigación, argumentos, evidencia, etc.
 
 Según las Normas ICONTEC, el cuerpo del trabajo debe estar compuesto por los siguientes elementos: **introducción, desarrollo (que puede incluir sub-secciones como marco teórico, metodología, resultados, etc.) y conclusiones**.
 
-[Más sobre Introducción](# "Introducción de un trabajo escrito"){:class="boton"}
-[Más de Marcos Teóricos](# "Marcos Teóricos de un trabajo escrito"){:class="boton"}
-[Más sobre Conclusiones](# "Conclusiones de un trabajo escrito"){:class="boton"}
+[Cuerpo de trabajo y formato Icontec]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo de trabajo o formato Icontec"){:class="boton"}
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="referencias"}
 
@@ -155,36 +162,6 @@ Es importante utilizar la jerarquía adecuada, empezando por el título principa
 Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal. En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
 
 [Más sobre Anexos](# "Anexos de un trabajo escrito"){:class="boton"}
-
-### Numeración de páginas
-
-La numeración de páginas es clave en un trabajo académico, ya que ayuda a la organización y localización de información. Las normas Icontec establecen cómo se debe numerar las páginas de un documento, así como la ubicación de los números de página.
-
-[Más sobre Numeración](# "Numeración de un trabajo escrito"){:class="boton"}
-
-### Hojas complementarias
-
-Las hojas complementarias se utilizan para incluir información adicional en un trabajo, como gráficos, tablas, imágenes, entre otros.
-
-[Hojas complementarias](# "Hojas complementarias de un trabajo escrito"){:class="boton"}
-[Más sobre Imágenes](# "Imágenes de un trabajo escrito"){:class="boton"}
-[Más sobre Tablas](# "Tablas de un trabajo escrito"){:class="boton"}
-
-### Citas y referencias
-
-Las citas y referencias son clave en un trabajo académico, ya que permiten identificar las fuentes de información utilizadas y evitar el plagio. Las normas Icontec establecen las [normas para la presentación de citas y referencias](#referencias).
-
-### Pie de página
-
-El pie de página se utiliza para incluir información adicional en la página, como notas aclaratorias, comentarios o referencias.
-
-[Más sobre Pie de página](# "Pie de página de un trabajo escrito"){:class="boton"}
-
-### Listas especiales
-
-Las listas especiales se utilizan para presentar información en forma de lista, como en los casos de los índices o las listas de abreviaturas.
-
-[Más sobre Listas](# "Listas de un trabajo escrito"){:class="boton"}
 
 -----
 

@@ -13,13 +13,13 @@ permalink: /normas-icontec/citas-referencias-normas-icontec
 ---
 Las citas y referencias bibliográficas son una parte esencial del trabajo escrito, ya que permiten acreditar y dar crédito a las ideas y conceptos utilizados.
 
-Las Normas Icontec establecen pautas claras sobre cómo hacer las citas y referencias, asegurando un nivel de precisión y uniformidad en los trabajos académicos y de investigación.
+[Las Normas Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec") establecen pautas claras sobre cómo hacer las citas y referencias, asegurando un nivel de precisión y uniformidad en los trabajos académicos y de investigación.
 
 En esta sección te enseñaremos **cómo realizar citas y referencias según las Normas ICONTEC**, así como herramientas para generar automáticamente dichas referencias.
 
 ## Normas ICONTEC para citas y referencias bibliográficas
 
-Las Normas ICONTEC son un conjunto de estándares utilizados en Colombia para realizar citas y referencias bibliográficas en trabajos académicos. Aplica las siguientes recomendaciones para realizarlas como especifica la norma.
+Las Normas ICONTEC son un conjunto de estándares utilizados en Colombia para realizar citas y referencias bibliográficas en [trabajos académicos](/). Aplica las siguientes recomendaciones para realizarlas como especifica la norma.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
