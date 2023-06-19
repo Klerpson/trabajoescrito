@@ -52,19 +52,11 @@ Ten en cuentas el siguiente **paso a paso para presentar un Trabajo Escrito con 
 Según las normas Icontec, **las márgenes deben cumplir ciertos requisitos** tanto en medidas y diseño como en cuanto a las fuentes que debe incluir.
 
 Lo primero que debes hacer antes de empezar a escribir tu trabajo es **configurar los márgenes y el formato de la hoja, con sus interlineados, fuentes o textos, y demás**.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="portada"}
 
 [Márgenes Icontec]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Icontec"){:class="boton"}
 [Formato normas Icontec]({{'normas-icontec/formato-normas-icontec'|relative_url}} "Formato Icontec"){:class="boton"}
-
-> **Ejemplo de uso en Word**:
->
-> 1. Abre un nuevo documento en Word.
-> 2. Haz clic en "Diseño de página" y luego en "Márgenes".
-> 3. En "Márgenes personalizados", ajusta los márgenes como se indicó anteriormente.
-> 4. Luego, haz clic en "Inicio", selecciona "Times New Roman" en el menú desplegable de la fuente y establece el tamaño en 12.
-
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="portada"}
 
 ### 2. La portada y contraportada según normas ICONTEC
 
@@ -72,19 +64,7 @@ Lo primero que debes hacer antes de empezar a escribir tu trabajo es **configura
 
 En la portada, debe figurar **el título del trabajo, el nombre del autor, el nombre de la institución y la fecha**. La contraportada, por otro lado, debe contener un breve **resumen del trabajo, las palabras clave y el lugar y fecha** de la presentación.
 
-> **Ejemplo de Portada**:
->
-> Título: Análisis de la Economía Colombiana  
-> Autor: [Tu nombre]  
-> Institución: Universidad de Bogotá  
-> Fecha: Mayo 2023
->
-> **Ejemplo de Contraportada**:
->
-> Resumen: Este trabajo proporciona un análisis exhaustivo de la economía colombiana... Palabras clave: Economía, Colombia, Análisis Lugar y fecha de presentación: Bogotá, Mayo 2023
-
-[Más sobre Portadas](# "Portadas de un trabajo escrito"){:class="boton"}
-[Más sobre Contraportadas](# "Contraportadas de un trabajo escrito"){:class="boton"}
+[Portadas y Contraportadas Icontec]({{'normas-icontec/portada-contraportada-normas-icontec'|relative_url}} "Portadas y contraportadas Icontec"){:class="boton"}
 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="contenido"}

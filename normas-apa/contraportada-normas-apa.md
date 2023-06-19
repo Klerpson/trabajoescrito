@@ -11,7 +11,6 @@ boton_mas_title: "Afiliación institucional"
 vertical: true
 permalink: /normas-apa/contraportada-normas-apa
 ---
-
 ## Elementos de una Contraportada en Normas APA
 
 Una contraportada en Normas APA debe tener [el título del trabajo]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos normas APA"), que debe ser preciso y descriptivo, y también el nombre del autor, la institución y en algunos casos, una nota del autor.
@@ -54,6 +53,8 @@ Es muy importante revisar nuestra contraportada varias veces para evitar estos e
 Existen varias herramientas en línea que pueden ayudarte a crear una contraportada con Normas APA. Hay plantillas y formatos predefinidos disponibles en línea que pueden simplificar el proceso de diseño.
 
 Una sencilla búsqueda en [Pinterest](https://pinterest.com){:rel="nofollow noopener noreferrer" target="_blank"} o en un buscador te llenarán de ideas para poner en práctica, según el tipo de trabajo académico que estés desarrollando.
+
+----
 
 ## Preguntas Frecuentes
 
