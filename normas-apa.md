@@ -26,6 +26,7 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 * [⇾ Letra o texto](#texto)
 * [⇾ Párrafos y sangría](#parrafos)
 * [⇾ Margenes o medidas](#margenes)
+* [⇾ Numeración](#margenes)
 * [⇾ Hojas o formato](#hoja)
 * [⇾ Tablas y figuras](#tablas)
 * [⇾ Citas APA](#citas)
@@ -92,9 +93,17 @@ Los párrafos deben estar separados entre sí por una línea en blanco, sin aña
 
 El margen izquierdo y derecho y las márgenes superior e inferior deben seguir unas medidas estándar que mejoran la presentación y facilitan la lectura del texto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="hoja"}
+{:id="numeracion"}
 
 [Márgenes con normas APA]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes"){:class="boton"}
+
+### Numeración
+
+La numeración de páginas con Normas APA permite mantener la organización y facilita la referencia a secciones específicas del documento.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="hoja"}
+
+[Numeración con normas APA]({{'normas-apa/numeracion-normas-apa'|relative_url}} "Numeración"){:class="boton"}
 
 ### Las hojas o formato
 
