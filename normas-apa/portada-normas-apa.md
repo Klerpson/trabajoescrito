@@ -7,7 +7,7 @@ intro: "La portada es la cara de cualquier trabajo académico que se presente y 
 boton_info: "normas"
 boton_info_title: "Normas"
 boton_mas: "descargas"
-boton_mas_title: "Plantillas"
+boton_mas_title: "Afiliación institucional"
 vertical: true
 permalink: /normas-apa/portada-normas-apa
 ---
@@ -139,6 +139,8 @@ Es importante que **el nombre completo del autor aparezca tal y como aparece en 
 Si el trabajo es realizado en colaboración, se **debe incluir el nombre de todos los autores en la portada**, en el mismo orden en el que aparecerán en el resto del trabajo. Cada nombre debe estar separado por una coma.
 
 La identificación del autor y sus afiliaciones son importantes para la presentación de un trabajo académico de manera correcta. **La afiliación institucional** del autor se debe escribir debajo de su nombre en la portada, en mayúscula y minúscula y de manera centrada.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ----
 
