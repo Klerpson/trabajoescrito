@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Portada normas APA: mejora tu presentación ✓"
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eum officia sit cupiditate cum deleniti voluptate quia iste voluptatum fuga suscipit obcaecati
+description: La portada con normas APA debe incluir un título claro y descriptivo, el nombre del autor o autores, su afiliación institucional y fecha de entrega. Mira más!
 h1: "Portada con normas APA: mejora la presentación de tus trabajos académicos"
 intro: "La portada es la cara de cualquier trabajo académico que se presente y su presentación correctamente es muy importante para mostrar profesionalismo y precisión en la comunicación escrita."
 boton_info: "normas"
