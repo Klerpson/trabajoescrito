@@ -11,7 +11,7 @@ boton_mas_title: "Ejemplos"
 vertical: true
 permalink: /normas-icontec/introduccion-normas-icontec
 ---
-Una introducción con normas ICONTEC es esencial en todo documento académico o profesional. Debe tener elementos como **la situación que dio origen a la [investigación]({{investigacion-con-normas-apa-icontec'|relative_url}} "Investigación"), la meta académica o profesional a alcanzar y los avances previos** del tema investigado.
+Una introducción con normas ICONTEC es esencial en todo documento académico o profesional. Debe tener elementos como **la situación que dio origen a la [investigación]({{'investigacion-con-normas-apa-icontec'|relative_url}} "Investigación"), la meta académica o profesional a alcanzar y los avances previos** del tema investigado.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
@@ -80,7 +80,7 @@ Debemos delimitar los objetivos y ámbitos de la investigación, especificando l
 
 Para elaborar una introducción con Normas ICONTEC en Word, es necesario seguir las pautas que establecidas por estas normas. En primer lugar, debe tenerse en cuenta la estructura de la introducción que se especifica en [la sección del formato](#normas) de este artículo.
 
-Es necesario seguir las normas establecidas por ICONTEC para redactar textos en Word, como tamaño, tipo y color de la letra, interlineado, los márgenes y la sangría.
+Es necesario seguir las normas establecidas por ICONTEC para redactar textos en Word, como [tamaño, tipo y color de la letra, interlineado]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Formato Icontec"), los márgenes y la sangría.
 
 Es recomendable utilizar la opción "Estilos Rápidos" de Word, o definir los estilos por defecto siguiendo las Normas ICONTEC.
 
