@@ -159,6 +159,14 @@
   
   
       <url>
+        <loc>http://localhost:4000/normas-icontec/glosario-normas-icontec</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
         <loc>http://localhost:4000/glosario-trabajo-escrito</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
@@ -244,6 +252,14 @@
   
       <url>
         <loc>http://localhost:4000/normas-apa/listas-normas-apa</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/normas-icontec/listas-normas-icontec</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>
@@ -400,6 +416,14 @@
   
       <url>
         <loc>http://localhost:4000/css/style.css</loc>
+        <changefreq>monthly</changefreq>
+        <priority>1.0</priority>
+       </url>
+  
+  
+  
+      <url>
+        <loc>http://localhost:4000/normas-icontec/tabla-contenido-normas-icontec</loc>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
        </url>

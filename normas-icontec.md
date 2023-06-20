@@ -5,9 +5,9 @@ description: "Aprende las normas ICONTEC 2023 📘. Aplica el formato a tus trab
 h1: "Normas Icontec: claves para los trabajos académicos"
 intro: "Las normas Icontec son un conjunto de reglas y metodologías que establecen criterios como la disposición de títulos y subtítulos, los márgenes, las fuentes aceptadas y la numeración."
 boton_info: "estructura"
-boton_info_title: "Estructura"
+boton_info_title: "En Word"
 boton_mas: "descargas"
-boton_mas_title: "Plantillas"
+boton_mas_title: "Tips"
 vertical: true
 ---
 ## Normas colombianas de presentación de proyectos: Instituto Colombiano de Normas Técnicas y Certificación
@@ -31,16 +31,15 @@ Las normas colombianas se enfocan principalmente en establecer un patrón de pre
 ### Estructura y aplicación de las normas Icontec
 
 * [⇾ Margenes y textos](#margenes)
-* [⇾ Títulos y subtítulos](#titulos)
 * [⇾ Portada y contraportada](#portada)
 * [⇾ Tabla de contenido o índice](#contenido)
 * [⇾ Introducción](#introduccion)
 * [⇾ Cuerpo de trabajo](#cuerpo)
 * [⇾ Conclusiones](#conclusiones)
+* [⇾ Glosario](#glosario)
 * [⇾ Referencias bibliográficas y citas](#referencias)
 * [⇾ Listas](#referencias)
 * [⇾ Anexos](#anexos)
-* [⇾ Glosario](#glosario)
 {:class="links"}
 
 -----
@@ -78,25 +77,10 @@ En la portada, debe figurar **el título del trabajo, el nombre del autor, el no
 Después de la portada y contraportada, debes incluir **la tabla de contenido y los listados de tablas, gráficos y anexos**.
 
 La tabla de contenido proporciona una visión general de la estructura de tu trabajo, mientras que los listados permiten a los lectores localizar información visual o adicional con facilidad.
-
-> **Ejemplo de Tabla de Contenido**:
->
-> 1. Introducción - p.1
-> 2. Metodología - p.3
-> 3. Resultados - p.5
-> 4. Discusión - p.7
-> 5. Conclusión - p.9
->
-> **Ejemplo de Listado de Tablas**:
->
-> Tabla 1: Evolución del PIB de Colombia (2000-2023) - p.6
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="introduccion"}
 
-[Tablas de Contenido](# "Tabla de contenido de un trabajo escrito"){:class="boton"}
-[Más sobre Listas](# "Listas de un trabajo escrito"){:class="boton"}
-[Más sobre Gráficos](# "Gráficos de un trabajo escrito"){:class="boton"}
-[Más sobre Anexos](# "Anexos de un trabajo escrito"){:class="boton"}
+[Tabla de Contenido o índice]({{'normas-icontec/tabla-contenido-normas-icontec'|relative_url}} "Tabla de contenido de un trabajo escrito"){:class="boton"}
 
 ### Introducción
 
@@ -116,46 +100,31 @@ Según las Normas ICONTEC, el cuerpo del trabajo debe estar compuesto por los si
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="referencias"}
 
-### 5. Citas y Referencias Bibliográficas
+### Glosario
+
+En el mundo académico, los trabajos y publicaciones a menudo están llenos de términos técnicos o específicos de la disciplina. Esto puede dificultar la comprensión para aquellos que no están familiarizados con el tema. Aquí es donde entra en juego el glosario.
+
+[Glosario Icontec]({{'normas-icontec/glosario-normas-icontec'|relative_url}} "Glosario Icontec"){:class="boton" id="estructura"}
+
+### Citas y Referencias Bibliográficas
 
 **Las referencias bibliográficas y las citas** son cruciales en cualquier trabajo escrito. Permiten **dar crédito a los autores de las fuentes** que has utilizado en tu trabajo y **permiten a los lectores rastrear estas fuentes**.
 
 > **Ejemplo de Citas y Referencia Bibliográfica**:
 >
-> - Referencia Bibliográfica: Pérez, J. (2020). Economía Colombiana. Editorial Económica.
-> - Cita en el Texto: Según Pérez (2020), la economía colombiana ha experimentado...
-
-[Citas y Referencias Icontec]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas de un trabajo escrito"){:class="boton"}
+>* Referencia Bibliográfica: Pérez, J. (2020). Economía Colombiana. Editorial Económica.
+>* Cita en el Texto: Según Pérez (2020), la economía colombiana ha experimentado...
 
 Las Normas ICONTEC establecen directrices claras sobre **cómo deben presentarse las referencias y citas**.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="estructura"}
-
------
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="titulos"}
-
-## Partes del Trabajo Escrito con normas Icontec
-
-Según las Normas ICONTEC, hay ciertos criterios de formato y presentación para las algunas características de los Trabajos Escritos. Veamos **cómo van según las últimas normas actualizadas del {{ "now" | date:"%Y"}}.**
-
-### Títulos y subtítulos
-
-Los títulos y subtítulos son elementos importantes en cualquier documento escrito. Estos son lo que **organizan y presentan la información de manera clara y concisa**.
-
-En las normas Icontec se establecen una serie de reglas para la presentación de títulos y subtítulos en documentos escritos, entre las cuales destacan:
-
-* Utilizar una fuente de tamaño 14 para los títulos
-* Una fuente de tamaño 12 para los subtítulos
-* Colocar los títulos en mayúsculas
-* Centrar los títulos
-* Alinear los subtítulos a la izquierda
-
-[Titulos y Subtítulos](# "Titulos y Subtítulos de un trabajo escrito"){:class="boton"}
-
-Es importante utilizar la jerarquía adecuada, empezando por el título principal en negrita y con un tamaño de letra mayor, seguido de los subtítulos en negrita y con un tamaño de letra menor.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="anexos"}
+
+[Citas y Referencias Icontec]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y referencias Icontec"){:class="boton"}
+
+### Listas
+
+Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal. En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
+
+[Listas con normas Icontec](# "Listas Icontec"){:class="boton"}
 
 ### Anexos
 
@@ -189,15 +158,15 @@ Las Normas ICONTEC requieren que todas las páginas, excepto la portada y la con
 
 Finalmente, si estás citando fuentes en tu documento, deberás asegurarte de que estén formateadas de acuerdo con las Normas ICONTEC.
 
-Word tiene una herramienta útil llamada "Referencias" que te permite ingresar tus fuentes y luego insertar citas en el texto y generar automáticamente una bibliografía al final de tu documento.
+>Word tiene una herramienta útil llamada "Referencias" que te permite ingresar tus fuentes y luego insertar citas en el texto y generar automáticamente una bibliografía al final de tu documento.
 
 Este tutorial debería proporcionarte una buena base para aplicar las Normas ICONTEC en Word.
 
 Sin embargo, debes recordar que [ICONTEC también tiene normas específicas](#estructura) para cada parte del trabajo escrito, como la portada, la introducción, el cuerpo principal, las conclusiones, y las referencias bibliográficas.
 
 Te recomendamos revisar las normas específicas para cada una de estas secciones para asegurarte de que estás cumpliendo con todos los requisitos.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
+
+-----
 
 ## Normas Icontec en Word para tesis, trabajos de grado y otros escritos académicos
 
@@ -232,6 +201,10 @@ Sí, los trabajos de grado en Colombia, ya sean tesis, ensayos o trabajos de inv
 ### ¿Dónde puedo encontrar plantillas de trabajo que sigan las normas Icontec?
 
 Existen diversas plantillas de trabajo en línea que siguen las normas Icontec y que pueden ser descargadas de forma gratuita. Además, es posible encontrar plantillas en algunos proveedores de servicios de texto como Word.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
+
+-----
 
 ## Consejos para usar las Normas Icontec en tus trabajos escritos
 
@@ -245,9 +218,9 @@ Si bien las Normas Icontec pueden parecer complejas, hay una serie de consejos y
 * Pide ayuda si tienes dudas sobre la aplicación de alguna de las normas o si necesitas que alguien revise tu trabajo antes de entregarlo.
 {:class="seccion_a"}
 
-### Servicios de asesoría personalizada para comprobar tus trabajos según normas Icontec
+### Cursos para mejorar tus trabajos según normas Icontec
 
-Si sientes que necesitas ayuda adicional con la elaboración de tus trabajos escritos, hay servicios de asesoría personalizada disponibles que pueden revisar tu trabajo y darte retroalimentación sobre cómo aplicar correctamente las Normas Icontec.
+Si sientes que necesitas ayuda adicional con la elaboración de tus trabajos escritos, hay varios [cursos de redacción y normas ténicas para trabajos escritos disponibles]({{'cursos-de-trabajos-escritos'|relative_url}} "Cursos"). Con ellos aprende cómo aplicar correctamente las Normas Icontec.
 
 ### Herramientas digitales para aplicar las normas Icontec de forma automática
 
