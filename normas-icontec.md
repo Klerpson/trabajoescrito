@@ -35,7 +35,7 @@ Las normas colombianas se enfocan principalmente en establecer un patrón de pre
 * [⇾ Tabla de contenido o índice](#contenido)
 * [⇾ Introducción](#introduccion)
 * [⇾ Cuerpo de trabajo](#cuerpo)
-* [⇾ Conclusiones](#conclusiones)
+<!-- * [⇾ Conclusiones](#conclusiones) -->
 * [⇾ Glosario](#glosario)
 * [⇾ Referencias bibliográficas y citas](#referencias)
 * [⇾ Anexos](#anexos)
@@ -112,7 +112,7 @@ En el mundo académico, los trabajos y publicaciones a menudo están llenos de t
 
 Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal. En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
 
-[Listas con normas Icontec](# "Listas Icontec"){:class="boton"}
+[Listas con normas Icontec]({{'normas-icontec/listas-normas-icontec'|relative_url}} "Listas Icontec"){:class="boton"}
 
 ### Citas y Referencias Bibliográficas
 
