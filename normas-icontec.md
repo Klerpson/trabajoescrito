@@ -38,8 +38,8 @@ Las normas colombianas se enfocan principalmente en establecer un patrón de pre
 * [⇾ Conclusiones](#conclusiones)
 * [⇾ Glosario](#glosario)
 * [⇾ Referencias bibliográficas y citas](#referencias)
-* [⇾ Listas](#referencias)
 * [⇾ Anexos](#anexos)
+* [⇾ Listas](#referencias)
 {:class="links"}
 
 -----
@@ -95,16 +95,24 @@ Una buena introducción con Normas Icontec debe establecer e informar sobre los 
 El cuerpo del trabajo es la parte principal de tu documento. Aquí es donde presentas tu investigación, argumentos, evidencia, etc.
 
 Según las Normas ICONTEC, el cuerpo del trabajo debe estar compuesto por los siguientes elementos: **introducción, desarrollo (que puede incluir sub-secciones como marco teórico, metodología, resultados, etc.) y conclusiones**.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="glosario"}
 
 [Cuerpo de trabajo y formato Icontec]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo de trabajo o formato Icontec"){:class="boton"}
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="referencias"}
 
 ### Glosario
 
 En el mundo académico, los trabajos y publicaciones a menudo están llenos de términos técnicos o específicos de la disciplina. Esto puede dificultar la comprensión para aquellos que no están familiarizados con el tema. Aquí es donde entra en juego el glosario.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="referencias"}
 
-[Glosario Icontec]({{'normas-icontec/glosario-normas-icontec'|relative_url}} "Glosario Icontec"){:class="boton" id="estructura"}
+[Glosario Icontec]({{'normas-icontec/glosario-normas-icontec'|relative_url}} "Glosario Icontec"){:class="boton"}
+
+### Listas
+
+Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal. En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
+
+[Listas con normas Icontec](# "Listas Icontec"){:class="boton"}
 
 ### Citas y Referencias Bibliográficas
 
@@ -120,17 +128,11 @@ Las Normas ICONTEC establecen directrices claras sobre **cómo deben presentarse
 
 [Citas y Referencias Icontec]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y referencias Icontec"){:class="boton"}
 
-### Listas
-
-Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal. En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
-
-[Listas con normas Icontec](# "Listas Icontec"){:class="boton"}
-
 ### Anexos
 
 Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal. En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
 
-[Más sobre Anexos](# "Anexos de un trabajo escrito"){:class="boton"}
+[Anexos Icontec]({{'normas-icontec/anexos-normas-icontec'|relative_url}} "Anexos normas Icontec"){:class="boton"}
 
 -----
 

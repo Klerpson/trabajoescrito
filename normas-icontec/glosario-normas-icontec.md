@@ -85,7 +85,7 @@ Las definiciones deben presentarse siguiendo el término y un par de puntos.
 
 No, el tamaño de la letra del glosario debe ser [el mismo que el del resto del documento]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo del Trabajo Normas Icontec"), normalmente es 12.
 
-## Llamada a la Acción
+## Hora de hacer tu glosario Icontec
 
 ¡Ahora que tienes toda la información que necesitas, es el momento de comenzar a construir tu propio glosario con las Normas Icontec!
 

@@ -63,6 +63,8 @@ Sí, puedes tener tantos anexos como necesites para apoyar tu trabajo. Simplemen
 
 No, el uso de anexos no es obligatorio, pero pueden ser una herramienta útil para proporcionar información adicional o de apoyo a tu trabajo.
 
-## Conclusión
+## Haz excelentes anexos con las normas Icontec
 
-Los anexos son una herramienta valiosa en tu arsenal académico y profesional, y **conocer las Normas ICONTEC te permite presentar estos materiales de una manera organizada y profesional**. Recuerda, un buen anexo puede aportar valor a tu trabajo y mostrar tu dedicación y atención al detalle. ¡Ahora es tu turno de poner en práctica estos conocimientos! ¿Estás listo para crear tus propios anexos con confianza y facilidad? ¡Vamos a ello!
+Los anexos son una herramienta valiosa en tu arsenal académico y profesional, y **conocer las Normas ICONTEC te permite presentar estos materiales de una manera organizada y profesional**.
+
+Recuerda, un buen anexo puede aportar valor a tu trabajo y mostrar tu dedicación y atención al detalle. ¡Ahora es tu turno de poner en práctica estos conocimientos! ¿Estás listo para crear tus propios anexos con confianza y facilidad? ¡Vamos a ello!
