@@ -9,7 +9,7 @@ boton_info_title: "Formato"
 boton_mas: "descargas"
 boton_mas_title: "FAQ's"
 vertical: true
-permalink: /normas-icontec/listas-normas-icontec
+permalink: /normas-icontec/anexos-normas-icontec
 ---
 ## Comprendiendo los Anexos Según Normas ICONTEC
 
