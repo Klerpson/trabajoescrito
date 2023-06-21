@@ -13,7 +13,7 @@ permalink: /normas-icontec/listas-normas-icontec
 ---
 En un mundo donde la información se encuentra en constante expansión, contar con herramientas efectivas para organizar y presentar datos se vuelve fundamental. Uno de los recursos **más útiles y versátiles en este sentido son las listas**.
 
-Veamos la importancia de utilizar listas en tus documentos, en particular, **siguiendo las [Normas ICONTEC]({{'normas-icontec'|realtive_url}} "Normas Icontec")**.
+Veamos la importancia de utilizar listas en tus documentos, en particular, **siguiendo las [Normas ICONTEC]({{'normas-icontec'|relative_url}} "Normas Icontec")**.
 
 Aprenderás cómo las listas pueden mejorar la organización y claridad de tus escritos, así como los beneficios de adherirte a las normas establecidas por el Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC).
 
