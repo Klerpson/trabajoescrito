@@ -4,10 +4,10 @@ title: "¿Cómo hacer un proyecto con normas APA e ICONTEC? 📑"
 description: " Redactar y presentar proyectos siguiendo las normas APA e Icontec | Pautas para estructurar y citar correctamente tus proyectos, garantizando su presentación."
 h1: "¿Cómo hacer un proyecto con normas APA e ICONTEC?"
 intro: "Al momento de presentar un proyecto escrito en el ámbito académico y laboral, es fundamental seguir las normas estandarizadas de presentación, como las normas APA e ICONTEC."
-# boton_info: "estructura"
-# boton_info_title: "Estructura APA"
-# boton_mas: "descargas"
-# boton_mas_title: "Plantillas"
+boton_info: "estructura"
+boton_info_title: "Reglas"
+boton_mas: "descargas"
+boton_mas_title: "FAQ's"
 vertical: true
 ---
 Estas normas estipulan ciertas diferencias en fuentes, márgenes y otros aspectos técnicos que deben ser respetados. La correcta elaboración de portada, cuerpo del trabajo y complementos es esencial.
@@ -38,7 +38,7 @@ Para realizar una buena introducción en un proyecto de grado con Normas APA e I
 
 ### Cuerpo del trabajo
 
-El cuerpo del trabajo debe estar estructurado en secciones y sub-secciones claramente identificadas. Tanto las Normas APA como ICONTEC contienen pautas específicas en cuanto a medidas, fuentes y numeraciones aceptadas para cada tipo de documento.
+[El cuerpo del trabajo]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo Trabajo Escrito") debe estar estructurado en secciones y sub-secciones claramente identificadas. Tanto las Normas APA como ICONTEC contienen pautas específicas en cuanto a medidas, fuentes y numeraciones aceptadas para cada tipo de documento.
 
 Es importante recordar que en las Normas APA se utilizan la numeración arábiga y en las Normas ICONTEC la numeración romana para los títulos y subtítulos de cada sección.
 
@@ -54,6 +54,10 @@ Los **mapas conceptuales** son diagramas que **representan las relaciones entre 
 Ambas herramientas pueden ser utilizadas para **estructurar el contenido y hacer que el texto resulte más claro y visual**. Es fundamental que su utilización esté justificada y sea coherente con el objetivo del documento.
 
 En general, **su uso se recomienda para trabajos extensos o con una complejidad elevada**, y su aplicación debe estar motivada por una necesidad real en la estructuración de las ideas.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
+
+-----
 
 ## Reglas gramaticales y ortográficas para la redacción de un proyecto
 
@@ -90,26 +94,30 @@ Para la elaboración de un proyecto de investigación, debes seguir ciertas inst
 Es fundamental que sigas un único criterio para la presentación de trabajos escritos, y las Normas ICONTEC ayudan en este aspecto. Para establecer un criterio único, es necesario seguir las instrucciones mencionadas en la sección anterior y hacer uso de plantillas diseñadas para este fin.
 
 Los ajustes en Microsoft Word también son relevantes al momento de cumplir con las Normas ICONTEC. Es recomendable utilizar una plantilla que incluya las curvas de nivel como firma especialmente en ingeniería. Así, se logrará una presentación homogénea y profesional **en todos los trabajos escritos presentados durante la carrera universitaria**.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
-## Preguntas frecuentes sobre las Normas APA e ICONTEC
+-----
 
-### ¿Cuál es el tamaño de las hojas en las Normas APA e ICONTEC?
+### Preguntas frecuentes sobre las Normas APA e ICONTEC
+
+#### ¿Cuál es el tamaño de las hojas en las Normas APA e ICONTEC?
 
 Según las normas APA e ICONTEC, las hojas que se deben utilizar tienen un tamaño estándar de 8,5 x 11 pulgadas o 21,59 x 27,94 cm, conocido como tamaño carta.
 
-### ¿Cómo numerar las páginas según las Normas APA e ICONTEC?
+#### ¿Cómo numerar las páginas según las Normas APA e ICONTEC?
 
 Todas las páginas del documento, incluida la portada, deben ser numeradas secuencialmente y ubicadas en el margen superior derecho de la hoja, a una distancia de 1,27 cm del borde superior y a 2,54 cm del borde derecho.
 
-### ¿Qué tipo de letra y tamaño se debe utilizar en las Normas APA e ICONTEC?
+#### ¿Qué tipo de letra y tamaño se debe utilizar en las Normas APA e ICONTEC?
 
 Las normas APA e ICONTEC establecen que se debe utilizar la fuente Arial de tamaño 12 para todo el contenido del texto, incluyendo la portada, el cuerpo del trabajo y los complementos.
 
-### ¿En qué consiste la presentación de nuestros trabajos escritos con ambas caras?
+#### ¿En qué consiste la presentación de nuestros trabajos escritos con ambas caras?
 
 Presentar los trabajos escritos con ambas caras significa utilizar la impresión a doble cara. Esta práctica no es obligatoria en las Normas APA e ICONTEC, sino que dependerá de las especificaciones dadas por la institución o el profesor encargado del proyecto. En caso de utilizar esta modalidad, se recomienda que la impresión sea clara y con suficiente espacio en los márgenes para asegurar una fácil lectura del contenido.
 
-### ¿Cuál es la norma de barrido y cómo se aplica a los proyectos de grado?
+#### ¿Cuál es la norma de barrido y cómo se aplica a los proyectos de grado?
 
 La norma de barrido es una técnica que **consiste en revisar el trabajo varias veces para detectar errores ortográficos, gramaticales, de estilo y de contenido**.
 

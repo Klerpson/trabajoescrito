@@ -4,10 +4,10 @@ title: "Presenta una investigación según estándares APA e ICONTEC"
 description: "Usa normas APA e Icontec para crear un trabajo escrito impactante con tu investigación • técnicas para destacar • capta la atención de tus lectores"
 h1: "Presentar una investigación con normas APA e ICONTEC según los estándares"
 intro: "El arte de redactar un informe es más que solo juntar palabras. Si alguna vez te has preguntado, '¿Cómo realizar un informe?', esta guía práctica será tu faro en la vasta mar de la escritura académica."
-# boton_info: "estructura"
-# boton_info_title: "Estructura APA"
-# boton_mas: "descargas"
-# boton_mas_title: "Plantillas"
+boton_info: "estructura"
+boton_info_title: "Análisis"
+boton_mas: "descargas"
+boton_mas_title: "Consejos"
 vertical: true
 ---
 ## Redacción de Investigaciones con normas APA e Icontec
@@ -18,7 +18,9 @@ Para presentar un trabajo escrito con [normas APA]({{'normas-apa'|relative_url}}
 
 La creación de objetivos generales y específicos requiere conocimiento del tema a tratar. Los **objetivos generales deben ser claros y precisos**, mientras que **los específicos deben detallar las metas y objetivos individuales a cumplir en la investigación**.
 
-Los objetivos establecen el camino a seguir en la investigación y son fundamentales para la estructura del proyecto.
+>Los objetivos establecen el camino a seguir en la investigación y son fundamentales para la estructura del proyecto.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
 
 ----
 
@@ -37,6 +39,8 @@ Para una presentación de una investigación exitosa, es importante respetar las
 La inclusión de números árabigos en el contenido del proyecto, siguiendo las Normas APA e ICONTEC, permitirá una fácil identificación de los argumentos y puntos de interés clave para la comprensión del contenido.
 
 Es también importante el análisis científico en la redacción del texto para permitir que el lector comprenda las implicaciones y significados de lo expuesto en el proyecto académico.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Consejos para realizar una investigación con Normas APA e Icontec
 

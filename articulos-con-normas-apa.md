@@ -4,10 +4,10 @@ title: "Normas APA para Artículos Científicos 📑"
 description: "En el ámbito académico, es crucial seguir las normas de estilo adecuadas al redactar artículos científicos o de opinión, entre otros. ¡Te enseñamos todo aquí!👆"
 h1: "Artículos con Normas APA e ICONTEC: guía para tus trabajos escritos"
 intro: "En el ámbito académico, es crucial seguir las normas de estilo adecuadas al redactar artículos científicos."
-# boton_info: "estructura"
-# boton_info_title: "Estructura APA"
-# boton_mas: "descargas"
-# boton_mas_title: "Plantillas"
+boton_info: "estructura"
+boton_info_title: "Estructura APA"
+boton_mas: "descargas"
+boton_mas_title: "Investigación"
 vertical: true
 ---
 Aprende cómo **aplicar las normas APA en tus artículos científicos**, incluyendo ejemplos prácticos para una mejor comprensión.
@@ -36,6 +36,8 @@ Recuerda que las normas APA tienen requisitos adicionales para **citar artículo
 Consulta [la guía completa de las normas APA]({{'normas-apa'|relative_url}} "Normas APA") o utiliza herramientas de gestión de referencias como [EndNote](https://endnote.com/){:rel="nofollow noopener noreferrer" target="_blank"} o [Zotero](https://www.zotero.org/){:rel="nofollow noopener noreferrer" target="_blank"} para asegurarte de que tus referencias estén correctamente formateadas.
 
 Al dominar la forma de hacer referencias de los artículos en normas APA, **podrás evitar el plagio, facilitar la verificación de la información y demostrar tu rigor académico** en la presentación de tus fuentes utilizadas.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
 
 ## Normas APA en artículos científicos
 
@@ -53,6 +55,8 @@ A continuación, se detallan las principales consideraciones de las normas APA a
 8. **Referencias**: La sección de referencias incluye todas las fuentes citadas en el artículo. Se deben listar en orden alfabético, siguiendo las pautas de las normas APA. Además, se debe prestar especial atención a la correcta citación de las fuentes consultadas.
 
 >Al seguir estas pautas de las normas APA, podrás estructurar y presentar tus artículos científicos de manera coherente y profesional. Recuerda consultar la última edición de las normas APA y mantener un estilo de escritura claro y objetivo en todo el artículo.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Normas APA para artículos de opinión e investigación
 

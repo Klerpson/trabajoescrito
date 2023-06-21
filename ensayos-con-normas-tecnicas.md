@@ -4,10 +4,10 @@ title: "Escribe un Ensayo con las Normas APA, ICONTEC y Vancouver"
 description: "Aprende cómo utilizar las Normas Vancouver, APA e ICONTEC en la citación de ensayos, las diferencias entre estas normativas y las reglas de formato."
 h1: "Cómo escribir un Ensayo siguiendo las normas APA, ICONTEC y Vancouver"
 intro: "Ahora te enseñaremos cómo utilizar las Normas Vancouver, APA e ICONTEC en la citación de ensayos, las diferencias entre estas normativas y las reglas de formato."
-# boton_info: "estructura"
-# boton_info_title: "Estructura APA"
-# boton_mas: "descargas"
-# boton_mas_title: "Plantillas"
+boton_info: "estructura"
+boton_info_title: "ICONTEC"
+boton_mas: "descargas"
+boton_mas_title: "Vancouver"
 vertical: true
 ---
 La redacción de ensayos académicos **implica la adhesión a ciertos formatos y estilos**. Las Normas [APA]({{'normas-apa'|relative_url}}), [ICONTEC]({{'normas-icontec'|relative_url}}) y Vancouver son tres de los formatos más utilizados en el mundo académico.
@@ -23,6 +23,8 @@ Las Normas APA (American Psychological Association) son un conjunto de estándar
 * **Cuerpo del Ensayo**: El cuerpo del ensayo debe seguir la estructura general de introducción, cuerpo y conclusión. Cada párrafo debe tener una idea principal respaldada por evidencia y análisis.
 * **Citas**: Para citar fuentes en un ensayo APA, usa el formato de autor-fecha dentro del texto (Apellido del autor, año) y una lista de referencias al final del documento.
 * **Formato general**: El ensayo debe estar escrito en un tipo de letra legible (como Times New Roman, 12 puntos), con márgenes de 1 pulgada y doble espacio en todo el documento.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
 
 ## Normas ICONTEC
 
@@ -33,6 +35,8 @@ Las Normas ICONTEC (Instituto Colombiano de Normas Técnicas y Certificación) s
 * **Cuerpo del Ensayo**: Al igual que las Normas APA, un ensayo ICONTEC debe seguir una estructura general de introducción, desarrollo y conclusión.
 * **Citas**: Las citas en el texto deben ser numeradas consecutivamente y corresponder a las referencias en una bibliografía al final del documento.
 * **Formato general**: Las normas ICONTEC exigen una presentación limpia y organizada, con márgenes específicos (3 cm en la parte superior e inferior, 4 cm a la izquierda y 2 cm a la derecha).
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Normas Vancouver
 

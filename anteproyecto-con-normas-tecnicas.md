@@ -4,15 +4,17 @@ title: "Anteproyecto con normas APA e Icontec ✓"
 description: "Las Normas Icontec y APA son fundamentales para la realización de un Anteproyecto. Y tienen diferencias en la forma de aplicarlas 👆 Aprende cuáles son"
 h1: "Anteproyecto y trabajos escritos: normas APA e Icontec para una presentación impecable"
 intro: "Las Normas Icontec y APA son fundamentales para la realización de trabajos escritos en Colombia. Aunque ambas buscan una presentación clara y ordenada, existen diferencias en la forma de aplicarlas."
-# boton_info: "estructura"
-# boton_info_title: "Estructura APA"
-# boton_mas: "descargas"
-# boton_mas_title: "Plantillas"
+boton_info: "estructura"
+boton_info_title: "Normas"
+boton_mas: "descargas"
+boton_mas_title: "Partes"
 vertical: true
 ---
 Algunos aspectos claves en la aplicación de **normas técnicas en Anteproyectos se enfocan en el tipo de letra y tamaño, las [medidas de márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes"), [la numeración]({{'numeracion-trabajo-escrito'|relative_url}} "Numeración") y [el espaciado entre líneas]({{'interlineado-trabajo-escrito'|relative_url}} "Interlineado")**.
 
 Además, es importante incluir una [portada]({{'portada-trabajo-escrito'|relative_url}} "Portadas"), [página de Aceptación]({{'pagina-aceptacion-trabajo-escrito'|relative_url}} "Página de aceptación"), listas especiales, [glosario]({{'glosario-trabajo-escrito'|relative_url}} "Glosario") y [bibliografía]({{'bibliografia-trabajo-escrito'|relative_url}} "Bibliografía"), entre otros elementos. La [introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducción") debe contener información relevante para el anteproyecto.
+
+-----
 
 ## Normas técnicas para trabajos como los Anteproyectos
 
@@ -35,12 +37,13 @@ Se deben revisar las guías completas de Normas Icontec y APA para trabajar corr
 - Para los márgenes es importante evitar llenar todo el papel de texto.
 - Para el espaciado, se debe ser coherente en todo el documento.
 - En cuanto a las numeraciones, se deben combinar correctamente para mantener el orden del documento, sin repeticiones del número de página, capítulo o sección.
+{:class="seccion_a" id="estructura"}
 
 ### ¿Cómo hacer una Página de Aceptación con Normas APA o Icontec?
 
 Para la página de aceptación e pueden utilizar frases como "Se aprueba el anteproyecto presentado por el estudiante", seguida por los nombres de los tutores o profesores y su firma.
 
-Asimismo, la página de aceptación debe ir ubicada justo después de la portada del trabajo, y antes de la introducción. Además, se debe numerar como la página "ii" en números romanos. 
+Asimismo, la página de aceptación debe ir ubicada justo después de la portada del trabajo, y antes de la introducción. Además, se debe numerar como la página "ii" en números romanos.
 
 ### Listas especiales y glosario en Anteproyectos
 
@@ -65,6 +68,8 @@ En este sentido, la introducción debe englobar una serie de elementos que permi
 {:class="seccion_a"}
 
 En general, la introducción busca contextualizar el tema tratado y enunciar de forma clara y sencilla el propósito del trabajo.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 -----
 

@@ -4,10 +4,10 @@ title: "Cómo Hacer una Monografía 📝 | Normas APA: paso a paso"
 description: "Aprende a redactar una monografía siguiendo las normas APA con nuestra guía completa. Desde seleccionar el tema hasta la versión final. 💡 ¡Haz clic aquí!"
 h1: "Cómo hacer una Monografía siguiendo las Normas APA"
 intro: "Redactar una monografía puede ser un reto. Este trabajo académico requiere una investigación exhaustiva y una redacción cuidadosa."
-# boton_info: "estructura"
-# boton_info_title: "Estructura APA"
-# boton_mas: "descargas"
-# boton_mas_title: "Plantillas"
+boton_info: "estructura"
+boton_info_title: "Pasos"
+boton_mas: "descargas"
+boton_mas_title: "Normas"
 vertical: true
 ---
 Una monografía es un tipo de trabajo escrito que **se enfoca en investigar y explorar exhaustivamente un tema en particular**, utilizando fuentes fiables y adecuadas.
@@ -53,6 +53,10 @@ Finalmente, sintetiza tus hallazgos y proporciona recomendaciones para futuras i
 ### Bibliografía
 
 Incluye todas las fuentes que has consultado y citado en tu trabajo.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
+
+----
 
 ## Pasos para elaborar una monografía
 
@@ -66,6 +70,8 @@ Para realizar una monografía, sigue estos pasos:
 {:class="seccion_a"}
 
 Para facilitarte el proceso, puedes utilizar una plantilla de monografía. Muchas universidades ofrecen plantillas que ya están formateadas según las normas APA, lo que puede ahorrarte mucho tiempo y esfuerzo.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Monografías con Normas APA e Icontec
 
