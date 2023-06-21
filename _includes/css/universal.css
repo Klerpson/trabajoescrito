@@ -254,7 +254,7 @@ table th {
   transition: all 0.3s;
   text-decoration: none;
   text-align: center;
-  color: var(--blanco);
+  color: white;
 }
 
 .boton:hover {
