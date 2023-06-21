@@ -43,7 +43,6 @@ html {
 body {
   font-family: var(--fuenteTexto);
   font-size: var(--sizeTexto);
-  color: var(--grisFuentes);
   background-color: var(--blanco);
   padding: 0 16px;
 }
