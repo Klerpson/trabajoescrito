@@ -4,10 +4,10 @@ title: "Tesis con normas APA: presenta fácilmente tu trabajo"
 description: "Para redactar una tesis con normas APA, es esencial seguir una estructura específica que facilite la comprensión y organización del trabajo"
 h1: "Tesis con normas APA: guía práctica y fácil para presentar un trabajo académico"
 intro: "Para redactar una tesis con normas APA, es esencial seguir una estructura específica que facilite la comprensión y organización del trabajo. A continuación, se presenta una estructura recomendada."
-# boton_info: "estructura"
-# boton_info_title: "Estructura APA"
-# boton_mas: "descargas"
-# boton_mas_title: "Plantillas"
+boton_info: "estructura"
+boton_info_title: "Estructura"
+boton_mas: "descargas"
+boton_mas_title: "Plagios"
 vertical: true
 ---
 Las Normas APA son una guía imprescindible para la presentación de trabajos académicos. En este artículo, encontrarás todo lo que necesitas saber para **elaborar tu tesis con estas normas**: desde la estructura del trabajo hasta cómo citar fuentes y el formato adecuado.
@@ -40,6 +40,8 @@ Tener una tesis bien escrita y estructurada es fundamental para lograr una buena
 >Elaborar una tesis puede ser un proceso complejo, pero las Normas APA ofrecen una guía clara y precisa para facilitar su elaboración y presentación.
 
 En esta sección, se aborda de manera detallada **la estructura, citación, formato y prevención del plagio en una tesis** de acuerdo a las Normas APA.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
 
 ### ¿Cómo estructurar correctamente una tesis según las Normas APA?
 
@@ -68,6 +70,8 @@ Según las Normas APA, se pueden realizar citas directas o indirectas en el text
 ### Formato APA para la elaboración de una tesis de grado
 
 El formato para la elaboración de una tesis de grado según las Normas APA sigue los lineamientos establecidos para trabajos académicos. Se recomienda **seguir las Normas APA en cuanto a márgenes, tamaño de letra, interlineado, justificación**, entre otros aspectos importantes para la presentación del trabajo.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ### ¿Cómo evitar el plagio en una tesis?
 

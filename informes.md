@@ -4,10 +4,10 @@ title: "Creando un informe académico impecable | 📑Normas y consejos"
 description: "Con un informe presenta • Hallazgos • Análisis • Conclusiones de una investigación • Lecturas... ¿Sabes cómo hacerlos de forma profesional?"
 h1: "¿Cómo se hace un informe académico impecable? Nosotros te enseñamos"
 intro: "El arte de redactar un informe es más que solo juntar palabras. Si alguna vez te has preguntado, '¿Cómo realizar un informe?', esta guía práctica será tu faro en la vasta mar de la escritura académica."
-# boton_info: "estructura"
-# boton_info_title: "Estructura APA"
-# boton_mas: "descargas"
-# boton_mas_title: "Plantillas"
+boton_info: "estructura"
+boton_info_title: "Word"
+boton_mas: "descargas"
+boton_mas_title: "Tipos"
 vertical: true
 ---
 ## ¿Qué es un informe y cómo se diferencia de otros trabajos escritos?
@@ -35,6 +35,8 @@ La sexta edición de las Normas APAintrodujo cambios significativos en el format
 Las normas Icontec también ofrecen directrices claras para la presentación de informes, permitiendo una lectura y comprensión fluida.
 
 Mira el paso a paso en [nuestra página de normas Icontec.]({{site.baseurl}}/normas-icontec)
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
 
 -----
 
@@ -90,6 +92,8 @@ Ve a la pestaña "Revisar" y utiliza las opciones de "Ortografía y gramática" 
 Siguiendo estos pasos, podrás **crear un informe en Word que no solo cumple con las Normas APA o Icontec**, sino que también tiene un aspecto profesional y está bien organizado.
 
 Recuerda, la práctica hace al maestro. Así que, cuanto más uses Word y sus características, más fácil te resultará.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 -----
 
@@ -301,6 +305,7 @@ El informe debe incluir las secciones de introducción, metodología, resultados
 * La sección de resultados es donde presentarás tus hallazgos
 * En la discusión, interpretarás esos resultados.
 * En la conclusión, resumirás tus hallazgos y discutirás las implicaciones de tu investigación.
+{:class="seccion_a"}
 
 #### Paso 7: revisión y correcciones
 
@@ -308,11 +313,13 @@ Por último, no olvides revisar tu informe en busca de errores gramaticales, de 
 
 Recuerda: cuanto más escribas informes de investigación, más cómodo te sentirás con el proceso.
 
+----
+
 ## La comodidad de las plantillas y los PDFs
 
 Las plantillas pueden ser una excelente manera de comenzar a escribir tu informe, ya que te proporcionan una estructura predeterminada que puedes seguir
 
-Te proporcionaremos una plantilla de informe en formato PDF, que puedes descargar y utilizar como guía.
+Puedes buscar en línea una gran variedad de plantillas de informe en formato PDF, que puedes descargar y utilizar como guía.
 
 ## Presentando un informe ejemplar
 
