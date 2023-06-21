@@ -13,6 +13,7 @@ arrowIcons.forEach(icon =>{
 
 const dragStart = (e) => {
   isDragStart = true;
+  document.addEventListener('touchstart', onTouchStart, {passive: true});
   prevPageX = e.pageX || e.touches[0].pageX;
   prevScrollLeft = carousel.scrollLeft;
 }
