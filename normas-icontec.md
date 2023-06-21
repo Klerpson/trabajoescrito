@@ -59,7 +59,7 @@ Lo primero que debes hacer antes de empezar a escribir tu trabajo es **configura
 {:id="portada"}
 
 [Márgenes Icontec]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Icontec"){:class="boton"}
-[Formato normas Icontec]({{'normas-icontec/formato-normas-icontec'|relative_url}} "Formato Icontec"){:class="boton"}
+[Formato normas Icontec]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Formato Icontec"){:class="boton"}
 
 ### La portada y contraportada según normas ICONTEC
 
