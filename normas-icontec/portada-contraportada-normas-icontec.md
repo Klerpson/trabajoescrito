@@ -36,7 +36,7 @@ Según las Normas ICONTEC, la portada debe contener la siguiente información:
 
 [Las Normas Icontec]({{site.baseurl}}/normas-icontec "Normas Icontec") requieren que la portada de un trabajo escrito **incluya el título del trabajo, el nombre del autor o autores, la institución a la que se presenta el trabajo y la fecha de presentación**.
 
-[El título]({{'titulos-trabajo-escrito'|relative:url}} "Títulos") debe ser breve y conciso, y debe reflejar el contenido del trabajo. Se recomienda utilizar una **tipografía clara y legible, en negrita y con un tamaño superior al del resto del texto** de la portada.
+[El título]({{'titulos-trabajo-escrito'|relative_url}} "Títulos") debe ser breve y conciso, y debe reflejar el contenido del trabajo. Se recomienda utilizar una **tipografía clara y legible, en negrita y con un tamaño superior al del resto del texto** de la portada.
 
 El nombre del autor o autores debe aparecer debajo del título, con una fuente más pequeña. La institución y la fecha de presentación se colocan en la parte inferior de la portada.
 
@@ -77,7 +77,7 @@ Es importante recordar que la información de la contraportada debe **estar alin
 
 ### Formato, tipo y tamaño de letra en la contraportada
 
-[El formato]({{'normas-icontec/formato-normas-icontec'|relative_url}} "Formato Normas Icontec") de la contraportada debe seguir las mismas especificaciones técnicas que la portada.
+[El formato]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Formato Normas Icontec") de la contraportada debe seguir las mismas especificaciones técnicas que la portada.
 
 Se debe utilizar el tamaño de papel carta, [márgenes]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Normas Icontec") y tipografía específicos. El tipo de **letra recomendado por las Normas ICONTEC para la contraportada es Arial, tamaño 12**.
 
