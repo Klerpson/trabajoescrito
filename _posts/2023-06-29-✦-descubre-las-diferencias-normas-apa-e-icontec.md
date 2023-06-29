@@ -5,7 +5,7 @@ description: ★ Conozca las diferencias clave entre las Normas APA e ICONTEC co
   nuestra guía completa. ¡Encuentra la respuesta a tus dudas aquí!
 category: Blog
 tags: normas apa, normas icontec
-h1: "# Diferencia entre Normas APA e ICONTEC: Todo lo que necesitas saber"
+h1: "Diferencia entre Normas APA e ICONTEC: Todo lo que necesitas saber"
 webp: /img/blog/apa-vs-icontec.webp
 alt: Diferencias APA vs Icontec
 intro: Al iniciar cualquier proyecto académico o científico, uno de los primeros
