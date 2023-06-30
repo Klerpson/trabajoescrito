@@ -3,7 +3,7 @@
 backend:
   name: git-gateway
   branch: main # Branch to update (optional; defaults to master)
-media_folder: 'site/img/blog'
+media_folder: '/img/blog'
 public_folder: 'blog/'
 collections:
   - name: 'blog'
