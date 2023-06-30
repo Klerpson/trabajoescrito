@@ -5,9 +5,131 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Jun 2023 23:33:48 -0500</pubDate>
-    <lastBuildDate>Tue, 27 Jun 2023 23:33:48 -0500</lastBuildDate>
+    <pubDate>Thu, 29 Jun 2023 20:35:01 -0500</pubDate>
+    <lastBuildDate>Thu, 29 Jun 2023 20:35:01 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
+    
+      <item>
+        <title>✦ Descubre las diferencias: Normas APA e ICONTEC</title>
+        <description>&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul id=&quot;markdown-toc&quot;&gt;
+  &lt;li&gt;&lt;a href=&quot;#aspectos-generales-de-las-normas-apa&quot; id=&quot;markdown-toc-aspectos-generales-de-las-normas-apa&quot;&gt;Aspectos generales de las Normas APA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#aspectos-generales-de-las-normas-icontec&quot; id=&quot;markdown-toc-aspectos-generales-de-las-normas-icontec&quot;&gt;Aspectos generales de las Normas ICONTEC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#diferencias-entre-normas-apa-e-icontec&quot; id=&quot;markdown-toc-diferencias-entre-normas-apa-e-icontec&quot;&gt;Diferencias entre Normas APA e ICONTEC&lt;/a&gt;    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;#formato&quot; id=&quot;markdown-toc-formato&quot;&gt;Formato&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#citas-y-referencias&quot; id=&quot;markdown-toc-citas-y-referencias&quot;&gt;Citas y referencias&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;#numeración-de-páginas&quot; id=&quot;markdown-toc-numeración-de-páginas&quot;&gt;Numeración de páginas&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;#cuadro-comparativo-de-las-normas-apa-y-las-normas-icontec&quot; id=&quot;markdown-toc-cuadro-comparativo-de-las-normas-apa-y-las-normas-icontec&quot;&gt;Cuadro comparativo de las Normas APA y las Normas ICONTEC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;hr /&gt;
+&lt;p&gt;La &lt;strong&gt;&lt;a href=&quot;/normas-apa&quot;&gt;Norma APA&lt;/a&gt;&lt;/strong&gt; es un conjunto de estándares desarrollados por la American Psychological Association para la presentación de trabajos académicos escritos, especialmente en las ciencias sociales y del comportamiento.&lt;/p&gt;
+
+&lt;p&gt;Por otro lado, las &lt;strong&gt;&lt;a href=&quot;/normas-icontec&quot;&gt;Normas ICONTEC&lt;/a&gt;&lt;/strong&gt; son pautas establecidas por el Instituto Colombiano de Normas Técnicas y Certificación, utilizadas ampliamente en países de habla hispana para la presentación de trabajos académicos y científicos.&lt;/p&gt;
+
+&lt;h2 id=&quot;aspectos-generales-de-las-normas-apa&quot;&gt;Aspectos generales de las Normas APA&lt;/h2&gt;
+
+&lt;p&gt;Las Normas APA tienen como objetivo principal el facilitar la comprensión y la transmisión de información en los trabajos académicos. Algunas características a destacar son:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Uso de márgenes uniformes de 1 pulgada en todos los lados de la página.&lt;/li&gt;
+  &lt;li&gt;Utilización de doble espacio en todo el texto.&lt;/li&gt;
+  &lt;li&gt;Las páginas deben estar numeradas en la esquina superior derecha.&lt;/li&gt;
+  &lt;li&gt;El tamaño de la letra debe ser de 12 puntos, preferentemente en Times New Roman.&lt;/li&gt;
+  &lt;li&gt;Las citas deben realizarse de manera específica, con el apellido del autor y el año de publicación.&lt;/li&gt;
+  &lt;li&gt;La bibliografía debe listarse al final del documento en orden alfabético por el apellido del primer autor.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;aspectos-generales-de-las-normas-icontec&quot;&gt;Aspectos generales de las Normas ICONTEC&lt;/h2&gt;
+
+&lt;p&gt;Las Normas ICONTEC, al ser estándares colombianos, se adaptan especialmente a las necesidades y características de los trabajos académicos en Colombia. Entre sus aspectos generales se encuentran:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Utilización de márgenes de 3 cm en la parte superior e inferior, 4 cm en el lado izquierdo y 2 cm en el lado derecho.&lt;/li&gt;
+  &lt;li&gt;Uso de doble espacio en todo el documento.&lt;/li&gt;
+  &lt;li&gt;Numeración de las páginas en la parte inferior centrada.&lt;/li&gt;
+  &lt;li&gt;Las citas se deben hacer en notas de pie de página.&lt;/li&gt;
+  &lt;li&gt;La bibliografía se ordena alfabéticamente y se debe indicar la ciudad y el país de la publicación.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;diferencias-entre-normas-apa-e-icontec&quot;&gt;Diferencias entre Normas APA e ICONTEC&lt;/h2&gt;
+
+&lt;p&gt;Existen varias diferencias entre las Normas APA y las Normas ICONTEC, desde el formato general hasta la forma de citar y referenciar. Algunas de las diferencias más notables incluyen:&lt;/p&gt;
+
+&lt;h3 id=&quot;formato&quot;&gt;Formato&lt;/h3&gt;
+
+&lt;p&gt;Las Normas APA requieren márgenes de 1 pulgada en todos los lados y el uso de Times New Roman de 12 puntos, mientras que las Normas ICONTEC tienen requisitos específicos para los márgenes y no especifican una fuente o tamaño de letra en particular.&lt;/p&gt;
+
+&lt;h3 id=&quot;citas-y-referencias&quot;&gt;Citas y referencias&lt;/h3&gt;
+
+&lt;p&gt;En las Normas APA, las citas se hacen en el texto con el apellido del autor y el año de publicación. Las referencias se listan al final del documento en orden alfabético por apellido del autor. Por otro lado, las Normas ICONTEC requieren que las citas se hagan en notas al pie y que las referencias incluyan la ciudad y el país de la publicación.&lt;/p&gt;
+
+&lt;h3 id=&quot;numeración-de-páginas&quot;&gt;Numeración de páginas&lt;/h3&gt;
+
+&lt;p&gt;Las Normas APA requieren que las páginas estén numeradas en la esquina superior derecha, mientras que las Normas ICONTEC piden que la numeración esté en la parte inferior centrada.&lt;/p&gt;
+
+&lt;h2 id=&quot;cuadro-comparativo-de-las-normas-apa-y-las-normas-icontec&quot;&gt;Cuadro comparativo de las Normas APA y las Normas ICONTEC&lt;/h2&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Aspecto&lt;/th&gt;
+      &lt;th&gt;Normas APA&lt;/th&gt;
+      &lt;th&gt;Normas ICONTEC&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Márgenes&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;1 pulgada en todos los lados&lt;/td&gt;
+      &lt;td&gt;3 cm arriba y abajo, 4 cm a la izquierda, 2 cm a la derecha&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Espaciado&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Doble espacio&lt;/td&gt;
+      &lt;td&gt;Doble espacio&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Numeración de páginas&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Esquina superior derecha&lt;/td&gt;
+      &lt;td&gt;Inferior centrada&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Tamaño de letra y fuente&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;12 puntos, Times New Roman&lt;/td&gt;
+      &lt;td&gt;No especificado&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Citas&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;En el texto, apellido del autor y año de publicación&lt;/td&gt;
+      &lt;td&gt;Notas al pie de página&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;&lt;strong&gt;Referencias&lt;/strong&gt;&lt;/td&gt;
+      &lt;td&gt;Al final del documento en orden alfabético por apellido del autor&lt;/td&gt;
+      &lt;td&gt;Alfabéticamente, incluyendo ciudad y país de publicación&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Estas normas pueden tener variaciones dependiendo de la institución académica o la revista donde se va a publicar el trabajo. Siempre es recomendable verificar las guías o pautas específicas para el formato de trabajos académicos de la entidad en cuestión.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Jun 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/descubre-las-diferencias-normas-apa-e-icontec</link>
+        <guid isPermaLink="true">http://localhost:4000/descubre-las-diferencias-normas-apa-e-icontec</guid>
+        
+        
+        <category>Normas APA</category>
+        
+        <category>Normas Icontec</category>
+        
+        
+        
+        <category>Blog</category>
+        
+      </item>
     
       <item>
         <title>El uso de un generador de normas APA ↩</title>

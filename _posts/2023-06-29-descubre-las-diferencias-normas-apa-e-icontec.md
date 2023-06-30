@@ -1,22 +1,19 @@
 ---
 layout: post
 title: "✦ Descubre las diferencias: Normas APA e ICONTEC"
-description: ★ Conozca las diferencias clave entre las Normas APA e ICONTEC con
-  nuestra guía completa. ¡Encuentra la respuesta a tus dudas aquí!
+description: ★ Conozca las diferencias clave entre las Normas APA e ICONTEC con nuestra guía completa. ¡Encuentra la respuesta a tus dudas aquí!
 category: Blog
-tags: normas apa, normas icontec
+tags: [Normas APA, Normas Icontec]
 h1: "Diferencia entre Normas APA e ICONTEC: Todo lo que necesitas saber"
 webp: /img/blog/apa-vs-icontec.webp
 alt: Diferencias APA vs Icontec
-intro: Al iniciar cualquier proyecto académico o científico, uno de los primeros
-  obstáculos que te encontrarás es el correcto uso de las normas de citación y
-  referenciación. Dos de las más utilizadas a nivel internacional y en Colombia
-  son las normas APA y ICONTEC. ¿Pero cuál es la diferencia entre estas dos?
-  ¿Cómo saber cuándo utilizar una y no la otra?
-date: 2023-06-29T12:19:10.985Z
+excerpt: "Dos de las normas más utilizadas a nivel internacional y en Colombia son las normas APA e ICONTEC. ¿Pero cuál es la diferencia entre estas dos? ¿Cómo saber cuándo utilizar una y no la otra?"
 ---
-## ¿Qué son las Normas APA y las Normas ICONTEC?
+**Atajos:**
+* Do not remove this line (it will not be displayed)
+{:toc}
 
+-----
 La **[Norma APA]({{'normas-apa'|relative_url}})** es un conjunto de estándares desarrollados por la American Psychological Association para la presentación de trabajos académicos escritos, especialmente en las ciencias sociales y del comportamiento.
 
 Por otro lado, las **[Normas ICONTEC]({{'normas-icontec'|relative_url}})** son pautas establecidas por el Instituto Colombiano de Normas Técnicas y Certificación, utilizadas ampliamente en países de habla hispana para la presentación de trabajos académicos y científicos.
@@ -68,7 +65,5 @@ Las Normas APA requieren que las páginas estén numeradas en la esquina superio
 | **Tamaño de letra y fuente** | 12 puntos, Times New Roman                                        | No especificado                                             |
 | **Citas**                    | En el texto, apellido del autor y año de publicación              | Notas al pie de página                                      |
 | **Referencias**              | Al final del documento en orden alfabético por apellido del autor | Alfabéticamente, incluyendo ciudad y país de publicación    |
-
-
 
 Estas normas pueden tener variaciones dependiendo de la institución académica o la revista donde se va a publicar el trabajo. Siempre es recomendable verificar las guías o pautas específicas para el formato de trabajos académicos de la entidad en cuestión.
