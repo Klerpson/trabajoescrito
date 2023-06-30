@@ -57,13 +57,13 @@ Las Normas APA requieren que las páginas estén numeradas en la esquina superio
 
 ## Cuadro comparativo de las Normas APA y las Normas ICONTEC
 
-| Aspecto                      | Normas APA                                                        | Normas ICONTEC                                              |
-| ---------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------- |
-| **Márgenes**                 | 1 pulgada en todos los lados                                      | 3 cm arriba y abajo, 4 cm a la izquierda, 2 cm a la derecha |
-| **Espaciado**                | Doble espacio                                                     | Doble espacio                                               |
-| **Numeración de páginas**    | Esquina superior derecha                                          | Inferior centrada                                           |
-| **Tamaño de letra y fuente** | 12 puntos, Times New Roman                                        | No especificado                                             |
-| **Citas**                    | En el texto, apellido del autor y año de publicación              | Notas al pie de página                                      |
-| **Referencias**              | Al final del documento en orden alfabético por apellido del autor | Alfabéticamente, incluyendo ciudad y país de publicación    |
+| Aspecto       | Normas APA                 | Normas ICONTEC                   |
+| ---------------------------- | --------------------------- | -------------------- |
+| **Márgenes**                 | 1 pulgada en todos los lados         | 3 cm arriba y abajo, 4 cm a la izquierda, 2 cm a la derecha |
+| **Espaciado**                | Doble espacio      | Doble espacio                           |
+| **Numeración de páginas**    | Esquina superior derecha     | Inferior centrada                   |
+| **Tamaño de letra y fuente** | 12 puntos, Times New Roman         | No especificado                  |
+| **Citas**        | En el texto, apellido del autor y año de publicación        | Notas al pie de página       |
+| **Referencias**       | Al final del documento en orden alfabético por apellido del autor | Alfabéticamente, incluyendo ciudad y país de publicación    |
 
 Estas normas pueden tener variaciones dependiendo de la institución académica o la revista donde se va a publicar el trabajo. Siempre es recomendable verificar las guías o pautas específicas para el formato de trabajos académicos de la entidad en cuestión.
