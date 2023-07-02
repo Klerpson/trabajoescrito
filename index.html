@@ -219,16 +219,16 @@ boton_mas_title: "Buscador"
   {% include footer.html %}
 
 <!-- Script pointing to search-script.js -->
-<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" async></script>
+<script src="{{site.baseurl}}/js/search-script.js" type="text/javascript"></script>
 <!-- Configuration -->
 <script>
   var sjs = SimpleJekyllSearch({
-  searchInput: document.getElementById('search-input'),
-  resultsContainer: document.getElementById('results-container'),
-   json: '/search.json',
-   noResultsText: 'No tenemos este texto aún',
-   fuzzy: false
-  })
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '/search.json',
+    noResultsText: 'No tenemos este texto aún',
+    fuzzy: false
+  });
 </script>
  <!-- Slider /js -->
  <script src="/js/slider.js" defer></script>
