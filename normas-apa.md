@@ -5,9 +5,9 @@ description: "Domina las Normas APA con nuestra guía completa 📃: citaciones 
 h1: "Las normas APA y tu Trabajo Escrito"
 intro: "Las normas APA son un conjunto de reglas y directrices que se utilizan para la elaboración de trabajos académicos en diferentes áreas."
 boton_info: "estructura"
-boton_info_title: "Estructura APA"
+boton_info_title: "Aprende el formato"
 boton_mas: "descargas"
-boton_mas_title: "Novedades"
+boton_mas_title: "Utiliza generadores"
 vertical: true
 ---
 ## Las normas APA en el mundo de los escritos
@@ -122,17 +122,9 @@ El margen izquierdo y derecho y las márgenes superior e inferior deben seguir u
 
 La numeración de páginas con Normas APA permite mantener la organización y facilita la referencia a secciones específicas del documento.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="hoja"}
-
-[Numeración con normas APA]({{'normas-apa/numeracion-normas-apa'|relative_url}} "Numeración"){:class="boton"}
-
-### Las hojas o formato
-
-Todo el contenido del trabajo debe estar en papel tamaño A4. Además, se recomienda utilizar el mismo tipo de fuente en todo el trabajo, incluyendo en títulos y subtítulos, como se mencionó anteriormente.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="tablas"}
 
-[Más sobre los formatos](# "Formato de hojas"){:class="boton"}
+[Numeración con normas APA]({{'normas-apa/numeracion-normas-apa'|relative_url}} "Numeración"){:class="boton"}
 
 ### Tablas y figuras
 
@@ -244,8 +236,6 @@ Es un requisito seguir las reglas generales de las normas APA en cuanto a la cit
 
 >#### Aplica las normas APA más actualizadas  
 Como las normas APA se actualizan, es necesario tener en cuenta la versión de la norma que se está aplicando para hacerlo correctamente. Por ejemplo, **en el presente año {{ "now" | date:"%Y"}}, las normas APA están en su séptima edición.** Aún no existe ni la octava ni la novena versión.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
 
 ## Novedades de la página oficial en la última edición de las Normas APA
 
@@ -296,8 +286,10 @@ Las Normas APA obligan al autor a sustentar sus argumentos con investigaciones p
 Las Normas APA establecen reglas claras para la presentación de trabajos académicos, como el formato de la página, el tipo de letra, tamaño, espaciado, el uso de la sangría francesa y la organización de fuentes bibliográficas. Este hecho garantiza que los trabajos académicos sean uniformes y estéticamente agradables.
 
 Por ello, conocer y aplicar las Normas APA es fundamental para elaborar trabajos académicos rigurosos y de alta calidad en las ciencias sociales y humanidades.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
-----
+-----
 
 ## Aplica fácilmente las normas APA con estas herramientas
 

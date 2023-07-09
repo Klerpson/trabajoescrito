@@ -123,7 +123,7 @@ Es fundamental asegurarnos de que los subtítulos y títulos de cada sección es
   <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
   {:id="descargas"}
 
------
+{% include cta-normas.html norma="apa" %}
 
 ## Consejos para crear listas con Normas APA
 

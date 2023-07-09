@@ -51,7 +51,7 @@ En la mayoría de los procesadores de texto, puedes ajustar el interlineado en e
 
 No dejes espacios extra entre los párrafos. En lugar de ello, el inicio de cada párrafo debe estar indicado con una sangría de media pulgada.
 
-----
+{% include cta-normas.html norma="apa" %}
 
 ## Preguntas frecuentes
 

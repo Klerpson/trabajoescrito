@@ -108,6 +108,8 @@ Cada entrada bibliográfica debe seguir el siguiente formato:
 
 Es importante también incluir toda la información necesaria en la referencia bibliográfica según el tipo de fuente (libro, artículo, etc.), tales como el nombre de la editorial, el lugar de publicación y el número de edición del libro.
 
+{% include cta-normas.html norma="apa" %}
+
 ## Cómo utilizar BibGuru para hacer referencias bibliográficas según las Normas APA
 
 [BibGuru es una herramienta en línea que facilita la creación de referencias bibliográficas en formato APA](https://www.bibguru.com/es/){:rel="nofollow noopener noreferrer" target="_blank"}. Esta herramienta es de gran utilidad para estudiantes, profesores e investigadores que desean hacer referencias bibliográficas en trabajos académicos y científicos. A continuación, se describen los pasos para utilizar BibGuru:

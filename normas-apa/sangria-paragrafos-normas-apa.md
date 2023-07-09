@@ -35,6 +35,8 @@ Las Normas APA establecen que se debe utilizar **la sangría de primera línea e
 
 > González, J. (2020). Los párrafos y la sangría en las Normas APA. Editorial Universitaria, pp. 34-45.
 
+{% include cta-normas.html norma="apa" %}
+
 ## Consejos prácticos para mejorar la presentación de los párrafos en Normas APA
 
 En las Normas APA, se prefiere la alineación a la izquierda y el espaciado doble. Cada párrafo debe contener una idea principal y todo lo que incluyas en él debe apoyar esa idea.

@@ -40,6 +40,8 @@ Aquí te dejo los pasos para diseñar una contraportada con Normas APA:
 
 Al seguir este formato, nos aseguramos de que la contraportada cumple con las especificaciones requeridas. Esto resultará en un trabajo más profesional y aceptable para nuestra institución.
 
+{% include cta-normas.html norma="apa" %}
+
 ## Errores comunes en la creación de una Contraportada con Normas APA
 
 Hay errores comunes que podemos evitar al crear una contraportada con Normas APA.

@@ -142,7 +142,7 @@ La identificación del autor y sus afiliaciones son importantes para la presenta
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include cta-normas.html norma="apa" %}
 
 ## La importancia de la afiliación institucional en la portada
 

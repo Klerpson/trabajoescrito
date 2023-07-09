@@ -5,9 +5,9 @@ description: "Aprende las normas ICONTEC 2023 📘. Aplica el formato a tus trab
 h1: "Normas Icontec: claves para los trabajos académicos"
 intro: "Las normas Icontec son un conjunto de reglas y metodologías que establecen criterios como la disposición de títulos y subtítulos, los márgenes, las fuentes aceptadas y la numeración."
 boton_info: "estructura"
-boton_info_title: "Cómo aplicarlas"
+boton_info_title: "Mira cómo aplicarlas"
 boton_mas: "descargas"
-boton_mas_title: "Tips"
+boton_mas_title: "Aprende más tips"
 vertical: true
 ---
 ## Normas colombianas de presentación de proyectos: Instituto Colombiano de Normas Técnicas y Certificación

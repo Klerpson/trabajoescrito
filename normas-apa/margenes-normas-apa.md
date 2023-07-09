@@ -54,6 +54,8 @@ Esto se debe a la necesidad de tener más espacio para anotaciones o correccione
 
 {% include cluster2.html img="margenes-trabajo-escrito.webp" alt="Modelo de Márgenes" h3="Configuración de Márgenes en Word (Ejemplo Normas APA)" punto1="Abre tu documento en Word y clic en el menú 'Diseño de Página' y selecciona la opción 'Márgenes'" punto2="En el menú desplegable, elige la opción 'Márgenes personalizados'" punto3="En la ventana que se abre, puedes establecer las medidas deseadas para cada uno de los márgenes." %}
 
+{% include cta-normas.html norma="apa" %}
+
 ## Recursos y herramientas útiles
 
 Además de conocer las Normas APA 7 para las márgenes y el formato de presentación, es importante contar con herramientas y recursos útiles para asegurarse de que los trabajos académicos cumplen con todas las exigencias en cuanto al formato. A continuación, se presentan algunas opciones de gran utilidad.

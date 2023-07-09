@@ -5,9 +5,9 @@ description: "✦ Numeración en Normas APA explicada paso a paso. Aprende a num
 h1: "¿Cómo numerar según las normas APA? Evita los errores más comunes"
 intro: "La numeración de páginas es un aspecto crucial en las Normas APA. Esto se debe a que permite mantener la organización y facilita la referencia a secciones específicas del documento."
 boton_info: "normas"
-boton_info_title: "Con Word"
+boton_info_title: "Configura en Word"
 boton_mas: "descargas"
-boton_mas_title: "con Google Docs"
+boton_mas_title: "Configura en Google Docs"
 vertical: true
 permalink: /normas-apa/numeracion-normas-apa
 ---
@@ -60,6 +60,8 @@ Si prefieres trabajar en línea o necesitas compartir tu documento con otros de 
 {:class="seccion_a"}
 
 Google Docs aplicará automáticamente la numeración a todas las páginas subsiguientes. Recuerda que, al igual que en Word, la numeración debe comenzar en la segunda página.
+
+{% include cta-normas.html norma="apa" %}
 
 ## Numerar tu trabajo escrito es sencillo
 

@@ -74,4 +74,6 @@ Asimismo, se puede usar viñetas o listas numeradas **para enumerar elementos qu
 
 **El texto debe estar justificado con una sangría de 0,5 pulgadas, exceptuando la primera línea de cada párrafo**. Además, se deberá ajustar la sangría según la encuadernación especial del trabajo.
 
+{% include cta-normas.html norma="apa" %}
+
 En conclusión, el estilo APA es un conjunto de normas que proporciona coherencia y claridad a la redacción académica y científica. Al seguir estas normas, **puedes garantizar que tu texto será fácil de entender y de citar** por otros investigadores.

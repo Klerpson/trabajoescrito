@@ -74,6 +74,8 @@ Para elaborar tablas en Word o Excel se recomienda seguir las siguientes pautas:
 - Mantener un tipo y tamaño de fuente consistente con el resto del trabajo académico.
 - Asegurarse de que la tabla no contenga errores al momento de su elaboración.
 
+{% include cta-normas.html norma="apa" %}
+
 ## Partes de las tablas en las que aplican las normas APA
 
 ### Títulos y subtítulos de tablas

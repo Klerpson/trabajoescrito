@@ -53,6 +53,8 @@ Los títulos de **nivel 5 se utilizan para subsecciones dentro de las subseccion
 
 Además de conocer la jerarquía de los títulos y subtítulos, es importante seguir ciertas normas de presentación para una mayor claridad y legibilidad del documento.
 
+{% include cta-normas.html norma="apa" %}
+
 ## Consejos para escribir títulos y subtítulos descriptivos y concisos
 
 Al escribir títulos y subtítulos, se recomienda hacerlos descriptivos y concisos, utilizando palabras clave que permitan al lector identificar rápidamente el contenido de cada sección del documento.

@@ -129,6 +129,8 @@ La cita de estadísticas de una base de datos según las normas APA requiere inf
 * Fecha de acceso, en caso de tratarse de una fuente en línea.
 * URL de la página que contiene la información, en caso de ser una fuente en línea.
 
+{% include cta-normas.html norma="apa" %}
+
 ## Errores comunes en las citas en APA
 
 El manejo de las Normas APA puede resultar confuso y complicado y es fácil cometer errores, especialmente en relación a las citas. A continuación, se presentan algunos de los errores más comunes:
