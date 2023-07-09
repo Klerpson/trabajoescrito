@@ -4,9 +4,9 @@ title: "📚 Citas Normas APA: Guía Completa y Ejemplos ✔️📝"
 description: "Aprende cómo hacer citas en Normas APA de manera correcta y precisa. 📖 Aprende las pautas y accede a ejemplos para citar tus fuentes en trabajos académicos."
 h1: "Citar con Normas APA: la estructura adecuada"
 intro: "Con las Normas APA  se busca establecer una uniformidad en la estructura y una adecuada citación de las fuentes utilizadas, lo que es fundamental para el otorgamiento de crédito académico."
-boton_info: "normas"
+boton_info: "opcionA"
 boton_info_title: "Utiliza generadores"
-boton_mas: "descargas"
+boton_mas: "opcionB"
 boton_mas_title: "Ver ejemplos"
 vertical: true
 permalink: /normas-apa/citas-normas-apa
@@ -70,7 +70,7 @@ La fuente original debe citarse para poder acceder a ella. Te mostramos algunos 
 >* García (citado por Pérez, 2019) indica que una buena alimentación puede ayudar a prevenir enfermedades.
 >* Rodríguez (2018) menciona en su obra que García (2016) afirma que los colibríes poseen un vuelo rápido.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="normas"}
+{:id="opcionA"}
 
 ## Cómo utilizar el generador de citas de APA
 
@@ -90,7 +90,7 @@ Para utilizar Scribbr, se puede buscar la fuente por título, URL, ISBN o DOI, y
 
 En general, **los generadores de citas como BibGuru y Scribbr son herramientas prácticas y útiles para crear referencias bibliográficas adecuadas**, lo que permite tener una estructura uniforme y evitar errores comunes en la citación de fuentes, y te facilita la elaboración de cualquier trabajo académico o científico.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
+{:id="opcionB"}
 
 ## Ejemplos prácticos de citas y referencias en APA
 

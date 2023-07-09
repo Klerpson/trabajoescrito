@@ -207,6 +207,16 @@ blockquote {
   clip-path: inset(0 -100vmax);
 }
 
+blockquote > *{
+  margin-top: 1em;
+  margin-bottom: 0;
+}
+
+blockquote h2{
+  text-align: left;
+  margin: 0;
+}
+
 blockquote p{
   font-weight: 700;
 }

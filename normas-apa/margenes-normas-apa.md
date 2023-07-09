@@ -4,18 +4,18 @@ title: "Márgenes en Normas APA: Ajustando el formato ↔"
 description: "Redacta textos con las Normas APA de forma precisa y coherente. 📝 Mira ejemplos prácticos para estructurar tus textos académicos según las pautas establecidas"
 h1: "Márgenes en Normas APA: ajustando el formato de tu trabajo escrito"
 intro: "Las Normas APA son muy importantes en la redacción de trabajos académicos. Uno de los elementos fundamentales que se deben tener en cuenta son los márgenes."
-boton_info: "normas"
-boton_info_title: "Generadores"
-boton_mas: "descargas"
-boton_mas_title: "Ejemplos"
+boton_info: "medidas"
+boton_info_title: "Ver las medidas"
+boton_mas: "word"
+boton_mas_title: "Configurar márgenes"
 vertical: true
 permalink: /normas-apa/margenes-normas-apa
 ---
 Analicemos todo lo que necesitas saber sobre **los márgenes requeridos** en tus trabajos académicos para cumplir con ciertas recomendaciones **de acuerdo con la séptima edición de las Normas APA**.
 
-Veremos cómo ajustarlos en Word y cómo configurarlos cuando se requiere encuadernación especial. También encontrarás otros elementos importantes que debes considerar para cumplir con las normas en la estructuración y presentación de tu trabajo.
+Veremos cómo ajustarlos en Word y cómo configurarlos cuando se requiere encuadernación especial. También encontrarás otros elementos importantes que debes considerar para cumplir con las normas en la estructuración y [presentación de tu trabajo](% post_url 2023-05-28-como-presentar-trabajo-escrito %).
 
-## Márgenes
+## Márgenes según las normas APA
 
 Los márgenes son un elemento importante en la redacción de trabajos académicos, ya que **ofrecen un aspecto ordenado y profesional al documento**.
 
@@ -24,12 +24,14 @@ En este sentido, es esencial **cumplir con las Normas APA en español según la 
 ### Definición de márgenes
 
 Los márgenes **son los espacios en blanco que se encuentran en los bordes del documento, tanto a lo largo como a lo ancho de las páginas**. Estos espacios permiten que el texto no esté pegado al borde, lo que hace que el documento tenga un aspecto más claro y ordenado.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="medidas"}
 
 ### Márgenes recomendados en Normas APA 7
 
 Según las Normas APA en su séptima edición, los márgenes recomendados en el documento académico **son de 2,54 centímetros (1 pulgada) en todos los lados**.
 
-Estos márgenes deben ser aplicados en todo el documento de manera uniforme, incluyendo la primera página, [la página de resumen]({{'resumen-trabajo-escrito'|relative_url}} "Hoja de Resumen"), el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo escrito"), [las referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas"), las tablas, las figuras y los apéndices.
+Estos márgenes deben ser aplicados en todo el documento de manera uniforme, incluyendo la primera página, [la página de resumen]({{'resumen-trabajo-escrito'|relative_url}} "Hoja de Resumen"), el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo escrito"), [las referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas"), las [tablas, las figuras]({{'normas-apa/tablas-y-figuras-normas-apa'|relative_url}} "Tablas y figuras APA") y los [apéndices]({{'apendices-trabajo-escrito'|relative_url}} "Apéndices de un trabajo escrito").
 
 ### Ajuste de márgenes en caso de encuadernación especial
 
@@ -46,6 +48,10 @@ Para configurar los márgenes en Word según las Normas APA, es necesario:
 * En este menú se pueden seleccionar diferentes opciones preestablecidas de márgenes, así como hacer ajustes personalizados.
 {:class="seccion_a"}
 
+>¿Sabías que en power point también puedes aplicar las normas APA? [Léelo en este artículo]({% post_url 2023-06-02-normas-apa-power-point %} "Normas APA Power Point").
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="word"}
+
 ### Margen izquierdo y margen superior
 
 Es importante destacar que en algunos trabajos académicos se requiere que el margen izquierdo y superior tenga un tamaño mayor al resto de los márgenes.
@@ -58,7 +64,9 @@ Esto se debe a la necesidad de tener más espacio para anotaciones o correccione
 
 ## Recursos y herramientas útiles
 
-Además de conocer las Normas APA 7 para las márgenes y el formato de presentación, es importante contar con herramientas y recursos útiles para asegurarse de que los trabajos académicos cumplen con todas las exigencias en cuanto al formato. A continuación, se presentan algunas opciones de gran utilidad.
+Además de conocer las Normas APA 7 para las márgenes y el formato de presentación, es importante contar con herramientas y recursos útiles para asegurarse de que los trabajos académicos cumplen con todas las exigencias en cuanto al formato.
+
+A continuación, se presentan algunas opciones de gran utilidad.
 
 ### Descargar plantillas
 

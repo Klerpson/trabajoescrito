@@ -5,17 +5,15 @@ description: "Haz referencias bibliográficas con las Normas APA 📑 Descubre e
 h1: "Referencias bibliografía según las normas APA para trabajos académicos"
 intro: "Con las Normas APA para las referencias se busca establecer una uniformidad en la estructura y una adecuada citación de las fuentes utilizadas, lo que es fundamental para el otorgamiento de crédito académico."
 boton_info: "normas"
-boton_info_title: "Cómo hacer"
+boton_info_title: "Conoce el formato correcto"
 boton_mas: "descargas"
-boton_mas_title: "Formato"
+boton_mas_title: "Utiliza herramientas"
 vertical: true
 permalink: /normas-apa/referencias-bibliograficas-normas-apa
 ---
 Las referencias bibliográficas son una parte fundamental al realizar trabajos académicos o científicos, ya que permiten dar crédito a las fuentes de información utilizadas en la elaboración de los mismos.
 
 A continuación, se presentan las reglas generales y específicas para realizar **referencias bibliográficas según las normas APA**.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="normas"}
 
 ## ¿Cómo hacer referencias bibliográficas según las Normas APA?
 
@@ -26,8 +24,8 @@ Las referencias bibliográficas **son una lista ordenada alfabéticamente de tod
 Para todas las referencias bibliográficas en formato APA, se deben tener en cuenta las siguientes reglas generales:
 
 * La lista de referencias bibliográficas debe ir al final del trabajo, en orden alfabético y sin numeración.
-* Se debe utilizar sangría francesa (es decir, la primera línea de cada entrada debe estar alineada con el margen izquierdo y las líneas siguientes deben tener una sangría de 0,5 pulgadas).
-* Las referencias deben comenzar con el apellido e inicial del nombre del autor o autores, seguido del año de publicación, el título del trabajo y la información de la publicación en sí.
+* Se debe utilizar sangría francesa (es decir, la primera línea de cada entrada debe estar [alineada con el margen izquierdo]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes normas APA") y las líneas siguientes deben tener una sangría de 0,5 pulgadas).
+* Las referencias deben comenzar con el apellido e inicial del nombre del autor o autores, seguido del año de publicación, [el título del trabajo]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos normas APA") y la información de la publicación en sí.
 * Si el trabajo tiene más de un autor, se deben listar todos los autores y separarlos con una coma (,).
 {:class="seccion_a"}
 
@@ -51,7 +49,7 @@ Las referencias de libros en formato APA se estructuran de la siguiente manera:
 
 #### Referencias de artículos de revistas
 
-Las referencias de artículos de revistas en formato APA se estructuran de la siguiente manera:
+Las referencias de [artículos de revistas]({{'articulos-con-normas-apa'|relative_url}} "Artículos con normas APA") en formato APA se estructuran de la siguiente manera:
 
 * Apellido del autor, inicial del nombre. (Año de publicación). Título del artículo. Nombre de la revista en cursiva, volumen en cursiva (número de ejemplar), página inicial-página final.
 * Si el artículo tiene más de un autor, se deben listar todos los autores y separarlos con una coma (,).
@@ -76,7 +74,7 @@ Las referencias de fuentes no tradicionales en formato APA se estructuran de la 
 * Si se está citando un programa de televisión o una película, se debe incluir el nombre del director, el año de producción, el título del trabajo y, en algunos casos, el nombre de los principales actores.
 * Para fuentes no tradicionales que no pertenezcan a ninguno de los ejemplos anteriores, se debe consultar la guía APA para determinar la mejor forma de estructurar la referencia bibliográfica correspondiente.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas" class="seccion_a"}
+{:id="normas"}
 
 ## Formato y presentación de las referencias bibliográficas según las Normas APA
 
@@ -107,6 +105,8 @@ Cada entrada bibliográfica debe seguir el siguiente formato:
 > Apellido, Nombre (año). Título del libro/artículo. Nombre de la revista (en caso de ser un artículo), Volumen (en caso de ser un artículo), Páginas.
 
 Es importante también incluir toda la información necesaria en la referencia bibliográfica según el tipo de fuente (libro, artículo, etc.), tales como el nombre de la editorial, el lugar de publicación y el número de edición del libro.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas" class="seccion_a"}
 
 {% include cta-normas.html norma="apa" %}
 
@@ -116,7 +116,7 @@ Es importante también incluir toda la información necesaria en la referencia b
 
 1. Ingresa a la página web de BibGuru
 2. Para utilizar BibGuru, primero debes ingresar a la página web de la herramienta a través de tu navegador web.
-3. Selecciona el tipo de fuente que deseas citar o referenciar  
+3. Selecciona el tipo de fuente que deseas [citar]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA") o referenciar  
 BibGuru te permite seleccionar diferentes tipos de fuentes, incluyendo libros, revistas, artículos científicos, páginas web y otros documentos electrónicos. Selecciona el tipo de fuente que deseas citar o referenciar.
 4. Ingresa la información de la fuente  
 BibGuru te guiará para que ingreses la información requerida de acuerdo al tipo de fuente que elegiste. Asegúrate de ingresar la información de forma completa y correcta.
@@ -132,4 +132,4 @@ BibGuru es una herramienta de referencia generada automáticamente, por lo que e
 
 **Al organizar las referencias bibliográficas según las Normas APA**, se logra una presentación uniforme y ordenada que ayuda a facilitar la lectura y comprensión del documento.
 
-Finalmente, siguiendo esta gran guía de referencias APA, podrás destacar con un [trabajo escrito](/) que cumpla con los más altos estándares de presentación académica.
+Finalmente, siguiendo esta gran guía de referencias APA, podrás destacar con un [trabajo escrito](/) que cumpla con los más altos estándares de [presentación académica]({% post_url 2023-05-28-como-presentar-trabajo-escrito %} "Presentación de un trabajo escrito").

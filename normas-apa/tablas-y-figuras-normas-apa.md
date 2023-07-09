@@ -5,9 +5,9 @@ description: "Aprende cómo elaborar tablas siguiendo las Normas APA de la 7ª e
 h1: "Tablas y figuras según las normas APA para tus Trabajos Escritos"
 intro: "Las Normas APA establecen pautas claras para la presentación de tablas y figuras en trabajos académicos. Es importante seguir estas normas para mostrar la información de una forma clara y organizada."
 boton_info: "normas"
-boton_info_title: "Tablas"
+boton_info_title: "Cómo hacer las tablas"
 boton_mas: "descargas"
-boton_mas_title: "Figuras"
+boton_mas_title: "Cómo incluir figuras"
 vertical: true
 permalink: /normas-apa/tablas-y-figuras-normas-apa
 ---
@@ -25,7 +25,7 @@ Los siguientes son los principales aspectos a tener en cuenta al elaborar estas 
 
 ----
 
-## Tablas
+## Tablas con normas APA
 
 Las tablas son una herramienta útil para **mostrar información de manera clara y organizada** en trabajos académicos.
 
@@ -74,8 +74,6 @@ Para elaborar tablas en Word o Excel se recomienda seguir las siguientes pautas:
 - Mantener un tipo y tamaño de fuente consistente con el resto del trabajo académico.
 - Asegurarse de que la tabla no contenga errores al momento de su elaboración.
 
-{% include cta-normas.html norma="apa" %}
-
 ## Partes de las tablas en las que aplican las normas APA
 
 ### Títulos y subtítulos de tablas
@@ -86,7 +84,9 @@ En caso de que se deseen añadir subtítulos a la tabla, estos **deben estar en 
 
 ### Numeración de tablas y notas de tabla
 
-Como ya se mencionó, las tablas tienen un número consecutivo en la lista de tablas del trabajo académico. Además, se sugiere que cada tabla **tenga una nota explicativa debajo de la misma que indique la fuente original y la fecha de acceso a dicha información**, si es el caso.
+Como ya se mencionó, las tablas tienen un número consecutivo en la lista de tablas del trabajo académico.
+
+Cada tabla debe tener una **nota explicativa debajo de la misma que indique la fuente original y la fecha de acceso a dicha información**, si es el caso.
 
 ### Atribución de derechos de autor en tablas
 
@@ -98,7 +98,7 @@ Es fundamental citar adecuadamente las fuentes de información de la tabla y pro
 
 ----
 
-## Figuras
+## Figuras con normas APA
 
 En los trabajos académicos, **las figuras pueden ser empleadas para representar visualmente datos complejos o información detallada de una manera más organizada y resumida.**
 
@@ -116,6 +116,8 @@ Para elaborar figuras en Word o Excel, es importante tener cuidado en la elecci�
 
 Si se trata de figuras complejas, se recomienda utilizar programas de diseño gráfico como Adobe Photoshop o [Canva](https://canva.com){:rel="nofollow noopener noreferrer" target="_blank"}.
 
+>Un consejo obvio, pero que no debes olvidar, es que las hojas de presentación o preliminares normalmente no llevan figuras, imágenes o fotografías.
+
 ### Títulos y subtítulos de figuras
 
 Los títulos y subtítulos de las figuras deben ser redactados de forma clara y precisa, permitiendo al lector comprender rápidamente la información que se quiere transmitir.
@@ -130,9 +132,11 @@ En cuanto a la numeración de figuras, estas **deberán ser identificadas consec
 
 Para proteger los derechos de autor en el caso de figuras que sean utilizadas en trabajos académicos, se deberá agregar un título breve **y la fuente original de donde se obtuvo la información**. Además, la fuente deberá ser citada según las Normas APA correspondientes.
 
+{% include cta-normas.html norma="apa" %}
+
 ----
 
-## Apéndices
+## Apéndices según las normas APA
 
 [Los apéndices]({{'apendice-trabajo-escrito'|relative_url}} "Apéndice") son secciones adicionales en trabajos académicos donde se incluyen información complementaria que no se ha podido incluir en el cuerpo principal del documento.
 
@@ -148,19 +152,21 @@ Las tablas y figuras que se incluyan en los apéndices deben tener notas de fuen
 
 ### Estructura de los apéndices en normas APA
 
-Los apéndices se organizan en la sección de apéndices del documento, **después de la sección de referencia y antes de los anexos (si los hubiere)**. Los apéndices se numeran en orden alfabético y se titularán en consecuencia.
+Los apéndices se organizan en la sección de apéndices del documento, **después de la [sección de referencia]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referncias normas APA") y antes de los [anexos]({{'anexos-trabajo-escrito'|relative_url}} "Anexos") (si los hubiere)**. Los apéndices se numeran en orden alfabético y se titularán en consecuencia.
 
 En el texto principal, se debe hacer referencia al apéndice en cuestión, por ejemplo: "como se puede ver en el apéndice A" o "más detalles están disponibles en el apéndice B".
 
-Los apéndices que contienen material no-textual (como diagramas y fotografías) **deben estar acompañados de una breve descripción** que facilite su comprensión y asegure que cualquier información importante no se pierda al separar estos elementos del cuerpo principal del documento.
+Los apéndices que contienen material no-textual (como diagramas y fotografías) **deben estar acompañados de una breve descripción** que facilite su comprensión y asegure que cualquier información importante no se pierda al separar estos elementos [del cuerpo principal del documento]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo").
 
 ### Inclusión de comunicaciones personales en los apéndices
 
-En el caso de que sea necesario incluir comunicaciones personales en los apéndices, se deben incluir entre paréntesis los detalles de la comunicación. Por ejemplo: (John Doe, comunicación personal, 1 de agosto de 2023).
+En el caso de que sea necesario incluir comunicaciones personales en los apéndices, se deben incluir entre paréntesis los detalles de la comunicación.
+
+>Por ejemplo: (John Doe, comunicación personal, 1 de agosto de 2023).
 
 Si se incluyen en el apéndice citas textuales de alguna comunicación personal, se deben indicar de forma clara qué partes son citas y cuáles son comentarios del propio autor del trabajo.
 
-## Derechos de autor
+## Derechos de autor con normas APA
 
 El aspecto de los derechos de autor es fundamental en cualquier trabajo académico, es por eso que es importante conocer los criterios que se deben aplicar a las tablas y figuras utilizadas en tus trabajos para proteger la propiedad intelectual.
 

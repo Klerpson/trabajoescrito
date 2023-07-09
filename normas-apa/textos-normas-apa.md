@@ -5,9 +5,9 @@ description: "Redacta textos con las Normas APA de forma precisa y coherente. �
 h1: "Creando un Texto según las Normas APA"
 intro: "Con las Normas APA  se busca establecer una uniformidad en la estructura y una adecuada citación de las fuentes utilizadas, lo que es fundamental para el otorgamiento de crédito académico."
 boton_info: "normas"
-boton_info_title: "Formato"
+boton_info_title: "Formato de hoja"
 boton_mas: "descargas"
-boton_mas_title: "Espaciados"
+boton_mas_title: "Formato de fuentes"
 vertical: true
 permalink: /normas-apa/textos-normas-apa
 ---
@@ -27,7 +27,7 @@ Las Normas APA establecen ciertos requisitos para la presentación general del d
 
 - **Tipo de Letra y Tamaño**: Se recomienda usar una fuente legible, como **Times New Roman de tamaño 12**.
 - **Espaciado**: El documento debe estar a **doble espacio, incluyendo las citas y las referencias**.
-- **Formato de letras**: Se recomienda no utilizar negrita, cursiva o subrayado en el cuerpo del trabajo.
+- **Formato de letras**: Se recomienda no utilizar negrita, cursiva o subrayado en [el cuerpo del trabajo]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo").
 {:class="seccion_a"}
 
 ### Uso de encabezados
@@ -48,7 +48,7 @@ Las Normas APA establecen ciertos requisitos para la presentación general del d
 
 ## Tamaño de la página, interlineado, fuente y sangría
 
-La presentación del trabajo es una parte fundamental de las Normas APA. A continuación, se explican las reglas a seguir sobre el tamaño de la página, interlineado, fuente y sangría
+[La presentación del trabajo]({% post_url 2023-05-28-como-presentar-trabajo-escrito %} "Presentación del trabajo escrito") es una parte fundamental de las Normas APA. A continuación, se explican las reglas a seguir sobre el tamaño de la página, interlineado, fuente y sangría
 
 ### Tamaño de la página recomendado
 
@@ -62,13 +62,13 @@ La compaginación de [títulos y subtítulos con normas APA]({{'normas-apa/titul
 
 ### Interlineado recomendado
 
-El interlineado recomendado en las Normas APA es de 2,0. Esto significa que el espacio entre cada línea debería ser el doble del tamaño de la fuente utilizada. El interlineado también puede ser 1,5.
+[El interlineado recomendado en las Normas APA]({{'normas-apa/interlineado-normas-apa'|relative_url}} "Interlineado normas APA") es de 2,0. Esto significa que el espacio entre cada línea debería ser el doble del tamaño de la fuente utilizada. El interlineado también puede ser 1,5.
 
 ### Uso de cursiva y listas en el texto
 
 **La cursiva se utiliza para enfatizar palabras o frases**. En los trabajos académicos, la cursiva se usa para marcar nombres de libros, revistas, películas, entre otros.
 
-Asimismo, se puede usar viñetas o listas numeradas **para enumerar elementos que se presentan en el texto, pero solo en los casos que sea necesario**.
+Asimismo, se puede usar [viñetas o listas numeradas]({{'normas-apa/listas-normas-apa'|relative_url}} "Listas normas APA") **para enumerar elementos que se presentan en el texto, pero solo en los casos que sea necesario**.
 
 ### Alineación y sangría
 

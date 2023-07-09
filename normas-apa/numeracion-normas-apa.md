@@ -29,7 +29,7 @@ Aplicar la **numeración en Normas APA** puede ser un proceso tedioso si lo hace
 
 Afortunadamente, existen varias herramientas y características de software de procesamiento de textos que pueden facilitarte esta tarea.
 
-Por ejemplo, programas como **Microsoft Word y Google Docs** te permiten configurar automáticamente la numeración de páginas de acuerdo con las Normas APA. Solo necesitas seleccionar el formato correcto y el software hará el resto por ti.
+Por ejemplo, programas como **[Power Point]({% post_url 2023-06-02-normas-apa-power-point %} "Normas APA en Power Point"), Microsoft Word y Google Docs** te permiten configurar automáticamente la numeración de páginas de acuerdo con las Normas APA. Solo necesitas seleccionar el formato correcto y el software hará el resto por ti.
 
 Además, existen herramientas en línea que te permiten formatear automáticamente tu documento de acuerdo con las Normas APA. Estas pueden ser útiles si no tienes acceso a software de procesamiento de texto o si prefieres trabajar en línea.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->

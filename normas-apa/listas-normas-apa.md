@@ -5,9 +5,9 @@ description: "Aprende a formatear las listas con las Normas APA ✓ ¡Haz que tu
 h1: "Listas con normas APA: organización y claridad"
 intro: "Las Normas APA son una herramienta necesaria para citar correctamente en trabajos académicos. Entre las principales recomendaciones está el uso de listas con viñetas para elementos cortos y sin estructura jerárquica."
 boton_info: "normas"
-boton_info_title: "Listas numeradas"
+boton_info_title: "Usar listas"
 boton_mas: "descargas"
-boton_mas_title: "Consejos"
+boton_mas_title: "Aprende más tips"
 vertical: true
 permalink: /normas-apa/listas-normas-apa
 ---
@@ -67,11 +67,13 @@ A continuación, se detallan los aspectos clave para crear una lista de referenc
 
 ### Orden alfabético por apellido de autor
 
-Uno de los criterios principales para elaborar la lista de referencias es **hacerlo en orden alfabético ascendente, según el apellido de cada autor**. Esto se aplica tanto para libros como para artículos de revistas, tesis, entre otros.
+Uno de los criterios principales para elaborar la lista de referencias es **hacerlo en orden alfabético ascendente, según el apellido de cada autor**. Esto se aplica tanto para libros como para [artículos de revistas]({{'articulos-con-normas-apa'|relative_url}} "Artículos con normas APA"), [tesis]({{'tesis-normas-apa'|relative_url}} "Tesis con normas APA"), entre otros.
 
 En el caso de trabajos con varios autores, se debe utilizar el orden alfabético del primer autor, pero sin invertir los nombres.
 
 Si hay dos o más autores con el mismo apellido, se debe ordenar según la inicial del nombre. Si los autores son entidades o instituciones, el elemento a considerar es el primer término en orden alfabético.
+
+----
 
 ## Tabla de contenido: cómo organizar las listas del índice
 
@@ -81,9 +83,9 @@ Se trata de un índice que **se encuentra al inicio del documento y que muestra 
 
 ### Titulares y subtítulos jerárquicos
 
-Es importante clasificar los diferentes contenidos del trabajo en diferentes niveles jerárquicos. Por ejemplo, los títulos principales del trabajo deben ser de nivel 1, mientras que los subtítulos pueden ser de nivel 2 o 3.
+Es importante clasificar los diferentes contenidos del trabajo en diferentes niveles jerárquicos. Por ejemplo, los [títulos principales del trabajo]({{'normas-apa/titulos-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos APA") deben ser de nivel 1, mientras que los subtítulos pueden ser de nivel 2 o 3.
 
-Los subtítulos deben reflejar de manera clara y concisa el contenido que se va a desarrollar. Asimismo, deben estar **redactados de manera coherente y con un tratamiento uniforme en cuanto a la tipografía, tamaño y estilo**.
+[Los subtítulos]({{'normas-apa/titulos-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos APA") deben reflejar de manera clara y concisa el contenido que se va a desarrollar. Asimismo, deben estar **redactados de manera coherente y con un tratamiento uniforme en cuanto a la tipografía, tamaño y estilo**.
 
 #### Ejemplo de titulares y subtítulos jerárquicos
 
@@ -102,9 +104,9 @@ Los subtítulos deben reflejar de manera clara y concisa el contenido que se va 
 
 ### Números de página y estructura del contenido
 
-Una tabla de contenido correctamente estructurada debe incluir los números de página correspondientes a los diferentes contenidos del trabajo. Además, debe reflejar con precisión la estructura del trabajo y su disposición.
+Una tabla de contenido correctamente estructurada debe incluir [los números de página]({{'normas-apa/numeracion-normas-apa'|relative_url}} "Numeración normas APA") correspondientes a los diferentes contenidos del trabajo. Además, debe reflejar con precisión la estructura del trabajo y su disposición.
 
-Es fundamental asegurarnos de que los subtítulos y títulos de cada sección están situados en el lugar que corresponde en la tabla de contenido y que coinciden con los contenidos que se desarrollan posteriormente.
+Es fundamental asegurarnos de que los [subtítulos y títulos]({{'titulos-trabajo-escrito'|relative_url}} "Títulos trabajo escrito") de cada sección están situados en el lugar que corresponde en la tabla de contenido y que coinciden con los contenidos que se desarrollan posteriormente.
 
 #### Ejemplo de números de página y estructura del contenido
 
@@ -120,8 +122,8 @@ Es fundamental asegurarnos de que los subtítulos y títulos de cada sección es
 >  - Tipo de estudio..................................................7
 >  - Población y muestra...........................................8
 >  - Técnicas e instrumentos de recogida de datos....9
-  <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-  {:id="descargas"}
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 {% include cta-normas.html norma="apa" %}
 

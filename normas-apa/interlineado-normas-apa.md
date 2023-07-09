@@ -5,9 +5,9 @@ description: "✦ Aprende todo sobre interlineado y espaciado según las normas 
 h1: "Interlineado normas APA: ¿1,5 o doble? Cómo espaciar en trabajos académicos"
 intro: "Aunque en la mayoría de veces se sugiere un interlineado doble, también hay quienes recomiendan el uso de un interlineado de 1,5 para evitar el desperdicio de papel"
 boton_info: "normas"
-boton_info_title: "Cómo hacer"
-boton_mas: "descargas"
-boton_mas_title: "Formato"
+boton_info_title: "¿Doble o sencillo?"
+boton_mas: "como"
+boton_mas_title: "Cómo hacerlo"
 vertical: true
 permalink: /normas-apa/interlineado-normas-apa
 ---
@@ -20,6 +20,8 @@ En las normas APA, el interlineado se refiere a la cantidad de espacio vertical 
 Según estas normas, todo el texto en un documento, incluyendo el cuerpo del texto, los títulos, los subtítulos, las citas, las referencias y las notas al pie, debe estar a doble espacio.
 
 Además, no debe haber espacios extra entre los párrafos, y el inicio de cada párrafo debe estar marcado por una sangría de media pulgada. Es un aspecto fundamental para mantener una presentación uniforme en todo el documento y seguir las convenciones académicas y de publicación.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ## Interlineado: ¿doble o 1,5?
 
@@ -29,13 +31,15 @@ Lo mejor es seguir las indicaciones del profesor o departamento correspondiente 
 
 ### Tamaño de página y parámetros de alineación
 
-El tamaño de página y los parámetros de alineación también son importantes en la presentación de un trabajo académico. Las Normas APA establecen los parámetros de tamaño de papel y márgenes adecuados, que deben ser seguidos para cumplir con los estándares de presentación.
+El tamaño de página y los parámetros de alineación también son importantes en la presentación de un trabajo académico. Las Normas APA establecen los parámetros de tamaño de papel y [márgenes adecuados]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes APA"), que deben ser seguidos para cumplir con los estándares de presentación.
 
 ## Lineas en blanco y espacio entre párrafos
 
 Se debe usar una línea en blanco entre cada párrafo. Es importante no agregar líneas adicionales entre párrafos, ya que **puede ser interpretado como espacio adicional y penalizado en la evaluación** del trabajo.
 
 Además, se debe usar una línea en blanco después de los títulos principales (H1) y antes de los títulos secundarios (H2).
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="como"}
 
 ## Cómo aplicar el interlineado en normas APA
 
@@ -44,6 +48,8 @@ Para aplicar correctamente el interlineado en normas APA, asegúrate de **que to
 En la mayoría de los procesadores de texto, puedes ajustar el interlineado en el menú de formato o diseño de página. Por lo general, **hay una opción para el interlineado doble.**
 
 >Es una buena idea revisar tu documento después de aplicar el interlineado para asegurarte de que se ha aplicado de manera correcta. Mejorar la presentación de tu documento demuestra tu competencia y respeto por las convenciones académicas.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ### Interlineado en documentos científicos según APA
 
@@ -57,7 +63,7 @@ No dejes espacios extra entre los párrafos. En lugar de ello, el inicio de cada
 
 ### ¿Dónde se aplica el interlineado en Normas APA?
 
-El interlineado en normas APA se aplica en todo el texto del documento, incluyendo el cuerpo del texto, los títulos, los subtítulos, las citas, las referencias y las notas al pie.
+El interlineado en normas APA se aplica en todo el texto del documento, incluyendo el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo de trabajo"), los [títulos, los subtítulos]({{'normas-apa/titulos-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos APA"), las [citas]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA"), las [referencias]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas APA") y las notas al pie.
 
 ### ¿Cómo cambiar el interlineado a normas APA en Word?
 
@@ -75,4 +81,4 @@ Las normas APA recomiendan un interlineado doble en todo el texto del documento 
 
 ## Aplica el interlineado en normas APA
 
-Con esta información ya puedes entender el interlineado y espaciado en las normas APA. Sigue correctamente estas pautas que te ayudarán a presentar un trabajo de calidad y respetar las convenciones académicas.
+Con esta información ya puedes entender el interlineado y espaciado en las normas APA. Sigue correctamente estas pautas que te ayudarán a [presentar un trabajo de calidad]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}) y respetar las convenciones académicas.

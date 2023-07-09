@@ -5,9 +5,9 @@ description: La portada con normas APA debe incluir un título claro y descripti
 h1: "Portada con normas APA: mejora la presentación de tus trabajos académicos"
 intro: "La portada es la cara de cualquier trabajo académico que se presente y su presentación correctamente es muy importante para mostrar profesionalismo y precisión en la comunicación escrita."
 boton_info: "normas"
-boton_info_title: "Normas"
+boton_info_title: "Conoce las normas"
 boton_mas: "descargas"
-boton_mas_title: "Afiliación institucional"
+boton_mas_title: "Conoce la Afiliación Institucional"
 vertical: true
 permalink: /normas-apa/portada-normas-apa
 ---
@@ -24,7 +24,7 @@ La portada según [las normas APA]({{'normas-apa'|relative_url}} "Normas APA") e
 - Incluir el título de forma concisa y descriptiva.
 - El nombre del autor o autores, su(s) afiliación(es) institucional(es) y la fecha de entrega.
 - Colocar los elementos de la portada separados por espacios y sin punto final.
-- Seguir el mismo formato, tamaño y fuente al resto del documento.
+- Seguir el mismo [formato, tamaño y fuente]({{'normas-apa/textos-normas-apa'|relative_url}} "Textos normas APA") al resto del documento.
 {:class="seccion_a"}
 
 ### Aspectos básicos de las normas APA en la portada
@@ -59,7 +59,7 @@ Para tener trabajos académicos reconocidos como **rigurosos y profesionales, la
 
 Siguiendo estas normas básicas es posible presentar una portada rigurosa, profesional y apropiada para cualquier trabajo académico presentado según las Normas APA.
 
-### Contenido de la portada
+### Contenido apropiado en la portada
 
 - Título conciso y descriptivo del trabajo
 - Nombre del autor o autores
@@ -73,7 +73,7 @@ En la portada de un trabajo académico, es importante que **el título y el nomb
 
 - Colocar el título del trabajo de forma centrada, en mayúscula y minúscula.
 - Debajo del título, colocar el nombre del autor de forma centrada y también en mayúscula y minúscula.
-- Para alinear ambos elementos, se debe colocar el título del trabajo y el nombre del autor en la misma línea, separados por una línea en blanco y centrados en la página.
+- Para alinear ambos elementos, se debe colocar el título del trabajo y el nombre del autor en la misma línea, [separados por una línea en blanco]({{'normas-apa/interlineado-normas-apa'|relative_url}} "Interlineado normas APA") y centrados en la página.
 {:class="seccion_a"}
 
 Es importante recordar que **la fuente y el tamaño** del título y el nombre del autor **deben ser iguales a los del resto del documento**. Por otro lado, es recomendable que la portada sea simple y clara, y no incluya elementos gráficos innecesarios.
@@ -96,7 +96,7 @@ La fecha de entrega de un trabajo es importante, ya que es un elemento que **ayu
 - El mes debe estar escrito en idioma Español, castellano, en su variante de Colombia.
 {:class="seccion_a"}
 
-El formato adecuado de la fecha en la portada según las Normas APA ayuda a mostrar un trabajo más profesional y organizado. Es por eso que es importante prestar atención a este detalle en la presentación de trabajos académicos.
+El formato adecuado de la fecha en la portada según las Normas APA ayuda a mostrar un trabajo más profesional y organizado. Es por eso que es importante prestar atención a este detalle en la [presentación de trabajos académicos]({% post_url 2023-05-28-como-presentar-trabajo-escrito %} "Presentación trabajo escrito").
 
 ### Tamaño y fuente en la portada: igual que el resto del documento
 
@@ -107,14 +107,14 @@ Esto significa que el título, el nombre del autor, la afiliación institucional
 Para lograr este propósito, es vital conocer y aplicar correctamente las Normas APA. Estas especifican el tipo y tamaño de fuente a utilizar, así como también el interlineado, el margen y la orientación del documento.
 
 - La fuente recomendada para la portada y todo el documento es Times New Roman o Arial en tamaño 12.
-- El interlineado debe ser de 2.0 y el margen de 2.54 centímetros en cada uno de los lados.
+- El interlineado debe ser de 2.0 y [el margen de 2.54 centímetros en cada uno de los lados]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes normas APA").
 - Además, se debe usar sangría para la primera línea de cada párrafo, excepto para el primer párrafo de cada sección.
 {:class="seccion_a"}
 
 ### Alineación y sangría en la portada
 
 - El título del trabajo y el nombre del autor deben ir centrados y escritos en negrita.
-- La afiliación institucional y la fecha deben ir alineadas a la derecha.
+- [La afiliación institucional](#la-importancia-de-la-afiliación-institucional-en-la-portada) y la fecha deben ir alineadas a la derecha.
 - En la portada no se deben utilizar sangrías y el texto debe justificarse de manera completa.
 {:class="seccion_a"}
 
@@ -128,7 +128,7 @@ La portada según las normas APA debe **incluir los datos de la universidad a la
 - La ubicación geográfica de la universidad puede ser incluida si es requerida por la institución o para mayor claridad.
 {:class="seccion_a"}
 
-Cada universidad tiene sus propias normas y especificaciones sobre los datos que deben incluirse en la portada y en qué forma. Es necesario revisar cuidadosamente la información proporcionada por la institución para seguir las normativas concretas que corresponden.
+Cada universidad tiene sus propias normas y especificaciones sobre los datos que deben incluirse en la portada y en qué forma. Es necesario **revisar cuidadosamente la información proporcionada por la institución** para seguir las normativas concretas que corresponden.
 
 ### Nombre del autor en la portada
 
@@ -152,7 +152,7 @@ La afiliación institucional es un elemento clave en la portada según las Norma
 
 **La afiliación institucional debe ir centrada y en mayúscula y minúscula, debajo del nombre del autor**. Es recomendable usar la denominación oficial de la institución.
 
-En algunos casos, debemos incluir la facultad, el departamento o la escuela a la que pertenece el autor. En conclusion, l**a afiliación institucional en la portada es clave para mostrar profesionalismo y credibilidad** en un trabajo académico.
+En algunos casos, debemos incluir la facultad, el departamento o la escuela a la que pertenece el autor. En conclusion, **la afiliación institucional en la portada es clave para mostrar profesionalismo y credibilidad** en un trabajo académico.
 
 Es importante asegurarse de que la afiliación institucional **sea correcta y esté actualizada**. Además, se debe **evitar utilizar abreviaciones o siglas que puedan generar confusión** en los lectores.
 
