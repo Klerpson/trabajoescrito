@@ -1,99 +1,94 @@
 ---
 layout: default
-title: "★ Descubre claves para usar listas con las Normas ICONTEC"
-description: Aprende a crear listas efectivas y bien formateadas según las Normas ICONTEC. Sigue los estándares y mejora la presentación de tus escritos. ¡Comienza hoy!
-h1: "Las listas en tus documentos: mejora la organización y claridad con las normas ICONTEC"
-intro: "Aprende a crear listas efectivas y bien formateadas según las Normas ICONTEC. Sigue los estándares y mejora la presentación de tus escritos. ¡Comienza hoy"
+title: "Aplica Normas ICONTEC: mejora tus conclusiones ◁"
+description: Aprende a usar las Normas ICONTEC para mejorar tus conclusiones. ¡Impresiona a tus lectores hoy mismo!
+h1: "Haz conclusiones siguiendo las Normas ICONTEC"
+intro: "Descubre cómo las Normas ICONTEC pueden transformar tus conclusiones. ¡Eleva la calidad de tus trabajos ahora!"
 boton_info: "normas"
-boton_info_title: "Formato"
+boton_info_title: "Sigue el formato"
 boton_mas: "descargas"
-boton_mas_title: "FAQ's"
+boton_mas_title: "Mira ejemplos"
 vertical: true
-permalink: /normas-icontec/listas-normas-icontec
+permalink: /normas-icontec/conclusiones-normas-icontec
 ---
-En un mundo donde la información se encuentra en constante expansión, contar con herramientas efectivas para organizar y presentar datos se vuelve fundamental. Uno de los recursos **más útiles y versátiles en este sentido son las listas**.
+![Conclusiones en Normas Icontec]({{'img/conclusiones-icontec.webp'|relative_url}} "Normas Icontec - Conclusiones"){:width="480"}
 
-Veamos la importancia de utilizar listas en tus documentos, en particular, **siguiendo las [Normas ICONTEC]({{'normas-icontec'|realtive_url}} "Normas Icontec")**.
+Las conclusiones son una parte esencial de cualquier trabajo académico. [Según las Normas ICONTEC]({{'normas-icontec'|relative_url}} "Normas Icontec"), **deben ser claras, concisas y estar directamente relacionadas con los objetivos** del trabajo.
 
-Aprenderás cómo las listas pueden mejorar la organización y claridad de tus escritos, así como los beneficios de adherirte a las normas establecidas por el Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC).
+## Estructura de las conclusiones bajo Normas ICONTEC
 
-## ¿Por qué las listas son indispensables en tus documentos?
+Las conclusiones según las Normas ICONTEC deben tener una estructura específica.
 
-Cuando nos encontramos frente a un texto largo y denso, la información puede resultar abrumadora y difícil de asimilar. Aquí es donde las listas se convierten en una herramienta invaluable.
+En primer lugar, deben **resumir los principales hallazgos o resultados del trabajo**. A continuación, deben **relacionar estos hallazgos con los objetivos** del trabajo. Finalmente, pueden **presentar recomendaciones o sugerencias** para futuras investigaciones.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
-Las listas permiten **desglosar la información en elementos más manejables**, facilitando su lectura y comprensión.
+## Formato de las Conclusiones Según ICONTEC
 
->Al utilizar listas correctamente estructuradas, **logramos transmitir ideas de forma clara y concisa**, destacando los puntos clave y *evitando la saturación de información*.
+El formato de las conclusiones según las Normas ICONTEC es igualmente importante.
 
-### Ventajas de utilizar listas según las Normas ICONTEC
+Deben presentarse en una nueva página, comenzando con la palabra "Conclusiones" centrada en la parte superior de la página.
 
-1. **Organización y estructura:** Las listas te permiten presentar tus ideas de forma ordenada y estructurada. Siguiendo las Normas ICONTEC, podrás establecer un formato uniforme que garantice la coherencia y facilite la navegación de tus lectores.
-2. **Claridad y legibilidad:** Al dividir la información en elementos separados, las listas mejoran la claridad y legibilidad del contenido. Los lectores podrán identificar rápidamente los puntos clave y comprender la estructura general del documento.
-3. **Facilitan la retención de información:** La presentación de datos en forma de lista favorece la retención de información. Los lectores pueden asimilar y recordar de manera más efectiva los puntos relevantes al visualizarlos de manera organizada y secuencial.
-4. **Destacan la jerarquía de la información:** Mediante el uso de listas numeradas o con viñetas, es posible establecer una jerarquía clara en tus escritos. Esto permite resaltar la importancia relativa de cada elemento y enfocar la atención del lector en los aspectos más relevantes.
-{:class="seccion_a"}
+Adicionalmente, se deben **enumerar las conclusiones en párrafos separados**, cada uno de los cuales debe comenzar con un guión o con números.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
+<!-- 
+----
 
-## Normas ICONTEC para la estructura de las listas
+## Síntesis y Resumen en Normas ICONTEC
 
-Las Normas ICONTEC establecen directrices precisas para la estructura y formato de las listas. A continuación, te presentamos algunos aspectos clave que debes tener en cuenta al utilizar listas según estas normas:
+Además de las conclusiones, las Normas ICONTEC también proporcionan directrices para la redacción de la síntesis y el resumen.
 
-### Elementos esenciales de una lista según las Normas ICONTEC
+### Elaboración de una Síntesis bajo Normas ICONTEC
 
-Las listas deben contar con los siguientes elementos:
+La síntesis es un resumen de las principales ideas o argumentos presentados en el trabajo. Según las Normas ICONTEC, debe ser breve y centrarse únicamente en los puntos más importantes.
 
-- **Título descriptivo:** Cada lista debe iniciar con un título descriptivo que indique su contenido.
-- **Elementos de la lista:** Los elementos de la lista deben presentarse en líneas separadas, comenzando cada uno con un número o una viñeta, seguido de un espacio y el texto del elemento.
-{:class="seccion_a"}
+### Cómo Hacer un Resumen Siguiendo las Normas ICONTEC
 
-### Formato adecuado de numeración y puntuación en las listas
+El resumen, por otro lado, es una descripción más detallada del trabajo. Debe incluir los objetivos, los métodos utilizados, los principales hallazgos y las conclusiones. Según las Normas ICONTEC, el resumen debe ser claro, conciso y no debe contener ningún tipo de opinión personal o interpretación.
 
-Para las listas numeradas, las Normas ICONTEC especifican el uso de **números arábigos seguidos de un punto**. Por ejemplo, "1.", "2.", etc.
+## Recapitulación Conforme a Normas ICONTEC
 
-No se debe utilizar otro tipo de puntuación al final de los elementos de la lista.
+La recapitulación es otra parte importante del trabajo académico. Según las Normas ICONTEC, la recapitulación debe presentar una revisión de todo el trabajo, destacando los puntos más importantes y relacionándolos con las conclusiones.
 
-## Ejemplos de listas bien formateadas según las Normas ICONTEC
+### Pasos para una Correcta Recapitulación bajo Normas ICONTEC
+La recapitulación debe comenzar con una revisión de los objetivos del trabajo, seguida de una descripción de los métodos utilizados. A continuación, debe presentar los principales hallazgos o resultados, y finalmente, debe relacionar estos hallazgos con las conclusiones.
 
-A continuación, te presentamos algunos ejemplos de listas correctamente estructuradas según las Normas ICONTEC:
+## Aplicación Práctica de las Normas ICONTEC
+Ahora que comprendemos las normas ICONTEC y cómo se aplican a las conclusiones, resúmenes y síntesis, podemos poner estos conocimientos en práctica. En el siguiente ejemplo, veremos cómo se puede aplicar las Normas ICONTEC en un trabajo académico. -->
 
->**Pasos para realizar un análisis de datos**
->1. Recopilar los datos necesarios.
->2. Limpiar y preprocesar los datos.
->3. Aplicar las técnicas de análisis adecuadas.
->4. Interpretar los resultados obtenidos.
->5. Presentar los hallazgos de manera clara y concisa.
+----
 
->**Ventajas de utilizar las Normas ICONTEC**
->- Estándar reconocido internacionalmente.
->- Aseguran la uniformidad en la presentación de documentos.
->- Mejoran la claridad y comprensión de la información.
->- Aportan credibilidad y profesionalismo al documento.
->- Facilitan la citación y referencia de fuentes.
+## Ejemplo de conclusiones con Normas ICONTEC
 
->**Puntos clave a considerar al redactar un artículo científico**
->- Definir claramente el objetivo y la metodología de la investigación.
->- Presentar los resultados de manera objetiva y precisa.
->- Realizar una discusión profunda sobre los hallazgos.
->- Realizar una citación adecuada de fuentes y referencias bibliográficas.
->- Revisar y corregir el artículo antes de su presentación.
+Este ejemplo está basado en un trabajo ficticio sobre la efectividad de un nuevo tipo de fertilizante.
 
->**Pasos para diseñar un experimento científico**
->1. Formular una pregunta de investigación clara y específica.
->2. Diseñar un plan experimental que incluya variables y controles.
->3. Recolectar y analizar los datos de manera precisa.
->4. Interpretar los resultados y sacar conclusiones.
->5. Comunicar los hallazgos a través de informes científicos.
+> ### Conclusiones
+>
+> 1. El nuevo fertilizante es significativamente más efectivo que los fertilizantes convencionales en la promoción del crecimiento de las plantas.
+> 2. Sin embargo, su uso prolongado puede tener efectos perjudiciales en la calidad del suelo.
+> 3. Se recomienda realizar más investigaciones para evaluar los efectos a largo plazo del nuevo fertilizante.
 
->**Consejos para una presentación efectiva de PowerPoint**
->- Utilizar un diseño limpio y legible.
->- Limitar el texto en cada diapositiva y utilizar puntos clave.
->- Utilizar gráficos e imágenes para apoyar la información.
->- Practicar y familiarizarse con el contenido de la presentación.
->- Mantener una buena postura y contacto visual con la audiencia.
+### Preguntas frecuentes
 
-## Mejora tu trabajo escrito con listas bien hechas
+#### ¿Cómo citar en las conclusiones según las Normas ICONTEC?
 
-El uso adecuado de listas según las Normas ICONTEC es fundamental para mejorar la organización y claridad de tus documentos.
+En las conclusiones, las citas deben seguir el formato de las Normas ICONTEC, que especifica que las referencias deben aparecer en paréntesis al final de la oración.
 
-Al seguir estas normas, podrás presentar tus ideas de manera estructurada, destacando los puntos clave y facilitando la comprensión por parte de tus lectores.
+#### ¿Cómo se realiza la recapitulación de la información en la conclusión?
 
-Utiliza títulos descriptivos, respetar el formato de numeración y puntuación, y aprovechar al máximo las ventajas que ofrecen las listas.
+La recapitulación debe seguir una estructura específica: revisión de los objetivos, descripción de los métodos, presentación de los hallazgos y relación con las conclusiones.
+
+#### ¿Qué longitud deben tener las conclusiones según las Normas ICONTEC?
+
+La longitud de las conclusiones puede variar dependiendo del trabajo, pero las Normas ICONTEC sugieren que **deben ser lo suficientemente breves para resumir los hallazgos** sin entrar en demasiados detalles.
+
+----
+
+## ¿Cómo realizar trabajos de alta calidad con las Normas ICONTEC?
+
+Ahora que conocemos las Normas ICONTEC y cómo aplicarlas para redactar conclusiones, podemos usar este conocimiento para mejorar [la calidad de nuestros trabajos académicos]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}).
+
+El objetivo de estas normas es asegurar que nuestros trabajos sean claros, concisos y estandarizados. Siguiendo estas pautas, podremos asegurarnos de que nuestras ideas sean entendidas y evaluadas de manera justa.
+
+Ahora, te animamos a poner en práctica lo aprendido y a empezar a usar las Normas ICONTEC en tus próximos [trabajos académicos](/#buscador). ¡Buena suerte!

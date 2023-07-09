@@ -5,7 +5,7 @@ description: "Aprende las normas ICONTEC 2023 📘. Aplica el formato a tus trab
 h1: "Normas Icontec: claves para los trabajos académicos"
 intro: "Las normas Icontec son un conjunto de reglas y metodologías que establecen criterios como la disposición de títulos y subtítulos, los márgenes, las fuentes aceptadas y la numeración."
 boton_info: "estructura"
-boton_info_title: "En Word"
+boton_info_title: "Cómo aplicarlas"
 boton_mas: "descargas"
 boton_mas_title: "Tips"
 vertical: true
@@ -35,7 +35,7 @@ Las normas colombianas se enfocan principalmente en establecer un patrón de pre
 * [⇾ Tabla de contenido o índice](#contenido)
 * [⇾ Introducción](#introduccion)
 * [⇾ Cuerpo de trabajo](#cuerpo)
-<!-- * [⇾ Conclusiones](#conclusiones) -->
+* [⇾ Conclusiones](#conclusiones)
 * [⇾ Glosario](#glosario)
 * [⇾ Referencias bibliográficas y citas](#referencias)
 * [⇾ Anexos](#anexos)
@@ -96,9 +96,17 @@ El cuerpo del trabajo es la parte principal de tu documento. Aquí es donde pres
 
 Según las Normas ICONTEC, el cuerpo del trabajo debe estar compuesto por los siguientes elementos: **introducción, desarrollo (que puede incluir sub-secciones como marco teórico, metodología, resultados, etc.) y conclusiones**.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="glosario"}
+{:id="conclusiones"}
 
 [Cuerpo de trabajo y formato Icontec]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo de trabajo o formato Icontec"){:class="boton"}
+
+### Conclusiones
+
+Las Normas ICONTEC transforman tus conclusiones. Estas son una guía muy clara para que estas sean más que una sección de relleno. Ahora las conclusiones se convertirán en una herramienta muy útil en tu trabajo escrito.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="glosario"}
+
+[Conclusiones con normas Icontec]({{'normas-icontec/conclusiones-normas-icontec'|relative_url}} "Conclusiones normas Icontec"){:class="boton"}
 
 ### Glosario
 
