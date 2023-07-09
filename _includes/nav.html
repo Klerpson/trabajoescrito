@@ -1,15 +1,39 @@
 <nav>
   <input id="nav-toggle" type="checkbox">
-  <a href="{{site.baseurl}}/" title="Inicio"><img src="{{'logotipo.webp'|relative_url}}" alt="Logotipo de TrabajoEscrito.com" width="180"></a>
+  <a href="{{site.baseurl}}/" title="Inicio" class="logo"><img src="{{'logotipo.webp'|relative_url}}" alt="Logotipo de TrabajoEscrito.com" width="180"></a>
     
   <ul>
     <li><details>
-      <summary>Normas ⩡</summary>
-      <a href="{{site.baseurl}}/normas-apa" {% if page.url contains "/normas-apa" %}class="active"{% endif %}">APA</a>
-      <a href="{{site.baseurl}}/normas-icontec" {% if page.url contains "/normas-icontec" %}class="active"{% endif %}">Icontec</a>
+      <summary>APA⩡</summary>
+      <a href="{{ site.baseurl }}/normas-apa/citas-normas-apa" {% if page.url contains "/normas-apa/citas-normas-apa" %}class="active"{% endif %}">⇾ Citas</a>
+      <a href="{{ site.baseurl }}/normas-apa/contraportada-normas-apa" {% if page.url contains "/normas-apa/contraportada-normas-apa" %}class="active"{% endif %}">⇾ Contraportadas</a>
+      <a href="{{ site.baseurl }}/normas-apa/interlineado-normas-apa" {% if page.url contains "/normas-apa/interlineado-normas-apa" %}class="active"{% endif %}">⇾ Interlineado</a>
+      <a href="{{ site.baseurl }}/normas-apa/listas-normas-apa" {% if page.url contains "/normas-apa/listas-normas-apa" %}class="active"{% endif %}">⇾ Listas</a>
+      <a href="{{ site.baseurl }}/normas-apa/margenes-normas-apa" {% if page.url contains "/normas-apa/margenes-normas-apa" %}class="active"{% endif %}">⇾ Márgenes</a>
+      <a href="{{ site.baseurl }}/normas-apa/numeracion-normas-apa" {% if page.url contains "/normas-apa/numeracion-normas-apa" %}class="active"{% endif %}">⇾ Numeración</a>
+      <a href="{{ site.baseurl }}/normas-apa/portada-normas-apa" {% if page.url contains "/normas-apa/portada-normas-apa" %}class="active"{% endif %}">⇾ Portadas</a>
+      <a href="{{ site.baseurl }}/normas-apa/referencias-bibliograficas-normas-apa" {% if page.url contains "/normas-apa/referencias-bibliograficas-normas-apa" %}class="active"{% endif %}">⇾ Referencias</a>
+      <a href="{{ site.baseurl }}/normas-apa/sangria-paragrafos-normas-apa" {% if page.url contains "/normas-apa/sangria-paragrafos-normas-apa" %}class="active"{% endif %}">⇾ Sangría</a>
+      <a href="{{ site.baseurl }}/normas-apa/tablas-y-figuras-normas-apa" {% if page.url contains "/normas-apa/tablas-y-figuras-normas-apa" %}class="active"{% endif %}">⇾ Tablas y Figuras</a>
+      <a href="{{ site.baseurl }}/normas-apa/textos-normas-apa" {% if page.url contains "/normas-apa/textos-normas-apa" %}class="active"{% endif %}">⇾ Formato texto</a>
+      <a href="{{ site.baseurl }}/normas-apa/titulos-y-subtitulos-normas-apa" {% if page.url contains "/normas-apa/titulos-y-subtitulos-normas-apa" %}class="active"{% endif %}">⇾ Títulos</a>
     </details></li>
     <li><details>
-      <summary>Trabajos ⩡</summary>
+      <summary>Icontec⩡</summary>
+      <a href="{{ site.baseurl }}/normas-icontec/anexos-normas-icontec" {% if page.url contains "/normas-icontec/anexos-normas-icontec" %}class="active"{% endif %}">⇾ Anexos</a>
+      <a href="{{ site.baseurl }}/normas-icontec/citas-referencias-normas-icontec" {% if page.url contains "/normas-icontec/citas-referencias-normas-icontec" %}class="active"{% endif %}">⇾ Citas</a>
+      <a href="{{ site.baseurl }}/normas-icontec/conclusiones-normas-icontec" {% if page.url contains "/normas-icontec/conclusiones-normas-icontec" %}class="active"{% endif %}">⇾ Conclusiones</a>
+      <a href="{{ site.baseurl }}/normas-icontec/cuerpo-trabajo-normas-icontec" {% if page.url contains "/normas-icontec/cuerpo-trabajo-normas-icontec" %}class="active"{% endif %}">⇾ Formato</a>
+      <a href="{{ site.baseurl }}/normas-icontec/glosario-normas-icontec" {% if page.url contains "/normas-icontec/glosario-normas-icontec" %}class="active"{% endif %}">⇾ Glosario</a>
+      <a href="{{ site.baseurl }}/normas-icontec/introduccion-normas-icontec" {% if page.url contains "/normas-icontec/introduccion-normas-icontec" %}class="active"{% endif %}">⇾ Introducción</a>
+      <a href="{{ site.baseurl }}/normas-icontec/listas-normas-icontec" {% if page.url contains "/normas-icontec/listas-normas-icontec" %}class="active"{% endif %}">⇾ Listas</a>
+      <a href="{{ site.baseurl }}/normas-icontec/marco-teorico-normas-icontec" {% if page.url contains "/normas-icontec/marco-teorico-normas-icontec" %}class="active"{% endif %}">⇾ Marco teórico</a>
+      <a href="{{ site.baseurl }}/normas-icontec/margenes-normas-icontec" {% if page.url contains "/normas-icontec/margenes-normas-icontec" %}class="active"{% endif %}">⇾ Márgenes</a>
+      <a href="{{ site.baseurl }}/normas-icontec/portada-contraportada-normas-icontec" {% if page.url contains "/normas-icontec/portada-contraportada-normas-icontec" %}class="active"{% endif %}">⇾ Portadas</a>
+      <a href="{{ site.baseurl }}/normas-icontec/tabla-contenido-normas-icontec" {% if page.url contains "/normas-icontec/tabla-contenido-normas-icontec" %}class="active"{% endif %}">⇾ Índices</a>
+    </details></li>
+    <li><details>
+      <summary>Trabajos⩡</summary>
       <a href="{{site.baseurl}}/tesis-normas-apa" {% if page.url contains "/tesis-normas-apa" %}class="active"{% endif %}">Tesis</a>
       <a href="{{site.baseurl}}/informes" {% if page.url contains "/informe" %}class="active"{% endif %}">Informe</a>
       <a href="{{site.baseurl}}/ensayos-con-normas-tecnicas" {% if page.url contains "/ensayos-con-normas-tecnicas" %}class="active"{% endif %}">Ensayos</a>

@@ -34,12 +34,13 @@ nav ul li a,
 nav ul li summary {
   text-decoration: none;
   display: block;
-  padding: 8px 12px;
+  padding: 6px 12px;
   font-weight: 900;
   color: var(--accion);
   cursor: pointer;
   background-color: var(--blanco);
   border-radius: var(--radius);
+  font-size: 1rem;
 }
 
 nav ul li details a {
@@ -47,13 +48,11 @@ nav ul li details a {
   text-decoration-thickness: 2.8px;
   -webkit-text-decoration-color: var(--blanco);
   text-decoration-color: var(--blanco);
-  padding: 12px 20px;
-  border-bottom: 1px dotted var(--gris1);
   box-shadow: var(--shadow);
   transition: .2s all ease-in;
 }
 
-nav a:hover,
+nav a:hover:not(.logo),
 nav details a:hover,
 nav summary:hover,
 nav a.active {
@@ -121,7 +120,7 @@ nav ul li:last-child{
     top: 64px;
     width: auto;
     height: auto;
-    overflow: hidden;
+    overflow: auto;
     transition: all 0.4s ease-out;
     background-color: var(--blanco);
     align-items: center;
@@ -130,7 +129,6 @@ nav ul li:last-child{
   nav ul li a,
   nav ul li details summary,
   nav ul li details a {
-    font-size: 1.5rem;
     background-color: transparent;
   }
 

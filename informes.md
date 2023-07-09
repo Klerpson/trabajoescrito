@@ -5,7 +5,7 @@ description: "Con un informe presenta • Hallazgos • Análisis • Conclusion
 h1: "¿Cómo se hace un informe académico impecable? Nosotros te enseñamos"
 intro: "El arte de redactar un informe es más que solo juntar palabras. Si alguna vez te has preguntado, '¿Cómo realizar un informe?', esta guía práctica será tu faro en la vasta mar de la escritura académica."
 boton_info: "estructura"
-boton_info_title: "Word"
+boton_info_title: "Aplica normas"
 boton_mas: "descargas"
 boton_mas_title: "Tipos"
 vertical: true
@@ -15,8 +15,10 @@ vertical: true
 Un informe es un documento que presenta **hallazgos, análisis, y conclusiones de una investigación, lectura, experimento de laboratorio, entre otros**.
 
 Mientras que un informe y un trabajo escrito comparten varias similitudes, **el principal punto de diferencia radica en su propósito y estructura**.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
 
-## La Clave del éxito de un informe: dominando las normas APA e Icontec
+## La clave del éxito de un informe con normas APA e Icontec
 
 [Las Normas APA]({{site.baseurl}}/normas-apa) (American Psychological Association) y las Normas Icontec son el estándar de oro para presentar informes, con directrices detalladas sobre cómo citar fuentes, organizar secciones, y formatear el texto.
 
@@ -35,8 +37,6 @@ La sexta edición de las Normas APAintrodujo cambios significativos en el format
 Las normas Icontec también ofrecen directrices claras para la presentación de informes, permitiendo una lectura y comprensión fluida.
 
 Mira el paso a paso en [nuestra página de normas Icontec.]({{site.baseurl}}/normas-icontec)
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="estructura"}
 
 -----
 
