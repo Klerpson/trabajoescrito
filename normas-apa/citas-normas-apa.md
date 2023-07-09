@@ -5,9 +5,9 @@ description: "Aprende cómo hacer citas en Normas APA de manera correcta y preci
 h1: "Citar con Normas APA: la estructura adecuada"
 intro: "Con las Normas APA  se busca establecer una uniformidad en la estructura y una adecuada citación de las fuentes utilizadas, lo que es fundamental para el otorgamiento de crédito académico."
 boton_info: "normas"
-boton_info_title: "Generadores"
+boton_info_title: "Utiliza generadores"
 boton_mas: "descargas"
-boton_mas_title: "Ejemplos"
+boton_mas_title: "Ver ejemplos"
 vertical: true
 permalink: /normas-apa/citas-normas-apa
 ---
