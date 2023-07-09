@@ -51,6 +51,8 @@ Para las listas numeradas, las Normas ICONTEC especifican el uso de **números a
 
 No se debe utilizar otro tipo de puntuación al final de los elementos de la lista.
 
+{% include cta-normas.html norma="icontec" %}
+
 ## Ejemplos de listas bien formateadas según las Normas ICONTEC
 
 A continuación, te presentamos algunos ejemplos de listas correctamente estructuradas según las Normas ICONTEC:

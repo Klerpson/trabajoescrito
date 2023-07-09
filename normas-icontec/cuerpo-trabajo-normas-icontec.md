@@ -82,6 +82,8 @@ Las referencias son una lista de todas las fuentes que utilizaste para tu docume
 
 ----
 
+{% include cta-normas.html norma="icontec" %}
+
 ### Preguntas frecuentes
 
 #### ¿Es obligatorio utilizar Times New Roman en el formato ICONTEC?

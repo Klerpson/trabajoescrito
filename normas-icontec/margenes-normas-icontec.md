@@ -59,6 +59,8 @@ Para cumplir con las normas Icontec, la portada debe ser elaborada en una hoja t
 - Márgenes superior e izquierdo: 4 cm
 - Márgenes inferior y derecho: 2 cm
 
+{% include cta-normas.html norma="icontec" %}
+
 ## Mantén tu trabajo dentro de las márgenes establecidas
 
 En definitiva, respetar y seguir las normas ICONTEC para los márgenes en trabajos escritos es de suma importancia. Cumplir con estas normas no solo demuestra nuestro compromiso y respeto por las directrices académicas, sino que también ayuda a presentar nuestro trabajo de manera más legible y ordenada.

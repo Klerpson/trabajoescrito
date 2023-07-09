@@ -81,6 +81,8 @@ Es importante recordar que la información de la contraportada debe **estar alin
 
 Se debe utilizar el tamaño de papel carta, [márgenes]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Normas Icontec") y tipografía específicos. El tipo de **letra recomendado por las Normas ICONTEC para la contraportada es Arial, tamaño 12**.
 
+{% include cta-normas.html norma="icontec" %}
+
 ### Ejemplo de formato de contraportada según las Normas ICONTEC
 
 A continuación, se presenta un ejemplo de cómo debería ser la contraportada de un trabajo académico siguiendo las Normas ICONTEC:

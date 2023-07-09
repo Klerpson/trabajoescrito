@@ -84,6 +84,8 @@ Es necesario seguir las normas establecidas por ICONTEC para redactar textos en 
 
 Es recomendable utilizar la opción "Estilos Rápidos" de Word, o definir los estilos por defecto siguiendo las Normas ICONTEC.
 
+{% include cta-normas.html norma="icontec" %}
+
 ## Evita el plagio en la introducción con normas ICONTEC
 
 El plagio consiste en la copia total o parcial de un trabajo, **sin citar adecuadamente las fuentes** utilizadas.

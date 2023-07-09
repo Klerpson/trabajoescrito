@@ -120,6 +120,8 @@ Para que te sea más fácil entender cómo se hace una **tabla de contenido** ba
 >7. RECOMENDACIONES... 8
 >8. REFERENCIAS... 9
 
+{% include cta-normas.html norma="icontec" %}
+
 ### Preguntas Frecuentes
 
 Aquí te dejamos algunas preguntas frecuentes sobre las **tablas de contenido** bajo las Normas ICONTEC.

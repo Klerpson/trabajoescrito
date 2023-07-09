@@ -318,6 +318,27 @@ hr:after {
   box-shadow: none;
 }
 
+.cta-normas {
+  border: 1px solid var(--gris2);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 2rem;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+}
+
+.cta-normas div p:last-child{
+  margin: 0;
+}
+
+.normas_contenido .cta-normas .boton{
+  flex: 1 0 200px;
+  margin: 0;
+}
+
 header,
 .gallery-intro,
 .normas,

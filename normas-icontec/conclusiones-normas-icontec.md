@@ -69,6 +69,8 @@ Este ejemplo está basado en un trabajo ficticio sobre la efectividad de un nuev
 > 2. Sin embargo, su uso prolongado puede tener efectos perjudiciales en la calidad del suelo.
 > 3. Se recomienda realizar más investigaciones para evaluar los efectos a largo plazo del nuevo fertilizante.
 
+{% include cta-normas.html norma="icontec" %}
+
 ### Preguntas frecuentes
 
 #### ¿Cómo citar en las conclusiones según las Normas ICONTEC?

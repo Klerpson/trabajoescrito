@@ -106,6 +106,8 @@ Apellido del autor o entidad responsable. (año de publicación). Título de la 
 
 ----
 
+{% include cta-normas.html norma="icontec" %}
+
 ## Herramientas para generar citas y referencias bibliográficas según las Normas ICONTEC
 
 Una de las principales dificultades que tienen los estudiantes y académicos colombianos es **saber cómo realizar citas y referencias bibliográficas** según las Normas ICONTEC. Afortunadamente, existen **herramientas en línea que nos pueden ayudar en esta tarea**.

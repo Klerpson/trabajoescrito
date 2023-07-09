@@ -63,6 +63,8 @@ Para ayudarte a entender mejor, aquí te dejamos un ejemplo de cómo se vería u
 
 ----
 
+{% include cta-normas.html norma="icontec" %}
+
 ## Preguntas Frecuentes
 
 ### ¿Dónde se coloca el glosario en un trabajo escrito según las Normas Icontec?
