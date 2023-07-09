@@ -11,7 +11,11 @@ boton_mas_title: "Ejemplos"
 vertical: true
 permalink: /normas-apa/citas-normas-apa
 ---
-Veamos **las diferentes partes** que componen estos estándares, **cómo citar y hacer referencias bibliográficas**, cómo utilizar **los generadores de citas y algunos ejemplos prácticos**. Además, analizaremos los errores comunes en las citas y referencias.
+Veamos **las diferentes partes** que componen estos estándares, **cómo citar y hacer referencias bibliográficas**, cómo utilizar **los generadores de citas y algunos ejemplos prácticos**. 
+
+También, analizaremos los errores comunes en las citas y referencias.
+
+![Citas en Normas APA]({{'img/ejemplos-citas-normas-apa.webp'|relative_url}} "Normas APA - Citas"){:width="480"}
 
 ## Cómo citar en formato APA
 

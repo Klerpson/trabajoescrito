@@ -4,7 +4,7 @@
     <h1>{{page.h1}}</h1>
     {% if page.boton_info" %}
     <div>
-      <p>{{page.intro|markdownify}}</p>
+      {{page.intro|markdownify}}
       <a href="{{site.baseurl}}{{page.url}}#{{page.boton_info}}" title="{{page.boton_info_title}}" class="boton">{{page.boton_info_title | capitalize}}</a>
       <a href="{{site.baseurl}}{{page.url}}#{{page.boton_mas}}" title="{{page.boton_mas_title}}" class="boton">{{page.boton_mas_title | capitalize}}</a>
     </div>
