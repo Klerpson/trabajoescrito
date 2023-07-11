@@ -40,7 +40,8 @@ Las normas colombianas se enfocan principalmente en establecer un patrón de pre
 * [⇾ Referencias bibliográficas y citas](#referencias)
 * [⇾ Anexos](#anexos)
 * [⇾ Listas](#referencias)
-{:class="links"}
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:class="links" id="estructura"}
 
 -----
 
@@ -55,8 +56,6 @@ Ten en cuentas el siguiente **paso a paso para presentar un Trabajo Escrito con 
 Según las normas Icontec, **las márgenes deben cumplir ciertos requisitos** tanto en medidas y diseño como en cuanto a las fuentes que debe incluir.
 
 Lo primero que debes hacer antes de empezar a escribir tu trabajo es **configurar los márgenes y el formato de la hoja, con sus interlineados, fuentes o textos, y demás**.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="portada"}
 
 [Márgenes Icontec]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Icontec"){:class="boton"}
 [Formato normas Icontec]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Formato Icontec"){:class="boton"}
