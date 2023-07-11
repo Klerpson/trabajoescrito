@@ -14,7 +14,7 @@ La portada de un trabajo escrito debe contener los elementos esenciales como **[
 
 Para hacerlo más fácil, existen normas establecidas que tienen pautas y recomendaciones específicas para la elaboración de una portada adecuada.
 
-Aprende **cómo elaborar [una portada según las normas Icontec]({{site.baseurl}}/portada-contraportada-normas-icontec), o también, [según las normas APA]({{'normas-apa/portada-normas-apa'|relative_url}} "Portada normas APA")**, así como recursos y herramientas útiles para lograr un trabajo escrito de calidad.
+Aprende **cómo elaborar [una portada según las normas Icontec]({{'normas-icontec/portada-contraportada-normas-icontec'|relative_url}} "Portadas normas Icontec"), o también, [según las normas APA]({{'normas-apa/portada-normas-apa'|relative_url}} "Portada normas APA")**, así como recursos y herramientas útiles para lograr un trabajo escrito de calidad.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 

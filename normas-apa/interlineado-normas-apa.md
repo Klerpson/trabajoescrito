@@ -63,7 +63,7 @@ No dejes espacios extra entre los párrafos. En lugar de ello, el inicio de cada
 
 ### ¿Dónde se aplica el interlineado en Normas APA?
 
-El interlineado en normas APA se aplica en todo el texto del documento, incluyendo el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo de trabajo"), los [títulos, los subtítulos]({{'normas-apa/titulos-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos APA"), las [citas]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA"), las [referencias]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas APA") y las notas al pie.
+El interlineado en normas APA se aplica en todo el texto del documento, incluyendo el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo de trabajo"), los [títulos, los subtítulos]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos APA"), las [citas]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA"), las [referencias]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas APA") y las notas al pie.
 
 ### ¿Cómo cambiar el interlineado a normas APA en Word?
 

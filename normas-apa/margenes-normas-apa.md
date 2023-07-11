@@ -13,7 +13,7 @@ permalink: /normas-apa/margenes-normas-apa
 ---
 Analicemos todo lo que necesitas saber sobre **los márgenes requeridos** en tus trabajos académicos para cumplir con ciertas recomendaciones **de acuerdo con la séptima edición de las Normas APA**.
 
-Veremos cómo ajustarlos en Word y cómo configurarlos cuando se requiere encuadernación especial. También encontrarás otros elementos importantes que debes considerar para cumplir con las normas en la estructuración y [presentación de tu trabajo](% post_url 2023-05-28-como-presentar-trabajo-escrito %).
+Veremos cómo ajustarlos en Word y cómo configurarlos cuando se requiere encuadernación especial. También encontrarás otros elementos importantes que debes considerar para cumplir con las normas en la estructuración y [presentación de tu trabajo]({% post_url 2023-05-28-como-presentar-trabajo-escrito %} "Presentación de trabajos escritos").
 
 ## Márgenes según las normas APA
 
@@ -31,7 +31,7 @@ Los márgenes **son los espacios en blanco que se encuentran en los bordes del d
 
 Según las Normas APA en su séptima edición, los márgenes recomendados en el documento académico **son de 2,54 centímetros (1 pulgada) en todos los lados**.
 
-Estos márgenes deben ser aplicados en todo el documento de manera uniforme, incluyendo la primera página, [la página de resumen]({{'resumen-trabajo-escrito'|relative_url}} "Hoja de Resumen"), el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo escrito"), [las referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas"), las [tablas, las figuras]({{'normas-apa/tablas-y-figuras-normas-apa'|relative_url}} "Tablas y figuras APA") y los [apéndices]({{'apendices-trabajo-escrito'|relative_url}} "Apéndices de un trabajo escrito").
+Estos márgenes deben ser aplicados en todo el documento de manera uniforme, incluyendo la primera página, [la página de resumen]({{'resumen-trabajo-escrito'|relative_url}} "Hoja de Resumen"), el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo escrito"), [las referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas"), las [tablas, las figuras]({{'normas-apa/tablas-y-figuras-normas-apa'|relative_url}} "Tablas y figuras APA") y los [apéndices]({{'apendice-trabajo-escrito'|relative_url}} "Apéndices de un trabajo escrito").
 
 ### Ajuste de márgenes en caso de encuadernación especial
 
