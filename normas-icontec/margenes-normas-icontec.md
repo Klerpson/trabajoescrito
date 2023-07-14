@@ -5,9 +5,9 @@ description: La presentación física de un trabajo escrito es uno de los aspect
 h1: "Márgenes según las normas Icontec para presentación de trabajos"
 intro: "Es importante aplicar los márgenes adecuados a las normas Icontec para lograr una presentación uniforme y profesional, y para facilitar la lectura y corrección del texto."
 boton_info: "normas"
-boton_info_title: "Cómo hacer"
+boton_info_title: "Establecer márgenes"
 boton_mas: "descargas"
-boton_mas_title: "Portadas"
+boton_mas_title: "Aplicar en portadas"
 vertical: true
 permalink: /normas-icontec/margenes-normas-icontec
 ---

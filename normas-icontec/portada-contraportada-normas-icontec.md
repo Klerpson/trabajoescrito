@@ -5,9 +5,9 @@ description: "Existen pautas específicas para la presentación de la portada y 
 intro: "Las Normas ICONTEC son fundamentales para la elaboración de trabajos académicos en Colombia. Aprende a presentar la portada y la contraportada con ejemplos de cómo debe ser el formato."
 h1: "Portada y contraportada presentadas con las normas ICONTEC"
 boton_info: "normas"
-boton_info_title: "Portadas"
+boton_info_title: "Cómo hacer portadas"
 boton_mas: "descargas"
-boton_mas_title: "Contraportadas"
+boton_mas_title: "Cómo hacer contraportadas"
 vertical: true
 permalink: /normas-icontec/portada-contraportada-normas-icontec
 ---

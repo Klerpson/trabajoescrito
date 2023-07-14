@@ -5,9 +5,9 @@ description: Aprende a crear listas efectivas y bien formateadas según las Norm
 h1: "Las listas en tus documentos: mejora la organización y claridad con las normas ICONTEC"
 intro: "Aprende a crear listas efectivas y bien formateadas según las Normas ICONTEC. Sigue los estándares y mejora la presentación de tus escritos. ¡Comienza hoy"
 boton_info: "normas"
-boton_info_title: "Formato"
+boton_info_title: "Ver las normas"
 boton_mas: "descargas"
-boton_mas_title: "FAQ's"
+boton_mas_title: "Ver ejemplos"
 vertical: true
 permalink: /normas-icontec/listas-normas-icontec
 ---
@@ -31,7 +31,7 @@ Las listas permiten **desglosar la información en elementos más manejables**, 
 2. **Claridad y legibilidad:** Al dividir la información en elementos separados, las listas mejoran la claridad y legibilidad del contenido. Los lectores podrán identificar rápidamente los puntos clave y comprender la estructura general del documento.
 3. **Facilitan la retención de información:** La presentación de datos en forma de lista favorece la retención de información. Los lectores pueden asimilar y recordar de manera más efectiva los puntos relevantes al visualizarlos de manera organizada y secuencial.
 4. **Destacan la jerarquía de la información:** Mediante el uso de listas numeradas o con viñetas, es posible establecer una jerarquía clara en tus escritos. Esto permite resaltar la importancia relativa de cada elemento y enfocar la atención del lector en los aspectos más relevantes.
-{:class="seccion_a"}
+{:class="seccion_a" id="normas"}
 
 ## Normas ICONTEC para la estructura de las listas
 
@@ -50,6 +50,8 @@ Las listas deben contar con los siguientes elementos:
 Para las listas numeradas, las Normas ICONTEC especifican el uso de **números arábigos seguidos de un punto**. Por ejemplo, "1.", "2.", etc.
 
 No se debe utilizar otro tipo de puntuación al final de los elementos de la lista.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 {% include cta-normas.html norma="icontec" %}
 

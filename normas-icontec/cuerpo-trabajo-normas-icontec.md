@@ -5,17 +5,15 @@ description: "¿Te confunde el formato ICONTEC? ✦ Comprende el formato al 100%
 h1: "ICONTEC Formato Explicado: El ABC del cuerpo del trabajo"
 intro: "Las **Normas ICONTEC** son un conjunto de reglas de presentación para documentos escritos. Aprende a utilizar adecuadamente el **formato ICONTEC** y cómo desarrollar el **cuerpo de trabajo**."
 boton_info: "normas"
-boton_info_title: "Formato"
+boton_info_title: "Cómo redactar"
 boton_mas: "descargas"
-boton_mas_title: "Componentes"
+boton_mas_title: "Mira los puntos claves"
 vertical: true
 permalink: /normas-icontec/cuerpo-trabajo-normas-icontec
 ---
 ## Detalles del formato ICONTEC
 
 Cuando hablamos del **formato ICONTEC**, nos referimos a una serie de **requisitos que tu documento debe cumplir**. Este incluye aspectos como el espaciado, el tipo de fuente, el tamaño del texto y la organización de la información.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="normas"}
 
 ### Espaciado en el formato ICONTEC
 
@@ -34,6 +32,8 @@ Las páginas del trabajo escrito deben ser **numeradas consecutivamente con núm
 La numeración debe estar ubicada **en el margen superior derecho o inferior derecho, y alineada con el margen derecho** del cuerpo del trabajo escrito.
 
 **No se deben renumerar las páginas de forma manual**, sino utilizando las herramientas de numeración de página en el procesador de texto, de esta manera se asegura que cada página esté correctamente numerada y se evitan errores y confusiones.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ### Cómo redactar el cuerpo del trabajo siguiendo las normas ICONTEC
 
@@ -51,8 +51,6 @@ El cuerpo del trabajo es la parte en la que se desarrollan las ideas principales
 ### Organización de la información en el formato ICONTEC
 
 La información en un documento ICONTEC debe estar bien organizada. Existen reglas específicas para [las portadas]({{'normas-icontec/portada-contraportada-normas-icontec'|relative_url}} "Portadas y contraportadas Normas Icontec"), la [tabla de contenido]({{'normas-icontec/tabla-contenido-normas-icontec'|relative_url}} "Tabla contenido Normas Icontec"), las [referencias]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y referencias Normas Icontec"), entre otros.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
 
 ----
 
@@ -79,8 +77,8 @@ Las referencias son una lista de todas las fuentes que utilizaste para tu docume
 ### Anexos en el formato ICONTEC
 
 [Los anexos]({{'normas-icontec/anexos-normas-icontec'|relative_url}} "Anexos Normas Icontec") son información adicional que apoya el contenido de tu documento. Pueden ser gráficos, imágenes, tablas, entre otros.
-
-----
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 {% include cta-normas.html norma="icontec" %}
 

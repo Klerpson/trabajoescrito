@@ -5,9 +5,9 @@ description: "Aprende sobre los anexos en un trabajo escrito, su importancia y c
 h1: "Anexos de un Trabajo Escrito: significado, ejemplos y cómo incluirlos"
 intro: "En la elaboración de un trabajo escrito, los anexos desempeñan un papel importante al proporcionar información complementaria y respaldo a los datos presentados en el cuerpo principal del documento."
 boton_info: "estructura"
-boton_info_title: "Ejemplos"
+boton_info_title: "Ver ejemplos"
 boton_mas: "descargas"
-boton_mas_title: "Cómo hacer"
+boton_mas_title: "Dónde van los Anexos"
 vertical: true
 ---
 ## Explorando los anexos en un Trabajo Escrito: definición y utilidad
@@ -33,10 +33,8 @@ Los anexos pueden variar **según el tipo de trabajo escrito y la disciplina aca
 >5. **Anexo E**: Mapas, diagramas o gráficos complementarios que proporcionen una representación visual adicional.
 
 Estos ejemplos son solo una guía, y los anexos pueden variar según las necesidades específicas del trabajo y las indicaciones proporcionadas por el instructor o la institución.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
 
-## ¿Cómo Hacer y Presentar los Anexos?
+## ¿Cómo hacer y presentar los Anexos?
 
 A continuación, se presentan algunos consejos prácticos sobre cómo hacer y presentar los anexos en un trabajo escrito:
 
@@ -51,6 +49,8 @@ Durante el cuerpo principal del trabajo, menciona claramente los anexos relevant
 ### Formato y presentación
 
 Asegúrate de seguir las directrices de formato y estilo establecidas por tu institución académica. Los anexos generalmente se presentan después de las conclusiones o la bibliografía y se numeran o titulan claramente para su fácil identificación.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Ubicación de los anexos en un Trabajo Escrito
 

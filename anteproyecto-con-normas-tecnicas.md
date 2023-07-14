@@ -5,9 +5,9 @@ description: "Las Normas Icontec y APA son fundamentales para la realización de
 h1: "Anteproyecto y trabajos escritos: normas APA e Icontec para una presentación impecable"
 intro: "Las Normas Icontec y APA son fundamentales para la realización de trabajos escritos en Colombia. Aunque ambas buscan una presentación clara y ordenada, existen diferencias en la forma de aplicarlas."
 boton_info: "estructura"
-boton_info_title: "Normas"
+boton_info_title: "Cómo se hace"
 boton_mas: "descargas"
-boton_mas_title: "Partes"
+boton_mas_title: "Aprende a dividirlo"
 vertical: true
 ---
 Algunos aspectos claves en la aplicación de **normas técnicas en Anteproyectos se enfocan en el tipo de letra y tamaño, las [medidas de márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes"), [la numeración]({{'numeracion-trabajo-escrito'|relative_url}} "Numeración") y [el espaciado entre líneas]({{'interlineado-trabajo-escrito'|relative_url}} "Interlineado")**.
@@ -24,15 +24,15 @@ Además, es importante incluir una [portada]({{'portada-trabajo-escrito'|relativ
 
 La selección del **tipo y tamaño de letra en un anteproyecto** con [Normas APA]({{'normas-apa'|relative_url}} "Normas APA") e Icontec es un aspecto fundamental a tener en cuenta para garantizar la claridad y legibilidad del documento.
 
-En el caso de las **Normas Icontec**, se indica que se debe usar **letra Arial de 12 puntos**, mientras que en las **Normas APA** se permite utilizar **Arial o Times New Roman de 12 puntos**. Además, es importante utilizar el mismo tipo y tamaño de letra a lo largo de todo el documento, incluyendo el título, subtítulos, cuerpo del texto y la bibliografía.
+En el caso de las **Normas Icontec**, se indica que se debe usar **letra Arial de 12 puntos**, mientras que en las **Normas APA** se permite utilizar **Arial o Times New Roman de 12 puntos**. Además, es importante utilizar el mismo [tipo y tamaño de letra]({{'textos-y-fuentes-trabajo-escrito'|relative_url}} "Textos trabajo escrito") a lo largo de todo el documento, incluyendo [el título, subtítulos]({{'titulos-trabajo-escrito'|relative_url}} "Títulos trabajo escrito"), cuerpo del texto y la bibliografía.
 
 El objetivo es que el documento presente una uniformidad en cuanto a la presentación tipográfica, otorgándole una mayor claridad y profesionalismo. Te recomendamos tener en cuenta estas normas para lograr presentar un anteproyecto con Normas APA e Icontec de manera adecuada y profesional.
 
 ### Margenes, espaciado y numeración en Anteproyectos con Normas APA e Icontec
 
-Las Normas Icontec y APA establecen parámetros específicos para los márgenes, espaciado y numeración en documentos académicos. Recuerda que se pueden perder puntos por no seguir las normas.
+Las Normas Icontec y APA establecen parámetros específicos para [los márgenes]({{'margenes-normas-apa'|relative_url}} "Márgenes Normas APA"), espaciado y [numeración]({{'numeracion-normas-apa'|relative_url}} "Numeración Normas APA") en documentos académicos. Recuerda que se pueden perder puntos por no seguir las normas.
 
-Se deben revisar las guías completas de Normas Icontec y APA para trabajar correctamente con estos parámetros, y asegurar que todos los elementos para cumplir con estas normas estén bien organizados:
+Por esto, revisa las guías completas de Normas Icontec y APA para trabajar correctamente con estos parámetros, y asegurar que todos los elementos para cumplir con estas normas estén bien organizados:
 
 - Para los márgenes es importante evitar llenar todo el papel de texto.
 - Para el espaciado, se debe ser coherente en todo el documento.
@@ -47,7 +47,7 @@ Asimismo, la página de aceptación debe ir ubicada justo después de la portada
 
 ### Listas especiales y glosario en Anteproyectos
 
-En los Anteproyectos con Normas APA e Icontec es necesario incluir listas especiales y un glosario para aclarar términos o conceptos utilizados en el anteproyecto.
+En los Anteproyectos con Normas APA e Icontec es necesario incluir [listas especiales]({{'listas-normas-apa'|relative_url}} "Listas Normas APA") y [un glosario]({{'glosario-normas-apa'|relative_url}} "Glosario Normas Icontec") para aclarar términos o conceptos utilizados en el anteproyecto.
 
 Las listas especiales pueden ser de diferentes tipos, como listas de abreviaturas, definiciones, siglas, figuras, tablas y anexos, y deben seguir las normativas establecidas para la presentación de las mismas.
 
@@ -57,7 +57,7 @@ La inclusión de **listas especiales y glosarios en el anteproyecto garantiza un
 
 ### ¿Qué contenidos deben ir en la introducción de un anteproyecto con Normas APA e Icontec?
 
-La introducción es una parte vital de cualquier documento con normas APA e Icontec, y es la sección que **presentará de forma breve y concisa la temática del anteproyecto o [ensayo]({{'ensayos-con-normas-tecnicas'|relative_url}} "Ensayos") que se está abordando**.
+[La introducción es una parte vital de cualquier documento con normas Icontec]({{'introduccion-normas-icontec'|relative_url}} "Introducción Normas Icontec") o APA, y es la sección que **presentará de forma breve y concisa la temática del anteproyecto o [ensayo]({{'ensayos-con-normas-tecnicas'|relative_url}} "Ensayos") que se está abordando**.
 
 En este sentido, la introducción debe englobar una serie de elementos que permitan al lector tener una idea clara del contenido del trabajo:
 
@@ -84,9 +84,9 @@ Siguiendo las normas APA e Icontec, una buena forma de estructurar el trabajo es
 >- **Metodología**: En la que se detalla el método de investigación y procedimiento utilizado para la recolección de datos y la validación de las hipótesis del trabajo.
 >- **Resultados**: En el que se presentan los hallazgos y conclusiones del trabajo.
 >- **Discusión**: En el que se discuten las principales conclusiones y se relacionan con otros estudios y teorías existentes.
->- **Conclusiones**: En el que se resume de forma clara y concisa los hallazgos y conclusiones del trabajo.
+>- **Conclusiones**: En el que se resume de forma clara y concisa los hallazgos y [conclusiones del trabajo]({{'conclusiones-normas-icontec'|relative_url}} "Conclusiones Normas Icontec").
 >- **Referencias**: En la que se listan todas las fuentes bibliográficas utilizadas en el trabajo, siguiendo las normas APA e Icontec.
 
-Cada uno de estos apartados **debe ser numerado y titulado según las normas APA e Icontec**, y se deben seguir las instrucciones específicas para la elaboración de cada sección.
+Cada uno de estos apartados **debe ser numerado y [titulado según las normas APA]({{'titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos Normas APA") e Icontec**, y se deben seguir las instrucciones específicas para la elaboración de cada sección.
 
 Estos consejos te permitirán realizar una investigación con Normas APA e Icontec de alta calidad, lo que te ayudará a obtener una buena calificación y a contribuir al avance de tu disciplina.

@@ -104,8 +104,6 @@ Apellido del autor o entidad responsable. (año de publicación). Título de la 
 >
 >Ministerio de Educación Nacional. (2021). Informe Nacional de Acreditación. MEN. https://www.men.gov.co/men/nun/2021/index.html
 
-----
-
 {% include cta-normas.html norma="icontec" %}
 
 ## Herramientas para generar citas y referencias bibliográficas según las Normas ICONTEC

@@ -5,9 +5,9 @@ description: ¡Hagámoslo fácil! Crea un glosario Icontec en simples pasos. Gu�
 h1: "Glosario con normas Icontec: cómo elaborarlo paso a paso"
 intro: "En el mundo académico, los trabajos y publicaciones a menudo están llenos de términos técnicos o específicos de la disciplina. Aquí es donde entra en juego el glosario"
 boton_info: "normas"
-boton_info_title: "Formato"
+boton_info_title: "Ver el formato"
 boton_mas: "descargas"
-boton_mas_title: "FAQ's"
+boton_mas_title: "Mira el resumen"
 vertical: true
 permalink: /normas-icontec/glosario-normas-icontec
 ---

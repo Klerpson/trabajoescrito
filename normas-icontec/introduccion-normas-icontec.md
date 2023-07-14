@@ -5,15 +5,13 @@ description: La presentación física de un trabajo escrito es uno de los aspect
 h1: "Cómo hacer la introducción con normas ICONTEC para trabajos académicos en Colombia"
 intro: "La introducción con las normas Icontec debe estructurarse correctamente para establecer el contexto, propósito y alcance del documento."
 boton_info: "normas"
-boton_info_title: "Elementos"
+boton_info_title: "Estructura correctamente"
 boton_mas: "descargas"
-boton_mas_title: "Ejemplos"
+boton_mas_title: "Ver ejemplos"
 vertical: true
 permalink: /normas-icontec/introduccion-normas-icontec
 ---
 Una introducción con normas ICONTEC es esencial en todo documento académico o profesional. Debe tener elementos como **la situación que dio origen a la [investigación]({{'investigacion-con-normas-apa-icontec'|relative_url}} "Investigación"), la meta académica o profesional a alcanzar y los avances previos** del tema investigado.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="normas"}
 
 ## Elementos que debe contener una introducción con normas ICONTEC
 
@@ -46,6 +44,8 @@ En esta sección se **explica de manera detallada el problema** que se ha identi
 Se trata de identificar el problema, sus causas y consecuencias, justificando la necesidad de la investigación y su relevancia en el área de estudio.
 
 De esta manera, se pretende ofrecer una visión clara de la problemática abordada y su relación con el tema investigado.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ----
 
@@ -73,8 +73,6 @@ La definición del propósito y alcance del documento se da a través de la **ex
 En esta parte, se deben incluir **las preguntas que se esperan responder, los objetivos específicos y la intención general** del trabajo.
 
 Debemos delimitar los objetivos y ámbitos de la investigación, especificando lo que se va a estudiar, y lo que no se va a abordar. En general, **esta parte de la introducción es la que define la dirección que seguirá el trabajo**.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
 
 ### Cómo elaborar una introducción con Normas ICONTEC en Word
 
@@ -91,6 +89,8 @@ Es recomendable utilizar la opción "Estilos Rápidos" de Word, o definir los es
 El plagio consiste en la copia total o parcial de un trabajo, **sin citar adecuadamente las fuentes** utilizadas.
 
 En la introducción de un trabajo académico o profesional, es fundamental **evitar el plagio y seguir las normas ICONTEC para [citar y referenciar las fuentes]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y referencias normas Icontec") correctamente**.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ## Ejemplos de introducciones con normas ICONTEC
 
