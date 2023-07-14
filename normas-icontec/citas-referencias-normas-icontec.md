@@ -5,9 +5,9 @@ description: Las Normas ICONTEC son un conjunto de estándares utilizados en Col
 h1: "Citas y referencias según las normas ICONTEC: cómo hacerlas correctamente"
 intro: "Las Normas ICONTEC son un conjunto de estándares utilizados en Colombia para citas y referencias bibliográficas. ¿Sabes cómo hacerlas correctamente?"
 boton_info: "normas"
-boton_info_title: "Citas"
+boton_info_title: "Cómo se hacen"
 boton_mas: "descargas"
-boton_mas_title: "Referencias"
+boton_mas_title: "Utiliza herramientas"
 vertical: true
 permalink: /normas-icontec/citas-referencias-normas-icontec
 ---
@@ -52,7 +52,7 @@ Las Normas ICONTEC establecen algunas pautas para realizar citas bibliográficas
 
 - Las comillas se utilizan para indicar las citas literales, ya sean breves o extensas, siempre que la cita sea textualmente igual a lo escrito en el original.
 - En caso de que se deba añadir alguna palabra para aclarar el sentido del texto, se deben colocar entre corchetes para indicar que no formaban parte del original.
-{:id="descargas" class="seccion_a"}
+{:class="seccion_a"}
 
 ----
 
@@ -113,6 +113,8 @@ Apellido del autor o entidad responsable. (año de publicación). Título de la 
 Una de las principales dificultades que tienen los estudiantes y académicos colombianos es **saber cómo realizar citas y referencias bibliográficas** según las Normas ICONTEC. Afortunadamente, existen **herramientas en línea que nos pueden ayudar en esta tarea**.
 
 A continuación, se presentan algunas de las más utilizadas junto con sus características y ventajas:
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ### Grafiati: ¿Cómo usarla para generar referencias bibliográficas?
 

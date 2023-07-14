@@ -5,9 +5,9 @@ description: ¿Necesitas crear anexos según ICONTEC? ★  Mejora tus documentos
 h1: "Comprendiendo los Anexos Según Normas ICONTEC"
 intro: "¿Qué tienen que ver los anexos con las normas ICONTEC? Bueno, si estás preparando un trabajo académico o profesional en Colombia, es muy probable que debas seguir estas normas."
 boton_info: "normas"
-boton_info_title: "Formato"
+boton_info_title: "Aprende la estructura"
 boton_mas: "descargas"
-boton_mas_title: "FAQ's"
+boton_mas_title: "Consejos adicionales"
 vertical: true
 permalink: /normas-icontec/anexos-normas-icontec
 ---
@@ -22,6 +22,8 @@ Para entrar en materia, **¿qué son exactamente los anexos?**. Los anexos son m
 Los anexos son elementos clave en cualquier trabajo académico o informe técnico. No solo **proporcionan información adicional que puede ser crucial** para comprender el tema, sino que también **muestran tu dedicación** a la investigación en profundidad y a la presentación cuidadosa de tu trabajo.
 
 >Seguir las Normas ICONTEC asegura que tus anexos se presenten de manera coherente y profesional.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ### ¿Cómo se estructuran los Anexos según Normas ICONTEC?
 
@@ -38,6 +40,8 @@ Una pregunta común es **¿cuál es la diferencia entre anexos y apéndices?**
 Según las Normas ICONTEC, **un anexo es un material adicional que no fue creado por el autor** del documento principal, mientras que **un apéndice es un material adicional creado por el autor** que amplía o complementa el texto, pero que no es esencial para la comprensión del mismo.
 
 Ambos deben ser citados correctamente en el texto y listados al final del documento.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ----
 
