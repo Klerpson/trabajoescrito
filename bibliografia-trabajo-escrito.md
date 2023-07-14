@@ -5,7 +5,7 @@ description: "¿Qué sabes de bibliografías? Son una parte fundamental de cualq
 h1: "Comprendiendo y elaborando bibliografías en Trabajos Escritos"
 intro: "Una parte fundamental de cualquier investigación académica o profesional es la capacidad de citar correctamente las bibliografías de la información utilizada."
 boton_info: "normas"
-boton_info_title: "Aprende a hacerlo"
+boton_info_title: "Cómo se hacen"
 boton_mas: "descargas"
 boton_mas_title: "Ver ejemplos"
 vertical: true
@@ -31,10 +31,10 @@ Aquí está tu guía paso a paso sobre **cómo hacer una bibliografía para un t
 1. **Juega al detective con tus fuentes**: Cada fuente que utilizas tiene detalles importantes que necesitarás para tu bibliografía. Esto incluye el nombre del autor, [el título del trabajo]({{'titulos-trabajo-escrito'|relative_url}}), la fecha de publicación y la editorial. Si es una fuente en línea, asegúrate de anotar la URL y la fecha en que accediste a la información.
 2. **Elige tu uniforme de citación**: Hay muchos [estilos de citación]({{'cita-trabajo-escrito'|relative_url}}) disponibles, entre ellos [APA]({{'normas-apa'|relative_url}}), MLA y Chicago. Tu profesor o la institución para la que estás escribiendo te indicará qué estilo debes utilizar. ¡Asegúrate de seguirlo al pie de la letra!
 3. **Pon en orden tus fuentes**: Por lo general, las fuentes en una bibliografía se organizan alfabéticamente por el apellido del autor. Así que, al igual que en una biblioteca, necesitarás poner en orden tus citas.
-4. **Viste tus citas correctamente**: Cada estilo de citación tiene sus propias reglas para cómo se debe formatear cada tipo de fuente (libros, revistas, sitios web, etc.). Asegúrate de seguir estas reglas al formatear tus citas para que tu bibliografía luzca profesional.
+4. **Viste tus citas correctamente**: Cada estilo de citación tiene sus propias reglas para cómo se debe formatear cada tipo de fuente (libros, revistas, sitios web, etc.). Asegúrate de seguir estas reglas [al formatear tus citas]({{'cita-trabajo-escrito'|relative_url}} "Cita trabajo escrito") para que tu bibliografía luzca profesional.
 5. **Haz una inspección final**: Es crucial que todas las fuentes que has citado en tu trabajo aparezcan en tu bibliografía, y viceversa. Así que haz una última revisión para asegurarte de que nada se te ha escapado.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas" class="seccion_a"}
+{:class="seccion_a"}
 
 ### Elaboración de bibliografías: mejores prácticas
 
@@ -44,7 +44,8 @@ Una bibliografía bien elaborada es crucial para respaldar tus fuentes y permiti
 * **Formato consistente**: Utiliza un formato de citación consistente en todas las referencias bibliográficas. Sigue las pautas del estilo bibliográfico requerido por tu disciplina.
 * **Detalles completos**: Asegúrate de incluir todos los detalles necesarios en cada referencia bibliográfica, como el apellido y las iniciales del autor, el año de publicación, el título del trabajo y la información de publicación.
 * **Verificación de la exactitud**: Antes de finalizar tu trabajo, revisa minuciosamente las referencias bibliográficas para asegurarte de que sean precisas y estén formateadas correctamente.
-
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 -----
 
 ## Ejemplos de Bibliografías de Trabajos Escritos
@@ -71,7 +72,7 @@ Para ilustrar cómo se escribe la bibliografía en un trabajo escrito, aquí te 
 
 ### Las bibliografías y las referencias bibliográficas no son lo mismo
 
-Las referencias bibliográficas y la bibliografía son elementos fundamentales de un trabajo escrito, pero su propósito y la forma en que se utilizan son diferentes.
+Las [referencias bibliográficas]({{'referencias-trabajo-escrito'|relative_url}} "Referencias trabajo escrito") y la bibliografía son elementos fundamentales de un trabajo escrito, pero su propósito y la forma en que se utilizan son diferentes.
 
 **Las referencias bibliográficas son una lista detallada de las fuentes que se han citado directamente en el trabajo**. Esto incluye cualquier fuente de la que se haya extraído información, datos, ideas o argumentos específicos, y se haya mencionado en el texto.
 
@@ -81,7 +82,8 @@ Por otro lado, **la bibliografía es una lista más amplia que incluye todas las
 
 Esto puede incluir trabajos que te han dado un conocimiento de fondo o que has leído para familiarizarte con el tema, pero a los que no te has referido directamente en tu trabajo. **La bibliografía permite a los lectores ver la amplitud de tu investigación y encontrar otras fuentes relevantes** que podrían interesarles.
 
->En resumen, las referencias bibliográficas están directamente vinculadas a las citas en tu texto, mientras que la bibliografía incluye estas y otras fuentes que has consultado durante tu investigación. Sin embargo, vale la pena mencionar que los términos se utilizan de manera intercambiable en algunos contextos, y las reglas pueden variar dependiendo del estilo de cita que estés utilizando.
+>En resumen, las referencias bibliográficas están directamente vinculadas a las citas en tu texto, mientras que la bibliografía incluye estas y otras fuentes que has consultado durante tu investigación.  
+>Sin embargo, vale la pena mencionar que los términos se utilizan de manera intercambiable en algunos contextos, y las reglas pueden variar dependiendo del estilo de cita que estés utilizando.
 
 ### Uso de herramientas de gestión bibliográfica
 
@@ -89,7 +91,7 @@ Considera utilizar herramientas de gestión bibliográfica, como [Zotero](https:
 
 Estas herramientas te permiten gestionar y formatear automáticamente las citas y las referencias según los estilos bibliográficos requeridos.
 
-Al aplicar estas mejores prácticas, podrás citar adecuadamente las citas de citas y elaborar bibliografías completas y precisas, agregando un valor adicional a tu trabajo académico y manteniendo la integridad de tus fuentes.
+Al aplicar estas mejores prácticas, podrás citar adecuadamente *las citas de citas* y elaborar bibliografías completas y precisas, agregando un valor adicional a tu trabajo académico y manteniendo la integridad de tus fuentes.
 
 ## Errores frecuentes en la elaboración de bibliografías y cómo evitarlos
 

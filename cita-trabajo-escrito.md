@@ -5,9 +5,9 @@ description: Mejora tus habilidades de citación y elaboración de bibliografía
 h1: "Citar y elaborar bibliografías con precisión y rigor"
 intro: "Te preparamos una guía completa que mejorará tus habilidades de citación y elaboración de bibliografía, brindándote consejos prácticos y pautas precisas para diversos estilos bibliográficos."
 boton_info: "normas"
-boton_info_title: "Fundamentos"
+boton_info_title: "Elige el estilo"
 boton_mas: "descargas"
-boton_mas_title: "Recomendaciones"
+boton_mas_title: "Utiliza un generador"
 vertical: true
 ---
 ## Las citas de un Trabajo Escrito
@@ -15,14 +15,12 @@ vertical: true
 Citar y elaborar bibliografía de manera adecuada es fundamental en el ámbito académico. No solo **añade credibilidad a tu trabajo**, sino que también ***demuestra tu capacidad de investigar y respaldar tus ideas con fuentes confiables***.
 
 Aprende **cómo citar tanto textualmente como parafraseando**, evitar errores comunes y cómo hacer citas de citas de manera efectiva. ¡Sigue leyendo y lleva tu trabajo académico al siguiente nivel!
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="normas"}
 
 ------
 
 ## Fundamentos de la citación adecuada
 
-En esta sección, exploraremos los fundamentos de la citación adecuada y cómo seleccionar el estilo bibliográfico apropiado para tu trabajo. También destacaremos algunas directrices generales para citar correctamente, asegurando la brevedad, coherencia y relevancia en tus referencias bibliográficas.
+En esta sección, exploraremos los fundamentos de la citación adecuada y cómo seleccionar el estilo bibliográfico apropiado para tu trabajo. También destacaremos algunas directrices generales para citar correctamente, asegurando la brevedad, coherencia y relevancia en tus [referencias bibliográficas]({{'referencias-trabajo-escrito'|relative_url}} "Referencias trabajo escrito").
 
 ### Importancia de la citación en el ámbito académico
 
@@ -32,16 +30,23 @@ La citación adecuada es fundamental en el ámbito académico por varias razones
 * **Integridad académica**: Citando apropiadamente, muestras honestidad y transparencia en tu trabajo al respaldar tus ideas con fuentes confiables.
 * **Verificación y replicación**: Citando las fuentes, permites que otros académicos consulten y verifiquen los datos e información que has utilizado en tu trabajo.
 * **Construcción del conocimiento**: Al citar, contribuyes a la construcción colectiva del conocimiento al reconocer las ideas y contribuciones de otros académicos.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 ### Selección del estilo bibliográfico adecuado
 
 Es esencial seleccionar el estilo bibliográfico apropiado para tu disciplina y tipo de trabajo académico. Algunos de los estilos más comunes son [APA (American Psychological Association)]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas con normas APA"), MLA (Modern Language Association) y Chicago.
 
-* **APA**: Ampliamente utilizado en ciencias sociales y de la salud, el estilo APA se enfoca en la claridad y la precisión en la citación y las referencias bibliográficas.
+* **APA**: Ampliamente utilizado en ciencias sociales y de la salud, [el estilo APA se enfoca en la claridad y la precisión en la citación]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas Normas APA") y las [referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa.md'|relative_url}} "Referencias Normas APA").
 * **MLA**: Comúnmente utilizado en humanidades, artes y literatura, el estilo MLA se centra en la simplicidad y la concisión en las citas y las referencias.
 * **Chicago**: Ampliamente utilizado en disciplinas como historia, política y negocios, el estilo Chicago enfatiza la citación de fuentes primarias y secundarias, así como el uso de notas al pie y referencias bibliográficas detalladas.
 
 Investiga las pautas de citación específicas de tu campo académico y familiarízate con el estilo recomendado para asegurar una citación adecuada.
+
+> #### Ejemplos prácticos de citas textuales en diferentes estilos bibliográficos
+>
+> **APA**: Varios economistas han afirmado en la crisis financiera del 2008 que la crisis ha sido motivada por lo que hay de más perverso en el mundo capitalista (Lynch, 2012, p. 127).  
+> **Vancouver**: Simons et al. (3) dicen que el mecanismo de la ansiedad es “imperfectly known and understood by many practising doctors” (p4).
 
 ### Directrices generales para citar correctamente
 
@@ -52,7 +57,7 @@ A continuación, se presentan algunas directrices generales para citar correctam
 * **Relevancia**: Selecciona cuidadosamente las fuentes que citarás. Asegúrate de que sean relevantes, confiables y respalden tus argumentos y afirmaciones.
 * **Precisión**: Citas y referencias bibliográficas deben ser precisas y completas. Asegúrate de incluir todos los detalles necesarios, como el autor, el año de publicación, el título de la obra y la página específica si corresponde.
 
-Al seguir estas directrices generales, podrás citar adecuadamente y garantizar la integridad académica de tu trabajo, respetando
+Al seguir estas directrices generales, podrás **citar adecuadamente y garantizar la integridad académica** de tu trabajo, respetando
 
 ------
 
@@ -75,12 +80,23 @@ Aquí hay algunas pautas para utilizar citas textuales de manera efectiva:
 
 ### Parafraseo efectivo
 
-El parafraseo es una habilidad esencial en la escritura académica, ya que te permite explicar ideas de otros autores con tus propias palabras. Aquí hay algunas pautas para realizar un parafraseo efectivo:
+El parafraseo es una habilidad esencial en la escritura académica, ya que te permite explicar ideas de otros autores con tus propias palabras. Aquí hay algunas pautas para realizar un parafraseo efectivo.
 
-* **Comprende la fuente original**: Antes de parafrasear, asegúrate de comprender completamente la idea o el argumento que deseas transmitir. Lee cuidadosamente la fuente original y toma notas para captar su significado central.
-* **Reformulación y reorganización**: Expresa la idea original con tus propias palabras y estructura la oración o el párrafo de manera diferente. Evita copiar frases o estructuras sintácticas de la fuente original.
-* **Cita de la fuente original**: Aunque estés parafraseando, no olvides citar la fuente original al final de tu parafraseo. Incluye el apellido del autor, el año de publicación y, si corresponde, el número de página.
-* **Verificación de la fidelidad**: Al finalizar tu parafraseo, verifica que hayas captado con precisión la idea original. Asegúrate de que no hayas alterado el significado o el contexto original de la cita.
+#### Comprende la fuente original antes de citar
+
+Antes de parafrasear, asegúrate de comprender completamente la idea o el argumento que deseas transmitir. Lee cuidadosamente la fuente original y toma notas para captar su significado central.
+
+#### Reformulación y reorganización de tus citas
+
+Expresa la idea original con tus propias palabras y estructura la oración o el párrafo de manera diferente. Evita copiar frases o estructuras sintácticas de la fuente original.
+
+#### Cita de la fuente original
+
+Aunque estés parafraseando, no olvides citar la fuente original al final de tu parafraseo. Incluye el apellido del autor, el año de publicación y, si corresponde, el número de página.
+
+#### Verificación de la fidelidad de tus citas
+
+Al finalizar tu parafraseo, verifica que hayas captado con precisión la idea original. Asegúrate de que no hayas alterado el significado o el contexto original de la cita.
 
 ### Manteniendo la integridad académica
 
@@ -90,12 +106,7 @@ Tanto al utilizar citas textuales como al parafrasear, es crucial mantener la in
 * **Evita el plagio**: Nunca copies y pegues directamente el trabajo de otros sin atribución o sin realizar las citas correspondientes. El plagio es una violación seria de la integridad académica.
 * **Verificación de la exactitud**: Al utilizar citas textuales y parafrasear, asegúrate de que la información que presentas sea precisa y esté respaldada por fuentes confiables.
 
-Siguiendo estas pautas, podrás utilizar citas textuales y parafraseo de manera efectiva, fortaleciendo tus argumentos y preservando la integridad académica de tu trabajo.
-
-> #### Ejemplos prácticos de citas textuales en diferentes estilos bibliográficos
->
-> **APA**: Varios economistas han afirmado en la crisis financiera del 2008 que la crisis ha sido motivada por lo que hay de más perverso en el mundo capitalista (Lynch, 2012, p. 127).  
-> **Vancouver**: Simons et al. (3) dicen que el mecanismo de la ansiedad es “imperfectly known and understood by many practising doctors” (p4).
+Sigue estas pautas y podrás utilizar citas textuales y parafraseo de manera efectiva. Fortalecerás tus argumentos y podrás preservar la integridad académica de tu trabajo.
 
 ------
 
@@ -115,42 +126,9 @@ En ocasiones, puede ser necesario citar una idea que ha sido citada en otra fuen
 
 #### Consejos para evitar el plagio al parafrasear
 
-1. Lee el texto que se va a parafrasear y compréndelo completamente.  
-2. Explica la idea con tus propias palabras, manteniendo el sentido original.  
+1. Lee el texto que se va a parafrasear y compréndelo completamente.
+2. Explica la idea con tus propias palabras, manteniendo el sentido original.
 3. Asegúrate de citar siempre la fuente original al final de la paráfrasis.
-
-------
-
-## Sección 4: Ética y integridad académica en la investigación
-
-En esta sección, abordaremos la importancia de la ética y la integridad académica en la investigación.
-
-Exploraremos las prácticas responsables y las normas éticas que debemos seguir como investigadores para garantizar la calidad y la confiabilidad de nuestro trabajo.
-
-### Honestidad intelectual y atribución adecuada
-
-La honestidad intelectual es fundamental en la investigación académica. Aquí hay algunas pautas para mantener la honestidad intelectual y asegurar una atribución adecuada:
-
-* **Atribución de fuentes**: Asegúrate de atribuir adecuadamente las ideas, los datos y los hallazgos de otros investigadores. Cita y referencia correctamente todas las fuentes utilizadas en tu trabajo.
-* **Evita el plagio**: Nunca presentes el trabajo de otros como propio. Evita el plagio copiando y pegando sin atribución o parafraseando sin citar la fuente original. Siempre cita y referencia las fuentes utilizadas.
-* **Originalidad y contribución**: Asegúrate de que tu trabajo tenga un valor original y haga una contribución significativa al campo de investigación. No simplemente repitas o recopiles información de otras fuentes sin añadir un análisis o una perspectiva única.
-
-### Confidencialidad y consentimiento informado
-
-Cuando realizamos investigaciones que involucran seres humanos, es importante proteger su confidencialidad y obtener su consentimiento informado. Aquí hay algunas consideraciones éticas:
-
-* **Confidencialidad de los participantes**: Protege la privacidad y confidencialidad de los participantes en tu investigación. Utiliza códigos o identificadores en lugar de nombres reales y asegúrate de cumplir con las regulaciones de protección de datos.
-* **Consentimiento informado**: Obtén el consentimiento informado de los participantes antes de incluirlos en tu investigación. Explica claramente el propósito de la investigación, los procedimientos, los riesgos y los beneficios potenciales. Asegúrate de obtener un consentimiento voluntario y documentado.
-
-### Responsabilidad en la comunicación de resultados
-
-La comunicación responsable y ética de los resultados de la investigación es esencial para evitar malentendidos y promover la confianza en la comunidad científica. Aquí hay algunas pautas a tener en cuenta:
-
-* **Evita la manipulación de datos**: No manipules ni distorsiones los datos para respaldar una hipótesis o una conclusión específica. Presenta los resultados tal como se han obtenido y, si existen limitaciones, indícalas claramente.
-* **Honestidad en la interpretación**: No exageres ni hagas afirmaciones infundadas sobre los resultados de tu investigación. Sé honesto y objetivo al interpretar los datos y presenta cualquier incertidumbre o limitación de manera transparente.
-* **Reconocimiento de colaboradores y contribuciones**: Asegúrate de reconocer y atribuir adecuadamente las contribuciones de tus colaboradores, tanto en la investigación como en la redacción del trabajo. Da crédito a quienes han contribuido de manera significativa.
-
->Al seguir estas prácticas éticas y responsables, contribuirás a la calidad y la confiabilidad de la investigación académica, promoviendo la integridad y la confianza en la comunidad científica.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
@@ -181,10 +159,12 @@ El proceso de integración del generador de citas de Scribbr con [Microsoft Word
 * En la pestaña "Citas" de Microsoft Word, selecciona "Estilo" y elige el formato APA
 * ¡Listo! La cita y la bibliografía se agregarán automáticamente
 
+-----
+
 ## Potenciando la calidad de las citas en un trabajo escrito
 
 Dominar las técnicas de citación y elaboración de bibliografía es esencial para cualquier estudiante o académico comprometido con la excelencia académica.
 
 Al seguir las pautas proporcionadas en esta guía completa, mejorarás tu capacidad para citar correctamente tanto textualmente como parafraseando, evitarás errores comunes y utilizarás citas de citas de manera efectiva cuando sea necesario.
 
-Ten siempre presente respetar la integridad académica, ser coherente y mantener la precisión en tus referencias bibliográficas. ¡Aplica estos conocimientos en tu próximo trabajo académico y lleva tu escritura al siguiente nivel!
+**Ten siempre presente respetar la integridad académica cuando haces citas**, además de ser coherente y mantener la precisión en tus referencias bibliográficas. ¡Aplica estos conocimientos en tu próximo trabajo académico y lleva tu escritura al siguiente nivel!

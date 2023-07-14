@@ -5,9 +5,9 @@ description: 💡 ¿No sabes cómo redactar la conclusión de tu trabajo? ¡Te t
 h1: "Conclusiones de un Trabajo Escrito: cómo redactarla y ejemplos prácticos"
 intro: "Las conclusiones de un trabajo escrito son un elemento esencial en cualquier texto académico, científico o profesional."
 boton_info: "normas"
-boton_info_title: "Pasos"
+boton_info_title: "Pasos a seguir"
 boton_mas: "descargas"
-boton_mas_title: "Modelo"
+boton_mas_title: "Mira un modelo"
 vertical: true
 ---
 Las conclusiones no sólo cierran el argumento que se ha desarrollado a lo largo del texto, sino que también **resumen los hallazgos y establecen las implicaciones de estos**.
@@ -22,7 +22,7 @@ Aquí es donde el autor refuerza sus argumentos y muestra cómo sus hallazgos re
 
 ## ¿Dónde va la conclusión?
 
-La conclusión normalmente **se ubica al final del trabajo escrito**, después del desarrollo y la discusión de los resultados. Aunque puede variar dependiendo del tipo de texto, en general se encuentra **justo antes de la bibliografía o referencias**.
+La conclusión normalmente **se ubica al final del trabajo escrito**, [después del desarrollo]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo trabajo escrito") y la discusión de los resultados. Aunque puede variar dependiendo del tipo de texto, en general se encuentra **justo antes de la [bibliografía]({{'bibliografia-trabajo-escrito'|relative_url}} "Bibliografía trabajo escrito") o [referencias]({{'referencias-trabajo-escrito'|relative_url}} "Referencias trabajo escrito")**.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
@@ -41,6 +41,8 @@ Realizar una conclusión efectiva implica una serie de pasos. Aquí te mostramos
 Iniciar una conclusión puede ser desafiante. Asegúrate de hacer una transición suave desde la sección anterior y evita introducir nuevas ideas en esta etapa. Puedes comenzar con frases como "En resumen", "En conclusión" o "Para concluir".
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
+
+----
 
 ## Modelo de conclusiones
 
@@ -62,6 +64,6 @@ Elaborar y redactar conclusiones efectivas requiere práctica. **Concéntrate en
 
 **Evita introducir información nueva** y asegúrate de que tu conclusión sea coherente con el resto de tu trabajo.
 
-Recuerda, redactar una buena conclusión es tan importante como cualquier otra parte de tu [trabajo escrito](/). Por lo tanto, dedica el tiempo necesario para garantizar que esté bien escrita y que resuma adecuadamente tu investigación.
+Recuerda, redactar una buena conclusión es tan importante como cualquier otra parte de tu [trabajo escrito](/). Por lo tanto, dedica el tiempo necesario para garantizar que esté bien escrita y que resuma adecuadamente tu [investigación]({{'investigacion-con-normas-apa-icontec'|relative_url}} "Investigaciones académicas").
 
-Si sigues estos pasos y consejos, seguro lograrás una conclusión que impacte a tus lectores.
+Si sigues estos pasos y consejos, seguro lograrás **una conclusión que impacte** a tus lectores.
