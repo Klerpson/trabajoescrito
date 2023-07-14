@@ -5,9 +5,9 @@ description: "¿Qué sabes de bibliografías? Son una parte fundamental de cualq
 h1: "Comprendiendo y elaborando bibliografías en Trabajos Escritos"
 intro: "Una parte fundamental de cualquier investigación académica o profesional es la capacidad de citar correctamente las bibliografías de la información utilizada."
 boton_info: "normas"
-boton_info_title: "Cómo hacer"
+boton_info_title: "Aprende a hacerlo"
 boton_mas: "descargas"
-boton_mas_title: "Ejemplos"
+boton_mas_title: "Ver ejemplos"
 vertical: true
 ---
 En esta guía, exploraremos en profundidad qué es la bibliografía de un trabajo escrito, cómo se hace, y te proporcionaremos ejemplos de bibliografías bien hechas.

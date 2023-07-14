@@ -23,7 +23,7 @@ Aunque no es esencial para entender el texto principal, es una herramienta útil
 Un apéndice puede utilizarse para una variedad de propósitos, entre los que se incluyen:
 
 - Proporcionar datos brutos o detalles técnicos que podrían ser demasiado complejos para incluir en [el cuerpo principal del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo trabajo escrito").
-- Incluir gráficos, [imágenes o tablas]({{'tablas-y-figuras-normas-apa'|relative_url}} "Tablas Normas APA") que complementen la información pero que podrían interrumpir el flujo del texto principal.
+- Incluir gráficos, [imágenes o tablas]({{'normas-apa/tablas-y-figuras-normas-apa'|relative_url}} "Tablas Normas APA") que complementen la información pero que podrían interrumpir el flujo del texto principal.
 - Explicar conceptos o términos técnicos que podrían no ser conocidos por todos los lectores.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}

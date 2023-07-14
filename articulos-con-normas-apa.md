@@ -5,22 +5,22 @@ description: "En el ámbito académico, es crucial seguir las normas de estilo a
 h1: "Artículos con Normas APA e ICONTEC: guía para tus trabajos escritos"
 intro: "En el ámbito académico, es crucial seguir las normas de estilo adecuadas al redactar artículos científicos."
 boton_info: "estructura"
-boton_info_title: "Estructura APA"
+boton_info_title: "Aplica las normas APA"
 boton_mas: "descargas"
-boton_mas_title: "Investigación"
+boton_mas_title: "Tipos de artículos"
 vertical: true
 ---
 Aprende cómo **aplicar las normas APA en tus artículos científicos**, incluyendo ejemplos prácticos para una mejor comprensión.
 
 ## Cómo hacer la referencia de un artículo en normas APA
 
-La correcta citación y referencia de los artículos científicos **es fundamental para dar crédito a los autores originales, permitir a los lectores acceder a las fuentes utilizadas y garantizar la integridad académica**.
+[La correcta citación]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas Normas APA") y [referencia]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Normas APA") de los artículos científicos **es fundamental para dar crédito a los autores originales, permitir a los lectores acceder a las fuentes utilizadas y garantizar la integridad académica**.
 
 A continuación, se detallan los pasos para hacer la referencia de un artículo en normas APA:
 
 1. Autor(es): Menciona los apellidos e iniciales de los autores del artículo. Si hay varios autores, sepáralos por comas y utiliza la conjunción "y" antes del último autor. Si el artículo no tiene un autor identificado, comienza la referencia con el título del artículo.
 2. Año de publicación: Indica el año en que se publicó el artículo entre paréntesis.
-3. Título del artículo: Escribe el título del artículo en cursiva o entre comillas. Solo la primera letra de la primera palabra y de las palabras principales debe estar en mayúscula, a menos que haya nombres propios o acrónimos.
+3. Título del artículo: Escribe [el título del artículo]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos Normas APA") en cursiva o entre comillas. Solo la primera letra de la primera palabra y de las palabras principales debe estar en mayúscula, a menos que haya nombres propios o acrónimos.
 4. Título de la revista: Incluye el título completo de la revista en cursiva o en letras normales (según las normas de la publicación) y en mayúscula la primera letra de la primera palabra y los nombres propios.
 5. Número de volumen (en cursiva): Indica el número de volumen de la revista (si corresponde) después del título de la revista, seguido de una coma.
 6. Número de publicación o páginas del artículo: Si el artículo tiene un número de publicación, inclúyelo después del número de volumen, entre paréntesis. Si el artículo no tiene número de publicación, indica las páginas específicas del artículo (por ejemplo, pp. 123-145).
@@ -46,10 +46,10 @@ Los artículos científicos siguen pautas específicas en cuanto a su estructura
 A continuación, se detallan las principales consideraciones de las normas APA aplicadas a los artículos científicos:
 
 1. **Título del artículo**: El título debe ser claro, conciso y representar adecuadamente el contenido del estudio. Se recomienda utilizar un máximo de 12 palabras y evitar el uso de abreviaturas o jerga especializada.
-2. **Resumen**: El resumen es una breve descripción del estudio que resume los objetivos, la metodología, los resultados y las conclusiones principales. Debe tener una extensión de aproximadamente 150 a 250 palabras y proporcionar una visión general clara del contenido del artículo.
-3. **Introducción**: En la introducción, se presenta el contexto del estudio, se establece la problemática a investigar y se justifica la relevancia del tema. Además, se plantea la pregunta de investigación o los objetivos del estudio.
+2. **Resumen**: [El resumen]({{'resumen-trabajo-escrito'|relative_url}} "Resumen trabajo escrito") es una breve descripción del estudio que resume los objetivos, la metodología, los resultados y las conclusiones principales. Debe tener una extensión de aproximadamente 150 a 250 palabras y proporcionar una visión general clara del contenido del artículo.
+3. **Introducción**: En [la introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducción trabajo escrito"), se presenta el contexto del estudio, se establece la problemática a investigar y se justifica la relevancia del tema. Además, se plantea la pregunta de investigación o los objetivos del estudio.
 4. **Metodología**: En esta sección, se describe detalladamente el diseño de investigación, incluyendo la muestra, los instrumentos utilizados, los procedimientos de recopilación de datos y el análisis estadístico aplicado. Es importante proporcionar suficientes detalles para que otros investigadores puedan replicar el estudio.
-5. **Resultados**: En esta sección, se presentan los hallazgos obtenidos del análisis de los datos. Se pueden utilizar tablas, gráficos o figuras para visualizar los resultados de manera clara y concisa. Es importante incluir también el nivel de significancia estadística y cualquier análisis complementario realizado.
+5. **Resultados**: En esta sección, se presentan los hallazgos obtenidos del análisis de los datos. Se pueden utilizar [tablas, gráficos o figuras]({{'normas-apa/tablas-y-figuras-normas-apa'|relative_url}} "Tablas y figuras Normas APA") para visualizar los resultados de manera clara y concisa. Es importante incluir también el nivel de significancia estadística y cualquier análisis complementario realizado.
 6. **Discusión**: La sección de discusión se dedica a interpretar y analizar los resultados obtenidos, relacionándolos con la literatura existente. Se discuten las implicaciones de los hallazgos, se plantean limitaciones del estudio y se sugieren posibles direcciones para investigaciones futuras.
 7. **Conclusiones**: En esta sección, se resumen de manera sucinta los hallazgos más relevantes y se responden a la pregunta de investigación o se cumplen los objetivos planteados. Es importante evitar la inclusión de nueva información en esta sección.
 8. **Referencias**: La sección de referencias incluye todas las fuentes citadas en el artículo. Se deben listar en orden alfabético, siguiendo las pautas de las normas APA. Además, se debe prestar especial atención a la correcta citación de las fuentes consultadas.

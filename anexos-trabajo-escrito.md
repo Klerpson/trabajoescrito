@@ -18,7 +18,7 @@ Te enseñamos en detalle **qué son los anexos, su significado y su ubicación**
 
 Los anexos **son materiales adicionales que se adjuntan a un trabajo escrito para brindar información adicional, respaldo o detalles que complementan** el contenido principal.
 
-Pueden incluir *gráficos, tablas, diagramas, fotografías, mapas, encuestas, cuestionarios, entrevistas transcritas, extractos de documentos legales u otros elementos relevantes* para respaldar los argumentos o las conclusiones presentadas en el trabajo.
+Pueden incluir *[gráficos, tablas,]({{'normas-apa/tablas-y-figuras-normas-apa.md'|relative_url}} "Tablas y gráficos Normas APA") diagramas, fotografías, mapas, encuestas, cuestionarios, entrevistas transcritas, extractos de documentos legales u otros elementos relevantes* para respaldar los argumentos o las conclusiones presentadas en el trabajo.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
@@ -40,21 +40,21 @@ A continuación, se presentan algunos consejos prácticos sobre cómo hacer y pr
 
 ### Organización y numeración
 
-Enumera los anexos de manera consecutiva utilizando letras mayúsculas (Anexo A, Anexo B, etc.) o números (Anexo 1, Anexo 2, etc.) para facilitar su referencia en el texto principal.
+[Enumera]({{'numeracion-trabajo-escrito'|relative_url}} "Numeración trabajo escrito") los anexos de manera consecutiva utilizando letras mayúsculas (Anexo A, Anexo B, etc.) o números (Anexo 1, Anexo 2, etc.) para facilitar su referencia en el texto principal.
 
 ### Referencias en el texto
 
-Durante el cuerpo principal del trabajo, menciona claramente los anexos relevantes cuando sea necesario. Por ejemplo, puedes incluir frases como "consulte el Anexo A para obtener más detalles" o "los resultados se presentan en el Anexo 1".
+Durante [el cuerpo principal del trabajo]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo trabajo escrito"), menciona claramente los anexos relevantes cuando sea necesario. Por ejemplo, puedes incluir frases como "consulte el Anexo A para obtener más detalles" o "los resultados se presentan en el Anexo 1".
 
 ### Formato y presentación
 
-Asegúrate de seguir las directrices de formato y estilo establecidas por tu institución académica. Los anexos generalmente se presentan después de las conclusiones o la bibliografía y se numeran o titulan claramente para su fácil identificación.
+Asegúrate de seguir las directrices de formato y estilo establecidas por tu institución académica. Los anexos generalmente se presentan después de [las conclusiones]({{'conclusiones-trabajo-escrito'|relative_url}} "Conclusiones trabajo escrito") o la [bibliografía]({{'bibliografia-trabajo-escrito'|relative_url}} "Bibliografía trabajo escrito") y se numeran o titulan claramente para su fácil identificación.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
 ## Ubicación de los anexos en un Trabajo Escrito
 
-Los anexos se ubican **al final del trabajo escrito, después de las conclusiones o la bibliografía**. Puedes presentarlos en una sección separada titulada "Anexos" o "Apéndices".
+Los anexos se ubican **al final del trabajo escrito, después de las conclusiones o la bibliografía**. Puedes presentarlos en una sección separada titulada "Anexos" o "[Apéndices]({{'apendices-trabajo-escrito'|relative_url}} "Apéndices trabajo escrito")".
 
 Asegúrate de numerar o titular cada anexo de manera clara para que los lectores puedan referirse a ellos fácilmente.
 
