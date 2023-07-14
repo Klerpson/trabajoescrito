@@ -7,7 +7,7 @@ noindex: true
 ---
 ## Aviso legal para sitio web de trabajoescrito.com
 
-En esta página se detallan las instrucciones legales que se aplican a todos los usuarios de Internet que visiten este Sitio (trabajoescrito.com) propiedad de Julian Franco, con domicilio San Agustín Huila, carrera 18 5 - 30. Al acceder y navegar por este sitio, usted se compromete a respetar estas instrucciones sin ningún tipo de excepción. Es por ello que le aconsejamos que consulte estas instrucciones cada cierto tiempo, ya que podrían modificarse de forma periódica y sin previo aviso por parte de Julian Franco. **Si usted no desea aceptar o cumplir las condiciones aquí descritas, deberá abandonar este sitio web inmediatamente.**
+En esta página se detallan las instrucciones legales que **se aplican a todos los usuarios de Internet que visiten este Sitio (trabajoescrito.com)** propiedad de Julian Franco, con domicilio San Agustín Huila, Calle 5 17-02. **Al acceder y navegar por este sitio, usted se compromete a respetar estas instrucciones sin ningún tipo de excepción.** Es por ello que le aconsejamos que consulte estas instrucciones cada cierto tiempo, ya que podrían modificarse de forma periódica y sin previo aviso por parte de Julian Franco. **Si usted no desea aceptar o cumplir las condiciones aquí descritas, deberá abandonar este sitio web inmediatamente.**
 
 ## Información y propiedad intelectual
 
@@ -93,15 +93,17 @@ Este Sitio y su contenido se rigen por la legislación de Colombia. Todo posible
 
 La Ley 1581 de 2012 y sus Decretos Reglamentarios, pretenden regular el manejo de datos personales en Colombia, con el fin de proteger el derecho fundamental al habeas data o a la identidad informática. Teniendo en cuenta que Julian Franco, cuenta actualmente con bases de datos en las que reposan datos personales que han sido suministrados por usted en el pasado, en cumplimiento de lo establecido en las normas mencionadas, nos permitimos solicitar su autorización para continuar con el tratamiento de sus datos.
 
+----
+
 ## AUTORIZACION PARA EL TRATAMIENTO DE DATOS PERSONALES Y SENSIBLES
 
 – En mi calidad de TITULAR declaro de manera libre, voluntaria, expresa, inequívoca que se me ha informado de manera clara y comprensible que tengo derecho a conocer, actualizar y rectificar los datos personales y sensibles proporcionados a Julian Franco, a solicitar prueba de esta autorización, a solicitar información sobre el uso que se le ha dado a mis datos personales, a presentar quejas ante la Superintendencia de Industria y Comercio por el uso indebido de mis datos personales, a revocar esta autorización o solicitar la supresión de los datos personales suministrados y a acceder de forma gratuita a los mismos.
 
-– En mi calidad de TITULAR declaro de manera libre, voluntaria, expresa, inequívoca que conozco y acepto el Las Políticas y Procedimientos de Tratamiento de Datos Personales de Julian Franco y que la información por mí proporcionada es veraz, completa, exacta, actualizada y verificable.
+– En mi calidad de TITULAR declaro de manera libre, voluntaria, expresa, inequívoca que **conozco y acepto Las Políticas y Procedimientos de Tratamiento de Datos Personales de Julian Franco** y que la información por mí proporcionada es veraz, completa, exacta, actualizada y verificable.
 
 – En mi calidad de TITULAR declaro de manera libre, voluntaria, expresa, inequívoca e informada, que AUTORIZO a Julian Franco, para que, en los términos del literal a) del artículo 6 de la Ley 1581 de 2012, y demás normas que traten y regulen sobre esta materia, realice la recolección, transferencia, almacenamiento, uso, circulación, supresión, y en general, tratamiento de mis datos personales, incluyendo datos sensibles de conformidad con la Ley.
 
-Esta autorización permitirá a Julian Franco recolectar, transferir, almacenar, usar, circular, suprimir, compartir, actualizar y transmitir, de acuerdo con el procedimiento para el tratamiento de los datos personales y sensibles en procura de cumplir con las siguientes finalidades:
+Esta autorización **permitirá a Julian Franco recolectar, transferir, almacenar, usar, circular, suprimir, compartir, actualizar y transmitir,** de acuerdo con el procedimiento para el tratamiento de los datos personales y sensibles en procura de cumplir con las siguientes finalidades:
 
 a. Ejecutar la relación contractual existente con sus clientes, proveedores y trabajadores, incluida el pago de obligaciones contractuales y el ejercicio de los derechos derivados de los mismos;
 
@@ -151,10 +153,10 @@ w. Desarrollo integral del objeto social de la compañía.
 
 El alcance de la autorización comprende la facultad para que Julian Franco le envíe mensajes, notificaciones, información del estado de cuenta, saldos, y demás información relativa al portafolio de servicios de la compañía, a través de correo electrónico u otras aplicaciones de comunicación digitales.
 
-Mis derechos como TITULAR del dato son los previstos en la constitución y la ley, especialmente el derecho a conocer, actualizar, rectificar y suprimir mi información personal; así como el derecho a revocar el consentimiento otorgado para el tratamiento de datos personales, estos los puedo ejercer a través de los canales dispuestos por Julian Franco para la atención al público y observando la política de tratamiento de datos personales de Julian Franco, disponible en trabajoescrito.com/legal
+Mis derechos como TITULAR del dato son los previstos en la constitución y la ley, especialmente el derecho a conocer, actualizar, rectificar y suprimir mi información personal; así como el derecho a revocar el consentimiento otorgado para el tratamiento de datos personales, estos los puedo ejercer a través de los canales dispuestos por Julian Franco para la atención al público y observando la política de tratamiento de datos personales de Julian Franco, disponible en **trabajoescrito.com/legal**
 
-Otorgo mi consentimiento a Julian Franco para tratar mi información personal, y sensible de acuerdo con la política de tratamiento de datos personales, y por tanto me comprometo a leer el aviso de privacidad y la política mencionada disponible en: trabajoescrito.com/legal
+Otorgo mi consentimiento a Julian Franco para tratar mi información personal, y sensible de acuerdo con la política de tratamiento de datos personales, y por tanto me comprometo a leer el aviso de privacidad y la política mencionada disponible en: **trabajoescrito.com/legal**
 
 Autorizo a Julian Franco a modificar o actualizar su contenido, a fin de atender reformas legislativas, políticas internas o nuevos requerimientos para la prestación u ofrecimiento de servicios, dando aviso previo por medio de la página web de la compañía, y/o correo electrónico u otras aplicaciones de comunicación digitales.
 
-En caso en que usted no desee que nuestra página web trabajoescrito.com acceda, procese y en general use la información que usted nos suministre, sírvase enviar por este mismo medio y dentro de los cinco (5) días siguientes al uso de este sitio web, o del recibo de nuestros correos electrónicos y mensajes de texto de suscripción y registros de sus datos, una comunicación en la que se nos indique que no se autoriza ni el acceso ni el almacenamiento, proceso y uso de dicha información sabiendo que ello ocurrirá conforme a lo recién descrito.
+En caso en que usted no desee que nuestra página web **TrabajoEscrito.com** acceda, procese y en general use la información que usted nos suministre, **sírvase enviar por este mismo medio y dentro de los cinco (5) días siguientes al uso de este sitio web, o del recibo de nuestros correos electrónicos y mensajes de texto de suscripción y registros de sus datos,** una comunicación en la que se **nos indique que no se autoriza ni el acceso ni el almacenamiento, proceso y uso de dicha información** sabiendo que ello ocurrirá conforme a lo recién descrito.
