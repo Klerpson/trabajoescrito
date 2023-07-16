@@ -1,9 +1,10 @@
 ---
-layout: page-basic
-title: Términos y Codiciones de Uso | trabajoescrito.com
+layout: default
+title: Términos y Condiciones de Uso | trabajoescrito.com
 description: Condiciones de uso de la página trabajoescrito.com
 h1: Término y condiciones, privacidad y aspectos legales del uso de trabajoescrito.com
 noindex: true
+vertical: true
 ---
 ## Aviso legal para sitio web de trabajoescrito.com
 

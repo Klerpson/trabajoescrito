@@ -4,6 +4,7 @@ title: Resolvemos tus dudas sobre tus trabajos escritos
 h1: Resolvemos tus dudas sobre tus trabajos escritos
 description: En TrabajosEscritos.com estamos aquí para responder todas tus preguntas y brindarte el apoyo que necesitas para realizar tus trabajos escritos con éxito.
 noindex: true
+vertical: true
 ---
 En ***TrabajoEscrito.com*** estamos aquí para **responder todas tus preguntas y brindarte el apoyo que necesitas para realizar tus trabajos escritos** con éxito.
 
