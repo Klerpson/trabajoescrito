@@ -60,7 +60,7 @@ Julian Franco informa a los usuarios, que los datos personales recabados podrán
 
 El usuario es el único responsable de la precisión y veracidad de los datos. Julian Franco queda eximido de toda responsabilidad a este respecto. Serán los usuarios quienes garantizarán que los datos proporcionados sean auténticos, precisos, no hayan cambiado y continúen siendo los mismos. Adquirirán también el compromiso de mantenerlos actualizados.
 
-El usuario proporcionará información completa y correcta cuando se le sociliten para el registro. Julian Franco no se hará responsable de la veracidad de información de terceros ni de informaciones que citen otras fuentes. Tampoco se hará responsable de los hipotéticos daños que la utilización de dicha información pudiere causar.
+El usuario proporcionará información completa y correcta cuando se le soliciten para el registro. Julian Franco no se hará responsable de la veracidad de información de terceros ni de informaciones que citen otras fuentes. Tampoco se hará responsable de los hipotéticos daños que la utilización de dicha información pudiere causar.
 
 Julian Franco se reserva el derecho de actualizar, modificar o borrar la información su Sitio Web, así como el derecho de restringir o prohibir el acceso a ellas. Si la información viene de fuentes ajenas a la empresa, Julian Franco no será responsable de ningún daño que el usuario pueda sufrir como resultado de errores, fallos u omisiones en dicha información.
 
@@ -96,7 +96,7 @@ La Ley 1581 de 2012 y sus Decretos Reglamentarios, pretenden regular el manejo d
 
 ----
 
-## AUTORIZACION PARA EL TRATAMIENTO DE DATOS PERSONALES Y SENSIBLES
+## AUTORIZACIÓN PARA EL TRATAMIENTO DE DATOS PERSONALES Y SENSIBLES
 
 – En mi calidad de TITULAR declaro de manera libre, voluntaria, expresa, inequívoca que se me ha informado de manera clara y comprensible que tengo derecho a conocer, actualizar y rectificar los datos personales y sensibles proporcionados a Julian Franco, a solicitar prueba de esta autorización, a solicitar información sobre el uso que se le ha dado a mis datos personales, a presentar quejas ante la Superintendencia de Industria y Comercio por el uso indebido de mis datos personales, a revocar esta autorización o solicitar la supresión de los datos personales suministrados y a acceder de forma gratuita a los mismos.
 

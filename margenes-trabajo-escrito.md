@@ -5,14 +5,14 @@ description: "¿Sabes cómo establecer los márgenes correctos en tus trabajos e
 h1: "¿Cómo configurar los Márgenes en un Trabajo Escrito?"
 intro: "El diseño y formato de un trabajo escrito son aspectos cruciales que no debemos pasar por alto. "
 boton_info: "estructura"
-boton_info_title: "Medidas"
+boton_info_title: "Conoce las medidas"
 boton_mas: "descargas"
-boton_mas_title: "Estándar"
+boton_mas_title: "Medidas estándar"
 vertical: true
 ---
 Los márgenes son un elemento fundamental en la presentación de nuestros documentos. Te enseñaremos **cómo configurar correctamente los márgenes** para un trabajo escrito.
 
-## ¿Qué son los Márgenes?
+## ¿Qué son los Márgenes en un trabajo académico?
 
 Los márgenes son **los espacios vacíos que rodean el texto en una página**. No sólo proporcionan un área de respiro visual, sino que también dejan espacio para la encuadernación y para hacer notas al margen.
 
@@ -30,7 +30,7 @@ Esta es una norma generalmente aceptada para la mayoría de [los trabajos escrit
 
 Microsoft Word es una de las herramientas más populares para la redacción y el formato de trabajos escritos. Utiliza sus ventajas para establecer sus márgenes fácilmente.
 
-### Medidas Específicas de Margen
+### Medidas específicas de márgenes
 
 Para un trabajo escrito más profesional y efectivo, las medidas recomendadas son:
 
@@ -61,10 +61,16 @@ Sin embargo, si incluyes elementos gráficos o logotipos, es posible que debas h
 | Izquierdo | 3 cm   |
 | Derecho   | 3 cm   |
 
-> Recordatorio: Estas medidas son sugerencias basadas en normas estándar, como las [normas APA]({{'normas-apa'|relative_url}} "Normas APA") o como las [normas Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec"). Algunas instituciones o profesores pueden tener requisitos específicos de formato que debes seguir.
+Estas medidas son sugerencias basadas en normas estándar, como las [normas APA]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes Normas APA") o como las [normas Icontec]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Normas Icontec").
+
+|             | Normas APA                    | Normas ICONTEC            |
+|-------------|-------------------------------|---------------------------|
+| Margen      | 2,54 cm (1 pulgada) en todos los lados | 3 cm en todos los lados   |
+
+Algunas instituciones o profesores pueden tener requisitos específicos de formato que debes seguir.
 
 ## Las márgenes y la presentación de tu trabajo escrito
 
-Establecer correctamente los márgenes es un paso importante **para presentar un trabajo escrito de manera profesional**.
+Establecer correctamente los márgenes es un paso importante **para [presentar un trabajo escrito de manera profesional]({% post_url 2023-05-28-como-presentar-trabajo-escrito %})**.
 
 Al seguir estos pasos prácticos, podrás mejorar la presentación de tus trabajos y cumplir con las expectativas de tus lectores o evaluadores.
