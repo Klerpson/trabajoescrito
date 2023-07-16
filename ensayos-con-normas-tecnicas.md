@@ -12,23 +12,27 @@ vertical: true
 ---
 La redacción de ensayos académicos **implica la adhesión a ciertos formatos y estilos**. Las Normas [APA]({{'normas-apa'|relative_url}}), [ICONTEC]({{'normas-icontec'|relative_url}}) y Vancouver son tres de los formatos más utilizados en el mundo académico.
 
-En este artículo, abordaremos la forma de **escribir un ensayo siguiendo cada una de estas normas**.
+Ante la necesidad de aplicar las normas correspondientes, abordaremos la forma de **escribir un ensayo siguiendo cada una de ellas**.
 
-## Normas APA
+----
 
-Las Normas APA (American Psychological Association) son un conjunto de estándares utilizados para el formato de trabajos académicos. Esta guía proporcionará una visión general de cómo usar estas normas para ensayos.
+## Redactando ensayos con Normas APA
 
-* **Portada**: En un ensayo APA, la portada debe incluir el título del ensayo, el nombre del autor, la afiliación institucional y una nota del autor (si es necesario).
-* **Encabezado**: El encabezado de la página debe incluir un número de página en la esquina superior derecha y un título acortado a la izquierda.
-* **Cuerpo del Ensayo**: El cuerpo del ensayo debe seguir la estructura general de introducción, cuerpo y conclusión. Cada párrafo debe tener una idea principal respaldada por evidencia y análisis.
-* **Citas**: Para citar fuentes en un ensayo APA, usa el formato de autor-fecha dentro del texto (Apellido del autor, año) y una lista de referencias al final del documento.
-* **Formato general**: El ensayo debe estar escrito en un tipo de letra legible (como Times New Roman, 12 puntos), con márgenes de 1 pulgada y doble espacio en todo el documento.
+Las Normas APA (American Psychological Association) son un conjunto de estándares utilizados para el formato de trabajos académicos.
+
+Ten en cuentas las siguientes sugerencias sobre cómo usar estas normas para ensayos.
+
+* **Portada**: En un ensayo APA, [la portada]({{'normas-apa/portada-normas-apa'|relative_url}} "Portadas normas APA") debe incluir el título del ensayo, el nombre del autor, la afiliación institucional y una nota del autor (si es necesario).
+* **Encabezado**: El encabezado de la página debe incluir un [número de página]({{'normas-apa/numeracion-normas-apa'|relative_url}} "Numeración normas APA") en la esquina superior derecha y un [título acortado]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos normas APA") a la izquierda.
+* **Cuerpo del Ensayo**: [El cuerpo del ensayo]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo trabajo escrito") debe seguir la estructura general de [introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducción trabajo escrito"), cuerpo y [conclusión]({{'conclusiones-trabajo-escrito'|relative_url}} "Conclusión trabajo escrito"). Cada párrafo debe tener una idea principal respaldada por evidencia y análisis.
+* **Citas**: Para [citar fuentes en un ensayo APA]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA"), usa el formato de autor-fecha dentro del texto (Apellido del autor, año) y una [lista de referencias]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias normas APA") al final del documento.
+* **Formato general**: El ensayo debe estar [escrito en un tipo de letra legible]({{'normas-apa/textos-normas-apa'|relative_url}} "Textos en normas APA") (como Times New Roman, 12 puntos), con [márgenes]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes normas APA") de 1 pulgada y [doble espacio]({{'normas-apa/interlineado-normas-apa'|relative_url}} "Interlineado normas APA") en todo el documento.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
 ## Normas ICONTEC
 
-Las Normas ICONTEC (Instituto Colombiano de Normas Técnicas y Certificación) son otro conjunto de reglas para la presentación de trabajos académicos.
+[Las Normas ICONTEC (Instituto Colombiano de Normas Técnicas y Certificación)]({{'normas-icontec'|relative_url}} "Normas Icontec") son otro conjunto de reglas para la presentación de trabajos académicos.
 
 * **Portada**: La portada debe incluir el nombre de la institución, el título del trabajo, el nombre del autor, la ciudad y el año.
 * **Índice**: Después de la portada, se debe presentar un índice con las secciones y sub-secciones del ensayo, junto con sus respectivas páginas.

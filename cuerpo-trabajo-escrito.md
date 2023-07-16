@@ -5,28 +5,26 @@ description: "Eleva tus habilidades de redacción al siguiente nivel con estrate
 h1: "El cuerpo de un Trabajo Escrito: la clave para un desarrollo temático efectivo"
 intro: "El cuerpo de un trabajo escrito es una parte crucial en la estructura de cualquier documento académico o profesional."
 boton_info: "estructura"
-boton_info_title: "Desarrollo"
+boton_info_title: "Realizar el desarrollo"
 boton_mas: "descargas"
-boton_mas_title: "Ejemplo"
+boton_mas_title: "Ver ejemplo práctico"
 vertical: true
 ---
 Constituye la sección en la que se desarrolla el tema principal, presentando argumentos, evidencias y análisis en detalle. ¿Te preguntas cómo hacerlo efectivamente? Aquí te proporcionamos la guía que necesitas.
 
 ## ¿Qué es el Cuerpo de un Trabajo Escrito?
 
-El cuerpo de un [trabajo escrito](/) **es la sección principal del texto** que sigue a la introducción. Es en este apartado donde se presenta, argumenta, y analiza el tema o tesis central del trabajo.
+El cuerpo de un [trabajo escrito](/) **es la sección principal del texto** que sigue a la [introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducciones"). Es en este apartado donde se presenta, argumenta, y analiza el tema o tesis central del trabajo.
 
 En un sentido más amplio, **el cuerpo es donde sucede la magia del texto**, ya que es aquí donde se desenvuelve el contenido central de tu argumento.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-### Desarrollo del Tema
+### Desarrollo del tema en el cuerpo del trabajo
 
-Un factor crucial en la escritura del cuerpo de un trabajo es el desarrollo del tema. Este proceso se refiere a cómo se presenta y se expande [la idea principal del texto]({{'textos-y-fuentes-trabajo-escrito'|relative_url}}).
+Un factor crucial en la escritura del cuerpo de un trabajo es el desarrollo del tema. Este proceso se refiere a [cómo se presenta]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}) y se expande la idea principal del texto.
 
 >El desarrollo del tema se realiza de manera sistemática y lógica, asegurando que cada punto se enlace con el siguiente de manera coherente.
-
------
 
 ## ¿Cómo se Realiza el Desarrollo del Tema?
 
@@ -44,7 +42,7 @@ Para ilustrar mejor, veamos un ejemplo de cómo se desarrolla el cuerpo de un tr
 * **Primer párrafo (idea principal):** "Los vehículos eléctricos reducen la emisión de gases de efecto invernadero" + datos y argumentos que respaldan esta afirmación.
 * **Segundo párrafo (idea principal):** "Los vehículos eléctricos disminuyen la dependencia de los combustibles fósiles" + datos y argumentos que respaldan esta afirmación.
 
-Cada párrafo se centrará en un aspecto distinto de la tesis principal, y se construirá a partir de datos e información relevante que respalde ese punto particular.
+Cada párrafo se centrará **en un aspecto distinto** de la tesis principal, y **se construirá a partir de datos e información relevante** que respalde ese punto particular.
 
 >Recuerda, la estructura de tu trabajo escrito es crucial para su éxito. El cuerpo del texto es donde desarrollas tus ideas y argumentos, por lo que debe ser coherente, lógico y respaldado por evidencias relevantes.
 
@@ -54,4 +52,4 @@ En resumen, el cuerpo de un trabajo escrito es la sección principal del documen
 
 La clave para un cuerpo efectivo es **asegurar una estructura lógica, argumentos respaldados por evidencias relevantes y coherencia** en todo el texto.
 
-Recuerda que la calidad del cuerpo del trabajo puede hacer la diferencia entre un documento mediocre y uno excepcional. ¡Emplea estas pautas y construye un cuerpo de trabajo escrito efectivo hoy mismo!
+Recuerda que la calidad del **cuerpo del trabajo puede hacer la diferencia entre un documento mediocre y uno excepcional**. ¡Emplea estas pautas y construye un cuerpo de trabajo escrito efectivo hoy mismo!
