@@ -38,16 +38,39 @@ permalink: /cursos-de-trabajos-escritos
       </article>
       {% endfor %}
   </main>
+  <section class="seccion_a">
+    <h2>Libros sobre normas académicas y redacción: más accesibles a todo bolsillo</h2>
+    <p>Buscamos por ti los <strong>libros sobre normas APA, Icontec, Chicago, Vancouver, etc.</strong>  Cuestan mucho menos que un curso y puedes tenerlos siempre contigo:</p>
+    <ol>
+      <li>Haz clic en el libro que necesitas.</li>
+      <li>Mira las calificaciones y su contenido.</li>
+      <li>Compra, descarga y conviértete en un experto para presenter tu Trabajo Escrito</li>
+    </ol>
+  </section>
+  <div class="cursos">
+    {% for libro in site.data.libros-apa %}
+    <article>
+      <img src="{{libro.img}}" alt="Imagen del libro titulado {{libro.title}}" loading="lazy">
+      <div>
+        <h3>
+          <a href="{{ libro.url }}" title="{{libro.title}}" rel="nofollow noopener noreferrer" target="_blank">{{ libro.title | escape }}</a>
+        </h3> 
+        <p>{{libro.p|markdownify}}</p>
+      </div>
+    </article>
+    {% endfor %}
+  </div>
   <section class="normas_contenido">
   <blockquote>
-    <h3>¿Estás listo para transformar tu forma de escribir y aumentar el impacto de tus trabajos?</h3>
-    <p>No busques más. Estos cursos detallados y prácticos te proporcionarán todas las herramientas necesarias para escribir introducciones efectivas y envolventes que mantengan a tus lectores enganchados.</p>
-    <p>Estos no son solo otro curso teórico. <strong>Son una experiencia interactiva, llena de ejemplos reales, actividades prácticas, feedback personalizado y un camino claro hacia el éxito</strong>. No dejes pasar esta oportunidad para <strong>perfeccionar tu redacción, diferenciarte y transformar</strong> tus trabajos escritos en obras maestras.</p>
+    <h3>¿Estás listo para transformar tu forma de presentar tus trabajos académicos?</h3>
+    <p>No busques más. Este material detallado y práctico te proporcionará todas las herramientas necesarias para escribir trabajos académicos envolventes que mantengan a tus lectores enganchados.</p>
+    <p>Estos no son solo otro curso teórico o un libro más de relleno. <strong>Son una experiencia interactiva, llena de ejemplos reales, actividades prácticas, feedback personalizado y un camino claro hacia el éxito</strong>. No dejes pasar esta oportunidad para <strong>perfeccionar tu redacción, diferenciarte y transformar</strong> tus trabajos escritos en obras maestras.</p>
     <p>¡Inscríbete ahora y empieza a captar la atención de tus lectores desde la primera frase!</p>
   </blockquote>
   </section>
 
   {% include footer.html %}
   <a href="#">{% include boton-up.html %}</a>
+  <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
   </body>
 </html>

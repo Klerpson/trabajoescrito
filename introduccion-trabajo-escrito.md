@@ -5,22 +5,20 @@ description: "Te queremos compartir las técnicas y los pasos para realizar una 
 h1: "La introducción de un Trabajo Escrito: técnicas, ejemplos y consejos"
 intro: "Alguna vez te has preguntado, '¿qué es y cómo se hace una introducción de un trabajo escrito?' Si es así, no estás solo."
 boton_info: "estructura"
-boton_info_title: "Cómo hacer"
+boton_info_title: "Aprende la estructura"
 boton_mas: "descargas"
-boton_mas_title: "Ejemplos"
+boton_mas_title: "Mira ejemplos"
 vertical: true
 ---
 Como muchos autores saben, comenzar es a menudo lo más difícil. Pero, como dijo una vez el famoso escritor Mark Twain, "el secreto de adelantar es comenzar".
 
 Te queremos compartir las técnicas y los pasos para realizar una introducción cautivadora. También, te proporcionaremos ejemplos concretos y asesoramiento de expertos para ayudarte a dominar este arte crucial.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="estructura"}
 
 ## Cómo se hace una buena introducción
 
 Una buena introducción **establecerá las expectativas** del lector en relación con el documento, y se **facilitará la comprensión del mismo**, contribuyendo a su mejor valoración por parte de sus lectores.
 
-**¿Cómo hacer una buena introducción?** En su libro "On Writing Well", William Zinsser dijo: "La forma más importante de atraer y mantener la atención del lector ***es ser específico***".
+**¿Cómo hacer una buena introducción?** [En su libro "On Writing Well", William Zinsser](https://amzn.to/46KAUff "Comprar el libro"){:rel="nofollow noopener noreferrer sponsored" target="_blank"} dijo: "La forma más importante de atraer y mantener la atención del lector ***es ser específico***".
 
 ### Comienza con un gancho potente
 
@@ -39,6 +37,8 @@ Esta es tu oportunidad para decirle a tu lector qué puede esperar aprender o ob
 ### Sé conciso y atractivo
 
 La brevedad es el alma de la ingeniosidad, y eso también se aplica a las introducciones. Como afirma el profesor de inglés Jack Lynch, "tu lector no necesita tu introducción para comprender tu tesis, solo necesita tu introducción para entender por qué tu tesis es importante".
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="estructura"}
 
 ----
 
