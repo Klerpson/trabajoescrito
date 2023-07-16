@@ -40,10 +40,11 @@ Las normas colombianas se enfocan principalmente en establecer un patrón de pre
 * [⇾ Referencias bibliográficas y citas](#referencias)
 * [⇾ Anexos](#anexos)
 * [⇾ Listas](#referencias)
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:class="links" id="estructura"}
+{:class="links"}
 
------
+>En nuestra sección de Capacitación encuentras muchos libros y cursos que **te ayudan a aplicar mucho más fácil las normas Icontec**  
+[Conoce los libros](/cursos-de-trabajos-escritos){:class="boton" id="estructura"}
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 
 ## Cómo hacer un Trabajo Escrito con normas Icontec
 
@@ -143,27 +144,27 @@ Los anexos son elementos adicionales que se pueden incluir en un trabajo y que n
 
 -----
 
-## Tutorial práctico de cómo aplicar las normas ICONTEC en Word
+### Tutorial práctico de cómo aplicar las normas ICONTEC en Word
 
 Aquí te mostramos un tutorial práctico para **aplicar las Normas ICONTEC en Word**, paso a paso.
 
-### Configura el Tamaño y Orientación de la Página
+### 1. Configura el tamaño y orientación de la página
 
 Comienza abriendo un nuevo documento en Microsoft Word. Ve a la pestaña de "Diseño de Página" o "Layout" y selecciona "Tamaño" y luego "Carta" (21.59 cm x 27.94 cm). Asegúrate de que la orientación de la página esté configurada como "Vertical".
 
-### Configura el Interlineado
+### 2. Configura el interlineado
 
 El interlineado debe estar a doble espacio. Para hacerlo, selecciona todo el texto (Ctrl + A), luego ve a la pestaña de "Inicio", haz clic en el ícono de "Interlineado" y selecciona "2.0".
 
-### Elige la Fuente y Tamaño de Letra Correctos
+### 3. Elige la fuente y tamaño de letra correctos
 
 Las Normas ICONTEC recomiendan usar una fuente clara y legible. Arial o Times New Roman son opciones aceptables. El tamaño de la fuente debe ser de 12 puntos. Estos ajustes se pueden realizar en la pestaña "Inicio".
 
-### Configura la Numeración de las Páginas
+### 4. Configura la numeración de las páginas
 
 Las Normas ICONTEC requieren que todas las páginas, excepto la portada y la contraportada, estén numeradas. Para configurar la numeración de las páginas, ve a la pestaña "Insertar" y selecciona "Número de Página". Elige la posición "Inferior de la Página" y luego elige el formato de número de página que prefieras.
 
-### Configura las Citas y Referencias Bibliográficas
+### 5. Configura las Citas y Referencias Bibliográficas
 
 Finalmente, si estás citando fuentes en tu documento, deberás asegurarte de que estén formateadas de acuerdo con las Normas ICONTEC.
 
@@ -179,7 +180,7 @@ Te recomendamos revisar las normas específicas para cada una de estas secciones
 
 ## Normas Icontec en Word para tesis, trabajos de grado y otros escritos académicos
 
-Las normas Icontec son ampliamente utilizadas en trabajos académicos como tesis, trabajos de grado, [informes]({{'informes'|relative_url}}) y otros escritos académicos.
+Las normas Icontec son ampliamente utilizadas en trabajos académicos como [tesis]({{'tesis-normas-apa'|relative_url}} "Tesis"), trabajos de grado, [informes]({{'informes'|relative_url}} "Informes") y otros escritos académicos.
 
 Es importante seguir las normas de presentación para garantizar una presentación adecuada y coherente, además de demostrar la capacidad del autor para seguir las directrices establecidas por la comunidad académica.
 

@@ -7,7 +7,7 @@ intro: "Las normas APA son un conjunto de reglas y directrices que se utilizan p
 boton_info: "estructura"
 boton_info_title: "Aprende el formato"
 boton_mas: "descargas"
-boton_mas_title: "Utiliza generadores"
+boton_mas_title: "Utiliza herramientas"
 vertical: true
 ---
 ## Las normas APA en el mundo de los escritos
@@ -51,7 +51,8 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:class="links" id="estructura"}
 
-----------
+>En nuestra sección de Capacitación encuentras muchos libros y cursos que **te ayudan a aplicar mucho más fácil las normas APA**  
+[Conoce los libros](/cursos-de-trabajos-escritos){:class="boton"}
 
 ## La estructura del trabajo según las normas APA
 
@@ -73,9 +74,9 @@ Según las normas APA, se debe utilizar hasta tres niveles de títulos y subtít
 
 [Títulos y subtítulos APA]({{site.baseulr}}/normas-apa/titulos-y-subtitulos-normas-apa "Títulos y subtítulos APA"){:class="boton"}
 
-### Letra o textos
+### Formato de letras o textos
 
-Los textos en normas APA requieren seguir una serie de pautas específicas que **garantizan la claridad y coherencia en la presentación de ideas**. Estas normas abarcan **desde el formato del papel y el tipo de letra** utilizado hasta la organización de los encabezados y **la estructura de los párrafos**.
+Las fuentes en normas APA requieren seguir una serie de pautas específicas que **garantizan la claridad y coherencia en la presentación de ideas**. Estas normas abarcan **desde el formato del papel y el tipo de letra** utilizado hasta la organización de los encabezados y **la estructura de los párrafos**.
 
 Al seguir estas pautas, los textos en normas APA adquieren un estilo académico y profesional que facilita la comprensión y la comunicación efectiva de la información.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
@@ -83,7 +84,7 @@ Al seguir estas pautas, los textos en normas APA adquieren un estilo académico 
 
 [Textos o letras APA]({{'normas-apa/textos-normas-apa'|relative_url}} "Textos o letras APA"){:class="boton"}
 
-### Portada
+### Portadas estilo APA
 
 Conocer las normas APA y saber cómo aplicarlas en la portada es fundamental.
 
@@ -93,7 +94,7 @@ La portada debe incluir un título claro y descriptivo, el nombre del autor o au
 
 [Portadas con normas APA]({{'normas-apa/portada-normas-apa'|relative_url}} "Portada normas APA"){:class="boton"}
 
-### Contraportada
+### Contraportadas APA
 
 Conocer las normas APA y saber cómo aplicarlas en la contraportada es muy importante para complementar la portada.
 
@@ -110,7 +111,7 @@ Los parágrafos deben estar separados entre sí por una línea en blanco, sin a�
 
 [Sangría y parágrafos APA]({{'normas-apa/sangria-paragrafos-normas-apa'|relative_url}} "Sangría y parágrafos"){:class="boton"}
 
-### Margenes o medidas
+### Margenes o medidas APA
 
 El margen izquierdo y derecho y las márgenes superior e inferior deben seguir unas medidas estándar que mejoran la presentación y facilitan la lectura del texto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
@@ -176,19 +177,19 @@ Las Normas APA son esenciales en el ámbito académico, y su utilización no sol
 
 ### ¿Por qué es importante seguir las Normas APA en la universidad?
 
-El uso de las Normas APA es esencial en la universidad ya que garantiza la calidad y originalidad de los trabajos académicos, además de evitar el plagio y facilitar la lectura y comprensión del contenido.
+El uso de las Normas APA es esencial en la universidad ya que **garantiza la calidad y originalidad de los trabajos académicos**, además de [evitar el plagio]({% post_url 2023-07-15-detectando-el-plagio-en-trabajos-escritos-con-herramientas %}) y facilitar la lectura y comprensión del contenido.
 
 La universidad es un ambiente académico y profesional, y el uso de las Normas APA es una demostración de compromiso y responsabilidad con la calidad y rigurosidad en la presentación de trabajos.
 
-### ¿Cómo el uso de las Normas APA mejora la calidad de nuestros trabajos académicos?
+### El uso de las Normas APA mejora la calidad de nuestros trabajos académicos
 
-El uso de las Normas APA en la elaboración de trabajos académicos mejora su calidad al asegurar una estructura clara y coherente, la utilización correcta de citas y referencias, y la adopción de un formato estandarizado que facilita su lectura y comprensión.
+El uso de las Normas APA en la elaboración de trabajos académicos mejora su calidad al asegurar una estructura clara y coherente, la utilización correcta de [citas]({{'cita-trabajo-escrito'|relative_url}} "Cita trabajo escrito") y [referencias]({{'referencias-trabajo-escrito'|relative_url}} "Referencias trabajo escrito"), y la adopción de un formato estandarizado que facilita su lectura y comprensión.
 
-El uso de las Normas APA permite una presentación profesional y acorde a los estándares del ámbito académico y laboral.
+El uso de las Normas APA [permite una presentación profesional]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}) y acorde a los estándares del ámbito académico y laboral.
 
-### ¿Cómo el uso de Normas APA nos prepara para el mundo laboral?
+### El uso de Normas APA nos prepara para el mundo laboral
 
-El uso de las Normas APA es fundamental en el mundo laboral, ya que su aplicación garantiza la calidad y eficacia en la elaboración de informes, presentaciones y otros documentos.
+El uso de las Normas APA es fundamental en el mundo laboral, ya que su aplicación garantiza la calidad y eficacia en la elaboración de [informes]({{'informes'|relative_url}} "Informes"), presentaciones y otros documentos.
 
 El uso de las Normas APA es una habilidad necesaria en empresas y organizaciones que requieren presentaciones y documentos de alta calidad y coherencia, por lo que su aprendizaje y aplicación en la universidad es una preparación invaluable para el mundo laboral.
 
@@ -196,7 +197,7 @@ El uso de las Normas APA es una habilidad necesaria en empresas y organizaciones
 
 Los estudiantes se benefician enormemente al aprender y aplicar las Normas APA en sus trabajos académicos. El uso de las Normas APA permite a los estudiantes ser más rigurosos y precisos en la elaboración de sus trabajos, lo que simplifica su lectura y comprensión por parte de los evaluadores.
 
-El uso de las Normas APA facilita el aprendizaje y la investigación, y contribuye al desarrollo de habilidades esenciales en el ámbito académico y laboral.
+>El uso de las Normas APA facilita el aprendizaje y la investigación, y contribuye al desarrollo de habilidades esenciales en el ámbito académico y laboral.
 
 ## Reglas específicas de las normas APA en algunos tipos de trabajos académicos
 
@@ -235,11 +236,13 @@ Es un requisito seguir las reglas generales de las normas APA en cuanto a la cit
 [Trabajos escritos: artículos]({{'articulos-con-normas-apa'|relative_url}} "Artículos"){:class="boton"}
 
 >#### Aplica las normas APA más actualizadas  
-Como las normas APA se actualizan, es necesario tener en cuenta la versión de la norma que se está aplicando para hacerlo correctamente. Por ejemplo, **en el presente año {{ "now" | date:"%Y"}}, las normas APA están en su séptima edición.** Aún no existe ni la octava ni la novena versión.
+Como las normas APA se actualizan, es necesario tener en cuenta la versión de la norma que se está aplicando para hacerlo correctamente. Por ejemplo, **en el presente año {{ "now" | date:"%Y"}}, las normas APA están en su séptima edición.** Aún no existe ni la octava ni la novena edición.
 
 ## Novedades de la página oficial en la última edición de las Normas APA
 
-**Las Normas APA se actualizan regularmente** para mejorar la presentación de los trabajos escritos y facilitar la labor de citar y referenciar fuentes. La última edición de las Normas APA presenta cambios importantes en la forma de hacer citas y referencias bibliográficas, para hacerlas más precisas, útiles y fáciles de entender.
+**Las Normas APA se actualizan regularmente** para mejorar la presentación de los trabajos escritos y facilitar la labor de citar y referenciar fuentes.
+
+**La última edición de las Normas APA presenta cambios importantes** en la forma de hacer citas y referencias bibliográficas, para hacerlas más precisas, útiles y fáciles de entender.
 
 A continuación, se presentan algunos de los cambios más destacados en la última edición de las Normas APA.
 
@@ -266,26 +269,6 @@ A continuación, se presentan algunos de los cambios más destacados en la últi
 En general, la última edición de las Normas APA **hace hincapié en la claridad, la concisión y la precisión en la presentación** de trabajos escritos y citación de fuentes, con la intención de hacerlos más accesibles y efectivos para el lector.
 
 Debes mantenerte actualizado de las novedades en las Normas APA para presentar trabajos de calidad y evitar errores en la citación y referenciación de fuentes.
-
------
-
-## Importancia de seguir las Normas APA en las ciencias sociales y humanidades
-
-Las Normas APA son fundamentales en el ámbito académico, especialmente en las ciencias sociales y humanidades. La adopción de estas normas garantiza la uniformidad en la presentación de trabajos académicos, lo que facilita la lectura y comprensión de los mismos.
-
-### Evita el plagio
-
-Las Normas APA permiten dar crédito a los autores cuyas ideas y palabras se utilizan en un trabajo. La cita de fuentes es fundamental para evitar el plagio y las sanciones que conlleva; incluyendo la expulsión de la universidad.
-
-### Brinda fundamento y credibilidad
-
-Las Normas APA obligan al autor a sustentar sus argumentos con investigaciones previas, lo que da solidez y credibilidad a sus trabajos.
-
-### Uniformidad en la presentación
-
-Las Normas APA establecen reglas claras para la presentación de trabajos académicos, como el formato de la página, el tipo de letra, tamaño, espaciado, el uso de la sangría francesa y la organización de fuentes bibliográficas. Este hecho garantiza que los trabajos académicos sean uniformes y estéticamente agradables.
-
-Por ello, conocer y aplicar las Normas APA es fundamental para elaborar trabajos académicos rigurosos y de alta calidad en las ciencias sociales y humanidades.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 

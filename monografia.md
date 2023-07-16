@@ -5,9 +5,9 @@ description: "Aprende a redactar una monografía siguiendo las normas APA con nu
 h1: "Cómo hacer una Monografía siguiendo las Normas APA"
 intro: "Redactar una monografía puede ser un reto. Este trabajo académico requiere una investigación exhaustiva y una redacción cuidadosa."
 boton_info: "estructura"
-boton_info_title: "Pasos"
+boton_info_title: "Aprende cómo se prepara"
 boton_mas: "descargas"
-boton_mas_title: "Normas"
+boton_mas_title: "Aplica las normas"
 vertical: true
 ---
 Una monografía es un tipo de trabajo escrito que **se enfoca en investigar y explorar exhaustivamente un tema en particular**, utilizando fuentes fiables y adecuadas.
