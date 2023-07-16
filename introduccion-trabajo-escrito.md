@@ -32,11 +32,14 @@ Pues lo anterior comienza con un gancho potente: **una o dos frases que captan l
 
 En su artículo "Writing an Introduction", el Dr. Richard Leahy enfatiza que **una introducción efectiva debe declarar claramente el propósito del trabajo**.
 
+>En nuestra sección de Capacitación encuentras muchos libros sobre Escritura y Aplicación de técnicas en trabajos académicos  
+[Conoce los libros](/cursos-de-trabajos-escritos){:class="boton"}
+
 Esta es tu oportunidad para decirle a tu lector qué puede esperar aprender o obtener de la lectura de tu trabajo.
 
 ### Sé conciso y atractivo
 
-La brevedad es el alma de la ingeniosidad, y eso también se aplica a las introducciones. Como afirma el profesor de inglés Jack Lynch, "tu lector no necesita tu introducción para comprender tu tesis, solo necesita tu introducción para entender por qué tu tesis es importante".
+La brevedad es el alma de la ingeniosidad, y eso también se aplica a las introducciones. Como afirma [el profesor de inglés Jack Lynch](https://amzn.to/44MSg9u){:rel="nofollow noopener noreferrer" target="_blank"}, "tu lector no necesita tu introducción para comprender tu tesis, solo necesita tu introducción para entender por qué tu tesis es importante".
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
@@ -86,10 +89,10 @@ Cada uno muestra diferentes formas de utilizar 3 puntos clave:
 "Cuando Neil Armstrong dio sus primeros pasos en la luna en 1969, marcó un hito en la exploración espacial. Sin embargo, ese gigantesco salto para la humanidad no habría sido posible sin una comprensión sólida de la física. Este trabajo explora las leyes fundamentales de la física que han permitido la exploración espacial, desde la ley de la gravitación de Newton hasta las ecuaciones de campo de Einstein en la relatividad general. Al desentrañar estas teorías, nos adentraremos en la fascinante intersección de la física y la astronomía, y descubriremos cómo la humanidad ha logrado alcanzar las estrellas."
 {:class="seccion_a"}
 
->Cada uno de estos ejemplos proporciona un gancho interesante, establece el contexto y el propósito del trabajo, e invita al lector a seguir leyendo.
+Cada uno de estos ejemplos proporciona un gancho interesante, establece el contexto y el propósito del trabajo, e invita al lector a seguir leyendo.
 
 ## Redacta una buena introducción ahora
 
 Al final del día, no hay nada como la práctica para mejorar tus habilidades de escritura. Así que toma estos consejos, estudia los ejemplos, y no tengas miedo de experimentar.
 
-Como dice el adagio, "el comienzo es la mitad de todo". Y **con una introducción fuerte**, estarás en camino hacia un trabajo escrito exitoso.
+Como dice el adagio, "el comienzo es la mitad de todo". Y **con una introducción fuerte**, estarás en camino hacia un [trabajo escrito](/) exitoso.
