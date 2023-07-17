@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Márgenes en Normas APA: Ajustando el formato ↔"
-description: "Redacta textos con las Normas APA de forma precisa y coherente. 📝 Mira ejemplos prácticos para estructurar tus textos académicos según las pautas establecidas"
+description: "Es esencial cumplir con las Normas APA según la 7ª edición, donde se especifican los márgenes recomendados para los trabajos📝. Mira cuáles son"
 h1: "Márgenes en Normas APA: ajustando el formato de tu trabajo escrito"
 intro: "Las Normas APA son muy importantes en la redacción de trabajos académicos. Uno de los elementos fundamentales que se deben tener en cuenta son los márgenes."
 boton_info: "medidas"

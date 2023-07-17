@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "El Índice de un Trabajo Escrito: tu mapa hacia el éxito Ξ"
-description: "Domina las Normas APA con nuestra guía completa 📃: citaciones - referencias - estructura... 👉 Haz clic aquí para convertirte en un experto en APA."
+description: "📖 Conoce la importancia del índice en trabajos escritos. Te enseñamos los pasos para que tu Tabla de Contenido sea un mapa al éxito de tus trabajos académicos."
 h1: "El Índice de un Trabajo Escrito: tu mapa hacia el éxito"
-intro: "¿Alguna vez te has preguntado cómo hacer un índice de un trabajo escrito? ¿No estás seguro de qué debería incluir o dónde debería ubicarse en tu documento?"
+intro: "¿Alguna vez te has preguntado **cómo hacer un índice** de un trabajo escrito? ¿No estás seguro de **qué debería incluir o dónde debería ubicarse** tu Tabla de Contenido en tu documento?"
 boton_info: "normas"
 boton_info_title: "¿Cómo hacerlo?"
 boton_mas: "descargas"

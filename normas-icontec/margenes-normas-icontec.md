@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Márgenes según las normas Icontec para presentar trabajos"
-description: La presentación física de un trabajo escrito es uno de los aspectos más importantes de las normas Icontec yse destacan las indicaciones acerca de los márgenes
+description: La presentación de un trabajo escrito es importante en las normas Icontec. Sobre todo, destacan las indicaciones acerca de los márgenes. ¿Las conoces?
 h1: "Márgenes según las normas Icontec para presentación de trabajos"
-intro: "Es importante aplicar los márgenes adecuados a las normas Icontec para lograr una presentación uniforme y profesional, y para facilitar la lectura y corrección del texto."
+intro: "Es importante **aplicar los márgenes adecuados a las normas Icontec** para lograr una presentación uniforme y profesional, y para facilitar la lectura y corrección del texto."
 boton_info: "normas"
 boton_info_title: "Establecer márgenes"
 boton_mas: "descargas"

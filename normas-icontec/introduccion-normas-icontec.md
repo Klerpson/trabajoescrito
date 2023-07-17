@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Cómo hacer la introducción con normas ICONTEC para Colombia"
-description: La presentación física de un trabajo escrito es uno de los aspectos más importantes de las normas Icontec yse destacan las indicaciones acerca de los márgenes
+description: 📘 Aprende a aplicar las Normas ICONTEC en lo relacionado con las introducciones de tu trabajo escrito. ¡Entra ahora y descubre nuestra guía con ejemplos!
 h1: "Cómo hacer la introducción con normas ICONTEC para trabajos académicos en Colombia"
-intro: "La introducción con las normas Icontec debe estructurarse correctamente para establecer el contexto, propósito y alcance del documento."
+intro: "La introducción con las normas Icontec debe estructurarse correctamente para **establecer el contexto, propósito y alcance del documento**."
 boton_info: "normas"
 boton_info_title: "Estructura correctamente"
 boton_mas: "descargas"

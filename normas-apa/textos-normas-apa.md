@@ -1,9 +1,9 @@
 ---
 layout: default
 title: "Textos con Normas APA: guía completa y ejemplos ✓"
-description: "Redacta textos con las Normas APA de forma precisa y coherente. 📝 Mira ejemplos prácticos para estructurar tus textos académicos según las pautas establecidas"
+description: "Redacta textos con las Normas APA de forma precisa y coherente. 📝 Mira ejemplos prácticos para estructurar tus textos académicos según el formato establecido"
 h1: "Creando un Texto según las Normas APA"
-intro: "Con las Normas APA  se busca establecer una uniformidad en la estructura y una adecuada citación de las fuentes utilizadas, lo que es fundamental para el otorgamiento de crédito académico."
+intro: "El formato de los textos académicos y científicos es crucial para su correcta interpretación y credibilidad. **Las Normas APA son un estándar internacionalmente reconocido para este propósito**."
 boton_info: "normas"
 boton_info_title: "Formato de hoja"
 boton_mas: "descargas"
