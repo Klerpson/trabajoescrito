@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "✓ Portada trabajo escrito: pautas y recomendaciones"
+title: "Contraportada en Trabajos: Clave para Impartir Información"
 description: La contraportada es una parte importante de la presentación de un trabajo escrito, ya que es una oportunidad adicional para impartir información 📃
-h1: "Portada de un trabajo escrito: pautas y recomendaciones"
+h1: "Contraportada en Trabajos: clave para impartir información"
 intro: "La portada de un trabajo escrito es la primera impresión que se tiene del mismo. Es por eso que es importante que esta tenga un diseño y formato adecuados."
 boton_info: "normas"
 boton_info_title: "Selecciona el contenido"
