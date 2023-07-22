@@ -28,7 +28,7 @@ Según las normas APA, una monografía se compone de las siguientes partes: *[po
 
 ### Cómo realizar la Introducción
 
-[La introducción]({{'normas-apa/introduccion-normas-apa'|relative_url}} "Introducción normas APA") debe proporcionar una descripción general del tema que se va a investigar, plantear el problema y los objetivos de la investigación.
+La introducción debe proporcionar una descripción general del tema que se va a investigar, plantear el problema y los objetivos de la investigación.
 
 ### Revisión de literatura
 
@@ -84,7 +84,7 @@ Es importante incluir [la portada]({{'normas-icontec/portada-contraportada-norma
 - La lista de contenido debe incluir las secciones principales de la monografía, organizadas en su orden correspondiente.
 - En la introducción, debes presentar el tema, el problema de investigación y los objetivos de la monografía. Además, debes mencionar la relevancia del tema y la metodología que utilizarás para llevar a cabo la investigación.
 - En el desarrollo, debes presentar los hallazgos de la investigación haciendo uso de fuentes fiables y adecuadas. Además, debes establecer un análisis crítico de los datos e identificar las conclusiones a las que se llega.
-- Por último, la bibliografía debe incluir los libros, [ensayos]({{'ensayo-con-normas-tecnicas'|relative_url}} "Ensayos") y otros recursos utilizados en la investigación, siguiendo las pautas establecidas por las Normas APA e Icontec para [citar y referenciar]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y referencias Normas Icontec") las fuentes utilizadas.
+- Por último, la bibliografía debe incluir los libros, [ensayos]({{'ensayos-con-normas-tecnicas'|relative_url}} "Ensayos") y otros recursos utilizados en la investigación, siguiendo las pautas establecidas por las Normas APA e Icontec para [citar y referenciar]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y referencias Normas Icontec") las fuentes utilizadas.
 {:class="seccion_a"}
 
 Asegúrate de seguir la estructura y el formato adecuado, y recuerda, la clave para una buena monografía es la investigación exhaustiva y una redacción cuidadosa.

@@ -18,7 +18,7 @@ Te enseñamos en detalle **qué son los anexos, su significado y su ubicación**
 
 Los anexos **son materiales adicionales que se adjuntan a un trabajo escrito para brindar información adicional, respaldo o detalles que complementan** el contenido principal.
 
-Pueden incluir *[gráficos, tablas,]({{'normas-apa/tablas-y-figuras-normas-apa.md'|relative_url}} "Tablas y gráficos Normas APA") diagramas, fotografías, mapas, encuestas, cuestionarios, entrevistas transcritas, extractos de documentos legales u otros elementos relevantes* para respaldar los argumentos o las conclusiones presentadas en el trabajo.
+Pueden incluir *[gráficos, tablas,]({{'normas-apa/tablas-y-figuras-normas-apa'|relative_url}} "Tablas y gráficos Normas APA") diagramas, fotografías, mapas, encuestas, cuestionarios, entrevistas transcritas, extractos de documentos legales u otros elementos relevantes* para respaldar los argumentos o las conclusiones presentadas en el trabajo.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
@@ -54,7 +54,7 @@ Asegúrate de seguir las directrices de formato y estilo establecidas por tu ins
 
 ## Ubicación de los anexos en un Trabajo Escrito
 
-Los anexos se ubican **al final del trabajo escrito, después de las conclusiones o la bibliografía**. Puedes presentarlos en una sección separada titulada "Anexos" o "[Apéndices]({{'apendices-trabajo-escrito'|relative_url}} "Apéndices trabajo escrito")".
+Los anexos se ubican **al final del trabajo escrito, después de las conclusiones o la bibliografía**. Puedes presentarlos en una sección separada titulada "Anexos" o "[Apéndices]({{'apendice-trabajo-escrito'|relative_url}} "Apéndices trabajo escrito")".
 
 Asegúrate de numerar o titular cada anexo de manera clara para que los lectores puedan referirse a ellos fácilmente.
 

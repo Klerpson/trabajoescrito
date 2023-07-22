@@ -23,8 +23,8 @@ Para elaborar una contraportada según las [Normas APA]({{'normas-apa'|relative_
 Esto significa tener en cuenta lo siguiente:
 
 * Usar una [fuente y tamaño específicos]({{'textos-y-fuentes-trabajo-escrito'|relative_url}} "Textos de un trabajo escrito")
-* Utilizar las [medidas de las normas APA en las márgenes]({{'normas-apa/margenes-normas-apa.md'|relative_url}} "Margenes Normas APA")
-* Utilizar los [interlineados APA]({{'normas-apa/interlineado-normas-apa.md'|relative_url}} "Interlineados Normas APA")
+* Utilizar las [medidas de las normas APA en las márgenes]({{'normas-apa/margenes-normas-apa'|relative_url}} "Margenes Normas APA")
+* Utilizar los [interlineados APA]({{'normas-apa/interlineado-normas-apa'|relative_url}} "Interlineados Normas APA")
 * Incluir el [número de página]({{'numeracion-trabajo-escrito'|relative_url}} "Numeración") correspondiente en la contraportada, si se ha utilizado numeración de página en el trabajo.
 
 **La contraportada debe tener un diseño claro y sencillo**, incluyendo **información importante sobre el autor**, como su nombre completo y dirección de correo electrónico.

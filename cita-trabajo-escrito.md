@@ -37,7 +37,7 @@ La citación adecuada es fundamental en el ámbito académico por varias razones
 
 Es esencial seleccionar el estilo bibliográfico apropiado para tu disciplina y tipo de trabajo académico. Algunos de los estilos más comunes son [APA (American Psychological Association)]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas con normas APA"), MLA (Modern Language Association) y Chicago.
 
-* **APA**: Ampliamente utilizado en ciencias sociales y de la salud, [el estilo APA se enfoca en la claridad y la precisión en la citación]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas Normas APA") y las [referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa.md'|relative_url}} "Referencias Normas APA").
+* **APA**: Ampliamente utilizado en ciencias sociales y de la salud, [el estilo APA se enfoca en la claridad y la precisión en la citación]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas Normas APA") y las [referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Normas APA").
 * **MLA**: Comúnmente utilizado en humanidades, artes y literatura, el estilo MLA se centra en la simplicidad y la concisión en las citas y las referencias.
 * **Chicago**: Ampliamente utilizado en disciplinas como historia, política y negocios, el estilo Chicago enfatiza la citación de fuentes primarias y secundarias, así como el uso de notas al pie y referencias bibliográficas detalladas.
 

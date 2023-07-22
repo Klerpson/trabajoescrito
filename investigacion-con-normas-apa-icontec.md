@@ -49,7 +49,7 @@ Para realizar una investigación con Normas APA e Icontec es fundamental seguir 
 * Asegúrate de utilizar fuentes confiables y verificables.
 * Organiza la información recopilada en un esquema claro y ordenado.
 * Utiliza [citas]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA") y [referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas normas APA") de acuerdo con las Normas APA e Icontec para evitar el plagio.
-* Asegúrate de que tu investigación incluya una [Introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducción trabajo escrito"), [Marco Teórico]({{'normas-icontec/marco-teorico-normas-icontec'|relative_url}} "Marco Teórico normas Icontec"), Metodología, Resultados y [Conclusiones]({{'normas-apa/conclusiones-normas-icontec'|relative_url}} "Conclusiones normas Icontec").
+* Asegúrate de que tu investigación incluya una [Introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducción trabajo escrito"), [Marco Teórico]({{'normas-icontec/marco-teorico-normas-icontec'|relative_url}} "Marco Teórico normas Icontec"), Metodología, Resultados y [Conclusiones]({{'normas-icontec/conclusiones-normas-icontec'|relative_url}} "Conclusiones normas Icontec").
 * Revisa la ortografía y gramática de tu trabajo para asegurarte de que cumple con las normas de escritura.
 * Utiliza herramientas de software adecuadas para la edición y presentación del trabajo.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->

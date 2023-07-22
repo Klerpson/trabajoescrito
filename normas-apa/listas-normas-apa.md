@@ -85,7 +85,7 @@ Se trata de un índice que **se encuentra al inicio del documento y que muestra 
 
 Es importante clasificar los diferentes contenidos del trabajo en diferentes niveles jerárquicos. Por ejemplo, los [títulos principales del trabajo]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos APA") deben ser de nivel 1, mientras que los subtítulos pueden ser de nivel 2 o 3.
 
-[Los subtítulos]({{'normas-apa/titulos-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos APA") deben reflejar de manera clara y concisa el contenido que se va a desarrollar. Asimismo, deben estar **redactados de manera coherente y con un tratamiento uniforme en cuanto a la tipografía, tamaño y estilo**.
+Los subtítulos deben reflejar de manera clara y concisa el contenido que se va a desarrollar. Asimismo, deben estar **redactados de manera coherente y con un tratamiento uniforme en cuanto a la tipografía, tamaño y estilo**.
 
 #### Ejemplo de titulares y subtítulos jerárquicos
 
