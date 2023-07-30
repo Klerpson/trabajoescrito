@@ -5,7 +5,7 @@ description: 👆Preparar y presentar un trabajo escrito exitoso es una habilida
 category: Blog
 tags: [Presentación]
 h1: Pasos estratégicos para crear y presentar un Trabajo Escrito de manera exitosa
-webp: blog/presentacion-trabajo-escrito.webp
+webp: blog/presentacion-trabajo-escrito
 alt: Presentación de un trabajo escrito
 excerpt: Te enseñamos una serie de claves para garantizar que tus presentaciones escritas sean coherentes, atractivas y efectivas.
 ---

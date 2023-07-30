@@ -5,7 +5,7 @@ description: Aprende a implementar las Normas APA en tus presentaciones de Power
 category: Blog
 tags: [Power point, APA]
 h1: "Las Normas APA en PowerPoint: mejora tus presentaciones"
-webp: blog/normas-apa-power-point.webp
+webp: blog/normas-apa-power-point
 alt: Normas APA power point
 excerpt: ¿Alguna vez te has preguntado cómo implementar las normas APA en PowerPoint? Estas normas, reconocidas y respetadas en el mundo académico, también aplican a tus presentaciones digitales.
 autor: Julian Franco

@@ -5,7 +5,7 @@ description: ★ Conoce los elementos esenciales de un contrato de trabajo escri
 category: Blog
 tags: [Trabajo escrito, legal]
 h1: "¿Qué es un Contrato de Trabajo Escrito?"
-webp: blog/contrato.webp
+webp: blog/contrato
 alt: Modelo de Contrato de Trabajo Escrito
 excerpt: "Un **contrato de trabajo escrito** es un documento legal que establece las condiciones de una relación laboral entre dos partes. Aprende cómo hacerlo"
 ---

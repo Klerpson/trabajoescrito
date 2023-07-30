@@ -5,7 +5,7 @@ description: "🌐 Aprende a detectar plagio en trabajos escritos online con nue
 category: Blog
 tags: [Trabajo escrito, legal]
 h1: "Aprende a detectar el plagio o el fraude en un trabajo escrito"
-webp: blog/plagio-fraude-trabajos-escritos.webp
+webp: blog/plagio-fraude-trabajos-escritos
 alt: Dibujo sobre la seguridad en trabajos escritos
 excerpt: "Detectar el plagio o el fraude en un trabajo escrito es una tarea esencial en el ámbito académico y profesional."
 ---

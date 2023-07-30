@@ -81,8 +81,8 @@
     <meta property="article:tag" content="{{page.category}}" >
     <meta property="article:section" content="San Agustín Huila" >
     <meta property="og:updated_time" content="{{page.date}}" >
-    <meta property="og:image" content="{{page.jpg}}" >
-    <meta property="og:image:secure_url" content="{{page.jpg}}" >
+    <meta property="og:image" content="{{page.webp}}.jpg" >
+    <meta property="og:image:secure_url" content="{{page.webp}}.jpg" >
     <meta property="og:image:width" content="320" >
     <meta property="og:image:height" content="320" >
     <meta property="og:image:alt" content="{{page.alt}}" >
@@ -96,7 +96,7 @@
     <meta name="twitter:description" content="{{page.description}}" >
     <meta name="twitter:site" content="@pollito_web" >
     <meta name="twitter:creator" content="@pollito_web" >
-    <meta name="twitter:image" content="{{page.jpg}}" >
+    <meta name="twitter:image" content="{{page.webp}}.jpg" >
     <!-- CRITICAL PATH -->
     <style>
       body{color:#202020}
@@ -228,7 +228,7 @@
           }
         },
         "datePublished": "{{page.date}}",
-        "image": "{% if page.webp %}{{site.baseurl}}/img/{{page.webp}}{% else %}{{site.baseurl}}/logotipo.webp{% endif %}",
+        "image": "{% if page.webp %}{{site.baseurl}}/img/{{page.webp}}.webp{% else %}{{site.baseurl}}/logotipo.webp{% endif %}",
         "articleSection": "{% if page.vertical %}{{page.title}}{% else %}Tips y consejos sobre Trabajos Escritos{% endif %}"
       }
       

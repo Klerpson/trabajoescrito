@@ -5,7 +5,7 @@ description: "¿Cómo harías un trabajo escrito a mano sorprendente? Con las no
 category: Blog
 tags: [Presentación, APA, Icontec]
 h1: Aprende a hacer un trabajo escrito a mano que dejará a todos sin palabras en el 2023
-webp: blog/trabajo-escrito-a-mano.webp
+webp: blog/trabajo-escrito-a-mano
 alt: Trabajo a mano
 excerpt: Sorprende a todos con tus habilidades de escritura en el 2023. En este artículo, aprenderás **los pasos clave para hacer un trabajo escrito a mano increíble** y cumplir con las normas APA e Icontec. ¡Vamos a brillar con nuestros lápices y plumas!
 ---
