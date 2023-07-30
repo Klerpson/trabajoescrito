@@ -7,7 +7,7 @@ tags: [Trabajo escrito, Niños]
 h1: "Cómo realizar Trabajos Escritos para niños de educación primaria"
 webp: blog/trabajo-escrito-niños
 alt: Dibujo sobre la seguridad en trabajos escritos
-excerpt: "Detectar el plagio o el fraude en un trabajo escrito es una tarea esencial en el ámbito académico y profesional."
+excerpt: "Un trabajo académico permite a los estudiantes **desarrollar habilidades de investigación, escritura y pensamiento crítico**."
 ---
 **Atajos:**
 * Do not remove this line (it will not be displayed)
