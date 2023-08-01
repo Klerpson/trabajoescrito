@@ -47,7 +47,7 @@ Asimismo, la página de aceptación debe ir ubicada justo después de la portada
 
 ### Listas especiales y glosario en Anteproyectos
 
-En los Anteproyectos con Normas APA e Icontec es necesario incluir [listas especiales]({{'normas-apa/listas-normas-apa'|relative_url}} "Listas Normas APA") y [un glosario]({{'normas-apa/glosario-normas-icontec'|relative_url}} "Glosario Normas Icontec") para aclarar términos o conceptos utilizados en el anteproyecto.
+En los Anteproyectos con Normas APA e Icontec es necesario incluir [listas especiales]({{'normas-apa/listas-normas-apa'|relative_url}} "Listas Normas APA") y [un glosario]({{'normas-icontec/glosario-normas-icontec'|relative_url}} "Glosario Normas Icontec") para aclarar términos o conceptos utilizados en el anteproyecto.
 
 Las listas especiales pueden ser de diferentes tipos, como listas de abreviaturas, definiciones, siglas, figuras, tablas y anexos, y deben seguir las normativas establecidas para la presentación de las mismas.
 
