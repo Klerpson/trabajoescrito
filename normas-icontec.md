@@ -40,6 +40,7 @@ Las normas colombianas se enfocan principalmente en establecer un patrón de pre
 * [⇾ Referencias bibliográficas y citas](#referencias)
 * [⇾ Anexos](#anexos)
 * [⇾ Listas](#referencias)
+* [⇾ Marco teórico](#marco)
 {:class="links"}
 
 >En nuestra sección de Capacitación encuentras muchos libros y cursos que **te ayudan a aplicar mucho más fácil las normas Icontec**  
@@ -139,8 +140,15 @@ Las Normas ICONTEC establecen directrices claras sobre **cómo deben presentarse
 ### Anexos
 
 Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal. En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
+{:id="marco"}
 
 [Anexos Icontec]({{'normas-icontec/anexos-normas-icontec'|relative_url}} "Anexos normas Icontec"){:class="boton"}
+
+### Marco teórico
+
+El **marco teórico** es una parte esencial de cualquier investigación académica. Es el cimiento sobre el cual se construye todo el estudio. Pero, ¿cómo se aplica correctamente las **Normas ICONTEC** en este contexto?
+
+[Marco teórico Icontec]({{'normas-icontec/marco-teorico-normas-icontec'|relative_url}} "Marco Teórico normas Icontec"){:class="boton"}
 
 -----
 

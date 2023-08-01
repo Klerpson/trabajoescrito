@@ -130,6 +130,6 @@ Lograrlo les ayuda a mejorar las habilidades de escritura y pensamiento crítico
 
 >No te desesperes si al principio te resulta difícil. Con el tiempo y la práctica, los niños se convertirán en expertos en la realización de trabajos escritos.
 
-Si te ha gustado este artículo y quieres aprender más sobre cómo mejorar tus habilidades de escritura, te invitamos a [seguir explorando nuestro sitio web]({{'tips-y-recomendaciones'|relative_url}} "Blog trabajoescrito.com").
+Si te ha gustado este artículo y quieres aprender más sobre cómo mejorar tus habilidades de escritura, te invitamos a [seguir explorando nuestro sitio web]({{'tips-y-consejos'|relative_url}} "Blog trabajoescrito.com").
 
 Tenemos muchos más recursos y guías que te ayudarán en tu camino hacia la excelencia académica. ¡Sigue leyendo y aprendiendo!
