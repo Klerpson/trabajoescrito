@@ -60,11 +60,11 @@ Todo documento que siga las normas ICONTEC debe tener ciertos componentes. Estos
 
 ### Portada en el formato ICONTEC
 
-La portada es la primera página de tu documento. Debe contener información como el título del documento, el nombre del autor, el nombre de la institución, la ciudad y la fecha.
+La portada es la primera página de tu documento. Debe contener información como el [título del documento]({{'titulos-trabajo-escrito'|relative_url}} "Títulos"), el nombre del autor, el nombre de la institución, la ciudad y la fecha.
 
 ### Página de contenido en el formato ICONTEC
 
-La página de contenido es donde se detalla todo lo que se incluye en el documento. Debe contener una lista de todos los títulos y subtítulos del documento, junto con el número de la página en la que se encuentran.
+La página de contenido es donde se detalla todo lo que se incluye en el documento. Debe contener una lista de todos los títulos y subtítulos del documento, junto con [el número de la página]({{'numeracion-trabajo-escrito'|relative_url}} "Numeración") en la que se encuentran.
 
 ### Cuerpo del documento en el formato ICONTEC
 
