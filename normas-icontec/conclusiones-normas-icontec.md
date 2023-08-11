@@ -32,30 +32,6 @@ Deben presentarse en una nueva página, comenzando con la palabra "Conclusiones"
 Adicionalmente, se deben **enumerar las conclusiones en párrafos separados**, cada uno de los cuales debe comenzar con un guión o con números.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
-<!-- 
-----
-
-## Síntesis y Resumen en Normas ICONTEC
-
-Además de las conclusiones, las Normas ICONTEC también proporcionan directrices para la redacción de la síntesis y el resumen.
-
-### Elaboración de una Síntesis bajo Normas ICONTEC
-
-La síntesis es un resumen de las principales ideas o argumentos presentados en el trabajo. Según las Normas ICONTEC, debe ser breve y centrarse únicamente en los puntos más importantes.
-
-### Cómo Hacer un Resumen Siguiendo las Normas ICONTEC
-
-El resumen, por otro lado, es una descripción más detallada del trabajo. Debe incluir los objetivos, los métodos utilizados, los principales hallazgos y las conclusiones. Según las Normas ICONTEC, el resumen debe ser claro, conciso y no debe contener ningún tipo de opinión personal o interpretación.
-
-## Recapitulación Conforme a Normas ICONTEC
-
-La recapitulación es otra parte importante del trabajo académico. Según las Normas ICONTEC, la recapitulación debe presentar una revisión de todo el trabajo, destacando los puntos más importantes y relacionándolos con las conclusiones.
-
-### Pasos para una Correcta Recapitulación bajo Normas ICONTEC
-La recapitulación debe comenzar con una revisión de los objetivos del trabajo, seguida de una descripción de los métodos utilizados. A continuación, debe presentar los principales hallazgos o resultados, y finalmente, debe relacionar estos hallazgos con las conclusiones.
-
-## Aplicación Práctica de las Normas ICONTEC
-Ahora que comprendemos las normas ICONTEC y cómo se aplican a las conclusiones, resúmenes y síntesis, podemos poner estos conocimientos en práctica. En el siguiente ejemplo, veremos cómo se puede aplicar las Normas ICONTEC en un trabajo académico. -->
 
 ----
 
