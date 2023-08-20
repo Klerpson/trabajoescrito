@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Aprende a presentar Trabajos Escritos para niños de primaria"
+title: "Aprende a realizar Trabajos Escritos para niños de primaria"
 description: "¿Necesitas ayuda para presentar un trabajo escrito de Grado 5 o menos? Aprende con nuestra página web. ¡Haz clic para conocer más!"
 category: Blog
 tags: [Trabajo escrito, Niños]
-h1: "Cómo realizar Trabajos Escritos para niños de educación primaria"
+h1: "Cómo hacer un trabajo escrito con niños de primaria"
 webp: blog/trabajo-escrito-niños
 alt: Dibujo sobre la seguridad en trabajos escritos
 excerpt: "Un trabajo académico permite a los estudiantes **desarrollar habilidades de investigación, escritura y pensamiento crítico**."
@@ -25,6 +25,8 @@ En este artículo, te proporcionaremos una guía completa sobre cómo realizar t
 
 ## Beneficios de los Trabajos Escritos para los niños
 
+{% include add.html %}
+
 Los trabajos escritos ofrecen numerosos beneficios para los niños:
 
 1. Ayudan a **mejorar las habilidades de escritura y lectura** de los niños.
@@ -39,7 +41,7 @@ Los trabajos escritos ayudan a los niños a desarrollar **habilidades de organiz
 
 -----
 
-## Normas para realizar un Trabajo Escrito con niños
+## ¿Cómo presentar un trabajo escrito para niños de primaria? Siguiendo las normas académicas
 
 Las normas para trabajos escritos son directrices que ayudan a los niños a presentar sus trabajos de manera coherente y profesional.
 
@@ -57,7 +59,9 @@ Aunque pueden parecer complejas para los niños de primaria, es importante intro
 
 Estas normas son ampliamente utilizadas en países hispanohablantes y cubren aspectos similares a las normas APA, como el formato del papel, [el estilo de escritura]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo del trabajo Normas Icontec"), [las citas y las referencias]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y Referencias Normas Icontec").
 
-## Haciendo el Trabajo con niños: paso a paso
+-----
+
+## Haciendo un Trabajo Escrito para niños de primaria: paso a paso
 
 Hacer un trabajo escrito puede parecer una tarea desalentadora para los niños de primaria, pero c**on la orientación y el apoyo adecuados**, puede ser una experiencia de aprendizaje enriquecedora.
 
@@ -69,17 +73,19 @@ El primer paso para hacer un trabajo escrito es elegir un tema. El tema **debe s
 
 Procura que el niño tenga la oportunidad de explorar y aprender sobre algo que le apasiona.
 
-### 2. Búsqueda de información juntos
+### 2. Busquen información del trabajo escrito junto con el niño
 
 El segundo paso para realizar un trabajo escrito con un niño es buscar información sobre el tema. Esto puede implicar leer libros, buscar información en línea, hablar con expertos o realizar experimentos.
 
 Aquí el niño **aprenderá a buscar y utilizar información de manera efectiva y ética**. ¡Explora con ellos!
 
-### 3. Enséñale a los niños a organizar la información
+### 3. Enséñale a los niños a organizar la información del trabajo escrito
 
 Una vez que hayas recopilado suficiente información, el siguiente paso es organizarla.
 
 Si **elaboras un esquema de lo que debe ser un trabajo**, te será mucho más sencillo organizar la información que has recopilado.
+
+{% include add.html %}
 
 ### 4. Que los niños escriban el borrador del trabajo
 
@@ -87,19 +93,21 @@ Después de la organización, **el niño puede comenzar a escribir** el borrador
 
 Este es un primer intento de organizar y presentar la información que ha recopilado. El borrador debe incluir una [introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducciones"), un [desarrollo]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo trabajo") y una [conclusión]({{'conclusiones-trabajo-escrito'|relative_url}} "Conclusiones").
 
-### 5. Revisa y corregi el trabajo de los niños
+### 5. Revisa y corrige el trabajo escrito del niño
 
 Una vez que se ha escrito el borrador, es importante revisarlo y corregirlo. Esto implica **verificar la ortografía, la gramática, la puntuación y la coherencia** del trabajo.
 
 También es una oportunidad para mejorar la presentación de las ideas y la estructura del trabajo.
 
-### 6. Ahora a presentar el Trabajo Escrito
+### 6. Ahora a presentar el Trabajo Escrito para niños
 
 Finalmente, el niño puede presentar su trabajo escrito. Esto puede implicar **leer el trabajo en voz alta, entregarlo al profesor o compartirlo con sus compañeros** de clase.
 
 Haz que el niño se sienta orgulloso de su trabajo y tenga la oportunidad de recibir retroalimentación sobre él.
 
-## Estructura de un Trabajo Escrito para niños
+-----
+
+## Estructura de un Trabajo escrito para niños de primaria
 
 Un niño también puede hacer un trabajo escrito típico consta de varias partes:
 
