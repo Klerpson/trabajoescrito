@@ -1,6 +1,12 @@
 [
   
     {
+      "title"    : "La magia de un Trabajo Escrito a mano con Normas APA e Icontec",
+      "category" : "Blog",
+      "url"      : "/trabajo-escrito-a-mano"
+    } ,
+  
+    {
       "title"    : "Estilo MLA: La Norma de Citación Favorita de Investigadores",
       "category" : "Blog",
       "url"      : "/normas-mla"
@@ -34,12 +40,6 @@
       "title"    : "El uso de un generador de normas APA ↩",
       "category" : "Blog",
       "url"      : "/generadores-normas-apa"
-    } ,
-  
-    {
-      "title"    : "La magia de un Trabajo Escrito a mano + Normas APA/Icontec",
-      "category" : "Blog",
-      "url"      : "/trabajo-escrito-a-mano"
     } ,
   
     {
@@ -382,7 +382,7 @@
   
    {
      
-        "title"    : "Cómo configurar márgenes en Trabajos Escritos como un Pro ↹",
+        "title"    : "¿Cómo son las márgenes en trabajos escritos y sus medidas?",
         "category" : "",
         "url"      : "/margenes-trabajo-escrito"
      
@@ -422,7 +422,7 @@
   
    {
      
-        "title"    : "Numeración en Trabajos Escritos: aprende a paginar 📖✅",
+        "title"    : "Enumeración en Trabajos Escritos: aprende a paginar correctamente",
         "category" : "",
         "url"      : "/numeracion-trabajo-escrito"
      
