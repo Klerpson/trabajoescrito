@@ -47,13 +47,13 @@ Las normas para trabajos escritos son directrices que ayudan a los niños a pres
 
 >Estas normas *pueden variar dependiendo de la escuela o del profesor*, pero generalmente incluyen aspectos como el formato del trabajo, la estructura, la citación de fuentes, entre otros.
 
-### Introducción a las normas APA para niños
+### Normas APA para realizar un trabajo escrito para niños
 
 [Las normas APA (American Psychological Association)]({{'normas-apa'|relative_url}} "Normas APA") son un conjunto de directrices utilizadas para la presentación de trabajos escritos en el campo de las ciencias sociales.*
 
 Aunque pueden parecer complejas para los niños de primaria, es importante introducir estas normas de manera sencilla y accesible. Las normas APA cubren aspectos como el formato del papel, [el estilo de escritura]({{'normas-apa/textos-normas-apa'|relative_url}} "Textos en Normas APA"), [las citas]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas con Normas APA") y [las referencias]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Normas APA").
 
-### Introducción a las normas ICONTEC para niños
+### Normas ICONTEC de trabajos escritos con niños
 
 [Las normas ICONTEC (Instituto Colombiano de Normas Técnicas y Certificación)]({{'normas-icontec'|relative_url}} "Normas Icontec") son otro conjunto de directrices utilizadas para la presentación de trabajos escritos.
 
