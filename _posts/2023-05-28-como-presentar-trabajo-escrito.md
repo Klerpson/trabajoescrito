@@ -9,11 +9,14 @@ webp: blog/presentacion-trabajo-escrito
 alt: Presentación de un trabajo escrito
 excerpt: Te enseñamos una serie de claves para garantizar que tus presentaciones escritas sean coherentes, atractivas y efectivas.
 ---
+----
+
 **Atajos:**
+
 * Do not remove this line (it will not be displayed)
 {:toc}
 
------
+----
 
 No importa si estás preparando un [informe]({{'informes'|relative_url}} "Informes") de investigación, una tarea universitaria o un ensayo, los principios que presentamos aquí te ayudarán a mejorar la calidad de tu trabajo.
 

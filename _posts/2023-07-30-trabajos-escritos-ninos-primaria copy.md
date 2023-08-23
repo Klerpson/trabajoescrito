@@ -9,11 +9,14 @@ webp: blog/trabajo-escrito-niños
 alt: Dibujo sobre la seguridad en trabajos escritos
 excerpt: "Un trabajo académico permite a los estudiantes **desarrollar habilidades de investigación, escritura y pensamiento crítico**."
 ---
+----
+
 **Atajos:**
+
 * Do not remove this line (it will not be displayed)
 {:toc}
 
------
+----
 
 ## La importancia de los Trabajos Escritos en la educación primaria
 

@@ -9,11 +9,14 @@ webp: blog/contrato
 alt: Modelo de Contrato de Trabajo Escrito
 excerpt: "Un **contrato de trabajo escrito** es un documento legal que establece las condiciones de una relación laboral entre dos partes. Aprende cómo hacerlo"
 ---
+----
+
 **Atajos:**
+
 * Do not remove this line (it will not be displayed)
 {:toc}
 
------
+----
 
 Un **contrato de trabajo escrito** es un documento legal que establece las condiciones de una relación laboral entre dos partes: el empleador y el empleado. Este acuerdo es fundamental para establecer una relación laboral justa y equitativa.
 

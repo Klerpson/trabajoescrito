@@ -9,11 +9,14 @@ webp: blog/apa-vs-icontec
 alt: Diferencias APA vs Icontec
 excerpt: "Dos de las normas más utilizadas a nivel internacional y en Colombia son las normas APA e ICONTEC. ¿Pero cuál es la diferencia entre estas dos? ¿Cómo saber cuándo utilizar una y no la otra?"
 ---
+----
+
 **Atajos:**
+
 * Do not remove this line (it will not be displayed)
 {:toc}
 
------
+----
 La **[Norma APA]({{'normas-apa'|relative_url}})** es un conjunto de estándares desarrollados por la American Psychological Association para la presentación de trabajos académicos escritos, especialmente en las ciencias sociales y del comportamiento.
 
 Por otro lado, las **[Normas ICONTEC]({{'normas-icontec'|relative_url}})** son pautas establecidas por el Instituto Colombiano de Normas Técnicas y Certificación, utilizadas ampliamente en países de habla hispana para la presentación de trabajos académicos y científicos.

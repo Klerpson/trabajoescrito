@@ -13,12 +13,14 @@ alt: Trabajo a mano
 excerpt: Sorprende a todos con tus habilidades de escritura en el 2023. En este artículo, aprenderás **los pasos clave para hacer un trabajo escrito a mano increíble** y cumplir con las normas APA e Icontec. ¡Vamos a brillar con nuestros lápices y plumas!
 date: 2023-08-20
 ---
------
+----
+
 **Atajos:**
 
 * Do not remove this line (it will not be displayed)
 {:toc}
------
+
+----
 
 ## ¿Cómo se hace un trabajo escrito a mano?
 

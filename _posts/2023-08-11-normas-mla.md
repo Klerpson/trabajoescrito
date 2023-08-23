@@ -9,7 +9,14 @@ webp: blog/normas-mla
 alt: Dibujo sobre las normas MLA
 excerpt: "El estilo MLA es un estilo de formato y citación ampliamente utilizado con directrices sobre cómo estructurar los trabajos, dar formato a las referencias y citar las fuentes."
 ---
+----
 
+**Atajos:**
+
+* Do not remove this line (it will not be displayed)
+{:toc}
+
+----
 ## Estilo MLA en trabajos escritos
 
 ¿Es usted un experto en [trabajos académicos](/)? Si es así, entonces probablemente estés familiarizado con el Estilo MLA.
@@ -17,12 +24,6 @@ excerpt: "El estilo MLA es un estilo de formato y citación ampliamente utilizad
 En este artículo, exploraremos **qué es el estilo MLA, su historia, pautas de formato, estilo de escritura, citas dentro del texto, página de trabajos citados y herramientas para generar citas**.
 
 Al final de este artículo, tendrás una sólida comprensión de cómo formatear y citar correctamente tus trabajos, asegurándote de que tus referencias bibliográficas son precisas y se ajustan a las directrices de MLA.
-
-**Atajos:**
-* Do not remove this line (it will not be displayed)
-{:toc}
-
------
 
 ## ¿Qué son las normas con estilo MLA?
 
