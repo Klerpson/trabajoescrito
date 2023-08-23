@@ -21,7 +21,9 @@ layout: default
       {% endunless %}
     </span>
   </div>
+  {% include add.html %}
   {{ content }}
+  {% include add.html %}
   {% if page.referencias %}
   <section id="fuentes">
     <h4>Créditos y referencias</h4>
