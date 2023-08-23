@@ -6,7 +6,7 @@ description: Desde ideas innovadoras hasta sugerencias originales, descubre cóm
 category: Blog
 tags: Trabajo escrito, Creatividad
 h1: "Eleva tu escritura: Ideas y sugerencias para trabajos escritos"
-webp: blog/ideas-trabajo-creativo.webp
+webp: blog/ideas-trabajo-creativo
 alt: Dibujo de ideas creativas para escribir
 excerpt: Eleva tu nivel de escritura con ideas y propuestas originales. Consejos
   de expertos para tus trabajos escritos.
