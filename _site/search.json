@@ -1,6 +1,18 @@
 [
   
     {
+      "title"    : "Ideas Creativas: Logra Trabajos Escritos Únicos y Originales",
+      "category" : "Blog",
+      "url"      : "/ideas-creativas-logra-trabajos-escritos-%C3%BAnicos-y-originales"
+    } ,
+  
+    {
+      "title"    : "Las Normas APA en PowerPoint | Guía y Consejos",
+      "category" : "Blog",
+      "url"      : "/normas-apa-power-point"
+    } ,
+  
+    {
       "title"    : "La magia de un Trabajo Escrito a mano con Normas APA e Icontec",
       "category" : "Blog",
       "url"      : "/trabajo-escrito-a-mano"
@@ -40,12 +52,6 @@
       "title"    : "El uso de un generador de normas APA ↩",
       "category" : "Blog",
       "url"      : "/generadores-normas-apa"
-    } ,
-  
-    {
-      "title"    : "Domina las Normas APA en PowerPoint: guía y consejos",
-      "category" : "Blog",
-      "url"      : "/normas-apa-power-point"
     } ,
   
     {
@@ -382,7 +388,7 @@
   
    {
      
-        "title"    : "¿Cómo son las márgenes en trabajos escritos y sus medidas?",
+        "title"    : "Márgenes para un Trabajo Escrito • Medidas • Recomendaciones",
         "category" : "",
         "url"      : "/margenes-trabajo-escrito"
      

@@ -1,18 +1,18 @@
 ---
 layout: default
-title: "¿Cómo son las márgenes en trabajos escritos y sus medidas?"
-description: "¿Sabes cómo establecer los márgenes correctos en tus trabajos escritos? ¡Mejora la presentación de tus escritos. ¡Haz clic y aprende más!👆"
+title: "Márgenes para un Trabajo Escrito • Medidas • Recomendaciones"
+description: "¿Sabes cómo hacer un margen para un trabajo escrito? Te enseñamos cómo son y las medidas ¡Haz clic y aprende más!👆"
 h1: "¿Cómo configurar las márgenes para un trabajo escrito?"
-intro: "El diseño y formato de un trabajo escrito son aspectos cruciales que no debemos pasar por alto. "
+intro: "Las márgenes de un trabajo escrito son aspectos cruciales que no debemos pasar por alto. "
 boton_info: "estructura"
 boton_info_title: "Cómo hacerlas"
 boton_mas: "descargas"
 boton_mas_title: "Medidas de las normas"
 vertical: true
 ---
-Los márgenes son un elemento fundamental en la presentación de nuestros trabajos. Te enseñaremos **cómo configurar correctamente los márgenes** para un documento escrito.
+Los márgenes son un elemento fundamental en la presentación de nuestros trabajos. Te enseñaremos **cómo configurar correctamente las medidas de los márgenes** para un trabajo escrito.
 
-## ¿Qué son los Márgenes en un trabajo académico?
+## Los márgenes de un trabajo escrito
 
 Los márgenes son **los espacios vacíos que rodean el texto en una página**. Proporcionan un área de respiro visual, dejan espacio para la encuadernación y permiten hacer notas al margen.
 
@@ -20,17 +20,62 @@ Los márgenes adecuados ofrecen *una presentación ordenada y legible* para el l
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-### Medidas de margen para el trabajo escrito
+### Cómo son las medidas de las márgenes del trabajo escrito
 
-Las medidas de margen estándar para un trabajo escrito **suelen ser de una pulgada (o 2.54 cm) en todos los lados** - arriba, abajo, izquierda y derecha.
+Para saber qué márgenes debe tener un trabajo escrito, puedes utilizar la norma estándar. Estas medidas **suelen ser de una pulgada (o 2.54 cm) en todos los lados** - arriba, abajo, izquierda y derecha.
 
-Esta es una norma generalmente aceptada para la mayoría de [los trabajos escritos](/), ya sean académicos o profesionales.
+Esta es una norma generalmente aceptada para la mayoría de [los trabajos escritos](/), ya sean académicos o profesionales. Por lo tanto, puedes utilizar como regla básica al aplicar márgenes.
 
-> Nota: Asegúrate de aplicar estos cambios a todo el documento y no sólo a una parte.
+> Nota: Asegúrate de aplicar estos cambios a todo el documento y no sólo a una parte. Y pregunta a tus revisores si desean que apliques otras normas de trabajos académicos en tus márgenes.
+
+## Cómo hacer una margen para un trabajo escrito en Word y Google Docs
 
 *Microsoft Word* es una de las herramientas más populares para la redacción y el formato de trabajos escritos. Utiliza sus ventajas para establecer sus márgenes fácilmente.
 
-### Medidas específicas de márgenes
+En el caso de Microsoft Word, hay varias formas de ajustar los márgenes:
+
+1. **Aplicar una configuración de márgenes predefinida**: Ve a la pestaña "Diseño" y selecciona "Márgenes". Luego, elige las medidas que desees.
+2. **Crear un margen personalizado**: En la misma pestaña "Diseño", selecciona "Márgenes personalizados" y ajusta los valores usando las flechas arriba y abajo.
+3. **Cambiar los márgenes predeterminados**: En "Diseño > márgenes > márgenes personalizados", establece los márgenes y selecciona "Establecer como predeterminado".
+
+### Preguntas para reflexionar antes de establecer las márgenes de tu trabajo
+
+1. **¿Qué método es más adecuado para tu tipo de documento?**: ¿Necesitas márgenes predefinidos o personalizados?
+2. **¿Cómo afectan los márgenes al diseño general de tu documento?**: ¿Has considerado cómo los márgenes pueden influir en la legibilidad y presentación?
+3. **¿Has considerado las diferencias entre Word y Google Docs?**: ¿Qué plataforma se adapta mejor a tus necesidades para ajustar márgenes?
+
+----------
+
+### Tutorial mejorado: cómo aplicar márgenes en Word y Google Docs para dummies
+
+#### En Microsoft Word
+
+1. **Márgenes Predefinidos**
+    - Ve a la pestaña "Diseño" en la parte superior.
+    - Haz clic en "Márgenes".
+    - Selecciona una de las opciones predefinidas.
+2. **Márgenes Personalizados**
+    - Ve a "Diseño > Márgenes".
+    - Haz clic en "Márgenes personalizados" al final del menú desplegable.
+    - Ajusta los valores de los márgenes como desees y haz clic en "Aceptar".
+3. **Establecer como Predeterminado**
+    - Si deseas que estos márgenes se apliquen a todos los nuevos documentos, haz clic en "Establecer como predeterminado" después de ajustar los márgenes.
+{:class="seccion_a"}
+
+#### En Google Docs
+
+1. **Márgenes Predefinidos**
+    - Ve a "Archivo > Configuración de página".
+    - En la pestaña "Márgenes", selecciona una de las opciones predefinidas.
+2. **Márgenes Personalizados**
+    - En "Archivo > Configuración de página", ve a la pestaña "Márgenes".
+    - Introduce los valores que desees para los márgenes superior, inferior, izquierdo y derecho.
+    - Haz clic en "Aceptar".
+{:class="seccion_a"}
+
+Y ahí lo tienes, **ahora sabes cómo ajustar los márgenes en Word y Google Docs como un profesional**, ¡pero en un lenguaje que todos podemos entender!
+
+### Márgenes adecuados para un trabajo
 
 Para un trabajo escrito más profesional y efectivo, las medidas recomendadas son:
 
@@ -50,7 +95,7 @@ Sin embargo, si incluyes elementos gráficos o logotipos, es posible que debas h
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
------
+----
 
 #### Tabla con las márgenes para un trabajo escrito
 
