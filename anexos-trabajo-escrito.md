@@ -16,6 +16,8 @@ Te enseñamos en detalle **qué son los anexos, su significado y su ubicación**
 
 ## ¿Qué son los anexos en un Trabajo Escrito?
 
+{% include add.html %}
+
 Los anexos **son materiales adicionales que se adjuntan a un trabajo escrito para brindar información adicional, respaldo o detalles que complementan** el contenido principal.
 
 Pueden incluir *[gráficos, tablas,]({{'normas-apa/tablas-y-figuras-normas-apa'|relative_url}} "Tablas y gráficos Normas APA") diagramas, fotografías, mapas, encuestas, cuestionarios, entrevistas transcritas, extractos de documentos legales u otros elementos relevantes* para respaldar los argumentos o las conclusiones presentadas en el trabajo.
@@ -51,6 +53,8 @@ Durante [el cuerpo principal del trabajo]({{'cuerpo-trabajo-escrito'|relative_ur
 Asegúrate de seguir las directrices de formato y estilo establecidas por tu institución académica. Los anexos generalmente se presentan después de [las conclusiones]({{'conclusiones-trabajo-escrito'|relative_url}} "Conclusiones trabajo escrito") o la [bibliografía]({{'bibliografia-trabajo-escrito'|relative_url}} "Bibliografía trabajo escrito") y se numeran o titulan claramente para su fácil identificación.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
+
+{% include add.html %}
 
 ## Ubicación de los anexos en un Trabajo Escrito
 

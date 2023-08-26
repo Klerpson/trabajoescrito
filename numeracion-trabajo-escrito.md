@@ -20,6 +20,8 @@ Te enseñaremos **cómo enumerar y paginar tus trabajos escritos según las norm
 
 ## Enumeración de trabajos según normas APA
 
+{% include add.html %}
+
 ### Dónde comenzar a enumerar siguiendo las normas APA
 
 En las [normas APA]({{'normas-apa'|relative_url}}), la numeración de las páginas en los trabajos escritos **comienza [desde la portada]({{'portada-trabajo-escrito'|relative_url}} "Portadas")**. Sin embargo, los números de página no se muestran en la portada ni en la página del [índice o tabla de contenidos]({{'tabla-de-contenido-trabajo-escrito'|relative_url}} "Tabla de contenido").
@@ -61,7 +63,8 @@ Por ejemplo, muchos procesadores de texto, como **Word en office**, ofrecen func
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
+{% include add.html %}
+
 ## Enumerar y organizar, esa es la cuestión
 
 Recuerda, la correcta enumeración y paginación de tu trabajo no solo facilita la lectura, sino que también refleja tu atención al detalle y tu compromiso con la presentación de un trabajo de alta calidad.
-

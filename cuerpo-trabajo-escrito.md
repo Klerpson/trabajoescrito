@@ -16,6 +16,8 @@ Lo anterior implica presentar argumentos, evidencias y análisis en detalle. ¿T
 
 ## ¿Qué es el cuerpo del trabajo escrito?
 
+{% include add.html %}
+
 El cuerpo de un [trabajo escrito](/) **es la sección principal del texto** que sigue a la [introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducciones") y en donde se presenta, argumenta, y analiza el tema o tesis central del trabajo.
 
 En un sentido más amplio, **el cuerpo es donde sucede la magia del texto**, ya que es aquí donde se desenvuelve el contenido central de tu argumento.
@@ -37,6 +39,8 @@ El cuerpo de trabajo *inicia con una tesis o argumento principal*. Luego, se pre
 Cada párrafo debe presentar una idea principal, respaldada por información relevante. Recuerda siempre mantener la coherencia y el flujo de ideas.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
+
+{% include add.html %}
 
 ## Ejemplo de cuerpo de trabajo escrito
 

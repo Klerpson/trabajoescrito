@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Anteproyecto con normas APA e Icontec ✓"
-description: "Las Normas Icontec y APA son fundamentales para la realización de un Anteproyecto. Y tienen diferencias en la forma de aplicarlas 👆 Aprende cuáles son"
+title: "Anteproyecto de Trabajos Escritos: con normas APA e Icontec"
+description: "Las Normas Icontec y APA son fundamentales para la realización de un Anteproyecto. Y tienen diferencias en la forma de aplicarlas. Aprende cuáles son"
 h1: "Anteproyecto y trabajos escritos: normas APA e Icontec para una presentación impecable"
 intro: "Las Normas Icontec y APA son fundamentales para la realización de trabajos escritos en Colombia. Aunque ambas buscan una presentación clara y ordenada, existen diferencias en la forma de aplicarlas."
 boton_info: "estructura"
-boton_info_title: "Cómo se hace"
+boton_info_title: "Mira cómo se hace"
 boton_mas: "descargas"
 boton_mas_title: "Aprende a dividirlo"
 vertical: true
@@ -17,6 +17,8 @@ Además, es importante incluir una [portada]({{'portada-trabajo-escrito'|relativ
 -----
 
 ## Normas técnicas para trabajos como los Anteproyectos
+
+{% include add.html %}
 
 [Las Normas Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec") son un conjunto de **reglas y pautas que se deben seguir al momento de realizar trabajos escritos en Colombia**. Estas normas cubren aspectos como la presentación del trabajo, el formato, la ortografía, la puntuación, las citas y las referencias bibliográficas.
 
@@ -71,7 +73,7 @@ En general, la introducción busca contextualizar el tema tratado y enunciar de 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
------
+{% include add.html %}
 
 ## ¿Cómo dividir el Anteproyecto en partes siguiendo Normas APA e Icontec?
 

@@ -18,6 +18,8 @@ Para hacerlo más fácil, existen normas establecidas que tienen pautas y recome
 
 ## Normas y pautas para la portada de trabajos escritos
 
+{% include add.html %}
+
 Hay que considerar el diseño y formato de la portada, incluyendo [el tipo de letra]({{'textos-y-fuentes-trabajo-escrito'|relative_url}} "Letras y fuentes"), tamaño, [márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes") e interlineado.
 
 Las normas **Icontec y APA son las principales normas utilizadas para la elaboración de portadas en trabajos escritos**. Siguiendo estas normas puedes asegurar [una presentación adecuada y profesional de los trabajos escritos]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}).
@@ -104,7 +106,7 @@ La institución **brinda credibilidad y relevancia** al trabajo, y la fecha es i
 
 La información de la institución y fecha **es requerida por las normas APA e Icontec** para la presentación de trabajos escritos.
 
-## Lúcete con la portada de tu trabajo escrito
+## Brilla con la portada de tu trabajo escrito
 
 Recuerda: si tu portada brilla, la expectativa sobre el resto de tu Trabajo Escrito será más positiva y ayudará en la percepción de tus resultados.
 
