@@ -4,10 +4,10 @@ title: "Márgenes para un Trabajo Escrito • Medidas • Recomendaciones"
 description: "¿Sabes cómo hacer un margen para un trabajo escrito? Te enseñamos cómo son y las medidas ¡Haz clic y aprende más!👆"
 h1: "¿Cómo configurar las márgenes para un trabajo escrito?"
 intro: "Las márgenes de un trabajo escrito son aspectos cruciales que no debemos pasar por alto. "
-boton_info: "estructura"
+boton_info: "normas"
 boton_info_title: "Cómo hacerlas"
 boton_mas: "descargas"
-boton_mas_title: "Medidas de las normas"
+boton_mas_title: "Aplicarlas en Word y Docs"
 vertical: true
 ---
 Los márgenes son un elemento fundamental en la presentación de nuestros trabajos. Te enseñaremos **cómo configurar correctamente las medidas de los márgenes** para un trabajo escrito.
@@ -17,14 +17,16 @@ Los márgenes son un elemento fundamental en la presentación de nuestros trabaj
 Los márgenes son **los espacios vacíos que rodean el texto en una página**. Proporcionan un área de respiro visual, dejan espacio para la encuadernación y permiten hacer notas al margen.
 
 Los márgenes adecuados ofrecen *una presentación ordenada y legible* para el lector.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="normas"}
 
 ### Cómo son las medidas de las márgenes del trabajo escrito
+
+{% include add.html %}
 
 Para saber qué márgenes debe tener un trabajo escrito, puedes utilizar la norma estándar. Estas medidas **suelen ser de una pulgada (o 2.54 cm) en todos los lados** - arriba, abajo, izquierda y derecha.
 
 Esta es una norma generalmente aceptada para la mayoría de [los trabajos escritos](/), ya sean académicos o profesionales. Por lo tanto, puedes utilizar como regla básica al aplicar márgenes.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="normas"}
 
 > Nota: Asegúrate de aplicar estos cambios a todo el documento y no sólo a una parte. Y pregunta a tus revisores si desean que apliques otras normas de trabajos académicos en tus márgenes.
 
@@ -43,6 +45,8 @@ En el caso de Microsoft Word, hay varias formas de ajustar los márgenes:
 1. **¿Qué método es más adecuado para tu tipo de documento?**: ¿Necesitas márgenes predefinidos o personalizados?
 2. **¿Cómo afectan los márgenes al diseño general de tu documento?**: ¿Has considerado cómo los márgenes pueden influir en la legibilidad y presentación?
 3. **¿Has considerado las diferencias entre Word y Google Docs?**: ¿Qué plataforma se adapta mejor a tus necesidades para ajustar márgenes?
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ----------
 
@@ -92,10 +96,8 @@ Estas medidas se consideran ideales ya que proporcionan un espacio suficiente pa
 [La portada]({{'portada-trabajo-escrito'|relative_url}} "Portada Trabajo Escrito") y la hoja guía (o página de título interno) deben seguir las mismas reglas de margen que el resto del documento.
 
 Sin embargo, si incluyes elementos gráficos o logotipos, es posible que debas hacer algunos ajustes en el diseño.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
 
-----
+{% include add.html %}
 
 #### Tabla con las márgenes para un trabajo escrito
 

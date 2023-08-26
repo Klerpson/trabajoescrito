@@ -18,6 +18,8 @@ En este artículo se presentarán consejos y ejemplos para elaborar los agradeci
 
 ## ¿Qué son los agradecimientos en un trabajo escrito?
 
+{% include add.html %}
+
 En un [trabajo escrito](/), los agradecimientos son una parte importante que **tiene como objetivo expresar la gratitud hacia las personas e instituciones que brindaron apoyo** en la elaboración del documento.
 
 Los agradecimientos **se ubican en la parte preliminar del trabajo, antes de la [introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducción")**, y su extensión puede variar dependiendo de la cantidad de personas e instituciones a las que se desea agradecer.
@@ -79,7 +81,7 @@ Los servicios de asesoría en agradecimientos ofrecen consultoría personalizada
 
 Para aquellos estudiantes que tengan dificultades en la redacción de sus agradecimientos, existen servicios especializados de redacción de estos, los cuales se encargan de la elaboración de agradecimientos profesionales de manera eficiente y con una estructura adecuada.
 
-Ahora, puedes utilizar herramientas de Inteligencias Artificial. Debes cuidar los resultados para evitar contenido inexacto o redundante.
+>Ahora, puedes utilizar herramientas de Inteligencias Artificial. Debes cuidar los resultados para evitar contenido inexacto o redundante.
 
 #### Precios y tipos de servicio ofrecidos
 
@@ -99,7 +101,7 @@ Otro servicio ofrecido es el de corrección de agradecimientos de [tesis]({{'tes
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
------
+{% include add.html %}
 
 ## Ejemplos de agradecimientos en distintos tipos de trabajos académicos
 
