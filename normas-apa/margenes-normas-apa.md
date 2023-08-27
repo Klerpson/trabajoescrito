@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "Márgenes en Normas APA: Ajustando el formato ↔"
-description: "Es esencial cumplir con las Normas APA según la 7ª edición, donde se especifican los márgenes recomendados para los trabajos📝. Mira cuáles son"
+title: "Márgenes de Normas APA: Ajustando el formato y las medidas"
+description: "Es esencial cumplir con las Normas APA según la 7ª edición. En APA se especifican los márgenes recomendados para los trabajos y cómo se hacen"
 h1: "Márgenes en Normas APA: ajustando el formato de tu trabajo escrito"
 intro: "Las Normas APA son muy importantes en la redacción de trabajos académicos. Uno de los elementos fundamentales que se deben tener en cuenta son los márgenes."
 boton_info: "medidas"
@@ -11,7 +11,7 @@ boton_mas_title: "Configurar márgenes"
 vertical: true
 permalink: /normas-apa/margenes-normas-apa
 ---
-Analicemos todo lo que necesitas saber sobre **los márgenes requeridos** en tus trabajos académicos para cumplir con ciertas recomendaciones **de acuerdo con la séptima edición de las Normas APA**.
+Analicemos todo lo que necesitas saber sobre **los márgenes requeridos** en tus trabajos académicos para cumplir con ciertas recomendaciones **de acuerdo con las Normas APA**.
 
 Veremos cómo ajustarlos en Word y cómo configurarlos cuando se requiere encuadernación especial. También encontrarás otros elementos importantes que debes considerar para cumplir con las normas en la estructuración y [presentación de tu trabajo]({% post_url 2023-05-28-como-presentar-trabajo-escrito %} "Presentación de trabajos escritos").
 
