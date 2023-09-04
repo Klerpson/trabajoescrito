@@ -1,6 +1,12 @@
 [
   
     {
+      "title"    : "Claves para Sustentar un Trabajo Escrito con Éxito",
+      "category" : "Blog",
+      "url"      : "/sustentacion-trabajos-escritos"
+    } ,
+  
+    {
       "title"    : "Ideas Creativas: Logra Trabajos Escritos Únicos y Originales",
       "category" : "Blog",
       "url"      : "/ideas-creativas-logra-trabajos-escritos-%C3%BAnicos-y-originales"
@@ -372,7 +378,7 @@
   
    {
      
-        "title"    : "Márgenes en Normas APA: Ajustando el formato ↔",
+        "title"    : "Márgenes de Normas APA: Ajustando el formato y las medidas",
         "category" : "",
         "url"      : "/normas-apa/margenes-normas-apa"
      
