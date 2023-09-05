@@ -34,9 +34,9 @@ Antes de hablar sobre los trabajos escritos a mano, es importante conocer las no
 
 Las [Normas APA]({{'normas-apa'|relative_url}} "Norma APA") e [Icontec]({{'normas-icontec'|relative_url}} "Norma Icontec") son como las estrellas de este espectáculo, así que asegúrense de **entender sus pautas sobre citas, referencias y formato en general**. ¡Serán nuestras guías en este desafío!
 
-### Haciendo la portada del trabajo a mano
+### Como hacer una portada para un trabajo escrito a mano
 
-[La portada]({{'portada-trabajo-escrito'|relative_url}} "Portadas del trabajo") es la tarjeta de presentación de nuestro trabajo escrito a mano. Aquí es donde se llevará a cabo la primera impresión, así que déjala espectacular.
+Como [la portada]({{'portada-trabajo-escrito'|relative_url}} "Portadas del trabajo") es la tarjeta de presentación de nuestro trabajo escrito a mano, debes hacer un gran trabajo. Aquí es donde se llevará a cabo la primera impresión, así que déjala espectacular.
 
 Incluye [el título del trabajo]({{'titulos-trabajo-escrito'|relative_url}} "Título del trabajo"), sus nombres, la institución y, por supuesto, el año. Asegúrate de que todo se vea nítido y llamativo.
 
