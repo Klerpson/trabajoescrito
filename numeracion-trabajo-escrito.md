@@ -18,11 +18,11 @@ Te enseñaremos **cómo enumerar y paginar tus trabajos escritos según las norm
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
-## Enumeración de trabajos según normas APA
+## Desde dónde se enumera un trabajo escrito
 
 {% include add.html %}
 
-### Dónde comenzar a enumerar siguiendo las normas APA
+### ¿Desde qué página se empieza a enumerar siguiendo las normas APA?
 
 En las [normas APA]({{'normas-apa'|relative_url}}), la numeración de las páginas en los trabajos escritos **comienza [desde la portada]({{'portada-trabajo-escrito'|relative_url}} "Portadas")**. Sin embargo, los números de página no se muestran en la portada ni en la página del [índice o tabla de contenidos]({{'tabla-de-contenido-trabajo-escrito'|relative_url}} "Tabla de contenido").
 
@@ -30,17 +30,15 @@ En general, el primer número de página visible (que suele ser "1") **aparece e
 
 Los números de página **deben estar en la esquina superior derecha** de cada página.
 
-## Enumeración de páginas según normas Icontec
-
-### ¿Dónde inicia la enumeración con Norman Icontec?
+### ¿Dónde comienza la enumeración con normas Icontec?
 
 En las [normas Icontec]({{'normas-icontec'|relative_url}}), la numeración comienza desde la primera página que sigue a la portada, es decir, **la tabla de contenidos**, y se coloca **en el centro de la parte inferior de la página**.
 
-### Cómo enumerar las páginas
+### Cómo se enumera un trabajo escrito
 
 Según las normas Icontec, **los números deben estar centrados en la parte inferior** de la página.
 
-#### Diferencias en la páginas entre las dos normas
+#### Diferencias en la enumeración de páginas entre las dos normas
 
 Aquí tienes una tabla simple que resalta las diferencias entre la numeración de páginas según las normas APA y las normas Icontec:
 
@@ -49,11 +47,27 @@ Aquí tienes una tabla simple que resalta las diferencias entre la numeración d
 | APA     | Primer página del cuerpo del texto | Esquina superior derecha       | Sin números visibles           |
 | Icontec | Tabla de contenidos                | Centro inferior de la página   | Sin números visibles           |
 
-## Paginación: más allá de la enumeración de un trabajo
+## Paginación correcta de trabajos escritos: más que enumerar
 
 La paginación de un trabajo escrito va más allá de simplemente agregar números a las páginas de tu documento. Involucra también **cómo dividir un documento en páginas y cómo cada página está estructurada**.
 
 Para que tu trabajo sea coherente y fácil de seguir, es importante que utilices estilos y formatos consistentes en todo el documento. Esto incluye tener [márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes") uniformes, un [tamaño de fuente]({{'textos-y-fuentes-trabajo-escrito'|relative_url}} "Letras y fuentes") consistente y un espaciado de línea consistente.
+
+----
+
+## Páginas que no se enumeran en un trabajo escrito
+
+En un trabajo escrito, hay ciertas **páginas que generalmente no se enumeran**. Aquí te dejo una lista rápida:
+
+1. **Portada:** La primera página, que suele tener el título, tu nombre y otros detalles, generalmente no lleva número.
+2. **Página de Agradecimientos:** Si tienes una, tampoco se numera.
+3. **Índice:** Algunas normativas piden que no se numere.
+4. **Resumen o Abstract:** Dependiendo de las pautas, esta página también podría no llevar número.
+5. **Anexos:** A veces los anexos llevan una numeración diferente o no se incluyen en la numeración general.
+6. **Página de Copyright:** Si tienes una, esta tampoco se numera.
+{:class="seccion_a"}
+
+Recuerda siempre revisar las pautas específicas del formato que estás utilizando, como APA, MLA o Chicago, ya que pueden tener reglas específicas.
 
 ## Herramientas para manejar la enumeración y paginación de un trabajo
 
