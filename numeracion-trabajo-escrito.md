@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Enumeración en Trabajos Escritos: aprende a paginar correctamente"
+title: "Enumeración en Trabajos Escritos: ¿Desde dónde y cómo?"
 description: ¿Confundido con la numeración de tus trabajos escritos? 🤔 Dale un aspecto profesional a tus trabajos con cada página! 📚 Comienza a numerar como un experto!
 h1: "Cómo enumerar un trabajo escrito: aprende a paginar"
 intro: La enumeración de páginas es un aspecto crítico en la presentación de trabajos escritos. Puede parecer simple, pero es vital para la legibilidad y organización de tu documento.
@@ -30,7 +30,7 @@ En general, el primer número de página visible (que suele ser "1") **aparece e
 
 Los números de página **deben estar en la esquina superior derecha** de cada página.
 
-## Enumeración de páginas según normas icontec
+## Enumeración de páginas según normas Icontec
 
 ### ¿Dónde inicia la enumeración con Norman Icontec?
 
