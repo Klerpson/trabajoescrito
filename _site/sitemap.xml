@@ -37,11 +37,6 @@
   <priority>1.0</priority>
 </url>
 <url>
-  <loc>http://localhost:4000/tips-y-consejos</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
   <loc>http://localhost:4000/cita-trabajo-escrito</loc>
   <changefreq>monthly</changefreq>
   <priority>1.0</priority>
