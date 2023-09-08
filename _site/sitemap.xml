@@ -1,568 +1,372 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/agradecimientos-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/anexos-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/anexos-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/anteproyecto-con-normas-tecnicas</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/apendice-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/articulos-con-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/bibliografia-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/tips-y-consejos</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/cita-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/citas-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/citas-referencias-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/conclusiones-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/conclusiones-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/contraportada-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/contraportada-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/cuerpo-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/cuerpo-trabajo-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/cursos-de-trabajos-escritos</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/dedicatoria-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/ensayos-con-normas-tecnicas</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/glosario-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/glosario-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/hoja-presentacion-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/imagenes-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/informes</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/interlineado-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/interlineado-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/introduccion-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/introduccion-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/investigacion-con-normas-apa-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/listas-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/listas-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/marco-teorico-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/margenes-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/margenes-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/margenes-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/monografia</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/numeracion-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/numeracion-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/pagina-aceptacion-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/portada-contraportada-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/portada-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/portada-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/proyectos-academicos</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/referencias-bibliograficas-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/referencias-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/resumen-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/sangria-paragrafos-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/sangria-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-  
-  
-  
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-icontec/tabla-contenido-normas-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/tabla-de-contenido-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/tablas-y-figuras-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/tesis-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/textos-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/textos-y-fuentes-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/titulos-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa/titulos-y-subtitulos-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
-  
-      <url>
-        <loc>http://localhost:4000/sustentacion-trabajos-escritos</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/ideas-creativas-logra-trabajos-escritos-%C3%BAnicos-y-originales</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/normas-apa-power-point</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/trabajo-escrito-a-mano</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/normas-mla</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/trabajos-escritos-ninos-primaria-copy</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/detectando-el-plagio-en-trabajos-escritos-con-herramientas</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/contrato-trabajo-escrito-como-crearlo</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/descubre-las-diferencias-normas-apa-e-icontec</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/generadores-normas-apa</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-      <url>
-        <loc>http://localhost:4000/como-presentar-trabajo-escrito</loc>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-       </url>
-  
-  
+
+<url>
+  <loc>http://localhost:4000/agradecimientos-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/anexos-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/anexos-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/anteproyecto-con-normas-tecnicas</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/apendice-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/articulos-con-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/bibliografia-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/tips-y-consejos</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/cita-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/citas-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/citas-referencias-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/conclusiones-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/conclusiones-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/contraportada-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/contraportada-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/cuerpo-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/cuerpo-trabajo-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/cursos-de-trabajos-escritos</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/dedicatoria-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/ensayos-con-normas-tecnicas</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/glosario-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/glosario-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/hoja-presentacion-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/imagenes-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/informes</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/interlineado-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/interlineado-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/introduccion-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/introduccion-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/investigacion-con-normas-apa-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/listas-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/listas-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/marco-teorico-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/margenes-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/margenes-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/margenes-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/monografia</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/numeracion-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/numeracion-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/pagina-aceptacion-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/portada-contraportada-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/portada-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/portada-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/proyectos-academicos</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/referencias-bibliograficas-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/referencias-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/resumen-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/sangria-paragrafos-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/sangria-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-icontec/tabla-contenido-normas-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/tabla-de-contenido-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/tablas-y-figuras-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/tesis-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/textos-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/textos-y-fuentes-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/titulos-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
+  <loc>http://localhost:4000/normas-apa/titulos-y-subtitulos-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/sustentacion-trabajos-escritos</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/ideas-creativas-logra-trabajos-escritos-%C3%BAnicos-y-originales</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/normas-apa-power-point</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/trabajo-escrito-a-mano</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/normas-mla</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/trabajos-escritos-ninos-primaria-copy</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/detectando-el-plagio-en-trabajos-escritos-con-herramientas</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/contrato-trabajo-escrito-como-crearlo</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/descubre-las-diferencias-normas-apa-e-icontec</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/generadores-normas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/como-presentar-trabajo-escrito</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+
 </urlset>
