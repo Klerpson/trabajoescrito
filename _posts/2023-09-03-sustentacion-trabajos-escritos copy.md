@@ -104,6 +104,7 @@ La interacción con el público puede hacer o deshacer tu sustentación. Por est
 1. Mantén contacto visual
 2. Responde a las preguntas de manera clara y concisa
 3. Muestra entusiasmo por tu tema
+{:class="seccion_a"}
 
 ### Cómo responder a las preguntas al finalizar tu sustentación
 

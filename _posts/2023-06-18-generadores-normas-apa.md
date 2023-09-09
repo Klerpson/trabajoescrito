@@ -3,7 +3,7 @@ layout: post
 title: "El uso de un generador de normas APA ↩"
 description: "El estilo APA puede resultar complicado para muchos recordar todos los detalles del formato. Aquí es donde entra un generador de Normas APA. ¡Conócelos!"
 category: Blog
-tags: [Presentación, APA, Icontec]
+tags: [Presentación, Normas]
 h1: El uso de un generador de normas APA
 webp: blog/generador-normas-apa
 alt: Generador Normas APA

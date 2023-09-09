@@ -32,6 +32,7 @@ Una técnica efectiva es **investigar tendencias actuales en su nicho** y pensar
 1. Estar constantemente actualizado
 2. Asistir a talleres
 3. Estar abierto a feedback
+{:class="seccion_a"}
 
 ## Sugerencias creativas para redacciones
 
@@ -80,6 +81,7 @@ Para escribir trabajos académicos únicos y atractivos, es vital:
 * Investigar a fondo
 * Planificar la estructura
 * Revisar múltiples veces
+{:class="seccion_a"}
 
 ## Propuestas novedosas para trabajos escritos
 

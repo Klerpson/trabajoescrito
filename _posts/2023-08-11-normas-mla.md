@@ -17,6 +17,7 @@ excerpt: "El estilo MLA es un estilo de formato y citación ampliamente utilizad
 {:toc}
 
 ----
+
 ## Estilo MLA en trabajos escritos
 
 ¿Es usted un experto en [trabajos académicos](/)? Si es así, entonces probablemente estés familiarizado con el Estilo MLA.
@@ -33,7 +34,7 @@ Las normas MLA proporcionan un marco coherente para dar formato y documentar los
 
 Los estudiantes, investigadores o escritores **utilizan el estilo MLA para producir trabajos académicos bien referenciados y presentados de forma profesional**. Así pues, vamos a analizar cómo aplicar las normas MLA y cómo pueden elevar la calidad de tus trabajos académicos.
 
------
+----
 
 ## Normas de formato con MLA
 
@@ -54,7 +55,7 @@ Las pautas a tener en cuenta son:
 
 Recuerde seguir las directrices particulares que ofrece **el manual de estilo para el formato adecuado de los encabezamientos**. Si se atiene a estas normas, podrá organizar eficazmente su trabajo y garantizar que sus **lectores puedan navegar por él con facilidad**.
 
------
+----
 
 ## Estilo de redacción con normas MLA
 
@@ -83,7 +84,7 @@ Cualquier **terminología o concepto especializado debe definirse y explicarse**
 
 El estilo de escritura en MLA se esfuerza por lograr un comportamiento profesional y académico en todo el documento.
 
------
+----
 
 ## Citas con normas MLA
 
@@ -115,7 +116,7 @@ Las citas dentro del texto también ayudan a los lectores a **comprender la ampl
 
 Mediante la aplicación coherente de las citas dentro del texto, los escritores **garantizan que su trabajo es preciso, creíble y se adhiere a las directrices del Estilo MLA**.
 
------
+----
 
 ## Página de obras citadas según las normas MLA
 
@@ -128,12 +129,13 @@ Tal y como especifica el Manual MLA, esta página debe seguir unas directrices d
 1. Todas las entradas deben estar organizadas en orden alfabético por el apellido del autor.
 2. Cada entrada debe tener un formato coherente, utilizando sangría colgante.
 3. Las citas dentro del texto del trabajo deben corresponderse con la cita completa de la Página de obras citadas.
+{:class="seccion_a"}
 
 Para ahorrar tiempo y energía, existen varias herramientas en línea que permiten generar citas precisas siguiendo las instrucciones del Manual MLA. Sin embargo, es fundamental comprobar la exactitud de las citas generadas.
 
 **La página de obras citadas aporta transparencia y credibilidad**, permitiendo a los lectores explorar las fuentes utilizadas y profundizar en el tema tratado.
 
------
+----
 
 ## Herramientas para generar citas
 
@@ -145,7 +147,7 @@ Con unos pocos clics, puede generar citas en el estilo MLA para diversas fuentes
 
 Además de formatear citas, las herramientas para generar citas también pueden ayudarle a crear una página de obras citadas. Por lo tanto, si quieres **hacer una página de obras citadas bien estructurada y completa**, usar herramientas para generar citas es muy recomendable.
 
------
+----
 
 ## Esfuérzate por aplicar correctamente las normas MLA
 
