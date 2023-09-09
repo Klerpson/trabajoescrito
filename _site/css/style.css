@@ -416,6 +416,7 @@ header,
   padding: 3em 0;
   margin: 3em 0;
 }
+
 header {
   display: grid;
   gap: 3em;
