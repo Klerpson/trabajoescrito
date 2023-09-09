@@ -97,19 +97,6 @@
   margin-top: 11px;
 }
 
-#markdown-toc a{
-  font-family: var(--fuenteTitulos);
-}
-
-#markdown-toc a::before{
-  content: "⇾";
-  margin-right: .5em;
-}
-
-#markdown-toc li ul li{
-  margin-left: 2em;
-}
-
 /* Contenido de la página blog */
 .blog-gallery h3{
   margin-top: 4rem;

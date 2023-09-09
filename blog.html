@@ -18,6 +18,7 @@ noindex: true
   {% include buscador.html %}
   <main class="blog-gallery">
     <h2>El blog de tu Trabajo Escrito</h2>
+    {% include add.html %}
     <section class="contenido">
       {% for post in site.posts %}
       {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}

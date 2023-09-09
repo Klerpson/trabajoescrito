@@ -9,15 +9,6 @@ webp: blog/plagio-fraude-trabajos-escritos
 alt: Dibujo sobre la seguridad en trabajos escritos
 excerpt: "Detectar el plagio o el fraude en un trabajo escrito es una tarea esencial en el ámbito académico y profesional."
 ---
-----
-
-**Atajos:**
-
-* Do not remove this line (it will not be displayed)
-{:toc}
-
-----
-
 Comprender el plagio y el fraude es esencial para fomentar la integridad académica y mantener la fiabilidad de los trabajos académicos.
 
 Analicemos el mundo de la detección del plagio y el fraude y exploremos las distintas herramientas y estrategias que pueden ayudarnos a mantener la integridad en nuestros trabajos escritos.

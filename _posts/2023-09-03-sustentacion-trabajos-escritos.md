@@ -10,15 +10,6 @@ alt: Dibujo de ideas creativas para escribir
 excerpt: Para perfeccionar el arte de la sustentación en trabajos escritos, te enseñamos desde la preparación inicial hasta la presentación final.
 date: 2023-09-03
 ---
-----
-
-**Atajos:**
-
-* Do not remove this line (it will not be displayed)
-{:toc}
-
-----
-
 ## Importancia de una buena sustentación
 
 ### Cómo una sustentación exitosa afecta tu calificación

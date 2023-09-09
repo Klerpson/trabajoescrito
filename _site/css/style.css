@@ -53,7 +53,6 @@ h3,
 h4 {
   font-family: var(--fuenteTitulos);
   text-transform: initial;
-  max-width: 720px;
   line-height: 1.2;
   margin: 1.2em 0;
 }
@@ -67,6 +66,7 @@ h2 {
   font-size: clamp(2rem, 2.8vw + 1rem, 2.75rem);
   margin-inline: auto;
   text-align: center;
+  max-width: 920px;
 }
 
 h3 {
@@ -418,8 +418,9 @@ header,
 }
 header {
   display: grid;
-  gap: 4em;
-  padding-top: 4em;
+  gap: 3em;
+  padding-top: 2em;
+  place-items: center;
 }
 
 .title{
@@ -437,8 +438,7 @@ header {
 }
 
 .title img{
-  -webkit-animation: slide-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 2 alternate both;
-	        animation: slide-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 2 alternate both;
+  max-width: 240px;
 }
 /**
  * ----------------------------------------
@@ -1198,19 +1198,6 @@ footer section p{
 #share-buttons>div.mail>svg {
   height: 14px;
   margin-top: 11px;
-}
-
-#markdown-toc a{
-  font-family: var(--fuenteTitulos);
-}
-
-#markdown-toc a::before{
-  content: "⇾";
-  margin-right: .5em;
-}
-
-#markdown-toc li ul li{
-  margin-left: 2em;
 }
 
 /* Contenido de la página blog */

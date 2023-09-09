@@ -9,15 +9,6 @@ webp: blog/generador-normas-apa
 alt: Generador Normas APA
 excerpt: Este artículo te proporcionará una visión general del uso de generadores de normas APA y por qué pueden ser beneficiosas para tus trabajos académicos.
 ---
-----
-
-**Atajos:**
-
-* Do not remove this line (it will not be displayed)
-{:toc}
-
-----
-
 Este artículo te proporcionará una visión general del uso de generadores de normas APA y por qué pueden ser beneficiosas para tus [trabajos académicos](/).
 
 ## ¿Qué es un generador de normas APA?

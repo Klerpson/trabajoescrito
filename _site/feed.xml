@@ -5,189 +5,13 @@
     <description></description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 08 Sep 2023 22:35:07 -0500</pubDate>
-    <lastBuildDate>Fri, 08 Sep 2023 22:35:07 -0500</lastBuildDate>
+    <pubDate>Sat, 09 Sep 2023 08:37:16 -0500</pubDate>
+    <lastBuildDate>Sat, 09 Sep 2023 08:37:16 -0500</lastBuildDate>
     <generator>Jekyll v3.9.3</generator>
     
       <item>
-        <title>Mejores Programas para Trabajos Escritos: Google Docs, Frase y Word</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#los-mejores-programas-para-escritores-y-estudiantes&quot; id=&quot;markdown-toc-los-mejores-programas-para-escritores-y-estudiantes&quot;&gt;Los mejores programas para escritores y estudiantes&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#writer-de-libreoffice-la-elección-de-código-abierto&quot; id=&quot;markdown-toc-writer-de-libreoffice-la-elección-de-código-abierto&quot;&gt;Writer de LibreOffice: La Elección de Código Abierto&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#características-destacadas-de-writer-de-libreoffice&quot; id=&quot;markdown-toc-características-destacadas-de-writer-de-libreoffice&quot;&gt;Características Destacadas de Writer de LibreOffice&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#google-docs-colaboración-y-accesibilidad&quot; id=&quot;markdown-toc-google-docs-colaboración-y-accesibilidad&quot;&gt;Google Docs: Colaboración y Accesibilidad&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#características-destacadas-de-google-docs&quot; id=&quot;markdown-toc-características-destacadas-de-google-docs&quot;&gt;Características Destacadas de Google Docs&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#microsoft-word-el-gigante-de-la-escritura-digital&quot; id=&quot;markdown-toc-microsoft-word-el-gigante-de-la-escritura-digital&quot;&gt;Microsoft Word: El Gigante de la Escritura Digital&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#características-destacadas-de-microsoft-word&quot; id=&quot;markdown-toc-características-destacadas-de-microsoft-word&quot;&gt;Características Destacadas de Microsoft Word&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#comparativa-writer-de-libreoffice-vs-google-docs-vs-microsoft-word&quot; id=&quot;markdown-toc-comparativa-writer-de-libreoffice-vs-google-docs-vs-microsoft-word&quot;&gt;Comparativa: Writer de LibreOffice vs Google Docs vs Microsoft Word&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#tu-próximo-paso-elegir-el-programa-ideal&quot; id=&quot;markdown-toc-tu-próximo-paso-elegir-el-programa-ideal&quot;&gt;Tu Próximo Paso: Elegir el Programa Ideal&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;¿Estás en la búsqueda de la herramienta perfecta para tus trabajos escritos? ¡Estás en el lugar correcto! Aquí, desglosaremos las mejores opciones que cambiarán tu forma de escribir y editar.&lt;/p&gt;
-
-&lt;p&gt;Hablaremos del clásico Microsoft Word hasta la alternativa de código abierto Writer de LibreOffice, pasando por la colaboración en tiempo real con Google Docs, te ofrecemos una visión completa. &lt;strong&gt;Descubre cuál es el programa que mejor se adapta a tus necesidades y cómo puede elevar tu escritura al siguiente nivel.&lt;/strong&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;los-mejores-programas-para-escritores-y-estudiantes&quot;&gt;Los mejores programas para escritores y estudiantes&lt;/h2&gt;
-
-&lt;p&gt;Si buscas una herramienta que te permita crear contenido de alta calidad, hay tres programas que deberías considerar: Writer de LibreOffice, Google Docs y Microsoft Word. Cada uno de estos programas tiene sus propias fortalezas y debilidades, lo que los hace ideales para diferentes tipos de usuarios y necesidades.&lt;/p&gt;
-
-&lt;h3 id=&quot;writer-de-libreoffice-la-elección-de-código-abierto&quot;&gt;Writer de LibreOffice: La Elección de Código Abierto&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Writer de LibreOffice&lt;/strong&gt; es una potente herramienta de código abierto que ofrece una amplia gama de funcionalidades. Desde la edición básica hasta las opciones de formato más avanzadas, este programa tiene todo lo que un escritor podría necesitar.&lt;/p&gt;
-
-&lt;h4 id=&quot;características-destacadas-de-writer-de-libreoffice&quot;&gt;Características Destacadas de Writer de LibreOffice&lt;/h4&gt;
-
-&lt;ul class=&quot;seccion&quot;&gt;
-  &lt;li&gt;&lt;strong&gt;Edición de texto avanzada&lt;/strong&gt;: Personaliza tu documento con una variedad de estilos y formatos.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Exportación versátil&lt;/strong&gt;: Guarda tu trabajo en múltiples formatos, incluido PDF.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Código abierto&lt;/strong&gt;: Modifica y personaliza el programa según tus necesidades.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;google-docs-colaboración-y-accesibilidad&quot;&gt;Google Docs: Colaboración y Accesibilidad&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Google Docs&lt;/strong&gt; es conocido por su facilidad de uso y sus excelentes capacidades de colaboración. Si trabajas en equipo o necesitas acceder a tus documentos desde diferentes dispositivos, este es el programa para ti.&lt;/p&gt;
-
-&lt;h4 id=&quot;características-destacadas-de-google-docs&quot;&gt;Características Destacadas de Google Docs&lt;/h4&gt;
-
-&lt;ul class=&quot;seccion_a&quot;&gt;
-  &lt;li&gt;&lt;strong&gt;Colaboración en tiempo real&lt;/strong&gt;: Edita documentos con compañeros de equipo simultáneamente.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Integración con Google Drive&lt;/strong&gt;: Accede a tus archivos desde cualquier lugar.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Variedad de complementos&lt;/strong&gt;: Amplía las funcionalidades con una gama de complementos útiles.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3 id=&quot;microsoft-word-el-gigante-de-la-escritura-digital&quot;&gt;Microsoft Word: El Gigante de la Escritura Digital&lt;/h3&gt;
-
-&lt;p&gt;&lt;strong&gt;Microsoft Word&lt;/strong&gt; ha sido la elección predilecta para la escritura digital durante décadas. Su robustez y amplia gama de herramientas lo convierten en una opción ideal para todo, desde tareas escolares hasta proyectos empresariales.&lt;/p&gt;
-
-&lt;h4 id=&quot;características-destacadas-de-microsoft-word&quot;&gt;Características Destacadas de Microsoft Word&lt;/h4&gt;
-
-&lt;ul class=&quot;seccion_a&quot;&gt;
-  &lt;li&gt;&lt;strong&gt;Herramientas de edición avanzadas&lt;/strong&gt;: Desde la corrección gramatical hasta la edición de estilo, Word lo tiene todo.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Plantillas y estilos&lt;/strong&gt;: Personaliza tu documento con una amplia gama de plantillas predefinidas.&lt;/li&gt;
-  &lt;li&gt;&lt;strong&gt;Colaboración en línea&lt;/strong&gt;: Trabaja en documentos en tiempo real con Microsoft 365.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h2 id=&quot;comparativa-writer-de-libreoffice-vs-google-docs-vs-microsoft-word&quot;&gt;Comparativa: Writer de LibreOffice vs Google Docs vs Microsoft Word&lt;/h2&gt;
-
-&lt;p&gt;Para tomar una decisión informada, es crucial comparar estos programas en varios aspectos. A continuación, presentamos una tabla comparativa que te ayudará a entender mejor cada programa.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Característica&lt;/th&gt;
-      &lt;th&gt;Writer de LibreOffice&lt;/th&gt;
-      &lt;th&gt;Google Docs&lt;/th&gt;
-      &lt;th&gt;Microsoft Word&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Colaboración en tiempo real&lt;/td&gt;
-      &lt;td&gt;No&lt;/td&gt;
-      &lt;td&gt;Sí&lt;/td&gt;
-      &lt;td&gt;Sí (con Microsoft 365)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Código abierto&lt;/td&gt;
-      &lt;td&gt;Sí&lt;/td&gt;
-      &lt;td&gt;No&lt;/td&gt;
-      &lt;td&gt;No&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Integración con otras aplicaciones&lt;/td&gt;
-      &lt;td&gt;Limitada&lt;/td&gt;
-      &lt;td&gt;Extensa (Google Workspace)&lt;/td&gt;
-      &lt;td&gt;Extensa (Microsoft 365)&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Exportación a PDF&lt;/td&gt;
-      &lt;td&gt;Sí&lt;/td&gt;
-      &lt;td&gt;Sí&lt;/td&gt;
-      &lt;td&gt;Sí&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;h2 id=&quot;tu-próximo-paso-elegir-el-programa-ideal&quot;&gt;Tu Próximo Paso: Elegir el Programa Ideal&lt;/h2&gt;
-
-&lt;p&gt;Después de explorar estas opciones, queda claro que cada programa tiene algo único que ofrecer. &lt;strong&gt;Si buscas una opción de código abierto, Writer de LibreOffice es tu mejor apuesta. Si la colaboración en tiempo real es crucial para ti, Google Docs es insuperable. Y si necesitas una herramienta robusta con todas las funciones, Microsoft Word es la elección clásica.&lt;/strong&gt; Ahora, la pelota está en tu cancha. ¡Elige el programa que mejor se adapte a tus necesidades y empieza a escribir como un profesional!&lt;/p&gt;
-</description>
-        <pubDate>Sun, 03 Sep 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/programas-para-hacer-trabajos-escritos</link>
-        <guid isPermaLink="true">http://localhost:4000/programas-para-hacer-trabajos-escritos</guid>
-        
-        
-        <category>Trabajo escrito</category>
-        
-        <category>Programas</category>
-        
-        
-        
-        <category>Blog</category>
-        
-      </item>
-    
-      <item>
         <title>Claves para Sustentar un Trabajo Escrito con Éxito</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#importancia-de-una-buena-sustentación&quot; id=&quot;markdown-toc-importancia-de-una-buena-sustentación&quot;&gt;Importancia de una buena sustentación&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#cómo-una-sustentación-exitosa-afecta-tu-calificación&quot; id=&quot;markdown-toc-cómo-una-sustentación-exitosa-afecta-tu-calificación&quot;&gt;Cómo una sustentación exitosa afecta tu calificación&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#elementos-clave-de-la-sustentación&quot; id=&quot;markdown-toc-elementos-clave-de-la-sustentación&quot;&gt;Elementos clave de la sustentación&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#1-el-contenido-del-trabajo&quot; id=&quot;markdown-toc-1-el-contenido-del-trabajo&quot;&gt;1. El contenido del trabajo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#2-la-presentación-oral-de-la-sustentación&quot; id=&quot;markdown-toc-2-la-presentación-oral-de-la-sustentación&quot;&gt;2. La presentación oral de la sustentación&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#3-el-material-de-apoyo&quot; id=&quot;markdown-toc-3-el-material-de-apoyo&quot;&gt;3. El material de apoyo&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#preparación-para-la-sustentación&quot; id=&quot;markdown-toc-preparación-para-la-sustentación&quot;&gt;Preparación para la sustentación&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#investigación-previa-para-sustentar-correctamente&quot; id=&quot;markdown-toc-investigación-previa-para-sustentar-correctamente&quot;&gt;Investigación previa para sustentar correctamente&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#haz-ensayos-y-simulaciones&quot; id=&quot;markdown-toc-haz-ensayos-y-simulaciones&quot;&gt;Haz ensayos y simulaciones&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#preparación-del-material-visual&quot; id=&quot;markdown-toc-preparación-del-material-visual&quot;&gt;Preparación del material visual&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#pasos-para-sustentar-un-trabajo-escrito-con-éxito&quot; id=&quot;markdown-toc-pasos-para-sustentar-un-trabajo-escrito-con-éxito&quot;&gt;Pasos para sustentar un trabajo escrito con éxito&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#elección-del-tema-y-enfoque&quot; id=&quot;markdown-toc-elección-del-tema-y-enfoque&quot;&gt;Elección del tema y enfoque&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#desarrollo-del-contenido&quot; id=&quot;markdown-toc-desarrollo-del-contenido&quot;&gt;Desarrollo del contenido&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#revisión-y-ajustes&quot; id=&quot;markdown-toc-revisión-y-ajustes&quot;&gt;Revisión y ajustes&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#consejos-para-hacer-una-sustentación-efectiva&quot; id=&quot;markdown-toc-consejos-para-hacer-una-sustentación-efectiva&quot;&gt;Consejos para hacer una sustentación efectiva&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#cómo-manejar-el-tiempo-de-la-presentación-de-la-sustentación&quot; id=&quot;markdown-toc-cómo-manejar-el-tiempo-de-la-presentación-de-la-sustentación&quot;&gt;Cómo manejar el tiempo de la presentación de la sustentación&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cómo-interactuar-con-el-público-durante-la-sustentación&quot; id=&quot;markdown-toc-cómo-interactuar-con-el-público-durante-la-sustentación&quot;&gt;Cómo interactuar con el público durante la sustentación&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cómo-responder-a-las-preguntas-al-finalizar-tu-sustentación&quot; id=&quot;markdown-toc-cómo-responder-a-las-preguntas-al-finalizar-tu-sustentación&quot;&gt;Cómo responder a las preguntas al finalizar tu sustentación&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#errores-comunes-en-la-sustentación&quot; id=&quot;markdown-toc-errores-comunes-en-la-sustentación&quot;&gt;Errores comunes en la sustentación&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#falta-de-preparación&quot; id=&quot;markdown-toc-falta-de-preparación&quot;&gt;Falta de preparación&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#falta-de-claridad-en-la-exposición&quot; id=&quot;markdown-toc-falta-de-claridad-en-la-exposición&quot;&gt;Falta de claridad en la exposición&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#no-adaptarse-al-público&quot; id=&quot;markdown-toc-no-adaptarse-al-público&quot;&gt;No adaptarse al público&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#la-sustentación-del-trabajo-escrito-y-el-éxito-de-su-presentación&quot; id=&quot;markdown-toc-la-sustentación-del-trabajo-escrito-y-el-éxito-de-su-presentación&quot;&gt;La sustentación del trabajo escrito y el éxito de su presentación&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;importancia-de-una-buena-sustentación&quot;&gt;Importancia de una buena sustentación&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;importancia-de-una-buena-sustentación&quot;&gt;Importancia de una buena sustentación&lt;/h2&gt;
 
 &lt;h3 id=&quot;cómo-una-sustentación-exitosa-afecta-tu-calificación&quot;&gt;Cómo una sustentación exitosa afecta tu calificación&lt;/h3&gt;
 
@@ -316,8 +140,8 @@
 &lt;p&gt;Para profundizar aún más en las técnicas de sustentación y mejorar tus habilidades, te invitamos a revisar otros artículos relacionados y &lt;a href=&quot;/cursos-de-trabajos-escritos&quot;&gt;cursos en línea disponibles en nuestro sitio web&lt;/a&gt;. No solo encontrarás más detalles sobre cómo prepararte para una sustentación exitosa, sino también consejos prácticos y ejemplos que &lt;strong&gt;te ayudarán a llevar tu trabajo escrito al siguiente nivel&lt;/strong&gt;.&lt;/p&gt;
 </description>
         <pubDate>Sun, 03 Sep 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/sustentacion-trabajos-escritos-copy</link>
-        <guid isPermaLink="true">http://localhost:4000/sustentacion-trabajos-escritos-copy</guid>
+        <link>http://localhost:4000/sustentacion-trabajos-escritos</link>
+        <guid isPermaLink="true">http://localhost:4000/sustentacion-trabajos-escritos</guid>
         
         
         <category>Trabajo escrito</category>
@@ -332,33 +156,7 @@
     
       <item>
         <title>Ideas Creativas: Logra Trabajos Escritos Únicos y Originales</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#ideas-innovadoras-para-escritos&quot; id=&quot;markdown-toc-ideas-innovadoras-para-escritos&quot;&gt;Ideas innovadoras para escritos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#sugerencias-creativas-para-redacciones&quot; id=&quot;markdown-toc-sugerencias-creativas-para-redacciones&quot;&gt;Sugerencias creativas para redacciones&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#inspiración-original-para-trabajos-escritos&quot; id=&quot;markdown-toc-inspiración-original-para-trabajos-escritos&quot;&gt;Inspiración original para trabajos escritos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#propuestas-originales-para-escritos&quot; id=&quot;markdown-toc-propuestas-originales-para-escritos&quot;&gt;Propuestas originales para escritos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#conceptos-creativos-para-redacciones&quot; id=&quot;markdown-toc-conceptos-creativos-para-redacciones&quot;&gt;Conceptos creativos para redacciones&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#temas-innovadores-para-trabajos-escritos&quot; id=&quot;markdown-toc-temas-innovadores-para-trabajos-escritos&quot;&gt;Temas innovadores para trabajos escritos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#ideas-únicas-para-ensayos&quot; id=&quot;markdown-toc-ideas-únicas-para-ensayos&quot;&gt;Ideas únicas para ensayos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#propuestas-novedosas-para-trabajos-escritos&quot; id=&quot;markdown-toc-propuestas-novedosas-para-trabajos-escritos&quot;&gt;Propuestas novedosas para trabajos escritos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#preguntas-frecuentes&quot; id=&quot;markdown-toc-preguntas-frecuentes&quot;&gt;Preguntas frecuentes&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#qué-es-una-redacción-creativa&quot; id=&quot;markdown-toc-qué-es-una-redacción-creativa&quot;&gt;¿Qué es una redacción creativa?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cómo-puedo-mejorar-mi-habilidad-de-escritura-creativa&quot; id=&quot;markdown-toc-cómo-puedo-mejorar-mi-habilidad-de-escritura-creativa&quot;&gt;¿Cómo puedo mejorar mi habilidad de escritura creativa?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#dónde-encontrar-inspiración-para-redacciones&quot; id=&quot;markdown-toc-dónde-encontrar-inspiración-para-redacciones&quot;&gt;¿Dónde encontrar inspiración para redacciones?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#qué-herramientas-online-recomiendan-para-escritores&quot; id=&quot;markdown-toc-qué-herramientas-online-recomiendan-para-escritores&quot;&gt;¿Qué herramientas online recomiendan para escritores?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cómo-diferenciar-entre-una-idea-original-y-una-copiada&quot; id=&quot;markdown-toc-cómo-diferenciar-entre-una-idea-original-y-una-copiada&quot;&gt;¿Cómo diferenciar entre una idea original y una copiada?&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#recursos-adicionales-y-herramientas&quot; id=&quot;markdown-toc-recursos-adicionales-y-herramientas&quot;&gt;Recursos adicionales y herramientas&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;ideas-innovadoras-para-escritos&quot;&gt;Ideas innovadoras para escritos&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;ideas-innovadoras-para-escritos&quot;&gt;Ideas innovadoras para escritos&lt;/h2&gt;
 
 &lt;p&gt;En el vasto mundo de la escritura, siempre es esencial buscar &lt;strong&gt;ideas innovadoras&lt;/strong&gt; que destaquen y atraigan al lector. Estas ideas no solo deben ser originales, sino que también &lt;em&gt;deben ser relevantes y valiosas&lt;/em&gt; para el público objetivo.&lt;/p&gt;
 
@@ -481,31 +279,7 @@
     
       <item>
         <title>Las Normas APA en PowerPoint | Guía y Consejos</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#normas-apa-y-powerpoint&quot; id=&quot;markdown-toc-normas-apa-y-powerpoint&quot;&gt;Normas APA y PowerPoint&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#comprende-las-normas-apa-para-powerpoint&quot; id=&quot;markdown-toc-comprende-las-normas-apa-para-powerpoint&quot;&gt;Comprende las Normas APA para PowerPoint&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#creando-la-portada-en-powerpoint&quot; id=&quot;markdown-toc-creando-la-portada-en-powerpoint&quot;&gt;Creando la portada en PowerPoint&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#elementos-de-una-buena-portada-en-powerpoint&quot; id=&quot;markdown-toc-elementos-de-una-buena-portada-en-powerpoint&quot;&gt;Elementos de una buena portada en PowerPoint&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#organizando-nuestras-diapositivas-con-normas-apa&quot; id=&quot;markdown-toc-organizando-nuestras-diapositivas-con-normas-apa&quot;&gt;Organizando nuestras diapositivas con normas APA&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#normas-apa-para-diapositivas&quot; id=&quot;markdown-toc-normas-apa-para-diapositivas&quot;&gt;Normas APA para diapositivas&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#citas-y-referencias-en-powerpoint-con-apa&quot; id=&quot;markdown-toc-citas-y-referencias-en-powerpoint-con-apa&quot;&gt;Citas y referencias en PowerPoint con APA&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#la-bibliografía-el-gran-final-de-las-diapositivas&quot; id=&quot;markdown-toc-la-bibliografía-el-gran-final-de-las-diapositivas&quot;&gt;La bibliografía: El gran final de las diapositivas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#pon-en-práctica-las-normas-apa-en-powerpoint&quot; id=&quot;markdown-toc-pon-en-práctica-las-normas-apa-en-powerpoint&quot;&gt;Pon en práctica las Normas APA en PowerPoint&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Es hora de llevar tus presentaciones de PowerPoint al siguiente nivel, y estoy aquí para mostrarte cómo. Quiero mostrarte &lt;strong&gt;cómo aplicar las Normas APA en tus presentaciones&lt;/strong&gt; y darles ese toque de excelencia.&lt;/p&gt;
+        <description>&lt;p&gt;Es hora de llevar tus presentaciones de PowerPoint al siguiente nivel, y estoy aquí para mostrarte cómo. Quiero mostrarte &lt;strong&gt;cómo aplicar las Normas APA en tus presentaciones&lt;/strong&gt; y darles ese toque de excelencia.&lt;/p&gt;
 
 &lt;h2 id=&quot;normas-apa-y-powerpoint&quot;&gt;Normas APA y PowerPoint&lt;/h2&gt;
 
@@ -574,31 +348,7 @@
     
       <item>
         <title>La magia de un Trabajo Escrito a mano con Normas APA e Icontec</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#cómo-se-hace-un-trabajo-escrito-a-mano&quot; id=&quot;markdown-toc-cómo-se-hace-un-trabajo-escrito-a-mano&quot;&gt;¿Cómo se hace un trabajo escrito a mano?&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#las-normas-apa-e-icontec-a-mano-conoce-las-reglas-del-año-2023&quot; id=&quot;markdown-toc-las-normas-apa-e-icontec-a-mano-conoce-las-reglas-del-año-2023&quot;&gt;Las normas APA e Icontec a mano: ¡Conoce las reglas del año 2023!&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#como-hacer-una-portada-para-un-trabajo-escrito-a-mano&quot; id=&quot;markdown-toc-como-hacer-una-portada-para-un-trabajo-escrito-a-mano&quot;&gt;Como hacer una portada para un trabajo escrito a mano&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#márgenes-y-hojas-perfectas-aunque-se-hagan-a-mano&quot; id=&quot;markdown-toc-márgenes-y-hojas-perfectas-aunque-se-hagan-a-mano&quot;&gt;Márgenes y hojas perfectas, aunque se hagan a mano&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#la-hoja-guía-facilita-tu-trabajo-manual&quot; id=&quot;markdown-toc-la-hoja-guía-facilita-tu-trabajo-manual&quot;&gt;La hoja guía, facilita tu trabajo manual&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#las-partes-esenciales-de-los-trabajos-escritos-a-mano&quot; id=&quot;markdown-toc-las-partes-esenciales-de-los-trabajos-escritos-a-mano&quot;&gt;Las partes esenciales de los trabajos escritos a mano&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#el-índice-del-trabajo-hecho-a-mano&quot; id=&quot;markdown-toc-el-índice-del-trabajo-hecho-a-mano&quot;&gt;El índice del trabajo hecho a mano&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#la-presentación-de-un-trabajo-escrito-a-mano&quot; id=&quot;markdown-toc-la-presentación-de-un-trabajo-escrito-a-mano&quot;&gt;La presentación de un trabajo escrito a mano&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#citas-del-trabajo-escrito-a-mano-y-con-normas-académicas&quot; id=&quot;markdown-toc-citas-del-trabajo-escrito-a-mano-y-con-normas-académicas&quot;&gt;Citas del trabajo escrito a mano y con normas académicas&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#inspírate-y-usa-plantillas-aunque-hagas-tu-trabajo-a-mano&quot; id=&quot;markdown-toc-inspírate-y-usa-plantillas-aunque-hagas-tu-trabajo-a-mano&quot;&gt;Inspírate y usa plantillas, aunque hagas tu trabajo a mano&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#hacer-trabajos-escritos-a-mano-una-forma-de-expresión-personal-que-perdura-en-el-tiempo&quot; id=&quot;markdown-toc-hacer-trabajos-escritos-a-mano-una-forma-de-expresión-personal-que-perdura-en-el-tiempo&quot;&gt;Hacer trabajos escritos a mano: una forma de expresión personal que perdura en el tiempo&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;cómo-se-hace-un-trabajo-escrito-a-mano&quot;&gt;¿Cómo se hace un trabajo escrito a mano?&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;cómo-se-hace-un-trabajo-escrito-a-mano&quot;&gt;¿Cómo se hace un trabajo escrito a mano?&lt;/h2&gt;
 
 &lt;!-- Anuncios home --&gt;
 &lt;p&gt;&lt;ins class=&quot;adsbygoogle&quot; style=&quot;display:block&quot; data-ad-client=&quot;ca-pub-3100194943394350&quot; data-ad-slot=&quot;8321565658&quot; data-ad-format=&quot;auto&quot; data-full-width-responsive=&quot;true&quot;&gt;&lt;/ins&gt;&lt;/p&gt;
@@ -689,36 +439,7 @@
     
       <item>
         <title>Estilo MLA: La Norma de Citación Favorita de Investigadores</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#estilo-mla-en-trabajos-escritos&quot; id=&quot;markdown-toc-estilo-mla-en-trabajos-escritos&quot;&gt;Estilo MLA en trabajos escritos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#qué-son-las-normas-con-estilo-mla&quot; id=&quot;markdown-toc-qué-son-las-normas-con-estilo-mla&quot;&gt;¿Qué son las normas con estilo MLA?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#normas-de-formato-con-mla&quot; id=&quot;markdown-toc-normas-de-formato-con-mla&quot;&gt;Normas de formato con MLA&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#títulos-y-subtítulos-en-normas-mla&quot; id=&quot;markdown-toc-títulos-y-subtítulos-en-normas-mla&quot;&gt;Títulos y subtítulos en normas MLA&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#estilo-de-redacción-con-normas-mla&quot; id=&quot;markdown-toc-estilo-de-redacción-con-normas-mla&quot;&gt;Estilo de redacción con normas MLA&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#normas-mla-para-el-contenido-o-la-información-redactada&quot; id=&quot;markdown-toc-normas-mla-para-el-contenido-o-la-información-redactada&quot;&gt;Normas MLA para el contenido o la información redactada&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#citas-con-normas-mla&quot; id=&quot;markdown-toc-citas-con-normas-mla&quot;&gt;Citas con normas MLA&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#tipos-de-citas-con-estilo-mla&quot; id=&quot;markdown-toc-tipos-de-citas-con-estilo-mla&quot;&gt;Tipos de citas con estilo MLA&lt;/a&gt;        &lt;ul&gt;
-          &lt;li&gt;&lt;a href=&quot;#el-estilo-mla-preserva-la-honestidad-académica&quot; id=&quot;markdown-toc-el-estilo-mla-preserva-la-honestidad-académica&quot;&gt;El Estilo MLA preserva la honestidad académica&lt;/a&gt;&lt;/li&gt;
-        &lt;/ul&gt;
-      &lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#página-de-obras-citadas-según-las-normas-mla&quot; id=&quot;markdown-toc-página-de-obras-citadas-según-las-normas-mla&quot;&gt;Página de obras citadas según las normas MLA&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#herramientas-para-generar-citas&quot; id=&quot;markdown-toc-herramientas-para-generar-citas&quot;&gt;Herramientas para generar citas&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#esfuérzate-por-aplicar-correctamente-las-normas-mla&quot; id=&quot;markdown-toc-esfuérzate-por-aplicar-correctamente-las-normas-mla&quot;&gt;Esfuérzate por aplicar correctamente las normas MLA&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;estilo-mla-en-trabajos-escritos&quot;&gt;Estilo MLA en trabajos escritos&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;estilo-mla-en-trabajos-escritos&quot;&gt;Estilo MLA en trabajos escritos&lt;/h2&gt;
 
 &lt;p&gt;¿Es usted un experto en &lt;a href=&quot;/&quot;&gt;trabajos académicos&lt;/a&gt;? Si es así, entonces probablemente estés familiarizado con el Estilo MLA.&lt;/p&gt;
 
@@ -884,38 +605,7 @@
     
       <item>
         <title>Aprende a realizar Trabajos Escritos para niños de primaria</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#la-importancia-de-los-trabajos-escritos-en-la-educación-primaria&quot; id=&quot;markdown-toc-la-importancia-de-los-trabajos-escritos-en-la-educación-primaria&quot;&gt;La importancia de los Trabajos Escritos en la educación primaria&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#beneficios-de-los-trabajos-escritos-para-los-niños&quot; id=&quot;markdown-toc-beneficios-de-los-trabajos-escritos-para-los-niños&quot;&gt;Beneficios de los Trabajos Escritos para los niños&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#cómo-los-trabajos-escritos-ayudan-en-el-aprendizaje-de-los-niños&quot; id=&quot;markdown-toc-cómo-los-trabajos-escritos-ayudan-en-el-aprendizaje-de-los-niños&quot;&gt;Cómo los Trabajos Escritos ayudan en el aprendizaje de los niños&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#cómo-presentar-un-trabajo-escrito-para-niños-de-primaria-siguiendo-las-normas-académicas&quot; id=&quot;markdown-toc-cómo-presentar-un-trabajo-escrito-para-niños-de-primaria-siguiendo-las-normas-académicas&quot;&gt;¿Cómo presentar un trabajo escrito para niños de primaria? Siguiendo las normas académicas&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#normas-apa-para-realizar-un-trabajo-escrito-para-niños&quot; id=&quot;markdown-toc-normas-apa-para-realizar-un-trabajo-escrito-para-niños&quot;&gt;Normas APA para realizar un trabajo escrito para niños&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#normas-icontec-de-trabajos-escritos-con-niños&quot; id=&quot;markdown-toc-normas-icontec-de-trabajos-escritos-con-niños&quot;&gt;Normas ICONTEC de trabajos escritos con niños&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#haciendo-un-trabajo-escrito-para-niños-de-primaria-paso-a-paso&quot; id=&quot;markdown-toc-haciendo-un-trabajo-escrito-para-niños-de-primaria-paso-a-paso&quot;&gt;Haciendo un Trabajo Escrito para niños de primaria: paso a paso&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#1-elegir-el-tema-del-trabajo-escrito-con-los-niños&quot; id=&quot;markdown-toc-1-elegir-el-tema-del-trabajo-escrito-con-los-niños&quot;&gt;1. Elegir el tema del Trabajo Escrito con los niños&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#2-busquen-información-del-trabajo-escrito-junto-con-el-niño&quot; id=&quot;markdown-toc-2-busquen-información-del-trabajo-escrito-junto-con-el-niño&quot;&gt;2. Busquen información del trabajo escrito junto con el niño&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#3-enséñale-a-los-niños-a-organizar-la-información-del-trabajo-escrito&quot; id=&quot;markdown-toc-3-enséñale-a-los-niños-a-organizar-la-información-del-trabajo-escrito&quot;&gt;3. Enséñale a los niños a organizar la información del trabajo escrito&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#4-que-los-niños-escriban-el-borrador-del-trabajo&quot; id=&quot;markdown-toc-4-que-los-niños-escriban-el-borrador-del-trabajo&quot;&gt;4. Que los niños escriban el borrador del trabajo&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#5-revisa-y-corrige-el-trabajo-escrito-del-niño&quot; id=&quot;markdown-toc-5-revisa-y-corrige-el-trabajo-escrito-del-niño&quot;&gt;5. Revisa y corrige el trabajo escrito del niño&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#6-ahora-a-presentar-el-trabajo-escrito-para-niños&quot; id=&quot;markdown-toc-6-ahora-a-presentar-el-trabajo-escrito-para-niños&quot;&gt;6. Ahora a presentar el Trabajo Escrito para niños&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#estructura-de-un-trabajo-escrito-para-niños-de-primaria&quot; id=&quot;markdown-toc-estructura-de-un-trabajo-escrito-para-niños-de-primaria&quot;&gt;Estructura de un Trabajo escrito para niños de primaria&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#consejos-para-la-redacción-de-trabajos-escritos&quot; id=&quot;markdown-toc-consejos-para-la-redacción-de-trabajos-escritos&quot;&gt;Consejos para la redacción de Trabajos Escritos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#niños-felices-con-sus-trabajos-escritos&quot; id=&quot;markdown-toc-niños-felices-con-sus-trabajos-escritos&quot;&gt;Niños felices con sus Trabajos Escritos&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;h2 id=&quot;la-importancia-de-los-trabajos-escritos-en-la-educación-primaria&quot;&gt;La importancia de los Trabajos Escritos en la educación primaria&lt;/h2&gt;
+        <description>&lt;h2 id=&quot;la-importancia-de-los-trabajos-escritos-en-la-educación-primaria&quot;&gt;La importancia de los Trabajos Escritos en la educación primaria&lt;/h2&gt;
 
 &lt;p&gt;&lt;a href=&quot;/&quot;&gt;Los trabajos escritos&lt;/a&gt; son una herramienta esencial en el proceso de aprendizaje durante la educación primaria.&lt;/p&gt;
 
@@ -1054,8 +744,8 @@
 &lt;p&gt;Tenemos muchos más recursos y guías que te ayudarán en tu camino hacia la excelencia académica. ¡Sigue leyendo y aprendiendo!&lt;/p&gt;
 </description>
         <pubDate>Sun, 30 Jul 2023 00:00:00 -0500</pubDate>
-        <link>http://localhost:4000/trabajos-escritos-ninos-primaria-copy</link>
-        <guid isPermaLink="true">http://localhost:4000/trabajos-escritos-ninos-primaria-copy</guid>
+        <link>http://localhost:4000/trabajos-escritos-ninos-primaria</link>
+        <guid isPermaLink="true">http://localhost:4000/trabajos-escritos-ninos-primaria</guid>
         
         
         <category>Trabajo escrito</category>
@@ -1070,43 +760,7 @@
     
       <item>
         <title>📝 ¿Cómo puedes detectar plagio en Trabajos Escritos?</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#qué-es-el-plagio-o-el-fraude-de-trabajos-escritos&quot; id=&quot;markdown-toc-qué-es-el-plagio-o-el-fraude-de-trabajos-escritos&quot;&gt;¿Qué es el plagio o el fraude de trabajos escritos?&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#los-tipos-de-plagios-de-trabajos-académicos&quot; id=&quot;markdown-toc-los-tipos-de-plagios-de-trabajos-académicos&quot;&gt;Los tipos de plagios de trabajos académicos&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#formas-de-fraude-en-trabajos-escritos&quot; id=&quot;markdown-toc-formas-de-fraude-en-trabajos-escritos&quot;&gt;Formas de fraude en trabajos escritos&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#cómo-detectar-el-plagio-en-trabajos-escritos&quot; id=&quot;markdown-toc-cómo-detectar-el-plagio-en-trabajos-escritos&quot;&gt;Cómo detectar el plagio en Trabajos Escritos&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#detectando-el-plagio-o-el-fraude-académico-de-forma-rápida&quot; id=&quot;markdown-toc-detectando-el-plagio-o-el-fraude-académico-de-forma-rápida&quot;&gt;Detectando el plagio o el fraude académico de forma rápida&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#sugerencias-para-la-detección-rápida-de-plagios-y-fraudes&quot; id=&quot;markdown-toc-sugerencias-para-la-detección-rápida-de-plagios-y-fraudes&quot;&gt;Sugerencias para la detección rápida de plagios y fraudes&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#programas-para-detectar-el-plagio-en-trabajos-escritos&quot; id=&quot;markdown-toc-programas-para-detectar-el-plagio-en-trabajos-escritos&quot;&gt;Programas para detectar el plagio en Trabajos Escritos&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#programas-gratuitos-para-detección-de-fraudes-y-plagios&quot; id=&quot;markdown-toc-programas-gratuitos-para-detección-de-fraudes-y-plagios&quot;&gt;Programas gratuitos para detección de fraudes y plagios&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cómo-detectar-el-plagio-en-trabajos-escritos-online&quot; id=&quot;markdown-toc-cómo-detectar-el-plagio-en-trabajos-escritos-online&quot;&gt;Cómo detectar el plagio en Trabajos Escritos Online&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#por-qué-utilizar-herramientas-de-detección-automatizada&quot; id=&quot;markdown-toc-por-qué-utilizar-herramientas-de-detección-automatizada&quot;&gt;¿Por qué utilizar herramientas de detección automatizada?&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#cómo-funcionan-los-programas-de-detección&quot; id=&quot;markdown-toc-cómo-funcionan-los-programas-de-detección&quot;&gt;Cómo funcionan los programas de detección&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#consejos-para-reducir-el-plagio-o-el-fraude&quot; id=&quot;markdown-toc-consejos-para-reducir-el-plagio-o-el-fraude&quot;&gt;Consejos para reducir el plagio o el fraude&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#la-importancia-de-las-citas-y-las-referencias-para-evitar-los-plagios-y-fraudes&quot; id=&quot;markdown-toc-la-importancia-de-las-citas-y-las-referencias-para-evitar-los-plagios-y-fraudes&quot;&gt;La importancia de las citas y las referencias para evitar los plagios y fraudes&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#la-comunicación-entre-maestros-y-estudiantes&quot; id=&quot;markdown-toc-la-comunicación-entre-maestros-y-estudiantes&quot;&gt;La comunicación entre maestros y estudiantes&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#las-normas-apa-y-el-plagio&quot; id=&quot;markdown-toc-las-normas-apa-y-el-plagio&quot;&gt;Las Normas APA y el plagio&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#beneficios-de-hacer-el-trabajo-de-detectar-el-plagio-o-el-fraude&quot; id=&quot;markdown-toc-beneficios-de-hacer-el-trabajo-de-detectar-el-plagio-o-el-fraude&quot;&gt;Beneficios de hacer el trabajo de detectar el plagio o el fraude&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#trabajos-escritos-originales-que-fomentan-el-progreso&quot; id=&quot;markdown-toc-trabajos-escritos-originales-que-fomentan-el-progreso&quot;&gt;Trabajos escritos originales que fomentan el progreso&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Comprender el plagio y el fraude es esencial para fomentar la integridad académica y mantener la fiabilidad de los trabajos académicos.&lt;/p&gt;
+        <description>&lt;p&gt;Comprender el plagio y el fraude es esencial para fomentar la integridad académica y mantener la fiabilidad de los trabajos académicos.&lt;/p&gt;
 
 &lt;p&gt;Analicemos el mundo de la detección del plagio y el fraude y exploremos las distintas herramientas y estrategias que pueden ayudarnos a mantener la integridad en nuestros trabajos escritos.&lt;/p&gt;
 
@@ -1279,28 +933,7 @@
     
       <item>
         <title>✦ Contrato de Trabajo Escrito: ¿Cómo Crearlo?</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#elementos-fundamentales-de-un-contrato-de-trabajo-escrito&quot; id=&quot;markdown-toc-elementos-fundamentales-de-un-contrato-de-trabajo-escrito&quot;&gt;Elementos fundamentales de un contrato de Trabajo Escrito&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#cómo-determinar-cuánto-cobrar-por-un-trabajo-escrito&quot; id=&quot;markdown-toc-cómo-determinar-cuánto-cobrar-por-un-trabajo-escrito&quot;&gt;¿Cómo determinar cuánto cobrar por un Trabajo Escrito?&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#modelo-de-contrato-de-trabajo-escrito&quot; id=&quot;markdown-toc-modelo-de-contrato-de-trabajo-escrito&quot;&gt;Modelo de Contrato de Trabajo Escrito&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#ejemplo-real-de-un-contrato-para-un-trabajo-escrito&quot; id=&quot;markdown-toc-ejemplo-real-de-un-contrato-para-un-trabajo-escrito&quot;&gt;Ejemplo Real de un Contrato para un Trabajo Escrito&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#más-recomendaciones-del-contrato-de-un-trabajo-escrito&quot; id=&quot;markdown-toc-más-recomendaciones-del-contrato-de-un-trabajo-escrito&quot;&gt;Más recomendaciones del contrato de un Trabajo Escrito&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#qué-debo-tener-en-cuenta-antes-de-firmar-un-contrato-de-trabajo&quot; id=&quot;markdown-toc-qué-debo-tener-en-cuenta-antes-de-firmar-un-contrato-de-trabajo&quot;&gt;¿Qué debo tener en cuenta antes de firmar un contrato de trabajo?&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#cuál-es-el-tiempo-mínimo-de-un-contrato-de-trabajo&quot; id=&quot;markdown-toc-cuál-es-el-tiempo-mínimo-de-un-contrato-de-trabajo&quot;&gt;¿Cuál es el tiempo mínimo de un contrato de trabajo?&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#asegura-tus-servicios-al-contratar-un-trabajo-escrito&quot; id=&quot;markdown-toc-asegura-tus-servicios-al-contratar-un-trabajo-escrito&quot;&gt;Asegura tus servicios al contratar un Trabajo Escrito&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-
-&lt;p&gt;Un &lt;strong&gt;contrato de trabajo escrito&lt;/strong&gt; es un documento legal que establece las condiciones de una relación laboral entre dos partes: el empleador y el empleado. Este acuerdo es fundamental para establecer una relación laboral justa y equitativa.&lt;/p&gt;
+        <description>&lt;p&gt;Un &lt;strong&gt;contrato de trabajo escrito&lt;/strong&gt; es un documento legal que establece las condiciones de una relación laboral entre dos partes: el empleador y el empleado. Este acuerdo es fundamental para establecer una relación laboral justa y equitativa.&lt;/p&gt;
 
 &lt;p&gt;En este artículo, te guiaremos a través del proceso de creación de un contrato de trabajo para un trabajo escrito. Te ayudaremos a entender cuánto cobrar por un trabajo escrito y te proporcionaremos un modelo de contrato de trabajo escrito.&lt;/p&gt;
 
@@ -1396,24 +1029,7 @@
     
       <item>
         <title>✦ Descubre las diferencias: Normas APA e ICONTEC</title>
-        <description>&lt;hr /&gt;
-
-&lt;p&gt;&lt;strong&gt;Atajos:&lt;/strong&gt;&lt;/p&gt;
-
-&lt;ul id=&quot;markdown-toc&quot;&gt;
-  &lt;li&gt;&lt;a href=&quot;#aspectos-generales-de-las-normas-apa&quot; id=&quot;markdown-toc-aspectos-generales-de-las-normas-apa&quot;&gt;Aspectos generales de las Normas APA&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#aspectos-generales-de-las-normas-icontec&quot; id=&quot;markdown-toc-aspectos-generales-de-las-normas-icontec&quot;&gt;Aspectos generales de las Normas ICONTEC&lt;/a&gt;&lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#diferencias-entre-normas-apa-e-icontec&quot; id=&quot;markdown-toc-diferencias-entre-normas-apa-e-icontec&quot;&gt;Diferencias entre Normas APA e ICONTEC&lt;/a&gt;    &lt;ul&gt;
-      &lt;li&gt;&lt;a href=&quot;#formato&quot; id=&quot;markdown-toc-formato&quot;&gt;Formato&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#citas-y-referencias&quot; id=&quot;markdown-toc-citas-y-referencias&quot;&gt;Citas y referencias&lt;/a&gt;&lt;/li&gt;
-      &lt;li&gt;&lt;a href=&quot;#numeración-de-páginas&quot; id=&quot;markdown-toc-numeración-de-páginas&quot;&gt;Numeración de páginas&lt;/a&gt;&lt;/li&gt;
-    &lt;/ul&gt;
-  &lt;/li&gt;
-  &lt;li&gt;&lt;a href=&quot;#cuadro-comparativo-de-las-normas-apa-y-las-normas-icontec&quot; id=&quot;markdown-toc-cuadro-comparativo-de-las-normas-apa-y-las-normas-icontec&quot;&gt;Cuadro comparativo de las Normas APA y las Normas ICONTEC&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;hr /&gt;
-&lt;p&gt;La &lt;strong&gt;&lt;a href=&quot;/normas-apa&quot;&gt;Norma APA&lt;/a&gt;&lt;/strong&gt; es un conjunto de estándares desarrollados por la American Psychological Association para la presentación de trabajos académicos escritos, especialmente en las ciencias sociales y del comportamiento.&lt;/p&gt;
+        <description>&lt;p&gt;La &lt;strong&gt;&lt;a href=&quot;/normas-apa&quot;&gt;Norma APA&lt;/a&gt;&lt;/strong&gt; es un conjunto de estándares desarrollados por la American Psychological Association para la presentación de trabajos académicos escritos, especialmente en las ciencias sociales y del comportamiento.&lt;/p&gt;
 
 &lt;p&gt;Por otro lado, las &lt;strong&gt;&lt;a href=&quot;/normas-icontec&quot;&gt;Normas ICONTEC&lt;/a&gt;&lt;/strong&gt; son pautas establecidas por el Instituto Colombiano de Normas Técnicas y Certificación, utilizadas ampliamente en países de habla hispana para la presentación de trabajos académicos y científicos.&lt;/p&gt;
 
@@ -1512,6 +1128,83 @@
         <category>APA</category>
         
         <category>Icontec</category>
+        
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>El uso de un generador de normas APA ↩</title>
+        <description>&lt;p&gt;Este artículo te proporcionará una visión general del uso de generadores de normas APA y por qué pueden ser beneficiosas para tus &lt;a href=&quot;/&quot;&gt;trabajos académicos&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h2 id=&quot;qué-es-un-generador-de-normas-apa&quot;&gt;¿Qué es un generador de normas APA?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;Un generador de Normas APA es una herramienta digital diseñada para ayudar a los usuarios a formatear correctamente las citas y referencias según las Normas APA&lt;/strong&gt;. Simplemente ingresando detalles como el nombre del autor, &lt;a href=&quot;/normas-apa/titulos-y-subtitulos-normas-apa&quot; title=&quot;Títulos y subtítulos normas APA&quot;&gt;título&lt;/a&gt;, fecha de publicación, entre otros, la herramienta generará automáticamente &lt;a href=&quot;/normas-apa/citas-normas-apa&quot; title=&quot;Citas normas APA&quot;&gt;la cita en el formato correcto&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3 id=&quot;cómo-usar-un-generador-de-normas-apa&quot;&gt;Cómo usar un generador de normas APA&lt;/h3&gt;
+
+&lt;p&gt;El proceso general para usar un generador de normas APA suele ser el siguiente:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Selecciona el tipo de fuente&lt;/strong&gt; que deseas citar (libro, artículo de revista, sitio web, etc.).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Ingresa la información relevante&lt;/strong&gt; de la fuente (autor, título, fecha de publicación, etc.).&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Haz clic en el botón para generar la cita&lt;/strong&gt;.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Copia y pega&lt;/strong&gt; la cita generada en tu documento.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;hr /&gt;
+
+&lt;h2 id=&quot;ejemplos-de-generadores-de-normas-apa&quot;&gt;Ejemplos de Generadores de Normas APA&lt;/h2&gt;
+
+&lt;p&gt;Existen varios generadores de Normas APA disponibles en línea, cada uno con sus propias características y beneficios. Aquí te proporcionamos algunos ejemplos:&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;&lt;strong&gt;Cite This For Me&lt;/strong&gt;: &lt;a href=&quot;https://www.citethisforme.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Cite This For Me&lt;/a&gt; es una herramienta versátil que no solo soporta las Normas APA, sino también otros estilos de citación como MLA y Chicago. Es fácil de usar y proporciona una guía detallada sobre cómo ingresar los datos.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;EasyBib&lt;/strong&gt;: &lt;a href=&quot;https://www.easybib.com/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;EasyBib&lt;/a&gt; es muy conocida y utilizada ampliamente por su simplicidad. &lt;a href=&quot;https://chrome.google.com/webstore/detail/easybib-toolbar/hmffdimoneaieldiddcmajhbjijmnggi?hl=es&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;EasyBib también ofrece una extensión de navegador&lt;/a&gt;, facilitando la generación de citas mientras realizas la investigación.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Citation Machine&lt;/strong&gt;: &lt;a href=&quot;https://www.citationmachine.net/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Citation Machine&lt;/a&gt; proporciona guías de citación detalladas y también genera citas automáticamente. Es útil para una amplia gama de tipos de fuentes, incluyendo libros, revistas, sitios web, vídeos, entre otros.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Mendeley&lt;/strong&gt;: &lt;a href=&quot;https://www.mendeley.com/?interaction_required=true&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Mendeley&lt;/a&gt; es un gestor de referencias, Mendeley también ofrece un generador de citas que es altamente preciso y fácil de usar.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Zotero&lt;/strong&gt;: &lt;a href=&quot;https://www.zotero.org/&quot; rel=&quot;nofollow noopener noreferrer&quot; target=&quot;_blank&quot;&gt;Zotero&lt;/a&gt; es otro gestor de referencias que también ofrece funcionalidades de generación de citas. Puedes sincronizar tus citas entre múltiples dispositivos, lo cual es útil para &lt;a href=&quot;/investigacion-con-normas-apa-icontec&quot; title=&quot;Investigaciones&quot;&gt;trabajos de investigación&lt;/a&gt; a largo plazo.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;beneficios-de-utilizar-un-generador-de-normas-apa&quot;&gt;Beneficios de utilizar un generador de normas APA&lt;/h3&gt;
+
+&lt;p&gt;Aquí están algunos de los beneficios clave de usar un generador de Normas APA:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Ahorro de Tiempo&lt;/strong&gt;: Evita el proceso manual de formatear cada cita y &lt;a href=&quot;/normas-apa/referencias-bibliograficas-normas-apa&quot; title=&quot;Referencias Bibliográficas&quot;&gt;referencia&lt;/a&gt; individualmente.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Precisión&lt;/strong&gt;: Reduce los errores al adherirse estrictamente a las normas APA.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Conveniencia&lt;/strong&gt;: Permite generar citas rápidamente, ideal para grandes trabajos de investigación con numerosas referencias.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;consideraciones-al-elegir-un-generador-de-normas-apa&quot;&gt;Consideraciones al Elegir un Generador de Normas APA&lt;/h2&gt;
+
+&lt;p&gt;Al elegir un generador de Normas APA, debes considerar lo siguiente:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Exactitud&lt;/strong&gt;: Asegúrate de que la herramienta se actualiza regularmente para cumplir con las últimas Normas APA.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Facilidad de uso&lt;/strong&gt;: La interfaz debe ser fácil de navegar y de entender.&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Reputación&lt;/strong&gt;: Busca herramientas de fuentes confiables y con buenas reseñas de los usuarios.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Recuerda que aunque estos generadores pueden ser de gran ayuda, &lt;em&gt;siempre es importante revisar las citas generadas para asegurarte de que son precisas y están completas&lt;/em&gt;.&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;strong&gt;Ninguna herramienta es infalible&lt;/strong&gt;, y siempre es una buena idea &lt;a href=&quot;/normas-apa&quot; title=&quot;Normas APA&quot;&gt;familiarizarte con las Normas APA&lt;/a&gt; para poder hacer verificaciones de calidad de las citas generadas automáticamente.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;En resumen, un generador de Normas APA es una herramienta invaluable para cualquier estudiante o profesional que necesita escribir documentos en el estilo APA. Te ahorra tiempo, garantiza precisión y hace que el proceso de citación sea mucho más manejable. Aprovéchalo para hacer tus Trabajos Escritos.&lt;/p&gt;
+
+</description>
+        <pubDate>Sun, 18 Jun 2023 00:00:00 -0500</pubDate>
+        <link>http://localhost:4000/generadores-normas-apa</link>
+        <guid isPermaLink="true">http://localhost:4000/generadores-normas-apa</guid>
+        
+        
+        <category>Presentación</category>
+        
+        <category>Normas</category>
         
         
         

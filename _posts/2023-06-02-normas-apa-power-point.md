@@ -15,15 +15,6 @@ webp: blog/normas-apa-power-point
 alt: Normas APA power point
 date: 2023-08-23T04:17:25.539Z
 ---
-----
-
-**Atajos:**
-
-* Do not remove this line (it will not be displayed)
-{:toc}
-
-----
-
 Es hora de llevar tus presentaciones de PowerPoint al siguiente nivel, y estoy aquí para mostrarte cómo. Quiero mostrarte **cómo aplicar las Normas APA en tus presentaciones** y darles ese toque de excelencia.
 
 ## Normas APA y PowerPoint

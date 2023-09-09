@@ -9,15 +9,6 @@ webp: blog/trabajo-escrito-niños
 alt: Dibujo sobre la seguridad en trabajos escritos
 excerpt: "Un trabajo académico permite a los estudiantes **desarrollar habilidades de investigación, escritura y pensamiento crítico**."
 ---
-----
-
-**Atajos:**
-
-* Do not remove this line (it will not be displayed)
-{:toc}
-
-----
-
 ## La importancia de los Trabajos Escritos en la educación primaria
 
 [Los trabajos escritos](/) son una herramienta esencial en el proceso de aprendizaje durante la educación primaria.
@@ -42,7 +33,7 @@ Los trabajos escritos son una excelente herramienta **para el aprendizaje activo
 
 Los trabajos escritos ayudan a los niños a desarrollar **habilidades de organización y planificación**, que son esenciales para el éxito académico y la vida en general.
 
------
+----
 
 ## ¿Cómo presentar un trabajo escrito para niños de primaria? Siguiendo las normas académicas
 
@@ -62,7 +53,7 @@ Aunque pueden parecer complejas para los niños de primaria, es importante intro
 
 Estas normas son ampliamente utilizadas en países hispanohablantes y cubren aspectos similares a las normas APA, como el formato del papel, [el estilo de escritura]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo del trabajo Normas Icontec"), [las citas y las referencias]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y Referencias Normas Icontec").
 
------
+----
 
 ## Haciendo un Trabajo Escrito para niños de primaria: paso a paso
 
@@ -108,7 +99,7 @@ Finalmente, el niño puede presentar su trabajo escrito. Esto puede implicar **l
 
 Haz que el niño se sienta orgulloso de su trabajo y tenga la oportunidad de recibir retroalimentación sobre él.
 
------
+----
 
 ## Estructura de un Trabajo escrito para niños de primaria
 
@@ -123,7 +114,7 @@ Un niño también puede hacer un trabajo escrito típico consta de varias partes
 7. **Anexos**: En [los anexos]({{'anexos-trabajo-escrito'|relative_url}} "Anexos"), puedes incluir dibujos, mapas, fotografías, recortes de prensa, en fin. Aquí colocas lo que crees que es importante como complemento, pero que no “cabe” en el desarrollo del trabajo.
 {:class="seccion_a"}
 
------
+----
 
 ## Consejos para la redacción de Trabajos Escritos
 

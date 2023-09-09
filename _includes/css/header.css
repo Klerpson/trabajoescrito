@@ -1,7 +1,8 @@
 header {
   display: grid;
-  gap: 4em;
-  padding-top: 4em;
+  gap: 3em;
+  padding-top: 2em;
+  place-items: center;
 }
 
 .title{
@@ -19,8 +20,7 @@ header {
 }
 
 .title img{
-  -webkit-animation: slide-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 2 alternate both;
-	        animation: slide-left 0.5s cubic-bezier(0.250, 0.460, 0.450, 0.940) 2 alternate both;
+  max-width: 240px;
 }
 /**
  * ----------------------------------------
