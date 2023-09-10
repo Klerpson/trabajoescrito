@@ -34,11 +34,25 @@ Los números de página **deben estar en la esquina superior derecha** de cada p
 
 En las [normas Icontec]({{'normas-icontec'|relative_url}}), la numeración comienza desde la primera página que sigue a la portada, es decir, **la tabla de contenidos**, y se coloca **en el centro de la parte inferior de la página**.
 
-### Cómo se enumera un trabajo escrito
+### Casos específicos: enumeración de tesis y documentos académicos
+
+Aquí tienes una lista rápida para saber **desde dónde empezar a numerar según el tipo de documento**:
+
+- **Tesis**: Generalmente desde la introducción, omitiendo portada y resumen.
+- **Normas APA**: Desde la primera página del cuerpo del texto, omitiendo portada e índice.
+
+#### Consejos Rápidos
+
+1. Siempre revisa las pautas específicas para tu tipo de documento.
+2. La ubicación y el estilo del número de página pueden variar según las normas que estés utilizando.
+
+----
+
+## Cómo se enumera un trabajo escrito
 
 Según las normas Icontec, **los números deben estar centrados en la parte inferior** de la página.
 
-#### Diferencias en la enumeración de páginas entre las dos normas
+### Diferencias en la enumeración de páginas entre las dos normas
 
 Aquí tienes una tabla simple que resalta las diferencias entre la numeración de páginas según las normas APA y las normas Icontec:
 
@@ -69,11 +83,22 @@ En un trabajo escrito, hay ciertas **páginas que generalmente no se enumeran**.
 
 Recuerda siempre revisar las pautas específicas del formato que estás utilizando, como APA, MLA o Chicago, ya que pueden tener reglas específicas.
 
-## Herramientas para manejar la enumeración y paginación de un trabajo
+----
 
-A pesar de que la numeración y paginación de los trabajos escritos puede ser un desafío, especialmente en documentos largos o cuando se siguen formatos específicos como las normas APA o Icontec, existen **herramientas y recursos que pueden facilitar este proceso**.
+## Herramientas de software para facilitar la numeración
 
-Por ejemplo, muchos procesadores de texto, como **Word en office**, ofrecen funciones automáticas de numeración de páginas. Así ayuda a garantizar la consistencia a lo largo de todo el documento.
+¿Te preguntas cómo numerar como un pro? Pues la solución también está en las herramientas que utilices.
+
+Hoy en días, gracias a la tecnología, dispones de muchas **herramientas que pueden enumerar tu trabajo escrito por ti**. Aquí tienes una comparativa rápida de 2 de ellas y cómo utilizarlas:
+
+| Herramienta | Pasos para numerar | Ventajas |
+|-------------|--------------------|-----------|
+| Word        | Ve a "Insertar" ➔ "Número de página" | Variedad de estilos, fácil de usar |
+| PowerPoint  | Ve a "Insertar" ➔ "Número de diapositiva" | Consistencia en presentaciones |
+
+Con estas herramientas, no necesitas ser un experto en tecnología para que tus trabajos escritos luzcan profesionales. Solo sigue los pasos y ¡voilà!
+
+Espero que estos elementos didácticos hagan que el contenido sea aún más fácil de digerir. ¿Te funciona así? 😎📊
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
