@@ -64,6 +64,16 @@ Es importante utilizar una fuente legible y profesional, y mantener este tipo de
 
 ### Margenes e interlineado en la portada
 
+![Ejemplo portada 1]({{'img/portada1.webp'|relative_url}})
+
+![Ejemplo portada 2]({{'img/portada2.webp'|relative_url}})
+
+![Ejemplo portada 3]({{'img/portada3.webp'|relative_url}})
+
+![Ejemplo portada 4]({{'img/portada4.webp'|relative_url}})
+
+![Ejemplo portada 5]({{'img/portada5.webp'|relative_url}})
+
 Las normas APA e Icontec establecen un margen para la portada de **3 cm en la parte superior, inferior y a la izquierda, y de 4 cm en la parte derecha**.
 
 En cuanto al interlineado, se recomienda utilizar un interlineado sencillo para la portada.
@@ -74,34 +84,24 @@ En la portada, se utilizan **letras mayúsculas para el título** del trabajo es
 
 También se recomienda evitar el uso de abreviaturas no estándar.
 
------
-
-
----
-
 ### Modelos y ejemplos de portadas para trabajos escritos
 
-Si eres de los que prefiere ver ejemplos antes de poner manos a la obra, esta sección es para ti. Aquí te mostramos algunos modelos de portadas que cumplen con las normas Icontec y APA. Puedes encontrar más ejemplos en la página web de Microsoft Office o en Pinterest para inspirarte. Recuerda, un buen modelo puede ahorrarte mucho tiempo y esfuerzo.
+Si eres de los que prefiere ver ejemplos antes de poner manos a la obra, esta sección es para ti. Aquí te mostramos algunos modelos de portadas que cumplen con las normas Icontec y APA.
 
----
+Puedes encontrar más ejemplos en la página web de Microsoft Office o en Pinterest para inspirarte. Recuerda, un buen modelo puede ahorrarte mucho tiempo y esfuerzo.
 
 ### Instrucciones detalladas para hacer tu portada en Word
 
 Para los que prefieren un paso a paso, aquí van algunas instrucciones detalladas sobre cómo elaborar tu portada en Word:
 
 1. **Abre un nuevo documento en blanco**: Inicia Word y abre un nuevo documento.
-  
 2. **Establece los márgenes**: Ve a la pestaña de "Diseño de página" y ajusta los márgenes según las normas que estés siguiendo.
-  
 3. **Elige el tipo de letra y tamaño**: Opta por una fuente Serif como Times New Roman o Georgia y un tamaño de 12 puntos.
-  
 4. **Ajusta el interlineado**: Ve a la pestaña de "Párrafo" y selecciona un interlineado sencillo.
 
 Siguiendo estos pasos, te asegurarás de que tu portada esté en perfectas condiciones para presentarla.
 
----
-
-Espero que estas secciones adicionales encajen bien con tu artículo y te ayuden a optimizarlo para SEO. ¿Qué te parece? 🎯
+----
 
 ## Recursos y herramientas para la elaboración de portadas
 
