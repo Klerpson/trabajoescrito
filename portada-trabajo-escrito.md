@@ -76,6 +76,33 @@ También se recomienda evitar el uso de abreviaturas no estándar.
 
 -----
 
+
+---
+
+### Modelos y ejemplos de portadas para trabajos escritos
+
+Si eres de los que prefiere ver ejemplos antes de poner manos a la obra, esta sección es para ti. Aquí te mostramos algunos modelos de portadas que cumplen con las normas Icontec y APA. Puedes encontrar más ejemplos en la página web de Microsoft Office o en Pinterest para inspirarte. Recuerda, un buen modelo puede ahorrarte mucho tiempo y esfuerzo.
+
+---
+
+### Instrucciones detalladas para hacer tu portada en Word
+
+Para los que prefieren un paso a paso, aquí van algunas instrucciones detalladas sobre cómo elaborar tu portada en Word:
+
+1. **Abre un nuevo documento en blanco**: Inicia Word y abre un nuevo documento.
+  
+2. **Establece los márgenes**: Ve a la pestaña de "Diseño de página" y ajusta los márgenes según las normas que estés siguiendo.
+  
+3. **Elige el tipo de letra y tamaño**: Opta por una fuente Serif como Times New Roman o Georgia y un tamaño de 12 puntos.
+  
+4. **Ajusta el interlineado**: Ve a la pestaña de "Párrafo" y selecciona un interlineado sencillo.
+
+Siguiendo estos pasos, te asegurarás de que tu portada esté en perfectas condiciones para presentarla.
+
+---
+
+Espero que estas secciones adicionales encajen bien con tu artículo y te ayuden a optimizarlo para SEO. ¿Qué te parece? 🎯
+
 ## Recursos y herramientas para la elaboración de portadas
 
 ¿Todavía te cuesta hacer la portada de tu trabajo? Entonces utiliza herramientas como las siguientes para facilitar tu tarea.
@@ -98,13 +125,19 @@ Se pueden encontrar plantillas en línea que pueden ser útiles para asegurarse 
 
 ## Preguntas frecuentes sobre la portada de un trabajo escrito
 
-### ¿Por qué es importante incluir información sobre la institución y la fecha de presentación?
+Sabemos que hacer una portada puede generar muchas dudas. Por eso, hemos creado esta sección de preguntas frecuentes para aclarar algunas de las más comunes.
 
-Es importante incluir información sobre la institución y la fecha de presentación porque **permite identificar el contexto y la autoría del trabajo**.
+- **¿Qué es una portada de un trabajo escrito?**
+  Una portada es la primera página de tu trabajo escrito donde se presenta información básica como el título, el nombre del autor y la institución.
 
-La institución **brinda credibilidad y relevancia** al trabajo, y la fecha es importante para conocer **el tiempo de elaboración y actualización** de la información que se expone en el trabajo.
+- **¿Cómo se hace una portada de un trabajo escrito?**
+  Sigue las normas Icontec o APA para asegurarte de que tu portada tenga todos los elementos necesarios en el formato correcto.
 
-La información de la institución y fecha **es requerida por las normas APA e Icontec** para la presentación de trabajos escritos.
+- **¿Qué contiene una portada de un trabajo escrito?**
+  Debe incluir el título del trabajo, el nombre del autor o autores, la institución a la que se presenta y la fecha de presentación.
+
+- **¿Por qué es importante incluir información sobre la institución y la fecha de presentación?**
+  Es importante incluir información sobre la institución y la fecha de presentación porque **permite identificar el contexto y la autoría del trabajo**.
 
 ## Brilla con la portada de tu trabajo escrito
 
