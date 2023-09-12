@@ -17,9 +17,7 @@ Veremos cómo ajustarlos en Word y cómo configurarlos cuando se requiere encuad
 
 ## Márgenes según las normas APA
 
-Los márgenes son un elemento importante en la redacción de trabajos académicos, ya que **ofrecen un aspecto ordenado y profesional al documento**.
-
-En este sentido, es esencial **cumplir con las Normas APA en español según la séptima edición**, donde se especifican los márgenes recomendados para los trabajos, así como otras reglas importantes a considerar.
+Los márgenes **ofrecen un aspecto ordenado y profesional al documento**. En este sentido, es esencial **cumplir con las Normas APA en español según la séptima edición**, donde se especifican los márgenes recomendados para los trabajos, así como otras reglas importantes a considerar.
 
 ### Definición de márgenes
 
@@ -29,9 +27,39 @@ Los márgenes **son los espacios en blanco que se encuentran en los bordes del d
 
 ### Márgenes recomendados en Normas APA 7
 
-Según las Normas APA en su séptima edición, los márgenes recomendados en el documento académico **son de 2,54 centímetros (1 pulgada) en todos los lados**.
+>Según las Normas APA en su séptima edición, los márgenes recomendados en el documento académico **son de 2,54 centímetros (1 pulgada) en todos los lados**.
 
 Estos márgenes deben ser aplicados en todo el documento de manera uniforme, incluyendo la primera página, [la página de resumen]({{'resumen-trabajo-escrito'|relative_url}} "Hoja de Resumen"), el [cuerpo del texto]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo escrito"), [las referencias bibliográficas]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Bibliográficas"), las [tablas, las figuras]({{'normas-apa/tablas-y-figuras-normas-apa'|relative_url}} "Tablas y figuras APA") y los [apéndices]({{'apendice-trabajo-escrito'|relative_url}} "Apéndices de un trabajo escrito").
+
+### Medidas exactas de los márgenes en normas APA
+
+Si te estás preguntando cuáles son las medidas exactas que debes aplicar en los márgenes de tu trabajo, aquí te lo detallamos.
+
+📏 **Medidas Recomendadas:**
+
+- **Sistema Imperial**: 1 pulgada
+- **Sistema Métrico**: 2,54 cm
+
+📍 **Ubicación del Margen:**
+
+- Parte superior
+- Parte inferior
+- Lado izquierdo
+- Lado derecho
+
+----
+
+### Margen según el tipo de trabajo académico
+
+Es posible que te encuentres con diferentes requisitos de márgenes según el tipo de trabajo académico que estés realizando.
+
+📚 **Tipos de Trabajos y Márgenes Sugeridos:**
+
+- **Tesis**: Márgenes más amplios para encuadernado.
+- **Artículo de Revista**: Consulta las pautas de la revista.
+- **Ensayo Académico**: 2,54 cm (1 pulgada) es el estándar.
+
+> **Consejo**: Siempre consulta con tu tutor o la entidad a la que vas a enviar el trabajo para confirmar los márgenes.
 
 ### Ajuste de márgenes en caso de encuadernación especial
 
@@ -68,9 +96,17 @@ Además de conocer las Normas APA 7 para las márgenes y el formato de presentac
 
 A continuación, se presentan algunas opciones de gran utilidad.
 
-### Descargar plantillas
+### Preguntas frecuentes sobre márgenes en normas APA
 
-Existen diversas plantillas en línea para descargar y utilizar en Word, que permiten la correcta estructuración de los trabajos académicos, con el tamaño de página adecuado, **márgenes establecidos** y otros elementos pertinentes, **según las Normas APA 7**.
+Para cerrar, queremos responder a algunas de las preguntas más comunes que suelen surgir cuando se trata de ajustar los márgenes en un trabajo académico según las Normas APA.
+
+#### ❓Preguntas Comunes
+
+1. **¿Cuáles son los márgenes de un trabajo escrito?**
+   - 2,54 cm (1 pulgada) en todos los lados.
+  
+2. **¿Cómo ajustar los márgenes en Word según las normas APA?**
+   - Ve a "Diseño de Página" ➡️ "Márgenes" ➡️ Elige o personaliza.
 
 ### Cursos sobre normas APA
 
