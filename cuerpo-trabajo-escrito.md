@@ -37,8 +37,47 @@ En otras palabras, aquí haces la exposición de toda la información que has pr
 El cuerpo de trabajo *inicia con una tesis o argumento principal*. Luego, se presenta la evidencia o datos que respaldan este argumento en párrafos sucesivos.
 
 Cada párrafo debe presentar una idea principal, respaldada por información relevante. Recuerda siempre mantener la coherencia y el flujo de ideas.
+
+Claro, Julian, hacer el contenido más didáctico es una excelente manera de facilitar la comprensión y retención. Aquí te dejo las secciones adicionales con un enfoque más didáctico:
+
+### Cuerpo principal de un trabajo escrito
+
+El cuerpo principal es el corazón del texto, donde late la esencia de tu argumento o tesis. Su importancia radica en al menos 3 puntos:
+
+- Es el núcleo del texto.
+- Aquí se presentan los argumentos más fuertes.
+- Es donde se despliegan las evidencias que respaldan tus argumentos.
+{:class="seccion_a"}
+
+>Piensa en el cuerpo principal como el núcleo donde todo cobra sentido. Si esta parte es sólida, el resto del trabajo seguirá el ritmo.
+
+### El desarrollo de un trabajo escrito
+
+**¿Qué es?**  
+El desarrollo es el proceso meticuloso de presentar cada argumento, evidencia y análisis de manera lógica y convincente.
+
+**¿Cómo hacerlo bien?**
+1. Presenta argumentos claros.
+2. Usa evidencias sólidas.
+3. Mantén un flujo lógico.
+
+**Consejo Rápido:**  
+El desarrollo no es solo rellenar espacio; es la columna vertebral de tu trabajo. Cada pieza debe encajar perfectamente para que el cuadro completo tenga sentido.
+
+### La estructura de un trabajo escrito
+
+La estructura es el esqueleto que sostiene todo el contenido de tu trabajo escrito. Los componentes clave de esta estructura son:
+
+- Introducción
+- Cuerpo del trabajo
+- Conclusión
+{:class="seccion_a"}
+
+Una estructura bien pensada hará que tu trabajo no solo sea más fácil de seguir, sino también más persuasivo.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
+
+>Imagina que estás construyendo una casa; si la estructura no es sólida, todo podría derrumbarse.
 
 {% include add.html %}
 
