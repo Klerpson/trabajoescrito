@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Portada y contraportada ICONTEC: la presentación de tu trabajo"
+title: "Portada y contraportada ICONTEC: la presentación impactante"
 description: "Existen pautas específicas para la presentación de la portada y contraportada con Normas ICONTEC. Esto incluye información detallada y especificaciones técnicas"
 intro: "Las Normas ICONTEC son fundamentales para la elaboración de trabajos académicos en Colombia. Presenta bien tu portada y la contraportada  y mira ejemplos de cómo debe ser el formato."
 h1: "Portada y contraportada con normas ICONTEC: la presentación de tu trabajo"

@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "✦ ¿Cómo crear una Tabla de Contenido con las Normas ICONTEC?"
-description: ➤ Aprende a hacer tu tabla de contenido ICONTEC perfecta.
+title: "¿Cómo crear una Tabla de Contenido con las Normas ICONTEC?"
+description: Aprende a hacer tu tabla de contenido ICONTEC perfecta. ¿Y tú lo llamas índice? Pues te mostramos cómo estructurarlo fácilmente.
 h1: "¿Cómo crear una Tabla de Contenido según las Normas ICONTEC?"
 intro: "Las Normas ICONTEC son un conjunto de estándares utilizados en Colombia para citas y referencias bibliográficas. ¿Sabes cómo hacerlas correctamente?"
 boton_info: "normas"

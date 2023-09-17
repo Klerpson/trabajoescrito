@@ -4,7 +4,9 @@ layout: default
 <main class="post-content">
   {% include add.html %}
   {% if page.excerpt %}
-  {{page.excerpt|markdownify}}
+  <div class="seccion_a">
+    {{page.excerpt|markdownify}}
+  </div>
   {% endif %}
   {{ content }}
   {% include add.html %}

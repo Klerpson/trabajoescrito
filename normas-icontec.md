@@ -10,17 +10,11 @@ boton_mas: "descargas"
 boton_mas_title: "Aprende más tips"
 vertical: true
 ---
-## Normas colombianas de presentación de proyectos: Instituto Colombiano de Normas Técnicas y Certificación
-
-El Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) establece **las normas colombianas para la presentación de trabajos académicos**, las cuales deben ser cumplidas en la elaboración de cualquier tipo de documento.
-
-Estas reglas se enfocan en aspectos como **los márgenes, la tipografía, la numeración y las citas bibliográficas.** Además, se establecen pautas para **el uso de hojas tamaño carta, textos justificados y respetando los márgenes.**
-
-### ¿Qué son las normas Icontec?
+## Las normas Icontec: por qué y cómo utilizarlas
 
 Las normas Icontec son un conjunto de **reglas y metodologías que deben aplicarse en trabajos escritos** como ensayos, tesis o trabajos de grado en Colombia y otros países de América Latina.
 
-Estas normas establecen las pautas para la presentación de trabajos académicos, informes, manuales, entre otros, y aseguran la correcta estructuración y organización del texto.
+Estas normas establecen las **pautas para la presentación de trabajos académicos**, informes, manuales, entre otros, y aseguran la correcta estructuración y organización del texto.
 
 -----
 
@@ -40,6 +34,7 @@ Las normas colombianas se enfocan principalmente en establecer un patrón de pre
 * [⇾ Referencias bibliográficas y citas](#referencias)
 * [⇾ Anexos](#anexos)
 * [⇾ Listas](#referencias)
+* [⇾ Numeración](#numeracion)
 * [⇾ Marco teórico](#marco)
 {:class="links"}
 
@@ -140,11 +135,18 @@ Las Normas ICONTEC establecen directrices claras sobre **cómo deben presentarse
 ### Anexos
 
 Los anexos son elementos adicionales que se pueden incluir en un trabajo y que no forman parte del texto principal. En las normas Icontec, se establece la manera correcta de presentar los anexos y su ubicación en el trabajo.
-{:id="marco"}
+{:id="numeracion"}
 
 [Anexos Icontec]({{'normas-icontec/anexos-normas-icontec'|relative_url}} "Anexos normas Icontec"){:class="boton"}
 
-### Marco teórico
+### Numeración Icontec
+
+¿Confundido con la numeración en ICONTEC? Para enumerar bien en normas ICONTEC, te damos los tips para no perderse entre páginas.
+{:id="marco"}
+
+[Numeración Icontec]({{'normas-icontec/numeracion-normas-icontec'|relative_url}} "Numeración normas Icontec"){:class="boton"}
+
+### Marco teórico en normas Icontec
 
 El **marco teórico** es una parte esencial de cualquier investigación académica. Es el cimiento sobre el cual se construye todo el estudio. Pero, ¿cómo se aplica correctamente las **Normas ICONTEC** en este contexto?
 
@@ -301,3 +303,9 @@ Aquí te brindamos algunos **datos complementarios** que pueden ser de utilidad:
 Estos datos resaltan el valor y la importancia de conocer y entender las Normas ICONTEC.
 
 Dominar estas normas te proporcionará una base sólida para la presentación de trabajos escritos en diversos contextos, tanto académicos como profesionales.
+
+## Las normas icontec del Instituto Colombiano de Normas Técnicas y Certificación
+
+El Instituto Colombiano de Normas Técnicas y Certificación (ICONTEC) establece **las normas colombianas para la presentación de trabajos académicos**, las cuales deben ser cumplidas en la elaboración de cualquier tipo de documento.
+
+Estas reglas se enfocan en aspectos como **los márgenes, la tipografía, la numeración y las citas bibliográficas.** Además, se establecen pautas para **el uso de hojas tamaño carta, textos justificados y respetando los márgenes.**

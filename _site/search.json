@@ -1,6 +1,12 @@
 [
   
     {
+      "title"    : "Normas ICONTEC en PowerPoint: Hacer una Presentación Épica",
+      "category" : "Blog",
+      "url"      : "/normas-icontec-power-point"
+    } ,
+  
+    {
       "title"    : "Programas para Trabajos Escritos • Google Docs • Writter • Word",
       "category" : "Blog",
       "url"      : "/programas-para-hacer-trabajos-escritos"
@@ -440,6 +446,14 @@
   
    {
      
+        "title"    : "ICONTEC: Cómo Numerar Páginas, Secciones y Más",
+        "category" : "",
+        "url"      : "/normas-icontec/numeracion-normas-icontec"
+     
+   } ,
+  
+   {
+     
         "title"    : "Enumeración en Trabajos Escritos: ¿Desde dónde y cómo?",
         "category" : "",
         "url"      : "/numeracion-trabajo-escrito"
@@ -456,7 +470,7 @@
   
    {
      
-        "title"    : "Portada y contraportada ICONTEC: la presentación de tu trabajo",
+        "title"    : "Portada y contraportada ICONTEC: la presentación impactante",
         "category" : "",
         "url"      : "/normas-icontec/portada-contraportada-normas-icontec"
      
@@ -540,7 +554,7 @@
   
    {
      
-        "title"    : "✦ ¿Cómo crear una Tabla de Contenido con las Normas ICONTEC?",
+        "title"    : "¿Cómo crear una Tabla de Contenido con las Normas ICONTEC?",
         "category" : "",
         "url"      : "/normas-icontec/tabla-contenido-normas-icontec"
      
