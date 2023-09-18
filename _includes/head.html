@@ -341,6 +341,90 @@
       }
   </script>
   {% endif %}
+  {% if page.url == "/tip-y-consejos" %}
+    <!-- SCHEMA -->
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "headline": "Tips y consejos para hacer tu Trabajo Escrito",
+        "datePublished": "{{page.date}}",
+        "dateModified": "{{page.date}}",
+        "description": "{{page.description}}",
+        "inLanguage": "es",
+        "isAccessibleForFree": "True",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "id": "https://trabajoescrito.com/tips-y-consejos"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "{{site.name}}"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TrabajoEscrito.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://trabajoescrito.com/logotipo.webp",
+            "width": "280px",
+            "height": "57px"
+          }
+        },
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "TrabajoEscrito.com",
+          "url": "https://trabajoescrito.com/"
+        },
+        "noindex": "True"
+      }
+      
+  </script>
+  {% endif %}
+  {% if page.url == "/cursos-de-trabajos-escritos" %}
+    <!-- SCHEMA -->
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "WebPage",
+        "name": "Cursos de redacción normas APA, Icontec y otras más",
+        "description": "Cursos para aprender a hacer Trabajos Escritos mucho más rápido y fácil. Buscamos por ti los cursos mejor calificados para aprender sobre normas APA, normas Icontec, IEEE, Vancouver, redacción, investigación, etc.",
+        "url": "https://trabajoescrito.com/cursos-de-trabajos-escritos",
+        "inLanguage": "es",
+        "isAccessibleForFree": "True",
+        "mainEntity": {
+          "@type": "ItemList",
+          "itemListElement": [
+            {
+              "@type": "Course",
+              "name": "Aprende a usar las normas APA",
+              "description": "Este curso resume de manera completa y entendible cada paso y cumplimiento a la normatividad APA."
+            },
+            {
+              "@type": "Course",
+              "name": "Avanza en tu Tesis 300% más rápido",
+              "description": "En este curso te guiaremos paso a paso para que entiendas el proceso de principio a fin."
+            },
+            {
+              "@type": "Course",
+              "name": "Cómo hacer tu proyecto de Investigación paso a paso",
+              "description": "Este curso es para ti si eres estudiante y requieres que tu proyecto de investigación sea aprobado en tu institución universitaria."
+            }
+          ]
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TrabajoEscrito.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://trabajoescrito.com/logotipo.webp",
+            "width": "280px",
+            "height": "57px"
+          }
+        }
+      }
+  </script>
+  {% endif %}
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
