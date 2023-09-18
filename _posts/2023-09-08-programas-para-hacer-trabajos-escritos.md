@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Programas para Trabajos Escritos • Google Docs • Writter • Word"
+title: "Programas Trabajos Escritos • Google Docs • Writter • Word"
 description: "¿Te preguntas qué programa para trabajos escritos es el mejor para ti? Comparamos las mejores opciones. ¡Descúbrelo aquí!"
 category: Blog
 tags: [Trabajo escrito, Programas]

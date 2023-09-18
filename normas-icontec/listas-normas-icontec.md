@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "★ Descubre claves para usar listas con las Normas ICONTEC"
+title: "Listas con las Normas ICONTEC: Las claves para saber usarlas"
 description: Aprende a crear listas efectivas y bien formateadas según las Normas ICONTEC. Sigue los estándares y mejora la presentación de tus escritos. ¡Comienza hoy!
 h1: "Las listas en tus documentos: mejora la organización y claridad con las normas ICONTEC"
 intro: "Aprende a crear listas efectivas y bien formateadas según las Normas ICONTEC. Sigue los estándares y mejora la presentación de tus escritos. ¡Comienza hoy"

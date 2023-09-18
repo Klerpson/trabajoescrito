@@ -14,7 +14,6 @@
     <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" >
     <meta name="language" content="es" >
     <meta name="country" content="COL" >
-    <meta name="geo.region" content="CO-HUI" >
     <meta name="theme-color" content="#1481BA" >
     <meta name="generator" content="Jekyll 4.2.0" >
     <meta name="author" content="{% if page.autor %}{{ page.autor}}{% else %}{{site.name}}{% endif %}">
@@ -79,12 +78,12 @@
     <meta property="og:site_name" content="{{site.name}}" >
     <meta property="article:publisher" content="https://www.facebook.com/pollitodigital">
     <meta property="article:tag" content="{{page.category}}" >
-    <meta property="article:section" content="San Agustín Huila" >
+    <meta property="article:section" content="{{page.category}}" >
     <meta property="og:updated_time" content="{{page.date}}" >
     <meta property="og:image" content="{{page.webp}}.jpg" >
     <meta property="og:image:secure_url" content="{{page.webp}}.jpg" >
-    <meta property="og:image:width" content="320" >
-    <meta property="og:image:height" content="320" >
+    <meta property="og:image:width" content="320px" >
+    <meta property="og:image:height" content="320px" >
     <meta property="og:image:alt" content="{{page.alt}}" >
     <meta property="og:image:type" content="image/jpeg" >
     <meta property="article:publisher" content="https://www.instagram.com/pollitoweb/" >
@@ -208,31 +207,140 @@
       type="font/woff2"
       crossorigin
     >
+    {% if page.url == "/" %}
     <!-- SCHEMA -->
     <script type="application/ld+json">
       {
-        "@context": "https://schema.org",
-        "@type": "Article",
-        "headline": "{{page.h1}}",
-        "description": "{{page.description}}",
+        "@context": "http://schema.org",
+        "@type": "WebSite",
+        "name": "TrabajoEscrito.com",
+        "url": "https://trabajoescrito.com/",
+        "headline": "Hagamos tu Trabajo Escrito como debe ser",
+        "description": "Tu recurso definitivo para normas APA, ICONTEC y todo lo que necesitas para hacer trabajos escritos de alta calidad.",
+        "inLanguage": "es",
+        "publisher": {
+          "@type": "Organization",
+          "name": "TrabajoEscrito.com",
+          "logo": "https://trabajoescrito.com/logotipo.webp"
+        },
+        "potentialAction": {
+          "@type": "SearchAction",
+          "target": "https://trabajoescrito.com/?s={search_term}",
+          "query-input": "required name=search_term"
+        },
+        "sameAs": [
+          "{{site.pinterest}}"
+        ],
+        "hasOfferCatalog": {
+          "@type": "OfferCatalog",
+          "name": "Cursos y Recomendaciones",
+          "itemListElement": [
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Curso de Normas APA",
+                "description": "Aprende a aplicar las normas APA en tus trabajos escritos."
+              }
+            },
+            {
+              "@type": "Offer",
+              "itemOffered": {
+                "@type": "Service",
+                "name": "Curso de Normas ICONTEC",
+                "description": "Domina las normas ICONTEC para trabajos escritos."
+              }
+            }
+          ]
+        },
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "name": "Página de Inicio",
+          "description": "La página de inicio de TrabajoEscrito.com, tu recurso para trabajos escritos de alta calidad.",
+          "breadcrumb": "Inicio"
+        }
+      }
+  </script>
+  {% endif %}
+  {% if page.vertical == "true" %}
+    <!-- SCHEMA -->
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "{{ page.h1 }}",
+        "datePublished": "{{ page.date }}",
+        "dateModified": "{{ page.date }}",
+        "description": "{{ page.description }}",
+        "inLanguage": "es",
+        "isAccessibleForFree": "True",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "id": "{{site.baseurl}}/{{ page.url }}"
+        },
         "author": {
           "@type": "Person",
-          "name": "{% if page.autor %}{{page.autor}}{% else %}{{site.name}}{% endif %}o"
+          "name": "Nombre del autor"
         },
         "publisher": {
           "@type": "Organization",
           "name": "TrabajoEscrito.com",
           "logo": {
             "@type": "ImageObject",
-            "url": "{{site.baseurl}}/logotipo.webp"
+            "url": "https://trabajoescrito.com/logotipo.webp",
+            "width": "280px",
+            "height": "57px"
           }
         },
-        "datePublished": "{{page.date}}",
-        "image": "{% if page.webp %}{{site.baseurl}}/img/{{page.webp}}.webp{% else %}{{site.baseurl}}/logotipo.webp{% endif %}",
-        "articleSection": "{% if page.vertical %}{{page.title}}{% else %}Tips y consejos sobre Trabajos Escritos{% endif %}"
+        
+        "articleBody": "{{ page.intro }}",
+        "articleSection": "{{ page.category }}",
       }
-      
   </script>
+  {% endif %}
+  {% if page.layout == "post" %}
+    <!-- SCHEMA -->
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "BlogPosting",
+        "headline": "{{ page.h1 }}",
+        "datePublished": "{{ page.date }}",
+        "dateModified": "{{ page.date }}",
+        "description": "{{ page.description }}",
+        "inLanguage": "es",
+        "isAccessibleForFree": "True",
+        "mainEntityOfPage": {
+          "@type": "WebPage",
+          "id": "{{site.baseurl}}/{{ page.url }}"
+        },
+        "author": {
+          "@type": "Person",
+          "name": "{{site.name}}"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "TrabajoEscrito.com",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://trabajoescrito.com/logotipo.webp",
+            "width": "280px",
+            "height": "57px"
+          }
+        },
+        "image": {
+          "@type": "ImageObject",
+          "url": "{{ site.baseurl }}/img/{{ page.webp }}",
+          "height": "300px",
+          "width": "300px",
+          "caption": "{{ page.alt }}"
+        },
+        "articleBody": "{{ page.excerpt }}",
+        "articleSection": "{{ page.category }}",
+        "keywords": "{{ page.tags | join: ', ' }}",
+      }
+  </script>
+  {% endif %}
   <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
   new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
