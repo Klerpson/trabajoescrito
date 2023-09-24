@@ -50,7 +50,7 @@ Establecer los márgenes según las normas Icontec es una tarea sencilla gracias
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include cluster2.html img="margenes-trabajo-escrito.webp" alt="Modelo de Márgenes" h3="Configuración de Márgenes en Word (Ejemplo Normas APA)" punto1="Abre tu documento en Word y clic en el menú 'Diseño de Página' y selecciona la opción 'Márgenes'" punto2="En el menú desplegable, elige la opción 'Márgenes personalizados'" punto3="En la ventana que se abre, puedes establecer las medidas deseadas para cada uno de los márgenes." %}
 
 ## Márgenes de la portada según las normas Icontec
 
