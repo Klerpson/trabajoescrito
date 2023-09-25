@@ -303,6 +303,18 @@
 </url>
 
 <url>
+  <loc>http://localhost:4000/ideas-creativas-para-trabajos-escritos</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
+  <loc>http://localhost:4000/ideas-creativas-logra-trabajos-escritos-%C3%BAnicos-y-originales</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+
+<url>
   <loc>http://localhost:4000/normas-icontec-power-point</loc>
   <changefreq>monthly</changefreq>
   <priority>1.0</priority>
@@ -316,12 +328,6 @@
 
 <url>
   <loc>http://localhost:4000/sustentacion-trabajos-escritos</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/ideas-creativas-logra-trabajos-escritos-%C3%BAnicos-y-originales</loc>
   <changefreq>monthly</changefreq>
   <priority>1.0</priority>
 </url>

@@ -29,12 +29,15 @@ Además, la presentación de un trabajo escrito debe contener:
 * [Conclusiones]({{'conclusiones-trabajo-escrito'|relative_url}})
 * [Anexos]({{'anexos-trabajo-escrito'|relative_url}}) (si es necesario)
 * Bibliografía
+{:class="seccion_a"}
 
 ----
 
 ## Cómo Crear una presentación exitosa
 
 Crear una presentación exitosa requiere planificación y estrategia. Aquí hay algunos pasos clave para ayudarte a crear una presentación que capte la atención de tu audiencia y presente de manera efectiva tu trabajo escrito:
+
+{% include add-post.html %}
 
 ### Determina tu audiencia
 
@@ -54,7 +57,7 @@ Escribe un borrador de tu presentación **para tener una idea de cómo se verá*
 
 Asegúrate de revisar y editar tu presentación antes de entregarla. **Busca errores** gramaticales y de ortografía, y asegúrate de que tu presentación sea coherente y fácil de seguir.
 
------
+----
 
 ## Cómo presentar un Trabajo Escrito de manera efectiva
 
@@ -73,7 +76,7 @@ Además de seguir las normas APA e ICONTEC en cuanto a márgenes, fuentes y dem�
 
 En cuanto a los márgenes inferior y superior, deben tener una medida de 2,54 cm (1 pulgada) en las Normas APA mientras que en las Normas ICONTEC se debe establecer una medida de 3 cm para el margen superior y 3 cm para el margen inferior. El resto de los márgenes debe ser de 2,5 cm (1 pulgada).
 
------
+{% include add-post.html %}
 
 ### ¿Qué normas se deben respetar en la presentación de ensayos, tesis, monografías y artículos?
 
@@ -128,6 +131,8 @@ Es importante tener en cuenta que cada parte del trabajo debe contener cierta in
 -----
 
 ## La importancia de la ortografía y la redacción impersonal en tercera persona del singular
+
+{% include add-post.html %}
 
 La ortografía es clave en cualquier presentación de un trabajo escrito. La redacción impersonal en tercera persona del singular **hace que el proyecto sea más formal, y se le conceda mayor importancia por su imparcialidad**, haciendo que se aleje del sesgo emocional y añadiendo mayor objetividad a la presentación.
 

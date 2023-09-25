@@ -13,6 +13,8 @@ Este artículo te proporcionará una visión general del uso de generadores de n
 
 ## ¿Qué es un generador de normas APA?
 
+{% include add-post.html %}
+
 **Un generador de Normas APA es una herramienta digital diseñada para ayudar a los usuarios a formatear correctamente las citas y referencias según las Normas APA**. Simplemente ingresando detalles como el nombre del autor, [título]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos normas APA"), fecha de publicación, entre otros, la herramienta generará automáticamente [la cita en el formato correcto]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA").
 
 ### Cómo usar un generador de normas APA
@@ -35,6 +37,7 @@ Existen varios generadores de Normas APA disponibles en línea, cada uno con sus
 3. **Citation Machine**: [Citation Machine](https://www.citationmachine.net/){:rel="nofollow noopener noreferrer" target="_blank"} proporciona guías de citación detalladas y también genera citas automáticamente. Es útil para una amplia gama de tipos de fuentes, incluyendo libros, revistas, sitios web, vídeos, entre otros.
 4. **Mendeley**: [Mendeley](https://www.mendeley.com/?interaction_required=true){:rel="nofollow noopener noreferrer" target="_blank"} es un gestor de referencias, Mendeley también ofrece un generador de citas que es altamente preciso y fácil de usar.
 5. **Zotero**: [Zotero](https://www.zotero.org/){:rel="nofollow noopener noreferrer" target="_blank"} es otro gestor de referencias que también ofrece funcionalidades de generación de citas. Puedes sincronizar tus citas entre múltiples dispositivos, lo cual es útil para [trabajos de investigación]({{'investigacion-con-normas-apa-icontec'|relative_url}} "Investigaciones") a largo plazo.
+{:class="seccion_a"}
 
 ### Beneficios de utilizar un generador de normas APA
 
@@ -45,6 +48,8 @@ Aquí están algunos de los beneficios clave de usar un generador de Normas APA:
 - **Conveniencia**: Permite generar citas rápidamente, ideal para grandes trabajos de investigación con numerosas referencias.
 
 ## Consideraciones al Elegir un Generador de Normas APA
+
+{% include add-post.html %}
 
 Al elegir un generador de Normas APA, debes considerar lo siguiente:
 
@@ -57,4 +62,3 @@ Recuerda que aunque estos generadores pueden ser de gran ayuda, *siempre es impo
 >**Ninguna herramienta es infalible**, y siempre es una buena idea [familiarizarte con las Normas APA]({{'normas-apa'|relative_url}} "Normas APA") para poder hacer verificaciones de calidad de las citas generadas automáticamente.
 
 En resumen, un generador de Normas APA es una herramienta invaluable para cualquier estudiante o profesional que necesita escribir documentos en el estilo APA. Te ahorra tiempo, garantiza precisión y hace que el proceso de citación sea mucho más manejable. Aprovéchalo para hacer tus Trabajos Escritos.
-

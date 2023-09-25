@@ -126,6 +126,8 @@ La redacción de trabajos escritos puede ser un desafío, especialmente para los
 
 ## Niños felices con sus Trabajos Escritos
 
+{% include add.html %}
+
 Realizar trabajos escritos en la educación primaria es una habilidad esencial que los estudiantes deben desarrollar.
 
 Lograrlo les ayuda a mejorar las habilidades de escritura y pensamiento crítico, y prepara a los estudiantes para tareas académicas más avanzadas en el futuro.

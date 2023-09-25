@@ -51,7 +51,7 @@ Un trabajo escrito a mano sigue una estructura similar a cualquier otro trabajo 
 
 Tenemos la portada, [la contraportada]({{'contraportada-trabajo-escrito'|relative_url}}), la subportada (opcional), el índice, el contenido principal (introducción, desarrollo y conclusión), las referencias según las normas APA o Icontec, y los anexos si los necesitamos.
 
-{% include add.html %}
+{% include add-post.html %}
 
 ### El índice del trabajo hecho a mano
 
@@ -77,7 +77,7 @@ También existen plantillas disponibles para descargar que les ayudarán a organ
 
 ## Hacer trabajos escritos a mano: una forma de expresión personal que perdura en el tiempo
 
------
+{% include add-post.html %}
 
 ¡Y en esto consiste el arte del trabajo escrito a mano! A pesar de vivir en un mundo digital, podemos demostrar que **un trabajo escrito hecho a mano tiene un encanto inigualable**. Podemos dejar nuestra huella en cada trazo y crear obras que reflejan nuestra personalidad única.
 

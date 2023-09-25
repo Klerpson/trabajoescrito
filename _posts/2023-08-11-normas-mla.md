@@ -19,6 +19,8 @@ Al final de este artículo, tendrás una sólida comprensión de cómo formatear
 
 ## ¿Qué son las normas con estilo MLA?
 
+{% include add-post.html %}
+
 *El estilo MLA, abreviatura de Modern Language Association Style (Asociación de Lenguas Modernas), es un conjunto de directrices ampliamente utilizado en las humanidades, especialmente en los estudios de inglés y literatura*.
 
 Las normas MLA proporcionan un marco coherente para dar formato y documentar los trabajos de investigación, garantizando su claridad, organización y credibilidad.
@@ -50,6 +52,8 @@ Recuerde seguir las directrices particulares que ofrece **el manual de estilo pa
 
 ## Estilo de redacción con normas MLA
 
+{% include add-post.html %}
+
 Los especialistas en trabajos académicos valoran la importancia de **la redacción en estilo MLA**. Esta técnica se distingue por su **talante formal y erudito, buscando la claridad, la precisión y la objetividad en la exposición de ideas y argumentos**.
 
 El estilo de redacción en las normas MLA se caracteriza por los siguientes puntos:
@@ -78,6 +82,8 @@ El estilo de escritura en MLA se esfuerza por lograr un comportamiento profesion
 ----
 
 ## Citas con normas MLA
+
+{% include add.html %}
 
 Las citas dentro del texto son necesarias **para dar crédito a la fuente** original de la información y **evitar el plagio**. La página de obras citadas debe contener una lista completa de todas las fuentes utilizadas en el documento.
 
@@ -111,6 +117,8 @@ Mediante la aplicación coherente de las citas dentro del texto, los escritores 
 
 ## Página de obras citadas según las normas MLA
 
+{% include add.html %}
+
 Como parte crucial del Estilo MLA, **la página de obras citadas es una referencia indispensable** para los lectores.
 
 Esta página es una **lista exhaustiva de todas las fuentes** que se han citado en el trabajo y sirve para comprobar la credibilidad de las fuentes utilizadas.
@@ -141,6 +149,8 @@ Además de formatear citas, las herramientas para generar citas también pueden 
 ----
 
 ## Esfuérzate por aplicar correctamente las normas MLA
+
+{% include add-post.html %}
 
 El estilo de **las normas MLA es una herramienta esencial** para cualquier estudiante o investigador que desee presentar su trabajo de forma **profesional y organizada**.
 

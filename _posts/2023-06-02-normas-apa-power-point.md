@@ -19,6 +19,8 @@ Es hora de llevar tus presentaciones de PowerPoint al siguiente nivel, y estoy a
 
 ## Normas APA y PowerPoint
 
+{% include add-post.html %}
+
 Antes de que comencemos a crear presentaciones excepcionales, necesitamos familiarizarnos con las reglas del juego. [Las Normas APA]({{'normas-apa'|relative_url}}), en este caso, son nuestras mejores aliadas.
 
 ### Comprende las Normas APA para PowerPoint
@@ -44,6 +46,8 @@ El núcleo de nuestra presentación son las diapositivas. Deben estar organizada
 
 ### Normas APA para diapositivas
 
+{% include add-post.html %}
+
 * **Diseño coherente:** Asegúrate de que todas las diapositivas sigan el mismo patrón de diseño.
 * **Fuentes legibles:** Usa fuentes que sean fáciles de leer.
 * **Colores que no distraigan:** Elige colores que sean agradables a la vista y que no distraigan de la información principal.
@@ -58,6 +62,8 @@ Las citas y referencias son vitales en cualquier presentación académica o prof
 **La última diapositiva de nuestra presentación será la bibliografía**. Aquí enumeraremos todas las fuentes que hemos citado en nuestra presentación, siguiendo el formato APA.
 
 ## Pon en práctica las Normas APA en PowerPoint
+
+{% include add-post.html %}
 
 Estás listo para aplicar todo lo que has aprendido. Ya sea que estés preparando una presentación sobre cambio climático o cualquier otro tema, recuerda aplicar las Normas APA en cada paso.
 

@@ -24,6 +24,8 @@ Por estas razones, aprende como tener un buen desempeño en la sustentación. Mi
 
 ## Elementos clave de la sustentación
 
+{% include add-post.html %}
+
 ### 1. El contenido del trabajo
 
 [El contenido de tu trabajo]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo escrito") es, sin duda, el pilar de tu sustentación. Debes asegurarte de que **cada afirmación, cada argumento y cada dato estén respaldados** por investigaciones sólidas y fuentes confiables.
@@ -43,6 +45,8 @@ Estos elementos pueden hacer que tu sustentación sea más interactiva y ayudar 
 {% include add.html %}
 
 ## Preparación para la sustentación
+
+{% include add-post.html %}
 
 ### Investigación previa para sustentar correctamente
 
@@ -122,6 +126,8 @@ Conocer a tu público y adaptar tu presentación a su nivel de conocimiento e in
 ----
 
 ## La sustentación del trabajo escrito y el éxito de su presentación
+
+{% include add.html %}
 
 La sustentación de un trabajo escrito es un proceso complejo que requiere una preparación cuidadosa y una ejecución meticulosa.
 

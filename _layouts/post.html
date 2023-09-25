@@ -2,14 +2,8 @@
 layout: default
 ---
 <main class="post-content">
-  {% include add.html %}
-  {% if page.excerpt %}
-  <div class="seccion_a">
-    {{page.excerpt|markdownify}}
-  </div>
-  {% endif %}
   {{ content }}
-  {% include add.html %}
+  {% include add-post.html %}
   {% if page.referencias %}
   <section id="fuentes">
     <h4>Créditos y referencias</h4>

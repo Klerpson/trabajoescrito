@@ -15,6 +15,8 @@ Analicemos el mundo de la detección del plagio y el fraude y exploremos las dis
 
 ## ¿Qué es el plagio o el fraude de trabajos escritos?
 
+{% include add-post.html %}
+
 El plagio académico o profesional es **el acto de utilizar el trabajo o las ideas de otra persona sin darle el debido crédito**, mientras que **el fraude implica la manipulación o falsificación deliberada de información**.
 
 >Las consecuencias del plagio pueden ser graves, desde la pérdida de la credibilidad hasta sanciones legales.
@@ -35,6 +37,8 @@ Al comprender estas prácticas, las personas pueden esforzarse activamente por e
 
 ## Cómo detectar el plagio en Trabajos Escritos
 
+{% include add-post.html %}
+
 Detectar el plagio puede ser un desafío, especialmente en trabajos largos o complejos. Sin embargo, hay varias estrategias que puedes utilizar.
 
 >Por ejemplo, imagina que eres un profesor y acabas de recibir [un ensayo]({{'ensayos-con-normas-tecnicas'|relative_url}} "Ensayos") de un estudiante. Mientras lees el trabajo, notas que la mayoría del texto está escrito en un estilo simple y directo, pero de repente te encuentras con una sección que está llena de jerga técnica y frases complejas. *Esto podría ser una señal de que el estudiante ha copiado esa sección de otra fuente* sin dar el crédito adecuado.
@@ -54,6 +58,8 @@ Por lo tanto, **examinar a fondo el material escrito, contrastándolo con los re
 3. **Referenciar el documento con otras fuentes** puede ayudar a detectar información no reconocida. Realizando una búsqueda exhaustiva y verificando la autenticidad del contenido, se puede garantizar la autenticidad del trabajo escrito.
 
 ## Programas para detectar el plagio en Trabajos Escritos
+
+{% include add-post.html %}
 
 Hay varios programas de detección de plagio disponibles, cada uno con sus propias ventajas y desventajas.
 
@@ -88,6 +94,8 @@ El uso de estas herramientas no sólo mejora la precisión a la hora de encontra
 -----
 
 ## Consejos para reducir el plagio o el fraude
+
+{% include add.html %}
 
 Para garantizar el mantenimiento de la ética en los trabajos escritos, es esencial **aplicar técnicas que disminuyan la probabilidad de plagio y fraude**.
 
@@ -128,6 +136,8 @@ Al fomentar el sentido de comunidad y hacer hincapié en el valor de las contrib
 Según las normas APA, cualquier idea o frase tomada de otra fuente [debe ser debidamente citada]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas Normas APA"). Esto incluye tanto las citas directas como las parafraseadas.
 
 ## Beneficios de hacer el trabajo de detectar el plagio o el fraude
+
+{% include add.html %}
 
 Es esencial darse cuenta de las múltiples ventajas de detectar el plagio o el fraude en los trabajos escritos, tanto para los alumnos como para los educadores. Algunas ventajas son:
 

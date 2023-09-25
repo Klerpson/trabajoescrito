@@ -15,12 +15,15 @@ En este artículo, te guiaremos a través del proceso de creación de un contrat
 
 ## Elementos fundamentales de un contrato de Trabajo Escrito
 
+{% include add-post.html %}
+
 Un contrato de [trabajo escrito](/) debe contener **ciertos elementos esenciales para tener validez legal**. Estos elementos son:
 
 1. **Presentación de las partes**: Aquí se incluyen los datos personales de las partes involucradas, como nombre, número de identificación, nacionalidad, domicilio y edad.
 2. **Declaraciones**: En esta sección, las partes declaran estar diciendo la verdad, así como estar celebrando el contrato libres de cualquier vicio y tener capacidad legal para celebrar dicho acuerdo.
 3. **Cláusulas**: Estas corresponden al cuerpo del contrato. En ellas se estipulará el salario, horario, días a laborar o tiempos de entrega, prestaciones, actividades, entre otros aspectos de las condiciones laborales.
 4. **Firmas y anexos**: Al final del contrato deben aparecer los nombres y las firmas de ambas partes. Además, se pueden anexar algunos documentos, como copia de documento de identidad, documentos con derechos legales de autoría registrados, entre otros.
+{:class="seccion_a"}
 
 ## ¿Cómo determinar cuánto cobrar por un Trabajo Escrito?
 
@@ -33,6 +36,8 @@ Determinar **cuánto cobrar por un trabajo escrito** puede ser un desafío. Sin 
 También es importante tener en cuenta las **[normas APA]({{'normas-apa'|relative_url}} "Normas APA")** si el trabajo escrito requiere de este formato.
 
 ## Modelo de Contrato de Trabajo Escrito
+
+{% include add-post.html %}
 
 Aquí te proporcionamos un **modelo de contrato de trabajo escrito** que puedes usar como punto de partida para crear tu propio contrato. Recuerda que este es solo un ejemplo y que debes adaptarlo a tus necesidades específicas.
 
@@ -71,6 +76,8 @@ La duración del contrato de trabajo va a depender de tu habilidad para redactar
 También, dependiendo de la naturaleza de la relación laboral. Por ejemplo, el tiempo mínimo para un contrato laboral por tiempo indeterminado es de 180 días.
 
 ## Asegura tus servicios al contratar un Trabajo Escrito
+
+{% include add-post.html %}
 
 Crear un **contrato de trabajo escrito** puede parecer una tarea desalentadora, pero con la información y las herramientas correctas, puedes hacerlo con confianza.
 

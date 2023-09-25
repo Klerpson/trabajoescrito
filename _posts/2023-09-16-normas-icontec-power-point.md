@@ -17,6 +17,8 @@ Si aplicas nuestras sugerencias, tus diapositivas serán visualmente atractivas,
 
 ## Las normas ICONTEC en Power Point
 
+{% include add-post.html %}
+
 [Las normas ICONTEC son un conjunto de **reglas y directrices**]({{'normas-icontec'|relative_url}} "Normas Icontec") establecidas por el Instituto Colombiano de Normas Técnicas y Certificación. Estas normas se aplican en diversos campos, incluidas las presentaciones de PowerPoint, para garantizar un alto nivel de calidad y uniformidad.
 
 ### Importancia de utilizar las normas ICONTEC en PowerPoint
@@ -29,6 +31,8 @@ Aplicar estas normas en tus presentaciones te brinda varios beneficios:
 {:class="seccion_a"}
 
 ## Elementos clave para aplicar las normas ICONTEC en PowerPoint
+
+{% include add-post.html %}
 
 ### La tipografía de las diapositivas
 
@@ -45,6 +49,8 @@ Las imágenes deben ser de alta calidad y pertinentes al contenido. Asegúrate d
 ----
 
 ## Errores comunes al aplicar las normas Icontec en Power Point y cómo evitarlos
+
+{% include add.html %}
 
 ### Uso excesivo de animaciones
 

@@ -15,6 +15,8 @@ Por otro lado, las **[Normas ICONTEC]({{'normas-icontec'|relative_url}})** son p
 
 ## Aspectos generales de las Normas APA
 
+{% include add-post.html %}
+
 Las Normas APA tienen como objetivo principal el facilitar la comprensión y la transmisión de información en los trabajos académicos. Algunas características a destacar son:
 
 1. Uso de márgenes uniformes de 1 pulgada en todos los lados de la página.
@@ -51,6 +53,8 @@ En las Normas APA, las citas se hacen en el texto con el apellido del autor y el
 Las Normas APA requieren que las páginas estén numeradas en la esquina superior derecha, mientras que las Normas ICONTEC piden que la numeración esté en la parte inferior centrada.
 
 ## Cuadro comparativo de las Normas APA y las Normas ICONTEC
+
+{% include add-post.html %}
 
 | Aspecto       | Normas APA                 | Normas ICONTEC                   |
 | ---------------------------- | --------------------------- | -------------------- |

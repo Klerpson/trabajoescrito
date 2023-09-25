@@ -11,11 +11,17 @@
   </div>
   {% endif %}
   {% else %}
-  <h1>{{page.h1}}</h1>
-  
   {% if page.webp %}
   <img src="{{site.baseurl}}/img/{{page.webp}}.webp" alt="{{page.alt}}" title="{{page.title}}">
   {% endif %}
+  <h1>{{page.h1}}</h1>
+  
   </div>
+  {% if page.excerpt %}
+  <div class="seccion_a">
+    {{page.excerpt|markdownify}}
+  </div>
+  {% endif %}
+  {% include add.html %}
   {% endif %}
 </header>

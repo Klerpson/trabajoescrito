@@ -16,6 +16,8 @@ Aquí, desglosaremos las mejores opciones que cambiarán tu forma de escribir y 
 
 ## Los mejores programas para hacer tus trabajos
 
+{% include add-post.html %}
+
 Entre las herramientas que te permiten crear contenido para tu trabajo y de alta calidad, hay tres programas que deberías considerar:
 
 * [Writer de LibreOffice](#writer-de-libreoffice-la-elección-de-código-abierto)
@@ -64,6 +66,8 @@ Su robustez y amplia gama de herramientas lo convierten en una opción ideal par
 
 ## Comparativa: Writer de LibreOffice vs Google Docs vs Microsoft Word
 
+{% include add-post.html %}
+
 Para tomar una decisión informada, es crucial comparar estos programas en varios aspectos. A continuación, presentamos una tabla comparativa que te ayudará a entender mejor cada programa.
 
 | Característica | Writer de LibreOffice | Google Docs | Microsoft Word |
@@ -74,6 +78,8 @@ Para tomar una decisión informada, es crucial comparar estos programas en vario
 | Exportación a PDF | Sí | Sí | Sí |
 
 ## Tu próximo paso: Elegir el programa ideal
+
+{% include add.html %}
 
 Después de conocer estas opciones principales, queda claro que cada programa tiene algo único que ofrecer.
 
