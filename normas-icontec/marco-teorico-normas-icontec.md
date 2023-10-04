@@ -25,7 +25,7 @@ Estas normas proporcionan una guía para [la presentación de trabajos académic
 
 ### Estructura general del Marco Teórico según las normas ICONTEC
 
-La estructura general del marco teórico según las Normas ICONTEC incluye una [introducción]({{'normas-icontec/introduccion-normas-icontec'|relative_url}} "Introducción Normas Icontec"), [el desarrollo de los temas y subtemas]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo Trabajo Normas Icontec"), y [una conclusión]({{'normas-icontec/conclusion-normas-icontec'|relative_url}} "Conclusión Normas Icontec"). Cada sección debe estar claramente definida y seguir un orden lógico.
+La estructura general del marco teórico según las Normas ICONTEC incluye una [introducción]({{'normas-icontec/introduccion-normas-icontec'|relative_url}} "Introducción Normas Icontec"), [el desarrollo de los temas y subtemas]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo Trabajo Normas Icontec"), y [una conclusión]({{'normas-icontec/conclusiones-normas-icontec'|relative_url}} "Conclusión Normas Icontec"). Cada sección debe estar claramente definida y seguir un orden lógico.
 {:id="normas"}
 
 ### Cómo organizar el Marco Teórico con las Normas ICONTEC
