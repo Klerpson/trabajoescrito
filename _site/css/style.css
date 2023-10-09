@@ -1144,7 +1144,7 @@ footer section p{
 
 #share-buttons>div>svg {
   height: 16px;
-  fill: #bebebe;
+  fill: var(--accion);
   margin-top: 10px;
 }
 
