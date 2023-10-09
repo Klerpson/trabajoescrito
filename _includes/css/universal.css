@@ -35,9 +35,10 @@
 }
 
 html {
-  scroll-behavior: smooth;
   line-height: 1.5;
+  scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
+  scroll-padding-top: 8em;
 }
 
 body {
