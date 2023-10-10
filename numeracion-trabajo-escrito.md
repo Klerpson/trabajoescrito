@@ -5,9 +5,9 @@ description: ¿Confundido con la numeración de tus trabajos escritos? 🤔 Dale
 h1: "Cómo enumerar un trabajo escrito: aprende a paginar"
 intro: La enumeración de páginas es un aspecto crítico en la presentación de trabajos escritos. Puede parecer simple, pero es vital para la legibilidad y organización de tu documento.
 boton_info: estructura
-boton_info_title: Normas
+boton_info_title: Desde dónde enumerar
 boton_mas: descargas
-boton_mas_title: Plantillas
+boton_mas_title: Dónde NO enumerar
 vertical: "true"
 ---
 La presentación adecuada de cualquier trabajo escrito es fundamental, y **la enumeración de las páginas es una parte integral de esa presentación**.
@@ -66,6 +66,8 @@ Aquí tienes una tabla simple que resalta las diferencias entre la numeración d
 La paginación de un trabajo escrito va más allá de simplemente agregar números a las páginas de tu documento. Involucra también **cómo dividir un documento en páginas y cómo cada página está estructurada**.
 
 Para que tu trabajo sea coherente y fácil de seguir, es importante que utilices estilos y formatos consistentes en todo el documento. Esto incluye tener [márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes") uniformes, un [tamaño de fuente]({{'textos-y-fuentes-trabajo-escrito'|relative_url}} "Letras y fuentes") consistente y un espaciado de línea consistente.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="descargas"}
 
 ----
 
@@ -99,8 +101,6 @@ Hoy en días, gracias a la tecnología, dispones de muchas **herramientas que pu
 Con estas herramientas, no necesitas ser un experto en tecnología para que tus trabajos escritos luzcan profesionales. Solo sigue los pasos y ¡voilà!
 
 Espero que estos elementos didácticos hagan que el contenido sea aún más fácil de digerir. ¿Te funciona así? 😎📊
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
 
 {% include add.html %}
 
