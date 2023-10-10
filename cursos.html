@@ -1,7 +1,7 @@
 ---
 layout: compress
-title: Cursos de redacción normas APA, Icontec y otras más
-h1: Cursos de redacción normas APA, Icontec y otras más
+title: Cursos de normas APA, Icontec y Trabajos Escritos Exitosos
+h1: Cursos para aplicar correctamente las normas de Trabajos Escritos
 description: ¿Necesitas capacitarte sobre normas APA 📑? ¿O sobre normas Icontec 📃? Te ofrecemos los cursos mejor calificados para aprender a hacer tu Trabajo Escrito
 webp: book-creditcard.svg
 alt: Logo de comprar de libros o cursos
@@ -13,19 +13,22 @@ permalink: /cursos-de-trabajos-escritos
   <header>
     <div class="title">
       <h1>{{page.h1}}</h1>
-      <img src="{{site.baseurl}}/img/{{page.webp}}" alt="{{page.alt}}" title="{{page.title}}">
+      <div>
+        <a href="#cursos" class="boton">↪ Conoce los cursos</a>
+        <a href="#libros" class="boton">↪ Mira los libros</a>
+      </div>
     </div>
   </header>
   <section class="seccion_a">
-    <h2>Cursos para aprender a hacer Trabajos Escritos mucho más rápido y fácil</h2>
+    <h2>Cómo Utilizar los Cursos de normas para Trabajos Escritos</h2>
     <p>Buscamos por ti los <strong>cursos mejor calificados para aprender sobre normas APA, normas Icontec, IEEE, Vancouver, redacción, investigación, etc.</strong> Solo sigue estos pasos:</p>
     <ol>
-      <li>Haz clic en el curso que necesitas.</li>
-      <li>Mira las calificaciones y su contenido.</li>
-      <li>Compra y gana tiempo y reduce las dificultades de presentar tu mejor versión de un Trabajo Escrito</li>
+      <li>Haz clic en el curso que más te gusta</li>
+      <li>Lee las calificaciones y su contenido</li>
+      <li>Compra y reduce las dificultades de presentar tu mejor versión de un Trabajo Escrito</li>
     </ol>
   </section>
-  <main class="cursos">
+  <main class="cursos" id="cursos">
       {% for curso in site.data.afiliados %}
       <article>
         <img src="{{site.baseurl}}/img/{{curso.img}}" alt="Imagen del curso titulado {{curso.title}}" loading="lazy">
@@ -38,13 +41,13 @@ permalink: /cursos-de-trabajos-escritos
       </article>
       {% endfor %}
   </main>
-  <section class="seccion_a">
-    <h2>Libros sobre normas académicas y redacción: más accesibles a todo bolsillo</h2>
+  <section class="seccion_a" id="libros">
+    <h2>Libros sobre normas académicas y redacción: los más accesibles para todo bolsillo</h2>
     <p>Buscamos por ti los <strong>libros sobre normas APA, Icontec, Chicago, Vancouver, etc.</strong>  Cuestan mucho menos que un curso y puedes tenerlos siempre contigo:</p>
     <ol>
-      <li>Haz clic en el libro que necesitas.</li>
-      <li>Mira las calificaciones y su contenido.</li>
-      <li>Compra, descarga y conviértete en un experto para presenter tu Trabajo Escrito</li>
+      <li>Haz clic en el libro que necesitas</li>
+      <li>Lee las calificaciones y su contenido</li>
+      <li>Compra, descarga y conviértete en un experto</li>
     </ol>
   </section>
   <div class="cursos">
