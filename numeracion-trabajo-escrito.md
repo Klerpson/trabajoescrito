@@ -22,7 +22,7 @@ Te enseñaremos **cómo enumerar y paginar tus trabajos escritos según las norm
 
 {% include add.html %}
 
-### ¿Desde qué página se empieza a enumerar siguiendo las normas APA?
+### La página empiezas a enumerar según las normas APA
 
 En las [normas APA]({{'normas-apa'|relative_url}}), la numeración de las páginas en los trabajos escritos **comienza [desde la portada]({{'portada-trabajo-escrito'|relative_url}} "Portadas")**. Sin embargo, los números de página no se muestran en la portada ni en la página del [índice o tabla de contenidos]({{'tabla-de-contenido-trabajo-escrito'|relative_url}} "Tabla de contenido").
 

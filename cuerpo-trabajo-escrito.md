@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "El cuerpo de un Trabajo Escrito: el desarrollo bien hecho"
-description: "Eleva tus habilidades de redacción al siguiente nivel con estrategias probadas para crear un cuerpo de trabajo escrito impecable. Haz clic y descubre cómo."
-h1: "El cuerpo de un Trabajo Escrito: la clave para un desarrollo temático efectivo"
-intro: "El cuerpo de un trabajo escrito es una parte crucial en la estructura de cualquier documento académico o profesional."
+title: "El Cuerpo de un Trabajo Escrito: Un Desarrollo Bien Hecho"
+description: "Desarrolla el cuerpo de tu trabajo escrito correctamente. Te damos la estructura y un par de ejemplos. Haz clic y aprende más"
+h1: "El cuerpo de un Trabajo Escrito: la clave para un desarrollo efectivo"
+intro: "El cuerpo del trabajo es la parte que compone la estructura definitiva de cualquier trabajo académico o profesional."
 boton_info: "estructura"
-boton_info_title: "Cómo desarrollar"
+boton_info_title: "Aprende a hacerlo"
 boton_mas: "descargas"
-boton_mas_title: "Ver ejemplo práctico"
+boton_mas_title: "Mira un ejemplo"
 vertical: true
 ---
 El cuerpo del trabajo académico constituye la sección en la que se desarrolla el tema principal.
