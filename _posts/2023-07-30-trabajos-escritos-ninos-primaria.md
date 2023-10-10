@@ -1,13 +1,13 @@
 ---
 layout: post
-title: "Aprende a realizar Trabajos Escritos para niños de primaria"
-description: "¿Necesitas ayuda para presentar un trabajo escrito de Grado 5 o menos? Aprende con nuestra página web. ¡Haz clic para conocer más!"
+title: "¿Cómo realizar Trabajos Escritos para niños de primaria?"
+description: "¿Necesitas ayuda para presentar un trabajo escrito para Grado 5 o menos? Aprende con los niños de primaria 👩‍🏫"
 category: Blog
 tags: [Trabajo escrito, Niños]
 h1: "Cómo hacer un trabajo escrito con niños de primaria"
 webp: blog/trabajo-escrito-niños
-alt: Dibujo sobre la seguridad en trabajos escritos
-excerpt: "Un trabajo académico permite a los estudiantes **desarrollar habilidades de investigación, escritura y pensamiento crítico**."
+alt: trabajos escritos con niños
+excerpt: "Un trabajo académico permite a los estudiantes de primaria **desarrollar habilidades de investigación, escritura y pensamiento crítico**."
 ---
 ## La importancia de los Trabajos Escritos en la educación primaria
 
@@ -17,7 +17,7 @@ Un trabajo académico permite a los estudiantes **desarrollar habilidades de inv
 
 En este artículo, te proporcionaremos una guía completa sobre cómo realizar trabajos escritos en la educación primaria.
 
-## Beneficios de los Trabajos Escritos para los niños
+## Beneficios de los Trabajos Escritos para los niños de la escuela
 
 {% include add.html %}
 
@@ -47,7 +47,7 @@ Las normas para trabajos escritos son directrices que ayudan a los niños a pres
 
 Aunque pueden parecer complejas para los niños de primaria, es importante introducir estas normas de manera sencilla y accesible. Las normas APA cubren aspectos como el formato del papel, [el estilo de escritura]({{'normas-apa/textos-normas-apa'|relative_url}} "Textos en Normas APA"), [las citas]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas con Normas APA") y [las referencias]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Normas APA").
 
-### Normas ICONTEC de trabajos escritos con niños
+### Normas ICONTEC para trabajos escritos con niños
 
 [Las normas ICONTEC (Instituto Colombiano de Normas Técnicas y Certificación)]({{'normas-icontec'|relative_url}} "Normas Icontec") son otro conjunto de directrices utilizadas para la presentación de trabajos escritos.
 
@@ -56,6 +56,8 @@ Estas normas son ampliamente utilizadas en países hispanohablantes y cubren asp
 ----
 
 ## Haciendo un Trabajo Escrito para niños de primaria: paso a paso
+
+{% include add.html %}
 
 Hacer un trabajo escrito puede parecer una tarea desalentadora para los niños de primaria, pero c**on la orientación y el apoyo adecuados**, puede ser una experiencia de aprendizaje enriquecedora.
 
@@ -113,8 +115,6 @@ Un niño también puede hacer un trabajo escrito típico consta de varias partes
 6. **[Bibliografía]({{'bibliografia-trabajo-escrito'|relative_url}} "Bibliografías")**: En este punto, mostrarás TODO el material de consulta que utilizaste, para realizar tu trabajo.
 7. **Anexos**: En [los anexos]({{'anexos-trabajo-escrito'|relative_url}} "Anexos"), puedes incluir dibujos, mapas, fotografías, recortes de prensa, en fin. Aquí colocas lo que crees que es importante como complemento, pero que no “cabe” en el desarrollo del trabajo.
 {:class="seccion_a"}
-
-----
 
 ## Consejos para la redacción de Trabajos Escritos
 
