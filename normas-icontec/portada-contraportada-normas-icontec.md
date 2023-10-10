@@ -1,17 +1,17 @@
 ---
 layout: default
-title: "Portada y contraportada ICONTEC: la presentación impactante"
-description: "Existen pautas específicas para la presentación de la portada y contraportada con Normas ICONTEC. Esto incluye información detallada y especificaciones técnicas"
+title: "Portada y contraportada en ICONTEC: la mejor presentación"
+description: "Existen pautas específicas para la presentación de la portada y contraportada con Normas ICONTEC. Mira la información detallada y las especificaciones"
 intro: "Las Normas ICONTEC son fundamentales para la elaboración de trabajos académicos en Colombia. Presenta bien tu portada y la contraportada  y mira ejemplos de cómo debe ser el formato."
 h1: "Portada y contraportada con normas ICONTEC: la presentación de tu trabajo"
 boton_info: "normas"
-boton_info_title: "Cómo hacer portadas"
+boton_info_title: "Cómo hacer la portada"
 boton_mas: "descargas"
-boton_mas_title: "Cómo hacer contraportadas"
+boton_mas_title: "Cómo hacer la contraportada"
 vertical: true
 permalink: /normas-icontec/portada-contraportada-normas-icontec
 ---
-## Normas ICONTEC para la portada
+## Normas ICONTEC para las portadas
 
 La portada de un trabajo académico **es la primera página del mismo y la que presenta la información detallada sobre el contenido del trabajo**.
 
@@ -40,7 +40,7 @@ Según las Normas ICONTEC, la portada debe contener la siguiente información:
 
 [El título]({{'titulos-trabajo-escrito'|relative_url}} "Títulos") debe ser breve y conciso, y debe reflejar el contenido del trabajo.
 
-### Formato de escritura de la portada ICONTEC
+### Formato de escritura de la portada en ICONTEC
 
 {% include add.html %}
 
