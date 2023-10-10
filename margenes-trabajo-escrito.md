@@ -1,11 +1,11 @@
 ---
 layout: default
-title: "Márgenes para un Trabajo Escrito • Medidas • Recomendaciones"
-description: "¿Sabes cómo hacer un margen para un trabajo escrito? Te enseñamos cómo son y las medidas ¡Haz clic y aprende más!👆"
-h1: "¿Cómo configurar las márgenes para un trabajo escrito?"
-intro: "Las márgenes de un trabajo escrito son aspectos cruciales que no debemos pasar por alto. "
+title: "Márgenes de un Trabajo Escrito: • Medidas y Recomendaciones"
+description: "¿Sabes cómo hacer las márgenes de un trabajo escrito? Te enseñamos las medidas y cómo ponerlas ¡Haz clic y aprende más!👆"
+h1: "Configura las márgenes de un trabajo escrito con las medidas correctas"
+intro: "Las márgenes de un trabajo escrito es un aspecto crucial que no puedes pasar por alto."
 boton_info: "normas"
-boton_info_title: "Cómo hacerlas"
+boton_info_title: "Mira las medidas"
 boton_mas: "descargas"
 boton_mas_title: "Aplicarlas en Word y Docs"
 vertical: true
