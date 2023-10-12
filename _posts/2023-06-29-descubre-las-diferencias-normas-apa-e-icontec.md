@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "✦ Descubre las diferencias: Normas APA e ICONTEC"
-description: ★ Conozca las diferencias clave entre las Normas APA e ICONTEC con nuestra guía completa. ¡Encuentra la respuesta a tus dudas aquí!
+title: "Descubre las diferencias: Normas APA e ICONTEC"
+description: Conozca las diferencias clave entre las Normas APA e ICONTEC con nuestra guía completa. ¡Encuentra la respuesta a tus dudas aquí!
 category: Blog
 tags: [APA, Icontec]
 h1: "Diferencia entre Normas APA e ICONTEC: Todo lo que necesitas saber"

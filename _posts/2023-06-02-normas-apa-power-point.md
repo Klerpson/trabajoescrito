@@ -1,10 +1,8 @@
 ---
-excerpt: ¿Alguna vez te has preguntado cómo implementar las normas APA en
-  PowerPoint? Estas normas, reconocidas y respetadas en el mundo académico,
-  también aplican a tus presentaciones digitales.
+excerpt: ¿Alguna vez te has preguntado cómo implementar las normas APA en PowerPoint? Estas normas, reconocidas y respetadas en el mundo académico, también aplican a tus presentaciones digitales.
 autor: Julian Franco
 layout: post
-title: Las Normas APA en PowerPoint | Guía y Consejos
+title: Aplica Las Normas APA en PowerPoint | Guía y Consejos
 description: Aprende a implementar las Normas APA en tus presentaciones de PowerPoint. Descubre cómo crear portadas, citas y bibliografías. ¡Haz clic para saber más!
 category: Blog
 tags:

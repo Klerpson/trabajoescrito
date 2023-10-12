@@ -161,39 +161,41 @@ boton_mas_title: "Busca la norma que necesitas"
     <p class="entrada3">Aprende muchos tips, consejos, recomendaciones y trucos con el blog de <strong>TrabajoEscrito.com</strong></p>
     <h3 class="entrada4">Aplica Nuestros Tips para Presentarlos</h3>
     <div class="entradas-blog">
-      {% assign post1 = site.posts[0] %}
       <article>
-        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post1.webp }}.webp" alt="{{ post1.alt }}" loading="lazy">
-        <a href="{{site.baseurl}}{{ post1.url }}" title="{{post1.title}}">
-          <h4>{{ post1.h1 }}</h4>
+        <img loading="lazy" src="{{ site.baseurl }}/img/blog/trabajo-escrito-niños.webp" alt="trabajos escritos con niños" loading="lazy">
+        <a href="{% post_url 2023-07-30-trabajos-escritos-ninos-primaria %}" title="¿Cómo realizar Trabajos Escritos para niños de primaria?">
+          <h4>Cómo hacer un trabajo escrito para niños de primaria</h4>
         </a>
-        {{ post1.excerpt | truncate: 80 | markdownify}}
+        <p>Un trabajo académico permite a los estudiantes de primaria desarrollar habilidades de investigación, escritura y pensamiento crítico</p>
       </article>
-      {% assign post2 = site.posts[1] %}
       <article>
-        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post2.webp }}.webp" alt="{{ post2.alt }}" loading="lazy">
-        <a href="{{site.baseurl}}{{ post2.url }}" title="{{post2.title}}">
-          <h4>{{ post2.h1 }}</h4>
+        <img loading="lazy" src="{{ site.baseurl }}/img/blog/trabajo-escrito-decorado.webp" alt="Evaluacion trabajos escritos" loading="lazy">
+        <a href="{% post_url 2023-09-25-evaluacion-trabajos-escritos-rubricas-normas-apa %}" title="Paso a Paso: Cómo Evaluar Trabajos Escritos como un Pro">
+          <h4>Evaluación de Trabajos Escritos: Rubricas, Normas APA y Más</h4>
         </a>
-        {{ post2.excerpt | truncate: 80 | markdownify}}
+        <p>Conoce los criterios e indicadores clave para una evaluación efectiva de trabajos escritos. ¿Buscas herramientas online para crear rúbricas? Encuentra las mejores opciones aquí.</p>
       </article>
-      {% assign post3 = site.posts[2] %}
       <article>
-        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post3.webp }}.webp" alt="{{ post3.alt }}" loading="lazy">
-        <a href="{{site.baseurl}}{{ post3.url }}" title="{{post3.title}}">
-          <h4>{{ post3.h1 }}</h4>
+        <img loading="lazy" src="{{ site.baseurl }}/img/blog/apa-vs-icontec.webp" alt="Diferencias APA vs Icontec" loading="lazy">
+        <a href="{% post_url 2023-06-29-descubre-las-diferencias-normas-apa-e-icontec %}" title="Descubre las diferencias: Normas APA e ICONTEC">
+          <h4>Diferencia entre Normas APA e ICONTEC: Todo lo que necesitas saber</h4>
         </a>
-        {{ post3.excerpt | truncate: 80 | markdownify}}
+        <p>Dos de las normas más utilizadas a nivel internacional y en Colombia son las normas APA e ICONTEC. ¿Pero cuál es la diferencia entre estas dos? ¿Cómo saber cuándo utilizar una y no la otra?</p>
       </article>
-      {% assign post4 = site.posts[3] %}
       <article>
-        <img loading="lazy" src="{{ site.baseurl }}/img/{{ post4.webp }}.webp" alt="{{ post4.alt }}" loading="lazy">
-        <a href="{{site.baseurl}}{{ post4.url }}" title="{{post4.title}}">
-          <h4>{{ post4.h1 }}</h4>
+        <img loading="lazy" src="{{ site.baseurl }}/img/blog/trabajo-escrito-a-mano.webp" alt="Trabajo a mano" loading="lazy">
+        <a href="{% post_url 2023-06-05-trabajo-escrito-a-mano %}" title="La magia de un Trabajo Escrito a mano con Normas APA e Icontec">
+          <h4>Aprende a hacer un trabajo escrito a mano aplicando las normas APA e Icontec</h4>
         </a>
-        {{ post4.excerpt | truncate: 80 | markdownify}}
+        <p>Sorprende a todos con tus habilidades de escritura en el 2023. En este artículo, aprenderás los pasos clave para hacer un trabajo escrito a mano increíble y cumplir con las normas APA e Icontec.</p>
       </article>
-      {% assign post5 = site.posts[4] %}
+      <article>
+        <img loading="lazy" src="{{ site.baseurl }}/img/blog/normas-apa-power-point.webp" alt="Normas APA power point" loading="lazy">
+        <a href="{% post_url 2023-06-02-normas-apa-power-point %}" title="Aplica Las Normas APA en PowerPoint">
+          <h4>Las Normas APA en PowerPoint: mejora tus presentaciones</h4>
+        </a>
+        <p>¿Alguna vez te has preguntado cómo implementar las normas APA en PowerPoint? Estas normas, reconocidas y respetadas en el mundo académico, también aplican a tus presentaciones digitales.</p>
+      </article>
       
     </div>
     <a href="{{'tips-y-consejos'|relative_url}}" class="boton">Aprende más en el blog</a>
