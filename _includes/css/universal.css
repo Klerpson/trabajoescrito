@@ -35,7 +35,7 @@
 }
 
 html {
-  line-height: 1.5;
+  line-height: 1.6;
   scroll-behavior: smooth;
   -webkit-text-size-adjust: 100%;
   scroll-padding-top: 8em;
@@ -43,9 +43,9 @@ html {
 
 body {
   font-family: var(--fuenteTexto);
-  font-size: var(--sizeTexto);
   background-color: var(--blanco);
   padding: 0 16px;
+  font-size: calc(15px + 0.390625vw);
 }
 
 h1,
@@ -205,7 +205,8 @@ blockquote {
   margin: 3em 0;
   background-color: var(--secundario);
   box-shadow: 0 0 0 100vmax var(--secundario);
-  clip-path: inset(0 -100vmax);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
 }
 
 blockquote > *{
@@ -314,7 +315,8 @@ hr:after {
   display: grid;
   background-color: var(--grisFuentes);
   box-shadow: 0 0 0 100vmax var(--grisFuentes);
-  clip-path: inset(0 -100vmax);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
   text-align: center;
   place-items: center;
   max-width: 992px;
@@ -372,10 +374,10 @@ header,
 }
 
 .seccion_a {
-  background-color: var(--grisFuentes);
-  box-shadow: 0 0 0 100vmax var(--grisFuentes);
-  clip-path: inset(0 -100vmax);
-  color: var(--blanco);
+  background-color: var(--secundario);
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
   padding: 4em 0;
   margin: 3em 0;
   margin-inline: auto;
@@ -412,7 +414,8 @@ header,
   gap: 1em;
   background-color: var(--grisFuentes);
   box-shadow: 0 0 0 100vmax var(--grisFuentes);
-  clip-path: inset(0 -100vmax);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
   color: var(--blanco);
   padding: 3em 0;
   margin: 3em 0;

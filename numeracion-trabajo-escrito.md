@@ -1,8 +1,8 @@
 ---
 layout: default
 title: "Enumeración en Trabajos Escritos: ¿Dónde y Cómo se Hace?"
-description: ¿Confundido con la numeración de tus trabajos escritos? 🤔 Dale un aspecto profesional a tus trabajos con cada página! 📚 Comienza a numerar como un experto!
-h1: "Cómo enumerar un trabajo escrito: aprende a paginar"
+description: Domina el arte de la numeración de páginas en trabajos académicos con nuestra guía completa sobre las reglas de APA e Icontec
+h1: "Cómo Numerar Páginas en Trabajos Académicos: Guía Completa de APA e Icontec"
 intro: La enumeración de páginas es un aspecto crítico en la presentación de trabajos escritos. Puede parecer simple, pero es vital para la legibilidad y organización de tu documento.
 boton_info: estructura
 boton_info_title: Desde dónde enumerar
@@ -10,45 +10,41 @@ boton_mas: descargas
 boton_mas_title: Dónde NO enumerar
 vertical: "true"
 ---
-La presentación adecuada de cualquier trabajo escrito es fundamental, y **la enumeración de las páginas es una parte integral de esa presentación**.
+¿Te has preguntado alguna vez cómo numerar páginas en trabajos académicos de forma profesional? No estás solo. La numeración de páginas es un detalle que, aunque pequeño, tiene un gran impacto en la legibilidad y organización de tu documento.
 
-No importa si estás utilizando las normas APA o las normas Icontec, la numeración correcta puede facilitar en gran medida la navegación y la organización de tu documento.
-
-Te enseñaremos **cómo enumerar y paginar tus trabajos escritos según las normas APA e Icontec**, explicando claramente los detalles desde dónde inicia la numeración hasta cómo paginar y enumerar correctamente.
+Ya sea que estés utilizando las normas APA o Icontec, este artículo te enseñará cómo hacerlo como un experto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
-## Desde dónde se enumera un trabajo escrito
+## Dónde Empezar a Numerar en Normas APA e Icontec
 
 {% include add.html %}
 
-### La página empiezas a enumerar según las normas APA
+La numeración de páginas no es solo un detalle estético; es crucial para la navegación y organización de tu trabajo académico. Aquí te mostramos cómo hacerlo según las normas más populares:
 
-En las [normas APA]({{'normas-apa'|relative_url}}), la numeración de las páginas en los trabajos escritos **comienza [desde la portada]({{'portada-trabajo-escrito'|relative_url}} "Portadas")**. Sin embargo, los números de página no se muestran en la portada ni en la página del [índice o tabla de contenidos]({{'tabla-de-contenido-trabajo-escrito'|relative_url}} "Tabla de contenido").
+- **Normas APA**: La numeración comienza desde la portada, pero los números no son visibles hasta la primera página del cuerpo principal del texto. Ubica los números en la esquina superior derecha.
+- **Normas Icontec**: La numeración empieza en la tabla de contenidos y se sitúa en el centro de la parte inferior de la página.
+{:class="seccion_a"}
 
-En general, el primer número de página visible (que suele ser "1") **aparece en la primera página del cuerpo principal del texto.**
+Con estos consejos, ya no tendrás que preguntarte "¿dónde empiezo a numerar?" cada vez que te enfrentes a un nuevo proyecto académico.
 
-Los números de página **deben estar en la esquina superior derecha** de cada página.
+### Casos Específicos: Numeración en Tesis y Documentos Académicos
 
-### ¿Dónde comienza la enumeración con normas Icontec?
+No todos los documentos académicos siguen las mismas reglas. Por ejemplo, en una tesis de grado, las normas pueden variar según la institución. Aquí tienes una lista rápida para saber desde dónde empezar a numerar según el tipo de documento:
 
-En las [normas Icontec]({{'normas-icontec'|relative_url}}), la numeración comienza desde la primera página que sigue a la portada, es decir, **la tabla de contenidos**, y se coloca **en el centro de la parte inferior de la página**.
+- **Tesis de Grado**: Generalmente sigue las normas APA, pero siempre revisa las pautas específicas de tu institución.
 
-### Casos específicos: enumeración de tesis y documentos académicos
+#### Consejos Rápidos para Numerar Páginas en Trabajos Académicos
 
-Aquí tienes una lista rápida para saber **desde dónde empezar a numerar según el tipo de documento**:
+1. **Revisa las Pautas**: Antes de empezar, asegúrate de conocer las pautas específicas para tu tipo de documento.
+2. **Consistencia**: Mantén un estilo de numeración uniforme en todo el documento.
+3. **Herramientas Útiles**: Utiliza herramientas como Microsoft Word que tienen opciones de numeración automática.
 
-- **Tesis**: Generalmente desde la introducción, omitiendo portada y resumen.
-- **Normas APA**: Desde la primera página del cuerpo del texto, omitiendo portada e índice.
-
-#### Consejos Rápidos
-
-1. Siempre revisa las pautas específicas para tu tipo de documento.
-2. La ubicación y el estilo del número de página pueden variar según las normas que estés utilizando.
+Con estos consejos, no solo sabrás cómo numerar páginas en trabajos académicos, sino que también evitarás errores comunes que podrían afectar la calidad de tu trabajo.
 
 ----
 
-## Cómo se enumera un trabajo escrito
+## Ahora sí, ¿Cómo se enumera un trabajo escrito?
 
 Según las normas Icontec, **los números deben estar centrados en la parte inferior** de la página.
 
@@ -87,23 +83,33 @@ Recuerda siempre revisar las pautas específicas del formato que estás utilizan
 
 ----
 
-## Herramientas de software para facilitar la numeración
+### Herramientas de Software para Numerar Páginas Como un Pro
 
-¿Te preguntas cómo numerar como un pro? Pues la solución también está en las herramientas que utilices.
+Si te preguntas cómo numerar páginas en trabajos académicos de forma eficiente, la tecnología es tu aliada. Aquí te presentamos algunas herramientas que te facilitarán la vida:
 
-Hoy en días, gracias a la tecnología, dispones de muchas **herramientas que pueden enumerar tu trabajo escrito por ti**. Aquí tienes una comparativa rápida de 2 de ellas y cómo utilizarlas:
+- **Microsoft Word**: 
+  1. Ve a "Insertar"
+  2. Selecciona "Número de página"
+  3. Elige el estilo que prefieras
+  - **Ventajas**: Variedad de estilos, fácil de usar.
 
-| Herramienta | Pasos para numerar | Ventajas |
-|-------------|--------------------|-----------|
-| Word        | Ve a "Insertar" ➔ "Número de página" | Variedad de estilos, fácil de usar |
-| PowerPoint  | Ve a "Insertar" ➔ "Número de diapositiva" | Consistencia en presentaciones |
+- **PowerPoint para Presentaciones**:
+  1. Ve a "Insertar"
+  2. Selecciona "Número de diapositiva"
+  3. Ajusta según tus necesidades
+  - **Ventajas**: Mantiene la consistencia en tus presentaciones.
 
-Con estas herramientas, no necesitas ser un experto en tecnología para que tus trabajos escritos luzcan profesionales. Solo sigue los pasos y ¡voilà!
-
-Espero que estos elementos didácticos hagan que el contenido sea aún más fácil de digerir. ¿Te funciona así? 😎📊
+Con estas herramientas, no necesitas ser un experto en tecnología para que tus trabajos académicos luzcan profesionales. Solo sigue estos pasos sencillos y ¡listo!
 
 {% include add.html %}
 
-## Enumerar y organizar, esa es la cuestión
+## Conviértete en un Experto en Trabajos Académicos
 
-Recuerda, la correcta enumeración y paginación de tu trabajo no solo facilita la lectura, sino que también refleja tu atención al detalle y tu compromiso con la presentación de un trabajo de alta calidad.
+¿Quieres dejar de preocuparte por cómo numerar páginas en trabajos académicos y otros detalles que te quitan el sueño? Tenemos la solución perfecta para ti. Accede a nuestros cursos prácticos que te ayudarán a superar los desafíos comunes en la redacción de tesis, investigaciones y mucho más.
+
+**✓ Olvídate de la confusión al citar fuentes**  
+**✓ Deja de buscar cómo estructurar tus trabajos**  
+**✓ Presenta ese trabajo escrito que tanto deseas**  
+
+👇 Haz clic en este botón y aprovecha la oportunidad para alcanzar el éxito académico y profesional que tanto deseas. 👇  
+[**¡Quiero Ser un Experto!**]({{'cursos'|relative_url}}){:class="boton"}
