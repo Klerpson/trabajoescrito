@@ -1,44 +1,63 @@
 ---
 layout: default
 title: "Márgenes de un Trabajo Escrito: • Medidas y Recomendaciones"
-description: "¿Sabes cómo hacer las márgenes de un trabajo escrito? Te enseñamos las medidas y cómo ponerlas ¡Haz clic y aprende más!👆"
-h1: "Configura las márgenes de un trabajo escrito con las medidas correctas"
-intro: "Las márgenes de un trabajo escrito es un aspecto crucial que no puedes pasar por alto."
+description: "¿Confundido con los márgenes? Aprende a configurarlos en Word y Google Docs. ¡Haz clic para saber más! 📌"
+h1: "Descubre Cómo Ajustar los Márgenes en Tu Trabajo Escrito: Consejos Prácticos y Medidas Exactas"
+intro: "¿Conoces las medidas que deben llevar las márgenes de un trabajo escrito? Te enseñamos"
 boton_info: "normas"
 boton_info_title: "Mira las medidas"
 boton_mas: "descargas"
 boton_mas_title: "Aplicarlas en Word y Docs"
 vertical: true
 ---
-Los márgenes son un elemento fundamental en la presentación de nuestros trabajos. Te enseñaremos **cómo configurar correctamente las medidas de los márgenes** para un trabajo escrito.
+Los márgenes en un trabajo escrito no son un detalle menor; de hecho, **pueden hacer o deshacer la presentación de tu documento**. Aquí te mostraremos cómo ajustarlos de forma precisa para que tu trabajo luzca profesional.
 
-## Los márgenes de un trabajo escrito
+## ¿Qué Son Exactamente Los Márgenes de un Trabajo Escrito?
 
 Los márgenes son **los espacios vacíos que rodean el texto en una página**. Proporcionan un área de respiro visual, dejan espacio para la encuadernación y permiten hacer notas al margen.
 
 Los márgenes adecuados ofrecen *una presentación ordenada y legible* para el lector.
-
-### Cómo son las medidas de las márgenes del trabajo escrito
-
-{% include add.html %}
-
-Para saber qué márgenes debe tener un trabajo escrito, puedes utilizar la norma estándar. Estas medidas **suelen ser de una pulgada (o 2.54 cm) en todos los lados** - arriba, abajo, izquierda y derecha.
-
-Esta es una norma generalmente aceptada para la mayoría de [los trabajos escritos](/), ya sean académicos o profesionales. Por lo tanto, puedes utilizar como regla básica al aplicar márgenes.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
+{% include add.html %}
+
+## Cómo van las medidas de las márgenes del trabajo escrito
+
+{% include add.html %}
+
+### Márgenes adecuados para un trabajo profesional
+
+Generalmente, **se recomienda un margen de una pulgada (o 2.54 cm) en todos los lados** del documento.
+
+Estas medidas se consideran ideales ya que proporcionan un espacio suficiente para el texto sin hacerlo parecer apretado o desorganizado. Además, facilitan la lectura.
+
+### Medidas de márgenes en la portada y la hoja guía
+
+[La portada]({{'portada-trabajo-escrito'|relative_url}} "Portada Trabajo Escrito") y la hoja guía (o página de título interno) deben seguir las mismas reglas de margen que el resto del documento.
+
+Sin embargo, si incluyes elementos gráficos o logotipos, es posible que debas hacer algunos ajustes en el diseño. Lo mismo cuando **tienes que dejar espacios para grapar o perforar la hoja**. El espacio debe ser suficiente para hacer ese trabajo.
+
+### Tabla con las márgenes para un trabajo escrito
+
+| Margen    | Medida |
+| --------- | ------ |
+| Superior  | 2.5 cm |
+| Inferior  | 2.5 cm |
+| Izquierdo | 2.5 cm |
+| Derecho   | 2.5 cm |
+
+Estas medidas son sugerencias basadas en normas estándar, como las [normas APA]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes Normas APA") o como las [normas Icontec]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Normas Icontec").
+
+### Diferencia en las medidas de las márgenes entre las normas APA e ICONTEC
+
+|             | Normas APA                    | Normas ICONTEC            |
+|-------------|-------------------------------|---------------------------|
+| Margen      | 2,54 cm (1 pulgada) en todos los lados | 3 cm en todos los lados   |
+
+Algunas instituciones o profesores pueden tener requisitos específicos de formato que debes seguir.
+
 > Nota: Asegúrate de aplicar estos cambios a todo el documento y no sólo a una parte. Y pregunta a tus revisores si desean que apliques otras normas de trabajos académicos en tus márgenes.
-
-## Cómo hacer una margen para un trabajo escrito en Word y Google Docs
-
-*Microsoft Word* es una de las herramientas más populares para la redacción y el formato de trabajos escritos. Utiliza sus ventajas para establecer sus márgenes fácilmente.
-
-En el caso de Microsoft Word, hay varias formas de ajustar los márgenes:
-
-1. **Aplicar una configuración de márgenes predefinida**: Ve a la pestaña "Diseño" y selecciona "Márgenes". Luego, elige las medidas que desees.
-2. **Crear un margen personalizado**: En la misma pestaña "Diseño", selecciona "Márgenes personalizados" y ajusta los valores usando las flechas arriba y abajo.
-3. **Cambiar los márgenes predeterminados**: En "Diseño > márgenes > márgenes personalizados", establece los márgenes y selecciona "Establecer como predeterminado".
 
 ### Preguntas para reflexionar antes de establecer las márgenes de tu trabajo
 
@@ -48,11 +67,17 @@ En el caso de Microsoft Word, hay varias formas de ajustar los márgenes:
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----------
+----
 
-### Tutorial mejorado: cómo aplicar márgenes en Word y Google Docs para dummies
+## Cómo hacer una margen para un trabajo escrito en Word y Google Docs
 
-#### En Microsoft Word
+*Microsoft Word* es una de las herramientas más populares para la redacción y el formato de trabajos escritos. Utiliza sus ventajas para establecer sus márgenes fácilmente.
+
+Perfecto, Julian. Ahora vamos a mejorar la sección del tutorial, haciéndola más fácil de seguir.
+
+### Cómo aplicar márgenes en Word y Google Docs para dummies
+
+#### ⏯ En Microsoft Word
 
 1. **Márgenes Predefinidos**
     - Ve a la pestaña "Diseño" en la parte superior.
@@ -66,7 +91,7 @@ En el caso de Microsoft Word, hay varias formas de ajustar los márgenes:
     - Si deseas que estos márgenes se apliquen a todos los nuevos documentos, haz clic en "Establecer como predeterminado" después de ajustar los márgenes.
 {:class="seccion_a"}
 
-#### En Google Docs
+#### ⏯ En Google Docs
 
 1. **Márgenes Predefinidos**
     - Ve a "Archivo > Configuración de página".
@@ -78,43 +103,6 @@ En el caso de Microsoft Word, hay varias formas de ajustar los márgenes:
 {:class="seccion_a"}
 
 Y ahí lo tienes, **ahora sabes cómo ajustar los márgenes en Word y Google Docs como un profesional**, ¡pero en un lenguaje que todos podemos entender!
-
-### Márgenes adecuados para un trabajo
-
-Para un trabajo escrito más profesional y efectivo, las medidas recomendadas son:
-
-- Margen superior: 2.5 cm
-- Margen inferior: 2.5 cm
-- Margen izquierdo: 3 cm
-- Margen derecho: 3 cm
-{:class="seccion_a"}
-
-Estas medidas se consideran ideales ya que proporcionan un espacio suficiente para el texto sin hacerlo parecer apretado o desorganizado. Además, facilitan la lectura.
-
-### Medidas de márgenes de la portada y la hoja guía
-
-[La portada]({{'portada-trabajo-escrito'|relative_url}} "Portada Trabajo Escrito") y la hoja guía (o página de título interno) deben seguir las mismas reglas de margen que el resto del documento.
-
-Sin embargo, si incluyes elementos gráficos o logotipos, es posible que debas hacer algunos ajustes en el diseño.
-
-{% include add.html %}
-
-#### Tabla con las márgenes para un trabajo escrito
-
-| Margen    | Medida |
-| --------- | ------ |
-| Superior  | 2.5 cm |
-| Inferior  | 2.5 cm |
-| Izquierdo | 3 cm   |
-| Derecho   | 3 cm   |
-
-Estas medidas son sugerencias basadas en normas estándar, como las [normas APA]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes Normas APA") o como las [normas Icontec]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Normas Icontec").
-
-|             | Normas APA                    | Normas ICONTEC            |
-|-------------|-------------------------------|---------------------------|
-| Margen      | 2,54 cm (1 pulgada) en todos los lados | 3 cm en todos los lados   |
-
-Algunas instituciones o profesores pueden tener requisitos específicos de formato que debes seguir.
 
 ## Las márgenes y la presentación de tu trabajo escrito
 

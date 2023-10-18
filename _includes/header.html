@@ -1,4 +1,4 @@
-<header>
+<header class="wrapper">
   <div class="title">
     {% if page.layout == "default" %}
     <h1>{{page.h1}}</h1>
@@ -9,6 +9,7 @@
       <a href="{{site.baseurl}}{{page.url}}#{{page.boton_mas}}" title="{{page.boton_mas_title}}" class="boton">{{page.boton_mas_title | capitalize}}</a>
     </div>
   </div>
+  <hr>
   {% endif %}
   {% else %}
   {% if page.webp %}
