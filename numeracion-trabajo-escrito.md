@@ -46,6 +46,8 @@ Con estos consejos, no solo sabrás cómo numerar páginas en trabajos académic
 
 ## Ahora sí, ¿Cómo se enumera un trabajo escrito?
 
+{% include add.html %}
+
 Según las normas Icontec, **los números deben estar centrados en la parte inferior** de la página.
 
 ### Diferencias en la enumeración de páginas entre las dos normas
