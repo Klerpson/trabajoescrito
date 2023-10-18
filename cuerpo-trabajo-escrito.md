@@ -1,7 +1,7 @@
 ---
 layout: default
-title: "El Cuerpo de un Trabajo Escrito: Un Desarrollo Bien Hecho"
-description: "Desarrolla el cuerpo de tu trabajo escrito correctamente. Te damos la estructura y un par de ejemplos. Haz clic y aprende más"
+title: "Cómo Redactar el Cuerpo de un Trabajo Escrito e Impresionar"
+description: "¿Quieres impresionar a tu profesor? Aprende a redactar el cuerpo de tu trabajo escrito como un pro. ¡Haz clic ahora! ✅"
 h1: "Cómo Redactar el Cuerpo de un Trabajo Escrito: Tu Guía Definitiva para un Desarrollo Efectivo"
 intro: "El cuerpo del trabajo es la parte que compone la estructura definitiva de cualquier trabajo académico o profesional."
 boton_info: "estructura"
