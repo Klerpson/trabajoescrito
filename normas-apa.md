@@ -20,7 +20,7 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 
 ----------
 
-### Estructura y formato de las normas APA
+## Estructura y formato de las normas APA
 
 * [⇾ Títulos y subtítulos](#titulos)
 * [⇾ Letra o texto](#texto)
@@ -36,7 +36,7 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 * [⇾ Referencias bibliográficas](#referencias)
 {:class="links"}
 
-### Reglas específicas en algunos tipos de trabajos
+### Reglas APA específicas en algunos tipos de trabajos
 
 * [⇾ Tesis](#tesis)
 * [⇾ Grado y monografías](#grado)
@@ -54,7 +54,7 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 >En nuestra sección de Capacitación encuentras muchos libros y cursos que **te ayudan a aplicar mucho más fácil las normas APA**  
 [Conoce los libros](/cursos-de-trabajos-escritos){:class="boton"}
 
-## La estructura del trabajo según las normas APA
+## Cómo va la estructura del trabajo según las normas APA
 
 Las normas APA son ampliamente utilizadas en la elaboración de trabajos escritos. **Estas normas garantizan la correcta presentación de la información y la adecuada citación** de las fuentes bibliográficas.
 
@@ -103,7 +103,7 @@ Conocer las normas APA y saber cómo aplicarlas en la contraportada es muy impor
 
 [Contraportadas con normas APA]({{'normas-apa/contraportada-normas-apa'|relative_url}} "Contraportada normas APA"){:class="boton"}
 
-### Parágrafos y sangría
+### Parágrafos y sangría según las normas APA
 
 Los parágrafos deben estar separados entre sí por una línea en blanco, sin añadir ningún espacio extra entre párrafos. Se debe utilizar sangría en las citas textuales de más de 40 palabras, así como en sus correspondientes notas de pie de página.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
@@ -274,7 +274,7 @@ Debes mantenerte actualizado de las novedades en las Normas APA para presentar t
 
 -----
 
-## Aplica fácilmente las normas APA con estas herramientas
+## Utiliza herramientas para aplicar fácilmente las normas APA
 
 Existen diversas herramientas en línea como el generador de citas, verificador de citas y detectores de plagio que hacen más fácil la aplicación de estas normas.
 
