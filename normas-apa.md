@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Normas APA 7ma. Edición: Formato y Reglas a Seguir"
+title: "Normas APA Actualizadas a la 7ma. Edición: Formato y Reglas"
 description: "Domina las Normas APA con nuestra guía completa 📃: citaciones - referencias - estructura... 👉 Haz clic aquí para convertirte en un experto en APA."
-h1: "Las normas APA Séptima Edición: El formato del trabajo con la versión más reciente"
+h1: "Las normas APA Actualizadas a la Séptima Edición: Formato y Reglas"
 intro: "Las normas APA son un conjunto de reglas y directrices que se utilizan para la elaboración de trabajos académicos en diferentes áreas."
 boton_info: "estructura"
 boton_info_title: "Aprende el formato"
