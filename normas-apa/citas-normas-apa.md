@@ -5,9 +5,9 @@ description: "Aprende cómo hacer citas en Normas APA de manera correcta y preci
 h1: "Citar con Normas APA: la estructura adecuada"
 intro: "Con las Normas APA  se busca establecer una uniformidad en la estructura y una adecuada citación de las fuentes utilizadas, lo que es fundamental para el otorgamiento de crédito académico."
 boton_info: "opcionA"
-boton_info_title: "Utiliza generadores"
+boton_info_title: "Utiliza un Generador"
 boton_mas: "opcionB"
-boton_mas_title: "Ver ejemplos"
+boton_mas_title: "Ver Ejemplos de Citas"
 vertical: true
 permalink: /normas-apa/citas-normas-apa
 ---
@@ -72,29 +72,19 @@ La fuente original debe citarse para poder acceder a ella. Te mostramos algunos 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="opcionA"}
 
-## Cómo utilizar el generador de citas de APA
+## Utiliza Nuestro Generador de Citas de APA
 
-Los generadores de citas de APA son herramientas útiles para crear adecuadamente las referencias bibliográficas. A continuación, se presentan dos generadores: **BibGuru y Scribbr, los cuales permiten generar citas de manera automática**.
+Los generadores de citas de APA son herramientas útiles para crear adecuadamente las referencias bibliográficas.
 
-### BibGuru
+Nuestro **generador de citas de normas APA** es muy fácil de utilizar y muy eficaz. Te ayuda a generar citas para citas de libros, citas y páginas web. ¡Y es gratis!
 
-[BibGuru es un generador de citas de APA en línea y gratuito](https://www.bibguru.com/es/){:rel="nofollow noopener noreferrer" target="_blank"}. Es ideal para cualquier tipo de trabajo académico, ya que permite la generación de referencias bibliográficas para cualquier tipo de fuente.
-
-Para utilizar BibGuru, solo es necesario ingresar la información requerida (nombre del autor, título del libro o artículo, tipo de publicación, entre otros) y el generador creará la referencia bibliográfica en el formato APA automáticamente.
-
-### Scribbr
-
-[Scribbr es otra herramienta para generar citas en formato APA](https://www.scribbr.com/){:rel="nofollow noopener noreferrer" target="_blank"}, disponible en línea y de pago. Scribbr cuenta con un equipo de expertos que verifican manualmente las referencias generadas, lo que garantiza que las referencias obtenidas sean precisas y verificadas.
-
-Para utilizar Scribbr, se puede buscar la fuente por título, URL, ISBN o DOI, y el generador automáticamente generará la referencia, incluyendo detalles como el autor, la fecha de publicación y la editorial.
-
-En general, **los generadores de citas como BibGuru y Scribbr son herramientas prácticas y útiles para crear referencias bibliográficas adecuadas**, lo que permite tener una estructura uniforme y evitar errores comunes en la citación de fuentes, y te facilita la elaboración de cualquier trabajo académico o científico.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="opcionB"}
+[Generador de Citas APA]({{'generador-citas-apa'|relative_url}}){:class="boton"}
 
 ## Ejemplos prácticos de citas y referencias en APA
 
 En esta sección, se presentarán diversos ejemplos prácticos sobre cómo citar y referenciar en el formato APA. Se mostrarán ejemplos de citas de un solo autor, citas de varios autores, y citas de fuentes electrónicas.
+<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+{:id="opcionB"}
 
 ### Citas de un solo autor
 
