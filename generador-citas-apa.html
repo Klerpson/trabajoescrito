@@ -1,0 +1,92 @@
+---
+layout: default
+title: Generador de Citas con Normas APA de trabajoescrito.com
+h1: Generador de Citas con Normas APA de trabajoescrito.com
+description: Utiliza el generador de citas con normas APA más sencillo y útil que puedes encontrar para presentar tu trabajo escrito de la forma correcta
+---
+<section class="generador wrapper flow">
+
+  <select id="type">
+    <option value="book">Libro</option>
+    <option value="journal">Artículo de Revista</option>
+    <option value="website">Página Web</option>
+  </select>
+  
+  <div id="form"></div>
+  
+  <button id="generate" class="boton">Generar Cita</button>
+  <h3>Copia el Resultado del Generador de citas APA:</h3>
+  <div id="result"></div>
+</section>
+
+
+<script>
+document.addEventListener("DOMContentLoaded", function() {
+  const typeSelect = document.getElementById("type");
+  const form = document.getElementById("form");
+  const result = document.getElementById("result");
+
+  typeSelect.addEventListener("change", function() {
+    const type = typeSelect.value;
+    let fields = "";
+
+    switch (type) {
+      case "book":
+        fields = `
+          <input type="text" id="author" placeholder="Autor">
+          <input type="text" id="title" placeholder="Título">
+          <input type="text" id="year" placeholder="Año">
+          <input type="text" id="publisher" placeholder="Editorial">
+          <input type="text" id="place" placeholder="Lugar">
+        `;
+        break;
+      case "journal":
+        fields = `
+          <input type="text" id="author" placeholder="Autor">
+          <input type="text" id="title" placeholder="Título">
+          <input type="text" id="journal" placeholder="Revista">
+          <input type="text" id="volume" placeholder="Volumen">
+          <input type="text" id="issue" placeholder="Número">
+          <input type="text" id="pages" placeholder="Páginas">
+          <input type="text" id="year" placeholder="Año">
+        `;
+        break;
+      case "website":
+        fields = `
+          <input type="text" id="author" placeholder="Autor">
+          <input type="text" id="title" placeholder="Título">
+          <input type="text" id="year" placeholder="Año">
+          <input type="text" id="url" placeholder="URL">
+        `;
+        break;
+    }
+
+    form.innerHTML = fields;
+  });
+
+  document.getElementById("generate").addEventListener("click", function() {
+  const type = typeSelect.value;
+  let citation = "";
+
+  switch (type) {
+    case "book":
+      citation = `${document.getElementById("author").value} (${document.getElementById("year").value}). *${document.getElementById("title").value}*. ${document.getElementById("place").value}: ${document.getElementById("publisher").value}.`;
+      break;
+    case "journal":
+      citation = `${document.getElementById("author").value} (${document.getElementById("year").value}). ${document.getElementById("title").value}. *${document.getElementById("journal").value}*, ${document.getElementById("volume").value}(${document.getElementById("issue").value}), ${document.getElementById("pages").value}.`;
+      break;
+    case "website":
+      citation = `${document.getElementById("author").value} (${document.getElementById("year").value}). ${document.getElementById("title").value}. ${document.getElementById("url").value}`;
+      break;
+  }
+
+  document.getElementById("result").innerText = citation;
+});
+
+});
+
+
+</script>
+
+{% include cta.html %}
+{% include footer.html %}

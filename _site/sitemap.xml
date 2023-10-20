@@ -97,6 +97,11 @@
   <priority>1.0</priority>
 </url>
 <url>
+  <loc>http://localhost:4000/generador-citas-apa</loc>
+  <changefreq>monthly</changefreq>
+  <priority>1.0</priority>
+</url>
+<url>
   <loc>http://localhost:4000/normas-icontec/glosario-normas-icontec</loc>
   <changefreq>monthly</changefreq>
   <priority>1.0</priority>

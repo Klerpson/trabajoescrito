@@ -37,3 +37,34 @@
   flex: 1 0 520px;
   max-width: 100%;
 }
+
+.generador select{
+  border: 2px solid var(--accion);
+  padding: 8px;
+}
+
+.generador #form{
+  display: grid;
+  gap: 1em;
+  background-color: var(--secundario);
+  box-shadow: 0 0 0 100vmax var(--secundario);
+  -webkit-clip-path: inset(0 -100vmax);
+          clip-path: inset(0 -100vmax);
+  padding: 4em 0;
+}
+
+.generador button{
+  font-weight: bolder;
+}
+
+.generador #form input{
+  border-bottom: 2px solid var(--accion);
+}
+
+.generador #result{
+  border: 2px solid var(--accion);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  padding: 8px;
+  max-width: max-content;
+}
