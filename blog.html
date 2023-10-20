@@ -9,7 +9,7 @@ noindex: true
 {% include head.html %}
 <body>
   {% include nav.html %}
-  <header>
+  <header class="wrapper flow">
     <div class="title">
       <h1>{{page.h1}}</h1>
       <p>{{page.description}}</p>
@@ -19,7 +19,7 @@ noindex: true
   <main class="blog-gallery">
     <h2>El blog de tu Trabajo Escrito</h2>
     {% include add.html %}
-    <section class="contenido">
+    <section class="contenido wrapper flow">
       {% for post in site.posts %}
       {% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
       {% unless current_year == previous_year %}
@@ -32,6 +32,7 @@ noindex: true
         </h4> 
         {{ post.excerpt | markdownify }}
       </article>
+      <hr>
       {% endfor %}
     </section>
   </main>

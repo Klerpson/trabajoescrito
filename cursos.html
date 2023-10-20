@@ -10,7 +10,7 @@ permalink: /cursos-de-trabajos-escritos
 {% include head.html %}
 <body>
   {% include nav.html %}
-  <header>
+  <header class="wrapper">
     <div class="title">
       <h1>{{page.h1}}</h1>
       <div>
@@ -19,7 +19,7 @@ permalink: /cursos-de-trabajos-escritos
       </div>
     </div>
   </header>
-  <section class="seccion_a">
+  <section class="seccion_a wrapper flow">
     <h2>Cómo Utilizar los Cursos de normas para Trabajos Escritos</h2>
     <p>Buscamos por ti los <strong>cursos mejor calificados para aprender sobre normas APA, normas Icontec, IEEE, Vancouver, redacción, investigación, etc.</strong> Solo sigue estos pasos:</p>
     <ol>
@@ -28,7 +28,7 @@ permalink: /cursos-de-trabajos-escritos
       <li>Compra y reduce las dificultades de presentar tu mejor versión de un Trabajo Escrito</li>
     </ol>
   </section>
-  <main class="cursos" id="cursos">
+  <main class="cursos wrapper flow" id="cursos">
       {% for curso in site.data.afiliados %}
       <article>
         <img src="{{site.baseurl}}/img/{{curso.img}}" alt="Imagen del curso titulado {{curso.title}}" loading="lazy">
@@ -41,7 +41,7 @@ permalink: /cursos-de-trabajos-escritos
       </article>
       {% endfor %}
   </main>
-  <section class="seccion_a" id="libros">
+  <section class="seccion_a wrapper flow" id="libros">
     <h2>Libros sobre normas académicas y redacción: los más accesibles para todo bolsillo</h2>
     <p>Buscamos por ti los <strong>libros sobre normas APA, Icontec, Chicago, Vancouver, etc.</strong>  Cuestan mucho menos que un curso y puedes tenerlos siempre contigo:</p>
     <ol>
@@ -50,7 +50,7 @@ permalink: /cursos-de-trabajos-escritos
       <li>Compra, descarga y conviértete en un experto</li>
     </ol>
   </section>
-  <div class="cursos">
+  <div class="cursos wrapper flow">
     {% for libro in site.data.libros-apa %}
     <article>
       <img src="{{libro.img}}" alt="Imagen del libro titulado {{libro.title}}" loading="lazy">
@@ -63,14 +63,12 @@ permalink: /cursos-de-trabajos-escritos
     </article>
     {% endfor %}
   </div>
-  <section class="normas_contenido">
-  <blockquote>
+  <aside class="cta wrapper flow">
     <h3>¿Estás listo para transformar tu forma de presentar tus trabajos académicos?</h3>
     <p>No busques más. Este material detallado y práctico te proporcionará todas las herramientas necesarias para escribir trabajos académicos envolventes que mantengan a tus lectores enganchados.</p>
     <p>Estos no son solo otro curso teórico o un libro más de relleno. <strong>Son una experiencia interactiva, llena de ejemplos reales, actividades prácticas, feedback personalizado y un camino claro hacia el éxito</strong>. No dejes pasar esta oportunidad para <strong>perfeccionar tu redacción, diferenciarte y transformar</strong> tus trabajos escritos en obras maestras.</p>
     <p>¡Inscríbete ahora y empieza a captar la atención de tus lectores desde la primera frase!</p>
-  </blockquote>
-  </section>
+  </aside>
 
   {% include footer.html %}
   <a href="#">{% include boton-up.html %}</a>
