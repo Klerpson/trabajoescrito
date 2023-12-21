@@ -15,6 +15,8 @@ Hay que seguir las indicaciones de los profesores para evitar problemas académi
 
 ## Definición de Interlineado en Normas APA
 
+{% include add6.html %}
+
 En las normas APA, el interlineado se refiere a la cantidad de espacio vertical entre las líneas de texto en un documento.
 
 Según estas normas, todo el texto en un documento, incluyendo el cuerpo del texto, los títulos, los subtítulos, las citas, las referencias y las notas al pie, debe estar a doble espacio.
@@ -24,6 +26,8 @@ Además, no debe haber espacios extra entre los párrafos, y el inicio de cada p
 {:id="normas"}
 
 ## Interlineado: ¿doble o 1,5?
+
+{% include add7.html %}
 
 El interlineado es uno de los aspectos que más controversia genera en las Normas APA. Aunque **la recomendación oficial es utilizar un interlineado doble**, algunas universidades en Latinoamérica **sugieren utilizar un interlineado de 1,5 para evitar el desperdicio de papel**.
 
@@ -53,6 +57,8 @@ En la mayoría de los procesadores de texto, puedes ajustar el interlineado en e
 
 ### Interlineado en documentos científicos según APA
 
+{% include add8.html %}
+
 **Los documentos científicos** requieren de una presentación clara y ordenada. En el formato APA, todo el texto de un documento, incluyendo el cuerpo del texto, los títulos, los subtítulos, las citas, las referencias y las notas al pie, **debe estar a doble espacio**.
 
 No dejes espacios extra entre los párrafos. En lugar de ello, el inicio de cada párrafo debe estar indicado con una sangría de media pulgada.
@@ -77,7 +83,7 @@ Sí, es obligatorio usar doble espacio en todo el texto en un documento APA.
 
 Las normas APA recomiendan un interlineado doble en todo el texto del documento y no permiten espacios extra entre los párrafos.
 
-----
+{% include add9.html %}
 
 ## Aplica el interlineado en normas APA
 

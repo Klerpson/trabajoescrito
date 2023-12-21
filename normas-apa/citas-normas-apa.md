@@ -19,6 +19,8 @@ También, analizaremos los errores comunes en las citas y referencias.
 
 ## Cómo citar en formato APA
 
+{% include add.html %}
+
 Para la construcción de un buen texto científico o académico, es fundamental conocer las normas APA y cómo citar adecuadamente las fuentes utilizadas en la investigación.
 
 En esta sección, se explicará de manera detallada cómo se lleva a cabo la citación en formato APA para diferentes tipos de textos, ya sea para citas textuales, parafraseadas o citas de citas.
@@ -61,6 +63,8 @@ La cita parafraseada **es la explicación de la idea de otra persona en tus prop
 Recuerda que en las citas parafraseadas se debe utilizar un lenguaje diferente al de la fuente citada, aunque el significado debe ser el mismo.
 
 ### Citas de citas
+
+{% include add-post.html %}
 
 La cita de cita se utiliza **para citar información que has encontrado en una fuente secundaria**. En este caso, se debe citar la fuente primaria y la fuente secundaria en el texto.
 
@@ -107,6 +111,8 @@ Un tweet puede ser una buena fuente para respaldar una afirmación (López, 2022
 Con estos ejemplos, es posible entender mejor **cómo aplicar las Normas APA** en diferentes situaciones. Es importante recordar que **el mismo formato se debe usar tanto en las citas como en las referencias bibliográficas** para garantizar la uniformidad y la claridad en la presentación de la información.
 
 ### Cómo citar estadísticas de una base de datos
+
+{% include add3.html %}
 
 La cita de estadísticas de una base de datos según las normas APA requiere información específica, como el nombre de la base de datos, el año de publicación de la información, el titulo de la tabla o figura, el número de la tabla o figura, la fecha de acceso y la URL de la página que contiene la información.
 

@@ -15,6 +15,8 @@ En esta sección de [trabajoescrito.com](/) te enseñamos a mejorar la organizac
 
 ## Listas con viñetas: ¿cuándo y cómo usarlas según las Normas APA?
 
+{% include add9.html %}
+
 Las listas con viñetas son una de las herramientas más utilizadas para presentar información de manera clara y ordenada.
 
 En trabajos académicos, **las Normas APA recomiendan su uso para elementos cortos y sin estructura jerárquica**. Sin embargo, su uso debe ser cuidadoso para evitar confusiones o errores en la presentación de la información.
@@ -37,7 +39,7 @@ En este caso, **el número de elementos de la lista debe ser limitado y es impor
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
------
+{% include add.html %}
 
 ## Listas numeradas: cómo aplicarlas correctamente en trabajos académicos
 
@@ -57,7 +59,7 @@ En caso de que se necesite presentar sub-puntos dentro de un elemento de la list
 
 Es importante **comenzar cada elemento de la lista numerada con una oración completa**. En caso de que un elemento conste de más de una oración, se debe utilizar una lista con viñetas en lugar de una numerada.
 
------
+{% include add-post.html %}
 
 ## Lista de referencias: cómo crearla según las Normas APA
 
@@ -73,7 +75,7 @@ En el caso de trabajos con varios autores, se debe utilizar el orden alfabético
 
 Si hay dos o más autores con el mismo apellido, se debe ordenar según la inicial del nombre. Si los autores son entidades o instituciones, el elemento a considerar es el primer término en orden alfabético.
 
-----
+{% include add2.html %}
 
 ## Tabla de contenido: cómo organizar las listas del índice
 
@@ -125,6 +127,8 @@ Es fundamental asegurarnos de que los [subtítulos y títulos]({{'titulos-trabaj
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
+{% include add3.html %}
+
 {% include cta-normas.html norma="apa" %}
 
 ## Consejos para crear listas con Normas APA
@@ -146,6 +150,8 @@ Algunas opciones pueden ser **utilizar diferentes colores, tamaños de fuente o 
 Asimismo, se sugiere utilizar elementos paralelos en las listas, es decir, **utilizar el mismo tipo de palabra o estructura gramatical para cada elemento de la lista**. Por ejemplo, se puede utilizar una frase completa en cada elemento de la lista o una palabra clave que se repita en todos los elementos de la lista.
 
 ### Prioridad y cronología: utilice una lista numerada o con viñetas
+
+{% include add4.html %}
 
 Dependiendo del tipo de información que se desee presentar, se puede utilizar una lista con viñetas o una lista numerada. Si se quiere presentar elementos que requieren un orden de prioridad o secuencia temporal, se recomienda usar una lista numerada.
 

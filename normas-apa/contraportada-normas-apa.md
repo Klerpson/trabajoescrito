@@ -17,7 +17,7 @@ Una contraportada en Normas APA debe tener [el título del trabajo]({{'normas-ap
 
 Cada uno de estos elementos tiene especificaciones técnicas, como el tipo y tamaño de letra y el espaciado. Si no se siguen estas pautas, puede que nuestro trabajo no sea aprobado.
 
----
+{% include add4.html %}
 
 ## Proceso de diseño de una contraportada con Normas APA
 
@@ -60,6 +60,8 @@ Al seguir este formato, nos aseguramos de que la contraportada cumple con las es
 - Fecha (opcional en 7ª edición)
 
 ## Errores comunes en la creación de una Contraportada con Normas APA
+
+{% include add4.html %}
 
 Hay errores comunes que podemos evitar al crear una contraportada con Normas APA.
 
@@ -116,6 +118,8 @@ Busca en internet estas **rerramientas que te pueden ayudar a terminar con una c
 | Resumen  | No      | No           |
 
 ### Preguntas frecuentes sobre las contraportadas con normas APA
+
+{% include add5.html %}
 
 ¿Todavía tienes dudas? No te preocupes, aquí ampliamos nuestra sección de preguntas frecuentes para cubrir esos temas que quizás no tenías tan claros, como qué es una subportada en Normas APA.
 
