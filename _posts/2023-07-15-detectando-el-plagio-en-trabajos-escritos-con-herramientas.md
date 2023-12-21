@@ -15,7 +15,7 @@ Analicemos el mundo de la detección del plagio y el fraude y exploremos las dis
 
 ## ¿Qué es el plagio o el fraude de trabajos escritos?
 
-{% include add-post.html %}
+{% include add6.html %}
 
 El plagio académico o profesional es **el acto de utilizar el trabajo o las ideas de otra persona sin darle el debido crédito**, mientras que **el fraude implica la manipulación o falsificación deliberada de información**.
 
@@ -33,11 +33,9 @@ El fraude, por otra parte, implica **tergiversar deliberadamente datos, alterar 
 
 Al comprender estas prácticas, las personas pueden esforzarse activamente por evitar y abordar los casos de plagio y fraude en su trabajo.
 
------
+{% include add2.html %}
 
 ## Cómo detectar el plagio en Trabajos Escritos
-
-{% include add-post.html %}
 
 Detectar el plagio puede ser un desafío, especialmente en trabajos largos o complejos. Sin embargo, hay varias estrategias que puedes utilizar.
 
@@ -59,7 +57,7 @@ Por lo tanto, **examinar a fondo el material escrito, contrastándolo con los re
 
 ## Programas para detectar el plagio en Trabajos Escritos
 
-{% include add-post.html %}
+{% include add5.html %}
 
 Hay varios programas de detección de plagio disponibles, cada uno con sus propias ventajas y desventajas.
 
@@ -95,7 +93,7 @@ El uso de estas herramientas no sólo mejora la precisión a la hora de encontra
 
 ## Consejos para reducir el plagio o el fraude
 
-{% include add.html %}
+{% include add-post.html %}
 
 Para garantizar el mantenimiento de la ética en los trabajos escritos, es esencial **aplicar técnicas que disminuyan la probabilidad de plagio y fraude**.
 

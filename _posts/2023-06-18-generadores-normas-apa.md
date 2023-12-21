@@ -13,7 +13,7 @@ Este artículo te proporcionará una visión general del uso de generadores de n
 
 ## ¿Qué es un generador de normas APA?
 
-{% include add-post.html %}
+{% include add.html %}
 
 **Un generador de Normas APA es una herramienta digital diseñada para ayudar a los usuarios a formatear correctamente las citas y referencias según las Normas APA**. Simplemente ingresando detalles como el nombre del autor, [título]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos normas APA"), fecha de publicación, entre otros, la herramienta generará automáticamente [la cita en el formato correcto]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA").
 
@@ -26,7 +26,7 @@ El proceso general para usar un generador de normas APA suele ser el siguiente:
 3. **Haz clic en el botón para generar la cita**.
 4. **Copia y pega** la cita generada en tu documento.
 
------
+{% include add2.html %}
 
 ## Ejemplos de Generadores de Normas APA
 
@@ -49,7 +49,7 @@ Aquí están algunos de los beneficios clave de usar un generador de Normas APA:
 
 ## Consideraciones al Elegir un Generador de Normas APA
 
-{% include add-post.html %}
+{% include add9.html %}
 
 Al elegir un generador de Normas APA, debes considerar lo siguiente:
 

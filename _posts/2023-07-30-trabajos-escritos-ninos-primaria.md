@@ -17,9 +17,9 @@ Un trabajo académico permite a los estudiantes **desarrollar habilidades de inv
 
 En este artículo, te proporcionaremos una guía completa sobre cómo realizar trabajos escritos en la educación primaria.
 
-## Beneficios de los Trabajos Escritos para los niños de la escuela
-
 {% include add.html %}
+
+## Beneficios de los Trabajos Escritos para los niños de la escuela
 
 Los trabajos escritos ofrecen numerosos beneficios para los niños:
 
@@ -53,11 +53,9 @@ Aunque pueden parecer complejas para los niños de primaria, es importante intro
 
 Estas normas son ampliamente utilizadas en países hispanohablantes y cubren aspectos similares a las normas APA, como el formato del papel, [el estilo de escritura]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo del trabajo Normas Icontec"), [las citas y las referencias]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y Referencias Normas Icontec").
 
-----
+{% include add2.html %}
 
 ## Haciendo un Trabajo Escrito para niños de primaria: paso a paso
-
-{% include add.html %}
 
 Hacer un trabajo escrito puede parecer una tarea desalentadora para los niños de primaria, pero c**on la orientación y el apoyo adecuados**, puede ser una experiencia de aprendizaje enriquecedora.
 
@@ -81,7 +79,7 @@ Una vez que hayas recopilado suficiente información, el siguiente paso es organ
 
 Si **elaboras un esquema de lo que debe ser un trabajo**, te será mucho más sencillo organizar la información que has recopilado.
 
-{% include add.html %}
+{% include add3.html %}
 
 ### 4. Que los niños escriban el borrador del trabajo
 
@@ -126,7 +124,7 @@ La redacción de trabajos escritos puede ser un desafío, especialmente para los
 
 ## Niños felices con sus Trabajos Escritos
 
-{% include add.html %}
+{% include add4.html %}
 
 Realizar trabajos escritos en la educación primaria es una habilidad esencial que los estudiantes deben desarrollar.
 

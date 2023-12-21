@@ -13,6 +13,8 @@ No importa si estás preparando un [informe]({{'informes'|relative_url}} "Inform
 
 ## Formato de un Trabajo Escrito
 
+{% include add.html %}
+
 Es esencial entender la importancia de la estructura y el formato al presentar un trabajo escrito. Para una presentación de alto impacto, considera lo siguiente:
 
 1. **Utiliza papel blanco y escribe en un solo lado**: Esto garantiza que tu trabajo sea limpio y legible.
@@ -76,7 +78,7 @@ Además de seguir las normas APA e ICONTEC en cuanto a márgenes, fuentes y dem�
 
 En cuanto a los márgenes inferior y superior, deben tener una medida de 2,54 cm (1 pulgada) en las Normas APA mientras que en las Normas ICONTEC se debe establecer una medida de 3 cm para el margen superior y 3 cm para el margen inferior. El resto de los márgenes debe ser de 2,5 cm (1 pulgada).
 
-{% include add-post.html %}
+{% include add2.html %}
 
 ### ¿Qué normas se deben respetar en la presentación de ensayos, tesis, monografías y artículos?
 
@@ -132,7 +134,7 @@ Es importante tener en cuenta que cada parte del trabajo debe contener cierta in
 
 ## La importancia de la ortografía y la redacción impersonal en tercera persona del singular
 
-{% include add-post.html %}
+{% include add3.html %}
 
 La ortografía es clave en cualquier presentación de un trabajo escrito. La redacción impersonal en tercera persona del singular **hace que el proyecto sea más formal, y se le conceda mayor importancia por su imparcialidad**, haciendo que se aleje del sesgo emocional y añadiendo mayor objetividad a la presentación.
 
@@ -173,6 +175,8 @@ Una estructura común a muchos trabajos es la que se basa en una organización e
 Es importante destacar que esta es una estructura general y existen varias variaciones de la misma que se adaptan a cada tipo de trabajo específico. Siguiendo una adecuada estructura, se puede lograr que el trabajo sea más claro y fácil de entender para los lectores. En el siguiente apartado se hablará sobre la forma de citar correctamente siguiendo las Normas APA.
 
 ## Ahora sí presenta tu Trabajo Escrito
+
+{% include add4.html %}
 
 Crear y presentar un trabajo escrito no tiene por qué ser una tarea abrumadora. Con la preparación adecuada y [las técnicas correctas]({{'cursos-de-trabajos-escritos'|relative_url}}), puedes presentar un trabajo que no solo cumpla con las expectativas de tu profesor o jefe, sino que también te haga destacar.
 

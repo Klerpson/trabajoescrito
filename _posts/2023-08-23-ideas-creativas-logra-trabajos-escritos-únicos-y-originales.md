@@ -56,7 +56,7 @@ Ayuda a romper el texto, facilita la lectura y, en general, hace que tu trabajo 
 
 ## Decoración de trabajos escritos: dale vida a tus páginas
 
-{% include add-post.html %}
+{% include add.html %}
 
 Si pensabas que un trabajo escrito es solo texto sobre papel, ¡piénsalo de nuevo! Aquí te traigo algunas ideas creativas para que tus trabajos escritos sean una obra de arte.
 
@@ -96,7 +96,7 @@ Los degradados están de moda y pueden añadir un toque moderno a tu trabajo. **
 
 ## ¡Hazlo visual! Infografías y más para un trabajo creativo
 
-{% include add.html %}
+{% include add2.html %}
 
 ¿Sabías que el cerebro humano procesa imágenes 60,000 veces más rápido que el texto? Aquí es donde las **infografías** entran en juego. No solo hacen que tu trabajo sea más atractivo, sino que también pueden simplificar conceptos complejos de una manera que cualquiera pueda entender.
 
@@ -161,7 +161,7 @@ No hay nada como un buen **video** para dar vida a tu trabajo escrito. Puede ser
 
 📌 **Consejo Pro**: Si el video es externo, asegúrate de tener los derechos para usarlo o cita adecuadamente la fuente.
 
-----
+{% include add3.html %}
 
 ## 📊 Tablas comparativas: Poniendo todo en perspectiva, y más bonito
 
@@ -191,7 +191,7 @@ Una **tabla comparativa** puede ser una excelente manera de mostrar diferencias 
 
 ## 🎨 Infografías: Un cuadro vale y decora más que mil palabras
 
-{% include add-post.html %}
+{% include add4.html %}
 
 Si eres de los que prefiere **visualizar** la información, las **infografías** son tu mejor aliado. Estas joyas gráficas pueden resumir datos complejos de una manera sencilla y atractiva.
 
@@ -223,7 +223,7 @@ No solo se divirtió escribiendo, sino que su profesor quedó tan impresionado q
 
 🔥 **Punto clave**: No subestimes el poder de un enfoque creativo para transformar un tema aburrido en algo memorable.
 
-----
+{% include add5.html %}
 
 ## 📚 Cómo aplicar técnicas de storytelling en tus trabajos escritos para aumentar su creatividad
 
@@ -261,7 +261,7 @@ Imagina que tienes que escribir un informe sobre el **cambio climático**. En lu
 
 ## 🎨 Uso de metáforas y analogías para enriquecer tus textos
 
-{% include add.html %}
+{% include add6.html %}
 
 ### ¿Por qué usar metáforas y analogías?
 
@@ -315,7 +315,7 @@ Si quieres ir un paso más allá, puedes incluso incorporar **videos** o **podca
 
 ## 📝 Revisa y edita como un profesional para que la creatividad no arruine tu trabajo escrito
 
-{% include add-post.html %}
+{% include add7.html %}
 
 ### ¿Por qué es importante revisar?
 
@@ -343,6 +343,8 @@ La revisión no es solo un paso final, sino un proceso continuo que puede hacer 
 ----
 
 ## 🎯 Conclusión: Pon en práctica estas ideas creativas en tus trabajos escritos
+
+{% include add8.html %}
 
 Has llegado al final de este viaje, pero esto es solo el comienzo para ti. Ahora tienes en tus manos una **caja de herramientas completa** para llevar tus trabajos escritos al siguiente nivel.
 

@@ -13,9 +13,9 @@ La **[Norma APA]({{'normas-apa'|relative_url}})** es un conjunto de estándares 
 
 Por otro lado, las **[Normas ICONTEC]({{'normas-icontec'|relative_url}})** son pautas establecidas por el Instituto Colombiano de Normas Técnicas y Certificación, utilizadas ampliamente en países de habla hispana para la presentación de trabajos académicos y científicos.
 
-## Aspectos generales de las Normas APA
-
 {% include add-post.html %}
+
+## Aspectos generales de las Normas APA
 
 Las Normas APA tienen como objetivo principal el facilitar la comprensión y la transmisión de información en los trabajos académicos. Algunas características a destacar son:
 
@@ -27,6 +27,8 @@ Las Normas APA tienen como objetivo principal el facilitar la comprensión y la 
 6. La bibliografía debe listarse al final del documento en orden alfabético por el apellido del primer autor.
 
 ## Aspectos generales de las Normas ICONTEC
+
+{% include add.html %}
 
 Las Normas ICONTEC, al ser estándares colombianos, se adaptan especialmente a las necesidades y características de los trabajos académicos en Colombia. Entre sus aspectos generales se encuentran:
 
@@ -54,7 +56,7 @@ Las Normas APA requieren que las páginas estén numeradas en la esquina superio
 
 ## Cuadro comparativo de las Normas APA y las Normas ICONTEC
 
-{% include add-post.html %}
+{% include add3.html %}
 
 | Aspecto       | Normas APA                 | Normas ICONTEC                   |
 | ---------------------------- | --------------------------- | -------------------- |

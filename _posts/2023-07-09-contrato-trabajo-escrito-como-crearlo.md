@@ -37,7 +37,7 @@ También es importante tener en cuenta las **[normas APA]({{'normas-apa'|relativ
 
 ## Modelo de Contrato de Trabajo Escrito
 
-{% include add-post.html %}
+{% include add4.html %}
 
 Aquí te proporcionamos un **modelo de contrato de trabajo escrito** que puedes usar como punto de partida para crear tu propio contrato. Recuerda que este es solo un ejemplo y que debes adaptarlo a tus necesidades específicas.
 
@@ -77,7 +77,7 @@ También, dependiendo de la naturaleza de la relación laboral. Por ejemplo, el 
 
 ## Asegura tus servicios al contratar un Trabajo Escrito
 
-{% include add-post.html %}
+{% include add3.html %}
 
 Crear un **contrato de trabajo escrito** puede parecer una tarea desalentadora, pero con la información y las herramientas correctas, puedes hacerlo con confianza.
 

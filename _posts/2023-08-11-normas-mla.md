@@ -19,7 +19,7 @@ Al final de este artículo, tendrás una sólida comprensión de cómo formatear
 
 ## ¿Qué son las normas con estilo MLA?
 
-{% include add-post.html %}
+{% include add2.html %}
 
 *El estilo MLA, abreviatura de Modern Language Association Style (Asociación de Lenguas Modernas), es un conjunto de directrices ampliamente utilizado en las humanidades, especialmente en los estudios de inglés y literatura*.
 
@@ -83,7 +83,7 @@ El estilo de escritura en MLA se esfuerza por lograr un comportamiento profesion
 
 ## Citas con normas MLA
 
-{% include add.html %}
+{% include add6.html %}
 
 Las citas dentro del texto son necesarias **para dar crédito a la fuente** original de la información y **evitar el plagio**. La página de obras citadas debe contener una lista completa de todas las fuentes utilizadas en el documento.
 
@@ -117,7 +117,7 @@ Mediante la aplicación coherente de las citas dentro del texto, los escritores 
 
 ## Página de obras citadas según las normas MLA
 
-{% include add.html %}
+{% include add5.html %}
 
 Como parte crucial del Estilo MLA, **la página de obras citadas es una referencia indispensable** para los lectores.
 

@@ -44,7 +44,7 @@ El núcleo de nuestra presentación son las diapositivas. Deben estar organizada
 
 ### Normas APA para diapositivas
 
-{% include add-post.html %}
+{% include add6.html %}
 
 * **Diseño coherente:** Asegúrate de que todas las diapositivas sigan el mismo patrón de diseño.
 * **Fuentes legibles:** Usa fuentes que sean fáciles de leer.
@@ -61,7 +61,7 @@ Las citas y referencias son vitales en cualquier presentación académica o prof
 
 ## Pon en práctica las Normas APA en PowerPoint
 
-{% include add-post.html %}
+{% include add5.html %}
 
 Estás listo para aplicar todo lo que has aprendido. Ya sea que estés preparando una presentación sobre cambio climático o cualquier otro tema, recuerda aplicar las Normas APA en cada paso.
 
