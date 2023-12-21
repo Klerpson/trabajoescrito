@@ -16,6 +16,8 @@ Exactamente lo que **un glosario bien construido** puede prevenir en tu propio [
 
 ## ¿Qué es un glosario en un Trabajo Escrito?
 
+{% include add5.html %}
+
 Un glosario es una sección del trabajo donde se explican palabras o términos técnicos que pueden ser desconocidos para algunos lectores.
 
 **Funciona como una mini-enciclopedia personalizada para tu trabajo**, asegurándose de que todos puedan entender completamente lo que estás diciendo, sin importar su nivel de conocimiento previo.
@@ -26,7 +28,7 @@ El glosario, por su parte, **se debe presentar en orden alfabético y cada térm
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-----
+{% include add6.html %}
 
 ## Cómo hacer un glosario para un Trabajo Escrito
 
@@ -49,7 +51,7 @@ Un glosario bien construido puede mostrar tu consideración hacia los lectores y
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include add7.html %}
 
 ## Ejemplos de glosarios efectivos
 
@@ -76,6 +78,8 @@ Para visualizar cómo debería ser un glosario, analicemos algunos ejemplos:
 ----
 
 ## Ilumina el contenido de tu Trabajo Escrito con un Glosario
+
+{% include add8.html %}
 
 Un glosario efectivo es como un faro que ilumina el camino para tus lectores, guiándolos **a través de los términos y conceptos técnicos de tu trabajo escrito**.
 

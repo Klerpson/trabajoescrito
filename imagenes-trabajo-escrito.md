@@ -14,6 +14,8 @@ En el mundo académico y profesional, las imágenes pueden ser un recurso muy po
 
 Puedes utilizar **gráficos y tablas hasta fotografías y diagramas**. Las imágenes pueden aportar claridad, interés y profundidad a tu trabajo escrito.
 
+{% include add.html %}
+
 Analicemos algunos puntos importantes sobre **cómo usar imágenes en tu trabajo escrito.**
 
 ## El valor de las Imágenes en un Trabajo Escrito
@@ -25,6 +27,8 @@ Las imágenes son una herramienta poderosa para **transmitir información de man
 * **Ayudan a recordar la información:** Los estudios muestran que las personas recuerdan mejor la información cuando se presenta visualmente.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas" class="seccion_a"}
+
+{% include add2.html %}
 
 ## Cómo incorporar Imágenes en un Trabajo Escrito
 
@@ -38,6 +42,8 @@ Incorporar imágenes en tu trabajo escrito requiere más que solo insertar una i
 {:id="descargas"}
 
 ### Ejemplos de uso de Imágenes en Trabajos Escritos
+
+{% include add3.html %}
 
 >* **Gráfico de barras**: Un gráfico de barras puede ser una forma efectiva de *mostrar comparaciones entre diferentes grupos o categorías*.
 * **Diagrama**: Un diagrama puede ser útil *para explicar un proceso o mostrar cómo se relacionan diferentes elementos* entre sí.

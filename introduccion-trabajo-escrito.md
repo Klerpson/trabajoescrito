@@ -14,21 +14,23 @@ Como muchos autores saben, comenzar es a menudo lo más difícil. Pero, como dij
 
 Te queremos compartir las técnicas y los pasos para realizar una introducción cautivadora. También, te proporcionaremos ejemplos concretos y asesoramiento de expertos para ayudarte a dominar este arte crucial.
 
-## Cómo se hace una buena introducción
+## Cómo se hace una buena hoja de introducción
+
+{% include add3.html %}
 
 Una buena introducción **establecerá las expectativas** del lector en relación con el documento, y se **facilitará la comprensión del mismo**, contribuyendo a su mejor valoración por parte de sus lectores.
 
 **¿Cómo hacer una buena introducción?** [En su libro "On Writing Well", William Zinsser](https://amzn.to/46KAUff "Comprar el libro"){:rel="nofollow noopener noreferrer sponsored" target="_blank"} dijo: "La forma más importante de atraer y mantener la atención del lector ***es ser específico***".
 
-### Comienza con un gancho potente
+### Comienza tu documento con un gancho potente
 
 Pues lo anterior comienza con un gancho potente: **una o dos frases que captan la atención del lector y despiertan su interés en continuar leyendo**.
 
-### Proporciona la información de fondo necesaria
+### Proporciona la información de fondo necesaria para entender tu trabajo escrito
 
 **Una parte crucial de cualquier introducción es la información de fondo**. Según la Dra. Jane Simonsen, profesora de historia y estudios de género, "la introducción debería situar al lector en el tema, proporcionándole cualquier información que pueda necesitar para comprender el argumento que se desarrollará".
 
-### Define con claridad tu propósito
+### Define con claridad tu propósito en la introducción
 
 En su artículo "Writing an Introduction", el Dr. Richard Leahy enfatiza que **una introducción efectiva debe declarar claramente el propósito del trabajo**.
 
@@ -37,13 +39,13 @@ En su artículo "Writing an Introduction", el Dr. Richard Leahy enfatiza que **u
 
 Esta es tu oportunidad para decirle a tu lector qué puede esperar aprender o obtener de la lectura de tu trabajo.
 
-### Sé conciso y atractivo
+### Sé conciso y atractivo al escribir tu introducción
 
 La brevedad es el alma de la ingeniosidad, y eso también se aplica a las introducciones. Como afirma [el profesor de inglés Jack Lynch](https://amzn.to/44MSg9u){:rel="nofollow noopener noreferrer" target="_blank"}, "tu lector no necesita tu introducción para comprender tu tesis, solo necesita tu introducción para entender por qué tu tesis es importante".
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
-----
+{% include add4.html %}
 
 ## Estructura de la introducción
 
@@ -69,17 +71,17 @@ La introducción es una parte fundamental de un trabajo académico y es importan
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include add5.html %}
 
-## Ejemplos de introducciones cautivantes
+## Ejemplos de introducciones de trabajos escritos
 
 Te dejamos **3 ejemplos de introducciones para trabajos escritos en tres áreas diferentes**: ciencias sociales, literatura y ciencia.
 
 Cada uno muestra diferentes formas de utilizar 3 puntos clave:
 
-* Un gancho
-* Proporcionar información de fondo
-* Establecer el propósito de la obra
+- Un gancho
+- Proporcionar información de fondo
+- Establecer el propósito de la obra
 
 1. Ciencias Sociales:  
 "En una era caracterizada por la globalización y la interconexión digital, los límites geográficos parecen haberse desvanecido. Pero, ¿cómo ha influido esta nueva realidad en la forma en que las sociedades se forman y evolucionan? Este ensayo se adentra en la sociología de la globalización, explorando cómo la digitalización ha transformado las dinámicas de interacción social y cómo estas transformaciones pueden prever el futuro de nuestras sociedades. En este recorrido, analizaremos teorías, estudios de casos y debates contemporáneos que nos permitirán desentrañar esta intrincada red global."
@@ -90,6 +92,8 @@ Cada uno muestra diferentes formas de utilizar 3 puntos clave:
 {:class="seccion_a"}
 
 Cada uno de estos ejemplos proporciona un gancho interesante, establece el contexto y el propósito del trabajo, e invita al lector a seguir leyendo.
+
+{% include add6.html %}
 
 ## Redacta una buena introducción ahora
 

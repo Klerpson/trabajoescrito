@@ -10,11 +10,13 @@ boton_mas: "descargas"
 boton_mas_title: "Cómo mantener la ética"
 vertical: true
 ---
-## Redacción de Investigaciones con normas APA e Icontec
+## Redacción de una investigación con normas APA e Icontec
 
 Para presentar un trabajo escrito con [normas APA]({{'normas-apa'|relative_url}} "Normas APA") e [ICONTEC]({{'normas-icontec'|relative_url}} "Normas Icontec") es importante prestar atención a algunos detalles que harán que nuestro proyecto sea fácil de entender y siga las reglas de escritura impersonal en tercera persona del singular.
 
-### Creación de objetivos generales y específicos en la investigación
+{% include add7.html %}
+
+### Creación de objetivos generales y específicos en la investigación académica
 
 La creación de objetivos generales y específicos requiere conocimiento del tema a tratar. Los **objetivos generales deben ser claros y precisos**, mientras que **los específicos deben detallar las metas y objetivos individuales a cumplir en la investigación**.
 
@@ -32,13 +34,15 @@ El texto debe estar justificado y cumplir con [los márgenes establecidos]({{'ma
 
 Para una presentación de una investigación exitosa, es importante respetar [las Normas APA]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes normas APA") e [ICONTEC]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes normas Icontec") en cuanto a la justificación del texto y los márgenes establecidos, dejando un margen superior e inferior de 3cm y un margen izquierdo de 3cm y uno derecho de 2cm. Esto permitirá una fácil comprensión y lectura del contenido.
 
-### Importancia de los números árabigos y el análisis científico dentro del proyecto
+### Importancia de los números árabigos y el análisis científico dentro del proyecto de investigación
 
 La inclusión de números árabigos en el contenido del proyecto, siguiendo las Normas APA e ICONTEC, permitirá una fácil identificación de los argumentos y puntos de interés clave para la comprensión del contenido.
 
 Es también importante el análisis científico en la redacción del texto para permitir que el lector comprenda las implicaciones y significados de lo expuesto en el proyecto académico.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
+
+{% include add8.html %}
 
 ## Consejos para realizar una investigación con Normas APA e Icontec
 
@@ -55,13 +59,15 @@ Para realizar una investigación con Normas APA e Icontec es fundamental seguir 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas" class="seccion_a"}
 
-## Ética e integridad académica en la investigación
+## Ética e integridad académica en la investigación escrita
+
+{% include add9.html %}
 
 En esta sección, abordaremos la importancia de la ética y la integridad académica en la investigación.
 
 Exploraremos las prácticas responsables y las normas éticas que debemos seguir como investigadores para garantizar la calidad y la confiabilidad de nuestro trabajo.
 
-### Honestidad intelectual y atribución adecuada de investigaciones
+### Honestidad intelectual y atribución adecuada de una investigación
 
 La honestidad intelectual es fundamental en la investigación académica. Aquí hay algunas pautas para mantener la honestidad intelectual y asegurar una atribución adecuada:
 
@@ -79,6 +85,8 @@ Cuando realizamos investigaciones que involucran seres humanos, es importante pr
 {:class="seccion_a"}
 
 ### Responsabilidad en la comunicación de resultados de investigaciones académicas
+
+{% include add9.html %}
 
 La comunicación responsable y ética de los resultados de la investigación es esencial para evitar malentendidos y promover la confianza en la comunidad científica. Aquí hay algunas pautas a tener en cuenta:
 

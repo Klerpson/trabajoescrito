@@ -14,21 +14,21 @@ Las conclusiones no sólo cierran el argumento que se ha desarrollado a lo largo
 
 Pero, ¿cómo redactar conclusiones efectivas y convincentes? Aquí te lo explicamos.
 
-## ¿Qué es una conclusión?
+## ¿Qué es una conclusión en un trabajo escrito?
 
 Primero, debemos entender qué es una conclusión. En términos generales, **la conclusión es la sección final de un trabajo escrito donde se sintetizan los puntos más importantes**.
 
 Aquí es donde el autor refuerza sus argumentos y muestra cómo sus hallazgos responden a la pregunta de investigación o a la hipótesis planteada al inicio.
 
-## ¿Dónde va la conclusión?
+## ¿Dónde va la conclusión de un trabajo escrito?
 
 La conclusión normalmente **se ubica al final del trabajo escrito**, [después del desarrollo]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo trabajo escrito") y la discusión de los resultados. Aunque puede variar dependiendo del tipo de texto, en general se encuentra **justo antes de la [bibliografía]({{'bibliografia-trabajo-escrito'|relative_url}} "Bibliografía trabajo escrito") o [referencias]({{'referencias-trabajo-escrito'|relative_url}} "Referencias trabajo escrito")**.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
------
+{% include add.html %}
 
-## Pasos para hacer una conclusión
+## Pasos para hacer una buena conclusión
 
 Realizar una conclusión efectiva implica una serie de pasos. Aquí te mostramos cómo hacer una conclusión en simples etapas:
 
@@ -36,15 +36,15 @@ Realizar una conclusión efectiva implica una serie de pasos. Aquí te mostramos
 2. **Respuesta a la hipótesis**: Luego, aborda cómo tus resultados respaldan o refutan la hipótesis que planteaste inicialmente.
 3. **Implicaciones y recomendaciones**: Finalmente, habla sobre las implicaciones de tus resultados y propón futuros estudios o investigaciones.
 
-### ¿Cómo iniciar una conclusión?
+### ¿Cómo iniciar la hoja de conclusión?
 
 Iniciar una conclusión puede ser desafiante. Asegúrate de hacer una transición suave desde la sección anterior y evita introducir nuevas ideas en esta etapa. Puedes comenzar con frases como "En resumen", "En conclusión" o "Para concluir".
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include add2.html %}
 
-## Modelo de conclusiones
+## Modelo de conclusiones académicas
 
 Un modelo de conclusión puede ser útil para entender cómo se estructura esta sección. Aquí te proporcionamos un ejemplo:
 
@@ -59,6 +59,8 @@ Una conclusión debe contener 3 elementos principales:
 * Recomendaciones para futuras investigaciones.
 
 ## Cómo elaborar y redactar las conclusiones
+
+{% include add-post.html %}
 
 Elaborar y redactar conclusiones efectivas requiere práctica. **Concéntrate en sintetizar tus ideas y resultados** de manera clara y concisa.
 

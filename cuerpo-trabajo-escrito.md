@@ -14,7 +14,7 @@ El cuerpo de tu trabajo escrito es más que solo palabras en una página; es el 
 
 ## ¿Qué es el cuerpo del trabajo escrito y por qué es crucial?
 
-{% include add.html %}
+{% include add7.html %}
 
 El cuerpo de un [trabajo escrito](/) **es la sección principal del texto** que sigue a la [introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducciones") y en donde se presenta, argumenta, y analiza el tema o tesis central del trabajo.
 
@@ -32,6 +32,8 @@ En otras palabras, aquí haces la exposición de toda la información que has pr
 
 ## ¿Cómo se hace un cuerpo de trabajo?
 
+{% include add8.html %}
+
 El cuerpo de trabajo *inicia con una tesis o argumento principal*. Luego, se presenta la evidencia o datos que respaldan este argumento en párrafos sucesivos.
 
 Cada párrafo debe presentar una idea principal, respaldada por información relevante. Recuerda siempre mantener la coherencia y el flujo de ideas.
@@ -48,6 +50,8 @@ El cuerpo principal es el corazón del texto, donde late la esencia de tu argume
 {:class="seccion_a"}
 
 ### ¿Cómo Estructurar el Cuerpo de tu Trabajo Escrito?
+
+{% include add9.html %}
 
 Ahora que ya sabes la importancia del cuerpo del trabajo, es hora de hablar de su estructura. No basta con tener buenos argumentos; también necesitas presentarlos de forma lógica.
 

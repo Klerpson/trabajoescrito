@@ -16,7 +16,7 @@ Empezar cualquier [trabajo escrito](/) puede ser un desafío, y la primera hoja 
 
 Veamos las técnicas para **hacer una hoja de presentación**, un aspecto esencial de las normas de presentación universitarias.
 
-----
+{% include add9.html %}
 
 ## ¿Qué es la Hoja de Presentación?
 
@@ -25,6 +25,8 @@ Veamos las técnicas para **hacer una hoja de presentación**, un aspecto esenci
 {:id="normas"}
 
 ## Cómo elaborar una Hoja de Presentación
+
+{% include add.html %}
 
 No necesitas buscar más imágenes de presentación para tener una idea de cómo debe ser tu hoja.
 
@@ -48,6 +50,8 @@ Aquí, te proporcionamos un modelo general que puedes adaptar a tus necesidades,
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
+{% include add2.html %}
+
 ## Recomendaciones para una Hoja de Presentación Impecable
 
 La hoja de presentación puede ser **una herramienta poderosa para establecer una primera impresión fuerte y positiva**.
@@ -66,6 +70,8 @@ Con estas recomendaciones en mente, estarás en camino a **crear una hoja de pre
 <!-- ### Ejemplos de Hojas de Presentación
 
 Te ofreceremos algunos ejemplos de hojas de presentación, tanto para el contexto universitario como para el colegio, en un futuro post. Mantente en sintonía. -->
+
+{% include add-post.html %}
 
 ## Al terminar la hoja de presentación de tu Trabajo Escrito
 

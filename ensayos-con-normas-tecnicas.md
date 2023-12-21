@@ -14,7 +14,7 @@ La redacción de ensayos académicos **implica la adhesión a ciertos formatos y
 
 Ante la necesidad de aplicar las normas correspondientes, abordaremos la forma de **escribir un ensayo siguiendo cada una de ellas**.
 
-----
+{% include add.html %}
 
 ## Redactando ensayos con Normas APA
 
@@ -32,6 +32,8 @@ Ten en cuentas las siguientes sugerencias sobre cómo usar estas normas para ens
 
 ## Normas ICONTEC
 
+{% include add3.html %}
+
 [Las Normas ICONTEC (Instituto Colombiano de Normas Técnicas y Certificación)]({{'normas-icontec'|relative_url}} "Normas Icontec") son otro conjunto de reglas para la presentación de trabajos académicos.
 
 * **Portada**: [La portada]({{'normas-icontec/portada-contraportada-normas-icontec'|relative_url}} "Portada normas Icontec") debe incluir el nombre de la institución, el título del trabajo, el nombre del autor, la ciudad y el año.
@@ -43,6 +45,8 @@ Ten en cuentas las siguientes sugerencias sobre cómo usar estas normas para ens
 {:id="descargas"}
 
 ## Normas Vancouver
+
+{% include add4.html %}
 
 Las Normas Vancouver son comúnmente utilizadas en campos relacionados con la medicina y las ciencias.
 

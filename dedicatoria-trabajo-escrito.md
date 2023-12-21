@@ -22,6 +22,8 @@ Por esta importante razón, debes tener muy claros algunos conceptos antes de re
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
+{% include add.html %}
+
 ## Cómo redactar una dedicatoria: pasos a seguir
 
 Entonces, ¿cómo se escribe una dedicatoria de trabajo escrita? Aquí te presentamos un modelo a seguir:
@@ -53,7 +55,7 @@ Usualmente, las dedicatorias **se hacen a personas cercanas como familiares, ami
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
------
+{% include add-post.html %}
 
 ## Ejemplos de dedicatorias que dejan huella
 
@@ -83,7 +85,7 @@ Es una manera de expresar la motivación detrás de la realización del trabajo.
 
 >"Dedico este estudio a todos los trabajadores migrantes cuyas historias de lucha y resiliencia han inspirado este trabajo. Mi esperanza es que este estudio arroje luz sobre sus experiencias y abra un camino hacia políticas más justas y humanitarias."
 
------
+{% include add2.html %}
 
 ## El toque personal de la dedicatoria
 

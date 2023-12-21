@@ -12,6 +12,8 @@ vertical: true
 ---
 Los márgenes en un trabajo escrito no son un detalle menor; de hecho, **pueden hacer o deshacer la presentación de tu documento**. Aquí te mostraremos cómo ajustarlos de forma precisa para que tu trabajo luzca profesional.
 
+{% include add.html %}
+
 ## ¿Qué Son Exactamente Los Márgenes de un Trabajo Escrito?
 
 Los márgenes son **los espacios vacíos que rodean el texto en una página**. Proporcionan un área de respiro visual, dejan espacio para la encuadernación y permiten hacer notas al margen.
@@ -20,11 +22,9 @@ Los márgenes adecuados ofrecen *una presentación ordenada y legible* para el l
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-{% include add.html %}
-
 ## Cómo van las medidas de las márgenes del trabajo escrito
 
-{% include add.html %}
+{% include add-post.html %}
 
 ### Márgenes adecuados para un trabajo profesional
 
@@ -49,7 +49,7 @@ Sin embargo, si incluyes elementos gráficos o logotipos, es posible que debas h
 
 Estas medidas son sugerencias basadas en normas estándar, como las [normas APA]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes Normas APA") o como las [normas Icontec]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Normas Icontec").
 
-### Diferencia en las medidas de las márgenes entre las normas APA e ICONTEC
+### Diferencia en las medidas de la margen entre las normas APA e ICONTEC
 
 |             | Normas APA                    | Normas ICONTEC            |
 |-------------|-------------------------------|---------------------------|
@@ -59,7 +59,7 @@ Algunas instituciones o profesores pueden tener requisitos específicos de forma
 
 > Nota: Asegúrate de aplicar estos cambios a todo el documento y no sólo a una parte. Y pregunta a tus revisores si desean que apliques otras normas de trabajos académicos en tus márgenes.
 
-### Preguntas para reflexionar antes de establecer las márgenes de tu trabajo
+### Preguntas importantes antes de establecer las márgenes de tu trabajo escrito
 
 1. **¿Qué método es más adecuado para tu tipo de documento?**: ¿Necesitas márgenes predefinidos o personalizados?
 2. **¿Cómo afectan los márgenes al diseño general de tu documento?**: ¿Has considerado cómo los márgenes pueden influir en la legibilidad y presentación?
@@ -67,7 +67,7 @@ Algunas instituciones o profesores pueden tener requisitos específicos de forma
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include add2.html %}
 
 ## Cómo hacer una margen para un trabajo escrito en Word y Google Docs
 
@@ -75,7 +75,7 @@ Algunas instituciones o profesores pueden tener requisitos específicos de forma
 
 Perfecto, Julian. Ahora vamos a mejorar la sección del tutorial, haciéndola más fácil de seguir.
 
-### Cómo aplicar márgenes en Word y Google Docs para dummies
+### Cómo aplicar márgenes en Word y Google Docs para tus trabajos escritos
 
 #### ⏯ En Microsoft Word
 
@@ -105,6 +105,8 @@ Perfecto, Julian. Ahora vamos a mejorar la sección del tutorial, haciéndola m�
 Y ahí lo tienes, **ahora sabes cómo ajustar los márgenes en Word y Google Docs como un profesional**, ¡pero en un lenguaje que todos podemos entender!
 
 ## Las márgenes y la presentación de tu trabajo escrito
+
+{% include add3.html %}
 
 Establecer correctamente los márgenes es un paso importante **para [presentar un trabajo escrito de manera profesional]({% post_url 2023-05-28-como-presentar-trabajo-escrito %})**.
 

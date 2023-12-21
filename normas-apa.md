@@ -18,7 +18,7 @@ Ahora existen diferentes herramientas que pueden facilitar la aplicación de las
 
 Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo académico](/#partes), las formas correctas de citar y de hacer referencias a las fuentes, así como algunos consejos y trucos para aplicar con éxito las normas APA.
 
-----------
+{% include add.html %}
 
 ## Estructura y formato de las normas APA
 
@@ -55,6 +55,8 @@ Nosotros te enseñamos las distintas secciones de la [estructura de un trabajo a
 [Conoce los libros](/cursos-de-trabajos-escritos){:class="boton"}
 
 ## Cómo va la estructura del trabajo según las normas APA
+
+{% include add-post.html %}
 
 Las normas APA son ampliamente utilizadas en la elaboración de trabajos escritos. **Estas normas garantizan la correcta presentación de la información y la adecuada citación** de las fuentes bibliográficas.
 
@@ -169,7 +171,7 @@ Una lista de referencias bien elaborada no solo respalda tus argumentos, sino qu
 
 [Referencias bibliográficas APA]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias bibliográficas con normas APA"){:class="boton"}
 
-----
+{% include add3.html %}
 
 ## Cómo el uso de Normas APA afecta a nuestra comunidad académica
 
@@ -198,6 +200,8 @@ El uso de las Normas APA es una habilidad necesaria en empresas y organizaciones
 Los estudiantes se benefician enormemente al aprender y aplicar las Normas APA en sus trabajos académicos. El uso de las Normas APA permite a los estudiantes ser más rigurosos y precisos en la elaboración de sus trabajos, lo que simplifica su lectura y comprensión por parte de los evaluadores.
 
 >El uso de las Normas APA facilita el aprendizaje y la investigación, y contribuye al desarrollo de habilidades esenciales en el ámbito académico y laboral.
+
+{% include add4.html %}
 
 ## Reglas específicas de las normas APA en algunos tipos de trabajos académicos
 
@@ -240,6 +244,8 @@ Como las normas APA se actualizan, es necesario tener en cuenta la versión de l
 
 ## Novedades de la página oficial en la última edición de las Normas APA
 
+{% include add5.html %}
+
 **Las Normas APA se actualizan regularmente** para mejorar la presentación de los trabajos escritos y facilitar la labor de citar y referenciar fuentes.
 
 **La última edición de las Normas APA presenta cambios importantes** en la forma de hacer citas y referencias bibliográficas, para hacerlas más precisas, útiles y fáciles de entender.
@@ -272,7 +278,7 @@ Debes mantenerte actualizado de las novedades en las Normas APA para presentar t
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
------
+{% include add6.html %}
 
 ## Utiliza herramientas para aplicar fácilmente las normas APA
 
@@ -304,6 +310,8 @@ Para garantizar la originalidad de nuestro trabajo, podemos hacer uso de detecto
 Las normas APA Fueron creadas por la *American Psychological Association (APA)* para establecer **un esquema común que hiciera más fácil la lectura y comprensión de los trabajos académicos** en cualquier disciplina.
 
 ## Preguntas frecuentes sobre las normas APA
+
+{% include add7.html %}
 
 Analiza las siguientes secciones de preguntas frecuentes. Te resolvemos más dudas y problemas específicos sobre la aplicación correcta de las normas APA en la elaboración de trabajos académicos.
 

@@ -24,6 +24,8 @@ En general, los trabajos académicos y profesionales **exigen un interlineado de
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
+{% include add.html %}
+
 ### Cómo ajustar el interlineado en Word
 
 ¿No estás seguro de cómo ajustar el interlineado en Word? Sigue estos sencillos pasos:
@@ -38,7 +40,7 @@ El ajuste puede cambiar dependiendo de las directrices de presentación de tu in
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
------
+{% include add-post.html %}
 
 ## Interlineado según las normas de redacción
 
@@ -54,6 +56,8 @@ Las normas de redacción más comunes, [como las de la APA (American Psychologic
 Un interlineado apropiado **facilita la lectura y comprensión de tu texto**. Un documento muy apretado puede ser difícil de leer, mientras que demasiado espacio puede hacer que tu texto parezca desconectado.
 
 *La clave está en encontrar un equilibrio.* Si sigues las normas de tu institución y te ajustas a las normas de estilo correspondientes, deberías estar en el camino correcto para [presentar un trabajo bien estructurado y fácil de leer]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}).
+
+{% include add2.html %}
 
 ### Punto y aparte: el interlineado en la redacción de Trabajos Escritos
 

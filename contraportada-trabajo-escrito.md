@@ -16,6 +16,8 @@ Esta página a menudo se utiliza para incluir información adicional, como detal
 
 ## Cómo hacer una contraportada
 
+{% include add4.html %}
+
 ### Pautas a seguir
 
 Para elaborar una contraportada según las [Normas APA]({{'normas-apa'|relative_url}}), es importante seguir las mismas pautas que para la [portada]({{'portada-trabajo-escrito'|relative_url}}).
@@ -33,7 +35,7 @@ Esto significa tener en cuenta lo siguiente:
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
------
+{% include add5.html %}
 
 ## Contenido de la contraportada
 
@@ -50,6 +52,8 @@ Puedes incluir elementos adicionales como **la cita de algún fragmento relevant
 ----
 
 ## ¿Necesitas plantillas de contraportadas?
+
+{% include add6.html %}
 
 Estamos preparando plantillas para que se te haga más fácil inspirarte en una buena contraportada para tu trabajo escrito. Por ahora te animamos a buscar en Google "Modelos de contraportadas" y a sacar provecho de estas ayudas.
 

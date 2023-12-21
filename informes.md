@@ -10,7 +10,7 @@ boton_mas: "descargas"
 boton_mas_title: "Mira los tipos de Informe"
 vertical: true
 ---
-## ¿Qué es un informe y cómo se diferencia de otros trabajos escritos?
+## ¿Qué es un informe académico y cómo se diferencia de otros trabajos escritos?
 
 Un informe es un documento que presenta **hallazgos, análisis, y conclusiones de una [investigación]({{'investigacion-con-normas-apa-icontec'|relative_url}} "Investigaciones académicas"), lectura, experimento de laboratorio, entre otros**.
 
@@ -22,7 +22,9 @@ Un informe es un documento que presenta **hallazgos, análisis, y conclusiones d
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
-### Aplicando las normas APA sexta edición para informes
+{% include add5.html %}
+
+### Aplican las normas APA en la séptima edición para informes
 
 La sexta edición de [las Normas APA]({{'normas-apa'|relative_url}} "Normas APA") introdujo cambios significativos en el formato y [la citación]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas Normas APA"). Comprender estos cambios es esencial para mantener la integridad de tu informe.
 
@@ -32,15 +34,15 @@ La sexta edición de [las Normas APA]({{'normas-apa'|relative_url}} "Normas APA"
 | [Tipo y tamaño de fuente]({{'normas-apa/textos-normas-apa'|relative_url}} "Textos y fuentes Normas APA") | Times New Roman, 12 puntos |
 | [Referencias]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Normas APA") y Citas | Formateo específico para libros, artículos de revistas, sitios web, etc |
 
-### El poder de las normas Icontec para tu informe
+### Aplica las normas Icontec para tu informe
 
 Las normas Icontec también ofrecen **directrices claras para la presentación de informes**, permitiendo una lectura y comprensión fluida.
 
 Mira el paso a paso en [nuestra sección de normas Icontec.]({{site.baseurl}}/normas-icontec "Normas Icontec")
 
------
+{% include add6.html %}
 
-## Entra en acción: cómo hacer un Informe en Word
+## Entra en acción: cómo hacer un informe hecho en Word
 
 Microsoft Word es una herramienta indispensable para cualquier escritor académico. Con su gran variedad de funcionalidades, puedes **crear un informe académico que cumple con las Normas APA o Icontec**. Aquí te mostramos *cómo hacer un informe en Word paso a paso*.
 
@@ -102,7 +104,7 @@ Cuanto más uses Word y sus características, más fácil te resultará.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
------
+{% include add7.html %}
 
 ## Conoce y escoge los tipos de informes que necesitas
 
@@ -164,7 +166,7 @@ Finalmente, asegúrate de dedicar tiempo a revisar y corregir tu informe. Compru
 
 Siguiendo estos pasos, serás capaz de realizar un informe de lectura efectivo que demuestre tu comprensión del material y tu capacidad para analizar y sintetizar información.
 
------
+{% include add8.html %}
 
 ### Cómo elaborar un informe de laboratorio
 
@@ -206,6 +208,8 @@ En esta sección, debes **detallar todos los materiales y procedimientos** que u
 
 Recuerda **ser preciso y detallado**.
 
+{% include add9.html %}
+
 #### Paso 5: presenta tus resultados
 
 Los resultados son simplemente los datos que recogiste durante tu experimento. Deben ser presentados de manera clara y concisa, a menudo en forma de [tablas o gráficos]({{'imagenes-trabajo-escrito'|relative_url}} "Imágenes trabajo escrito").
@@ -233,7 +237,7 @@ Antes de entregar tu informe, tómate el tiempo para **revisarlo y editar cualqu
 
 Crear un informe de laboratorio efectivo puede parecer una tarea desalentadora, pero siguiendo estos pasos, estarás en camino de presentar un informe bien redactado y de alta calidad que refleje tus habilidades y conocimientos científicos.
 
------
+{% include add.html %}
 
 ### Cómo crear un informe técnico
 
@@ -277,6 +281,8 @@ Comienza redactando el informe, siguiendo la estructura que has planificado.
 
 Procura usar un lenguaje claro y directo, evitando jerga técnica cuando sea posible o explicándola si es necesario. Cada sección debe tener un propósito claro y contribuir al informe como un todo.
 
+{% include add.html %}
+
 #### Paso 5: presentación de datos
 
 Presenta tus datos en una forma que sea fácil de entender. Esto puede implicar el uso de gráficos, diagramas, tablas, y otras herramientas visuales.
@@ -297,7 +303,7 @@ Al seguir estos pasos, podrás crear un informe técnico de alta calidad que no 
 
 -----
 
-### Informe de investigación: el camino hacia la excelencia académica
+### Informe de investigación: pasos para presentarlo y brillar
 
 Un informe de investigación **es un documento académico que detalla los métodos, resultados y conclusiones de un estudio o investigación científica**.
 
@@ -344,15 +350,15 @@ Por último, no olvides revisar tu informe en busca de errores gramaticales, de 
 
 Recuerda: cuanto más escribas informes de investigación, más cómodo te sentirás con el proceso.
 
------
+{% include add-post.html %}
 
-## La comodidad de las plantillas y los PDFs
+## La comodidad de utilizar plantillas de informes
 
-Las plantillas pueden ser una excelente manera de comenzar a escribir tu informe, ya que te proporcionan una estructura predeterminada que puedes seguir
+Las plantillas pueden ser una excelente manera de comenzar a escribir tu informe, ya que te proporcionan una estructura predeterminada que puedes seguir.
 
-Puedes buscar en línea una gran variedad de plantillas de informe en formato PDF, que puedes descargar y utilizar como guía.
+Puedes buscar en línea una gran variedad de plantillas de informe en formato PDF, que puedes descargar y utilizar como guía. Es la forma de avanzar más rápido.
 
-## Presentando un informe ejemplar
+## Presenta un informe ejemplar
 
 Escribir un informe no es una tarea fácil, pero con las herramientas y conocimientos adecuados, puedes crear un informe académico sobresaliente.
 

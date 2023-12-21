@@ -16,7 +16,7 @@ Las normas Icontec son un conjunto de **reglas y metodologías que deben aplicar
 
 Estas normas establecen las **pautas para la presentación de trabajos académicos**, informes, manuales, entre otros, y aseguran la correcta estructuración y organización del texto.
 
------
+{% include add8.html %}
 
 ## Características específicas de las normas ICONTEC
 
@@ -43,6 +43,8 @@ Las normas colombianas se enfocan principalmente en establecer un patrón de pre
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 
 ## Cómo hacer un Trabajo Escrito con normas Icontec
+
+{% include add9.html %}
 
 El objetivo principal de las normas Icontec es estandarizar y reglamentar la presentación de un trabajo escrito, proporcionando una guía para los escritores y asegurando la calidad y coherencia en la presentación de los trabajos.
 
@@ -152,7 +154,7 @@ El **marco teórico** es una parte esencial de cualquier investigación académi
 
 [Marco teórico Icontec]({{'normas-icontec/marco-teorico-normas-icontec'|relative_url}} "Marco Teórico normas Icontec"){:class="boton"}
 
------
+{% include add.html %}
 
 ### Tutorial práctico de cómo aplicar las normas ICONTEC en Word
 
@@ -186,7 +188,7 @@ Sin embargo, debes recordar que [ICONTEC también tiene normas específicas](#es
 
 Te recomendamos revisar las normas específicas para cada una de estas secciones para asegurarte de que estás cumpliendo con todos los requisitos.
 
------
+{% include add-post.html %}
 
 ## Normas Icontec en Word para tesis, trabajos de grado y otros escritos académicos
 
@@ -208,6 +210,8 @@ Además de seguir los formatos requeridos por las normas Icontec, existen alguno
 
 ### Preguntas frecuentes sobre Normas Icontec en trabajos de investigación y escritos académicos
 
+{% include add2.html %}
+
 Las Normas Icontec son un conjunto de reglas que deben ser seguidas al elaborar trabajos escritos en Colombia. A continuación, se presentan las preguntas más frecuentes sobre las Normas Icontec en los trabajos de investigación y escritos académicos.
 
 ### ¿Son obligatorias las normas Icontec?
@@ -227,6 +231,8 @@ Existen diversas plantillas de trabajo en línea que siguen las normas Icontec y
 -----
 
 ## Consejos para usar las Normas Icontec en tus trabajos escritos
+
+{% include add3.html %}
 
 Si bien las Normas Icontec pueden parecer complejas, hay una serie de consejos y herramientas que pueden ayudarte a aplicarlas correctamente y evitar equivocaciones en la presentación de tus trabajos escritos.
 
@@ -264,6 +270,8 @@ Estos recursos pueden apoyarte en la aplicación de las Normas Icontec en tus tr
 -----
 
 ## Normas Icontec en otros países
+
+{% include add4.html %}
 
 Las normas Icontec son ampliamente utilizadas en Colombia, pero también son conocidas y utilizadas en otros países de América Latina como Venezuela, Ecuador, Panamá y Perú. Es importante destacar que los requerimientos y formatos pueden variar ligeramente en cada país.
 
@@ -303,6 +311,8 @@ Aquí te brindamos algunos **datos complementarios** que pueden ser de utilidad:
 Estos datos resaltan el valor y la importancia de conocer y entender las Normas ICONTEC.
 
 Dominar estas normas te proporcionará una base sólida para la presentación de trabajos escritos en diversos contextos, tanto académicos como profesionales.
+
+{% include add5.html %}
 
 ## Las normas icontec del Instituto Colombiano de Normas Técnicas y Certificación
 

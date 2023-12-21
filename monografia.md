@@ -14,7 +14,7 @@ Una monografía es un tipo de trabajo escrito que **se enfoca en investigar y ex
 
 Si no estás seguro de cómo se hace una monografía, no te preocupes. En este artículo, te guiaremos paso a paso para que puedas **elaborar tu monografía siguiendo [las normas APA]({{'normas-apa'|relative_url}} "Normas APA")**.
 
------
+{% include add.html %}
 
 ## ¿Qué es una monografía y cuáles son sus partes?
 
@@ -56,7 +56,7 @@ Incluye todas las fuentes que has consultado y citado en tu trabajo.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
------
+{% include add2.html %}
 
 ## Pasos para elaborar una monografía
 
@@ -74,6 +74,8 @@ Para facilitarte el proceso, puedes utilizar una plantilla de monografía. Mucha
 {:id="descargas"}
 
 ## Monografías con Normas Icontec
+
+{% include add3.html %}
 
 Para hacer una monografía con normas [Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec"), debes seguir las pautas de estructura específicas para este tipo de trabajo.
 
