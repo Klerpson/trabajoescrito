@@ -14,7 +14,7 @@ En estos casos, **el apéndice es nuestra mejor opción**. Este artículo te gui
 
 ## ¿Qué es un Apéndice?
 
-{% include add.html %}
+{% include add4.html %}
 
 **Un apéndice es una sección que se coloca al final de un trabajo escrito** donde se pueden incluir detalles, datos, [gráficos]({{'imagenes-trabajo-escrito'|relative_url}} "Imágenes trabajo escrito") o cualquier otro tipo de información que complemente o profundice lo que se ha discutido en el texto principal.
 
@@ -32,6 +32,8 @@ Un apéndice puede utilizarse para una variedad de propósitos, entre los que se
 
 ## Cómo organizar el Apéndice
 
+{% include add5.html %}
+
 Al crear un apéndice, hay varios puntos clave a considerar:
 
 1. **Orden**: Los apéndices siempre deben aparecer al final del trabajo escrito, después de las [referencias bibliográficas]({{'referencias-trabajo-escrito'|relative_url}} "Referencias trabajo escrito") o la [bibliografía]({{'bibliografia-trabajo-escrito'|relative_url}} "Bibliografía trabajo escrito").
@@ -40,9 +42,9 @@ Al crear un apéndice, hay varios puntos clave a considerar:
 4. **Normas Técnicas**: Asegúrate de seguir las normas técnicas correspondientes a tu trabajo escrito, [como APA]({{'normas-apa'|relative_url}} "Normas APA"), MLA, entre otros, para la presentación de los apéndices.
 {:class="seccion_a" id="normas"}
 
-{% include add.html %}
-
 ## Cómo referenciar un Apéndice
+
+{% include add6.html %}
 
 Finalmente, **es vital referenciar correctamente tu apéndice** en el cuerpo principal del trabajo escrito. Esto significa que debes indicar al lector cuando la información adicional se puede encontrar en el apéndice.
 

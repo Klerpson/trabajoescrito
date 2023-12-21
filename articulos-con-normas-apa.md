@@ -14,6 +14,8 @@ Aprende cómo **aplicar las normas APA en tus artículos científicos**, incluye
 
 ## Cómo hacer la referencia de un artículo en normas APA
 
+{% include add7.html %}
+
 [La correcta citación]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas Normas APA") y [referencia]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias Normas APA") de los artículos científicos **es fundamental para dar crédito a los autores originales, permitir a los lectores acceder a las fuentes utilizadas y garantizar la integridad académica**.
 
 A continuación, se detallan los pasos para hacer la referencia de un artículo en normas APA:
@@ -41,6 +43,8 @@ Al dominar la forma de hacer referencias de los artículos en normas APA, **podr
 
 ## Normas APA en artículos científicos
 
+{% include add8.html %}
+
 Los artículos científicos siguen pautas específicas en cuanto a su estructura y formato para **garantizar la coherencia y la comunicación efectiva** de los resultados de la investigación.
 
 A continuación, se detallan las principales consideraciones de las normas APA aplicadas a los artículos científicos:
@@ -59,6 +63,8 @@ A continuación, se detallan las principales consideraciones de las normas APA a
 {:id="descargas"}
 
 ## Normas APA para artículos de opinión e investigación
+
+{% include add9.html %}
 
 Los artículos científicos pueden clasificarse en dos categorías principales: **artículos de opinión y artículos de investigación**.
 
@@ -91,6 +97,8 @@ Al seguir estas pautas específicas para artículos de opinión y de investigaci
 >Recuerda adaptar tu enfoque y estilo de escritura según el tipo de artículo que estés abordando.
 
 ## Un artículo bien hecho y con las normas bien aplicadas
+
+{% include add.html %}
 
 La correcta aplicación de las normas APA en la redacción de artículos científicos es esencial para **asegurar la calidad y la comunicación efectiva de la investigación**.
 

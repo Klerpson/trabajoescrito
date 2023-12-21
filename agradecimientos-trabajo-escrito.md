@@ -56,7 +56,7 @@ Es necesario incluir una lista de instituciones que **hayan otorgado apoyo finan
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
------
+{% include add-post.html %}
 
 ## Consejos para redactar agradecimientos de forma estratégica
 
@@ -101,7 +101,7 @@ Otro servicio ofrecido es el de corrección de agradecimientos de [tesis]({{'tes
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-{% include add.html %}
+{% include add2.html %}
 
 ## Ejemplos de agradecimientos en distintos tipos de trabajos académicos
 
@@ -116,6 +116,8 @@ En general, los agradecimientos deben ser dirigidos hacia personas e institucion
 -----
 
 ## Preguntas frecuentes sobre agradecimientos de tesis
+
+{% include add3.html %}
 
 ### ¿Es necesario agradecer a todos los mencionados?
 

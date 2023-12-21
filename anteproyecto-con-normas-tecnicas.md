@@ -14,11 +14,9 @@ Algunos aspectos claves en la aplicación de **normas técnicas en Anteproyectos
 
 Además, es importante incluir una [portada]({{'portada-trabajo-escrito'|relative_url}} "Portadas"), [página de Aceptación]({{'pagina-aceptacion-trabajo-escrito'|relative_url}} "Página de aceptación"), listas especiales, [glosario]({{'glosario-trabajo-escrito'|relative_url}} "Glosario") y [bibliografía]({{'bibliografia-trabajo-escrito'|relative_url}} "Bibliografía"), entre otros elementos. La [introducción]({{'introduccion-trabajo-escrito'|relative_url}} "Introducción") debe contener información relevante para el anteproyecto.
 
------
+{% include add.html %}
 
 ## Normas técnicas para trabajos como los Anteproyectos
-
-{% include add.html %}
 
 [Las Normas Icontec]({{'normas-icontec'|relative_url}} "Normas Icontec") son un conjunto de **reglas y pautas que se deben seguir al momento de realizar trabajos escritos en Colombia**. Estas normas cubren aspectos como la presentación del trabajo, el formato, la ortografía, la puntuación, las citas y las referencias bibliográficas.
 
@@ -42,6 +40,8 @@ Por esto, revisa las guías completas de Normas Icontec y APA para trabajar corr
 {:class="seccion_a" id="estructura"}
 
 ### ¿Cómo hacer una Página de Aceptación con Normas APA o Icontec?
+
+{% include add2.html %}
 
 Para la página de aceptación e pueden utilizar frases como "Se aprueba el anteproyecto presentado por el estudiante", seguida por los nombres de los tutores o profesores y su firma.
 
@@ -73,7 +73,7 @@ En general, la introducción busca contextualizar el tema tratado y enunciar de 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-{% include add.html %}
+{% include add3.html %}
 
 ## ¿Cómo dividir el Anteproyecto en partes siguiendo Normas APA e Icontec?
 

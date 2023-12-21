@@ -54,7 +54,7 @@ Asegúrate de seguir las directrices de formato y estilo establecidas por tu ins
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-{% include add.html %}
+{% include add-post.html %}
 
 ## Ubicación de los anexos en un Trabajo Escrito
 

@@ -16,6 +16,8 @@ Acompáñanos en esta aventura del mundo de las referencias bibliográficas.
 
 ## ¿Qué es la Bibliografía en un Trabajo Escrito?
 
+{% include add.html %}
+
 **La bibliografía es una lista ordenada de las fuentes de información** que se han consultado o citado durante la realización de un trabajo académico, investigación, tesis, entre otros. Esta lista se incluye al final del documento, después de la [conclusión]({{'conclusiones-trabajo-escrito'|relative_url}}) o los [anexos]({{'anexos-trabajo-escrito'|relative_url}}).
 
 La bibliografía tiene dos propósitos principales: proporciona **el reconocimiento a los autores originales** de las ideas, teorías o datos que has utilizado, y **permite a los lectores de tu trabajo acceder a estas fuentes** para verificar su autenticidad o para realizar investigaciones adicionales.
@@ -23,6 +25,8 @@ La bibliografía tiene dos propósitos principales: proporciona **el reconocimie
 {:id="normas"}
 
 ## Cómo se elabora una Bibliografía en un Trabajo Escrito
+
+{% include add-post.html %}
 
 Elaborar una bibliografía no tiene por qué ser una tarea abrumadora. Desglosemos este proceso en pasos sencillos y manejables que te ayudarán a **construir una bibliografía precisa y completa**.
 
@@ -46,9 +50,10 @@ Una bibliografía bien elaborada es crucial para respaldar tus fuentes y permiti
 * **Verificación de la exactitud**: Antes de finalizar tu trabajo, revisa minuciosamente las referencias bibliográficas para asegurarte de que sean precisas y estén formateadas correctamente.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
------
 
 ## Ejemplos de Bibliografías de Trabajos Escritos
+
+{% include add2.html %}
 
 Para ilustrar cómo se escribe la bibliografía en un trabajo escrito, aquí te presentamos algunos ejemplos siguiendo diferentes estilos de citación:
 
@@ -87,6 +92,8 @@ Esto puede incluir trabajos que te han dado un conocimiento de fondo o que has l
 
 ### Uso de herramientas de gestión bibliográfica
 
+{% include add3.html %}
+
 Considera utilizar herramientas de gestión bibliográfica, como [Zotero](https://www.zotero.org/){:rel="nofollow noopener noreferrer" target="_blank"}, [Mendeley](https://www.mendeley.com/){:rel="nofollow noopener noreferrer" target="_blank"} o [EndNote](https://endnote.com/){:rel="nofollow noopener noreferrer" target="_blank"}, para facilitar el proceso de organización y citación de tus referencias bibliográficas.
 
 Estas herramientas te permiten gestionar y formatear automáticamente las citas y las referencias según los estilos bibliográficos requeridos.
@@ -104,6 +111,8 @@ Para evitar estos errores, es importante revisar cuidadosamente cada referencia,
 Al prestar atención a estos detalles, se garantiza la precisión y fiabilidad de las bibliografías en los trabajos académicos.
 
 ### Consejos prácticos para organizar y presentar adecuadamente las referencias bibliográficas
+
+{% include add4.html %}
 
 Organizar y presentar adecuadamente las referencias bibliográficas es fundamental para asegurar la claridad y la accesibilidad de la información.
 

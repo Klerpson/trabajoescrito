@@ -16,9 +16,9 @@ Citar y elaborar bibliografía de manera adecuada es fundamental en el ámbito a
 
 Aprende **cómo citar tanto textualmente como parafraseando**, evitar errores comunes y cómo hacer citas de citas de manera efectiva. ¡Sigue leyendo y lleva tu trabajo académico al siguiente nivel!
 
-------
-
 ## Fundamentos de la citación adecuada
+
+{% include add.html %}
 
 En esta sección, exploraremos los fundamentos de la citación adecuada y cómo seleccionar el estilo bibliográfico apropiado para tu trabajo. También destacaremos algunas directrices generales para citar correctamente, asegurando la brevedad, coherencia y relevancia en tus [referencias bibliográficas]({{'referencias-trabajo-escrito'|relative_url}} "Referencias trabajo escrito").
 
@@ -34,6 +34,8 @@ La citación adecuada es fundamental en el ámbito académico por varias razones
 {:id="normas"}
 
 ### Selección del estilo bibliográfico adecuado
+
+{% include add-post.html %}
 
 Es esencial seleccionar el estilo bibliográfico apropiado para tu disciplina y tipo de trabajo académico. Algunos de los estilos más comunes son [APA (American Psychological Association)]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas con normas APA"), MLA (Modern Language Association) y Chicago.
 
@@ -59,9 +61,9 @@ A continuación, se presentan algunas directrices generales para citar correctam
 
 Al seguir estas directrices generales, podrás **citar adecuadamente y garantizar la integridad académica** de tu trabajo, respetando
 
-------
-
 ## Citas textuales y parafraseo: técnicas y mejores prácticas
+
+{% include add2.html %}
 
 En esta sección, profundizaremos en las técnicas y mejores prácticas para utilizar citas textuales y parafraseo en tu trabajo académico.
 
@@ -79,6 +81,8 @@ Aquí hay algunas pautas para utilizar citas textuales de manera efectiva:
 * **Cita completa y precisa**: Incluye todos los detalles necesarios en tu cita textual, como el apellido del autor, año de publicación y, si es necesario, el número de página. Verifica la exactitud de los datos para evitar errores en tus citas.
 
 ### Parafraseo efectivo
+
+{% include add3.html %}
 
 El parafraseo es una habilidad esencial en la escritura académica, ya que te permite explicar ideas de otros autores con tus propias palabras. Aquí hay algunas pautas para realizar un parafraseo efectivo.
 
@@ -108,7 +112,7 @@ Tanto al utilizar citas textuales como al parafrasear, es crucial mantener la in
 
 Sigue estas pautas y podrás utilizar citas textuales y parafraseo de manera efectiva. Fortalecerás tus argumentos y podrás preservar la integridad académica de tu trabajo.
 
-------
+{% include add4.html %}
 
 ## Citas de citas y mejores prácticas en la elaboración de bibliografías
 
@@ -132,7 +136,7 @@ En ocasiones, puede ser necesario citar una idea que ha sido citada en otra fuen
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-------
+{% include add5.html %}
 
 ## Cómo usar el generador de citas Scribbr Citation Generator
 
@@ -158,6 +162,7 @@ El proceso de integración del generador de citas de Scribbr con [Microsoft Word
 * Haz clic en "Aceptar y añadir" y sitúa el cursor donde desees insertar la cita
 * En la pestaña "Citas" de Microsoft Word, selecciona "Estilo" y elige el formato APA
 * ¡Listo! La cita y la bibliografía se agregarán automáticamente
+{:class="seccion_a"}
 
 -----
 
