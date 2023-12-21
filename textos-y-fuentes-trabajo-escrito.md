@@ -21,6 +21,8 @@ Las fuentes seleccionadas deben transmitir la **formalidad** y la **seriedad** r
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
+{% include add.html %}
+
 ## Factores a considerar al elegir las fuentes para tus trabajos escritos
 
 ### Legibilidad
@@ -50,6 +52,8 @@ Esto garantiza que su documento cumpla con los estándares aceptados en el ámbi
 ----
 
 ## Cómo elegir la fuente perfecta para tus trabajos escritos
+
+{% include add-post.html %}
 
 ### Explorando las mejores opciones de fuentes
 
@@ -86,6 +90,8 @@ Es una excelente opción si deseas darle a tus trabajos escritos **un aspecto m�
 {:id="descargas"}
 
 ## Adaptando el texto del trabajo a tus necesidades
+
+{% include add2.html %}
 
 Además de elegir la fuente adecuada, es importante tener en cuenta otros aspectos relacionados con la tipografía de tus trabajos escritos:
 

@@ -18,7 +18,7 @@ Si estás haciendo una tesis, un ensayo o un artículo científico, aquí te ofr
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
------
+{% include add.html %}
 
 ### Paso 1: Conocimiento y público objetivo
 
@@ -52,7 +52,7 @@ Un buen ejemplo de título, podría ser: **"Determinantes de la Pobreza en Cusco
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="errores"}
 
-----
+{% include add-post.html %}
 
 ## Errores comunes a evitar cuando haces títulos
 
