@@ -23,7 +23,7 @@ Las Normas ICONTEC son un conjunto de estándares utilizados en Colombia para re
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-----
+{% include add.html %}
 
 ## Cómo realizar citas según las Normas ICONTEC
 
@@ -57,6 +57,8 @@ Las Normas ICONTEC establecen algunas pautas para realizar citas bibliográficas
 ----
 
 ## Cómo realizar referencias bibliográficas según las Normas ICONTEC
+
+{% include add-post.html %}
 
 Una **referencia bibliográfica es una lista de documentos citados** en un trabajo académico. Las Normas ICONTEC tienen una guía clara para la realización de referencias bibliográficas correctas y completas para diferentes tipos de documentos.
 
@@ -113,6 +115,8 @@ Una de las principales dificultades que tienen los estudiantes y académicos col
 A continuación, se presentan algunas de las más utilizadas junto con sus características y ventajas:
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
+
+{% include add2.html %}
 
 ### Grafiati: ¿Cómo usarla para generar referencias bibliográficas?
 

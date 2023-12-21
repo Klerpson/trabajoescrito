@@ -17,6 +17,8 @@ Las conclusiones son una parte esencial de cualquier trabajo académico. [Según
 
 ## Estructura de las conclusiones bajo Normas ICONTEC
 
+{% include add3.html %}
+
 Las conclusiones según las Normas ICONTEC deben tener una estructura específica.
 
 En primer lugar, deben **resumir los principales hallazgos o resultados del trabajo**. A continuación, deben **relacionar estos hallazgos con los objetivos** del trabajo. Finalmente, pueden **presentar recomendaciones o sugerencias** para futuras investigaciones.
@@ -24,6 +26,8 @@ En primer lugar, deben **resumir los principales hallazgos o resultados del trab
 {:id="normas"}
 
 ## Formato de las Conclusiones Según ICONTEC
+
+{% include add4.html %}
 
 El formato de las conclusiones según las Normas ICONTEC es igualmente importante.
 
@@ -33,7 +37,7 @@ Adicionalmente, se deben **enumerar las conclusiones en párrafos separados**, c
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include add5.html %}
 
 ## Ejemplo de conclusiones con Normas ICONTEC
 
@@ -61,7 +65,7 @@ La recapitulación debe seguir una estructura específica: revisión de los obje
 
 La longitud de las conclusiones puede variar dependiendo del trabajo, pero las Normas ICONTEC sugieren que **deben ser lo suficientemente breves para resumir los hallazgos** sin entrar en demasiados detalles.
 
-----
+{% include add6.html %}
 
 ## ¿Cómo realizar trabajos de alta calidad con las Normas ICONTEC?
 

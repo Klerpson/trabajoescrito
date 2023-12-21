@@ -16,6 +16,8 @@ Desde el formato de tu nombre hasta cómo resaltar tus fortalezas, lo cubriremos
 
 ## ¿Qué es ICONTEC y Cómo Influye en Tu Currículum?
 
+{% include add9.html %}
+
 [ICONTEC, o el Instituto Colombiano de Normas Técnicas y Certificación]({{'normas-icontec'|relative_url}} "Las normas Icontec"), es el organismo que establece las reglas del juego en Colombia y en algunos países latinoamericanos para hojas de vida y otros documentos.
 
 Seguir las pautas de ICONTEC es como tener un sello de calidad en tu currículum, lo que mejora tus posibilidades de captar la atención de los empleadores.
@@ -51,6 +53,8 @@ Tu formación académica es otro pilar en tu currículum. Asegúrate de incluir:
 
 ## Cómo Incluir Investigaciones y Premios en Tu Currículum ICONTEC
 
+{% include add.html %}
+
 Si has publicado artículos o recibido premios, aquí es donde debes mostrarlo. Incluye el título de la publicación, la fecha y cualquier coautor. Los premios o distinciones también son un gran añadido.
 
 ## Consejos Adicionales para un Currículum ICONTEC Efectivo
@@ -70,7 +74,7 @@ No es obligatorio, pero altamente recomendado para destacar en el mercado labora
 
 Puedes visitar el sitio web oficial de ICONTEC para más detalles.
 
-----
+{% include add-post.html %}
 
 ## Resumen de Cómo Optimizar Tu Hoja de Vida con las normas ICONTEC
 

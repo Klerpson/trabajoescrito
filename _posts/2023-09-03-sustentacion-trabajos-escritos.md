@@ -12,6 +12,8 @@ date: 2023-09-03
 ---
 ## Importancia de una buena sustentación
 
+{% include add3.html %}
+
 ### Cómo una sustentación exitosa afecta tu calificación
 
 Una sustentación exitosa es una de las claves para obtener una calificación sobresaliente en tu trabajo escrito.
@@ -20,11 +22,7 @@ Una sustentación exitosa es una de las claves para obtener una calificación so
 
 Por estas razones, aprende como tener un buen desempeño en la sustentación. Mira cómo compensar las deficiencias menores en el documento escrito y viceversa.
 
-----
-
 ## Elementos clave de la sustentación
-
-{% include add-post.html %}
 
 ### 1. El contenido del trabajo
 
@@ -41,8 +39,6 @@ No importa cuán sólido sea tu trabajo escrito; una presentación oral deficien
 Las diapositivas de la presentación, [los gráficos]({{'imagenes-trabajo-escrito'|relative_url}} "Gráficos e imágenes"), los videos o cualquier otro material de apoyo deben estar en sintonía con tu presentación oral y tu documento escrito.
 
 Estos elementos pueden hacer que tu sustentación sea más interactiva y ayudar a explicar puntos que podrían ser difíciles de comunicar solo a través del habla o la escritura.
-
-{% include add.html %}
 
 ## Preparación para la sustentación
 
@@ -84,7 +80,7 @@ Ningún primer borrador es perfecto. Una vez que hayas terminado de escribir, t�
 
 Corrige errores gramaticales y de sintaxis, mejorar la claridad y la coherencia, y asegurarte de que todas las afirmaciones estén debidamente respaldadas por evidencia.
 
-{% include add.html %}
+{% include add2.html %}
 
 ## Consejos para hacer una sustentación efectiva
 
@@ -123,11 +119,9 @@ La falta de claridad puede confundir a tu audiencia y hacer que pierdan el inter
 
 Conocer a tu público y adaptar tu presentación a su nivel de conocimiento e interés, puede marcar una gran diferencia en cómo se recibe tu sustentación.
 
-----
+{% include add.html %}
 
 ## La sustentación del trabajo escrito y el éxito de su presentación
-
-{% include add.html %}
 
 La sustentación de un trabajo escrito es un proceso complejo que requiere una preparación cuidadosa y una ejecución meticulosa.
 

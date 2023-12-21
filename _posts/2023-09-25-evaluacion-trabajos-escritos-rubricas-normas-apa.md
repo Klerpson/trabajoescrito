@@ -12,6 +12,8 @@ date: 2023-09-25
 ---
 ## ¿Qué es una Escala de Estimación para Evaluar un Trabajo Escrito?
 
+{% include add9.html %}
+
 Las escalas de estimación son herramientas de evaluación que permiten medir el rendimiento de un estudiante en un trabajo escrito de manera **objetiva** y **cuantificable**.
 
 Estas escalas se basan en una serie de criterios preestablecidos que se asignan a diferentes niveles de desempeño.
@@ -36,6 +38,8 @@ Por ejemplo, una escala podría simplemente calificar el trabajo en una escala d
 
 Estas normas son ampliamente utilizadas en el ámbito académico y profesional, y su aplicación en la evaluación de trabajos escritos garantiza un nivel de calidad y uniformidad.
 
+{% include add.html %}
+
 ### Elementos Clave en la Evaluación APA
 
 1. **Formato del Documento**: Verifica que el trabajo [cumpla con los márgenes]({{'normas-apa/margenes-normas-apa'|relative_url}}), el [tipo de letra]({{'normas-apa/textos-normas-apa'|relative_url}}) y [el espaciado adecuados]({{'normas-apa/interlineado-normas-apa'|relative_url}}).
@@ -48,8 +52,6 @@ Estas normas son ampliamente utilizadas en el ámbito académico y profesional, 
 - **Crear una Lista de Comprobación**: Antes de comenzar la evaluación, crea una lista de comprobación con todos los elementos que deben estar presentes según las Normas APA.
 - **Utilizar una Rúbrica Específica**: Puedes diseñar una rúbrica que incluya criterios específicos relacionados con las Normas APA.
 - **Proporcionar Retroalimentación Detallada**: Al final de la evaluación, es útil proporcionar comentarios específicos sobre cómo el trabajo podría mejorar en términos de cumplimiento con las Normas APA.
-
-{% include add-post.html %}
 
 ## Rubricas para Trabajos Escritos
 
@@ -79,6 +81,8 @@ Este tipo de rúbrica es más adecuado para trabajos que no se pueden descompone
 {:class="seccion_a"}
 
 ## Criterios Generales para Evaluar un Trabajo Escrito
+
+{% include add.html %}
 
 Evaluar un trabajo escrito no es solo cuestión de leer y asignar una nota. Hay varios **criterios** que debes tener en cuenta para hacer una evaluación justa y completa.
 
@@ -121,9 +125,9 @@ Los **indicadores** son elementos concretos que te ayudan a medir el rendimiento
 - **Organización de Ideas**: Un buen trabajo debe tener una estructura clara, con una introducción, desarrollo y conclusión bien definidos.
 - **Secuencia Lógica**: Las ideas deben presentarse en un orden que tenga sentido y facilite la comprensión del lector.
 
-----
-
 ## Rubricas para Trabajos en Equipo
+
+{% include add2.html %}
 
 Evaluar trabajos en equipo requiere un enfoque especial. Aquí te presento algunas pautas organizadas en tablas para hacerlo de manera efectiva.
 
@@ -143,7 +147,7 @@ Evaluar trabajos en equipo requiere un enfoque especial. Aquí te presento algun
 
 ## Ejemplos Prácticos de Rubricas
 
-{% include add.html %}
+{% include add3.html %}
 
 Los ejemplos prácticos son una forma efectiva de entender cómo aplicar las rúbricas en diferentes contextos. Aquí te muestro algunos ejemplos que podrían serte útiles.
 
@@ -192,6 +196,8 @@ Una lista de cotejo es especialmente útil cuando tienes que evaluar una gran ca
 
 ## Cómo Evaluar un Trabajo Escrito: Paso a Paso
 
+{% include add4.html %}
+
 Evaluar un trabajo escrito puede parecer una tarea abrumadora, pero con un enfoque sistemático, se simplifica bastante. Aquí te doy un paso a paso.
 
 ### 1. Antes de Empezar: Preparativos
@@ -214,7 +220,7 @@ Evaluar un trabajo escrito puede parecer una tarea abrumadora, pero con un enfoq
 
 ## Herramientas Online para Crear Rubricas
 
-{% include add-post.html %}
+{% include add6.html %}
 
 En la era digital, hay varias **herramientas online** que pueden facilitar el proceso de crear y aplicar rúbricas. Aquí te presento algunas opciones recomendadas.
 

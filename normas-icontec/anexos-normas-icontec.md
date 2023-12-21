@@ -13,6 +13,8 @@ permalink: /normas-icontec/anexos-normas-icontec
 ---
 ## Comprendiendo los Anexos Según Normas ICONTEC
 
+{% include add.html %}
+
 Para entrar en materia, **¿qué son exactamente los anexos?**. Los anexos son materiales de apoyo que complementan, aclaran o amplían la información presentada en tu trabajo principal.
 
 ¿Pero cómo gestionamos estos anexos correctamente según las Normas ICONTEC? ¡Vamos a averiguarlo!
@@ -26,6 +28,8 @@ Los anexos son elementos clave en cualquier trabajo académico o informe técnic
 {:id="normas"}
 
 ### ¿Cómo se estructuran los Anexos según Normas ICONTEC?
+
+{% include add-post.html %}
 
 Los anexos **deben presentarse al final del documento principal**, después de las [referencias bibliográficas]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y referencias bibliográficas Normas Icontec").
 
@@ -43,11 +47,11 @@ Ambos deben ser citados correctamente en el texto y listados al final del docume
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
-
-{% include cta-normas.html norma="icontec" %}
+{% include add2.html %}
 
 ### Preguntas Frecuentes Sobre Anexos y Normas ICONTEC
+
+{% include cta-normas.html norma="icontec" %}
 
 #### ¿Cuándo debería usar un anexo?
 
@@ -69,7 +73,7 @@ Sí, puedes tener tantos anexos como necesites para apoyar tu trabajo. Simplemen
 
 No, el uso de anexos no es obligatorio, pero pueden ser una herramienta útil para proporcionar información adicional o de apoyo a tu trabajo.
 
-----
+{% include add3.html %}
 
 ## Haz excelentes anexos con las normas Icontec
 

@@ -17,6 +17,8 @@ Cuando hablamos del **formato ICONTEC**, nos referimos a una serie de **requisit
 
 ### Espaciado en el formato ICONTEC
 
+{% include add.html %}
+
 El espaciado es una parte importante del formato ICONTEC. **El interlineado debe ser de 2.0**, es decir, el texto debe tener **un espacio doble entre cada línea**.
 
 Esta norma permite que el texto sea fácil de leer y facilita la inserción de comentarios o correcciones.
@@ -35,6 +37,8 @@ La numeración debe estar ubicada **en el margen superior derecho o inferior der
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
+{% include add2.html %}
+
 ### Cómo redactar el cuerpo del trabajo siguiendo las normas ICONTEC
 
 El cuerpo del trabajo es la parte en la que se desarrollan las ideas principales. Siguiendo las normas ICONTEC, es importante tener en cuenta lo siguiente:
@@ -52,7 +56,7 @@ El cuerpo del trabajo es la parte en la que se desarrollan las ideas principales
 
 La información en un documento ICONTEC debe estar bien organizada. Existen reglas específicas para [las portadas]({{'normas-icontec/portada-contraportada-normas-icontec'|relative_url}} "Portadas y contraportadas Normas Icontec"), la [tabla de contenido]({{'normas-icontec/tabla-contenido-normas-icontec'|relative_url}} "Tabla contenido Normas Icontec"), las [referencias]({{'normas-icontec/citas-referencias-normas-icontec'|relative_url}} "Citas y referencias Normas Icontec"), entre otros.
 
-----
+{% include add3.html %}
 
 ## Componentes de un documento ICONTEC
 
@@ -83,6 +87,8 @@ Las referencias son una lista de todas las fuentes que utilizaste para tu docume
 {% include cta-normas.html norma="icontec" %}
 
 ### Preguntas frecuentes
+
+{% include add4.html %}
 
 #### ¿Es obligatorio utilizar Times New Roman en el formato ICONTEC?
 
