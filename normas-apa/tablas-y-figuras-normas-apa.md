@@ -23,7 +23,7 @@ Los siguientes son los principales aspectos a tener en cuenta al elaborar estas 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-----
+{% include add6.html %}
 
 ## Tablas con normas APA
 
@@ -49,7 +49,7 @@ Finalmente, se describe cómo debe ser la estructura de la lista de tablas y fig
 
 Debes **mencionar la página en la que se encuentra cada tabla o figura**. De esta forma se logra una presentación más ordenada y organizada de la información.
 
-----
+{% include add7.html %}
 
 ## Estructura de las tablas en Normas APA
 
@@ -76,6 +76,8 @@ Para elaborar tablas en Word o Excel se recomienda seguir las siguientes pautas:
 
 ## Partes de las tablas en las que aplican las normas APA
 
+{% include add8.html %}
+
 ### Títulos y subtítulos de tablas
 
 El título de la tabla debe ser claro, específico y conciso, para que el lector entienda de manera fácil el contenido de la tabla.
@@ -96,7 +98,7 @@ Es fundamental citar adecuadamente las fuentes de información de la tabla y pro
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include add9.html %}
 
 ## Figuras con normas APA
 
@@ -124,6 +126,8 @@ Los títulos y subtítulos de las figuras deben ser redactados de forma clara y 
 
 Se deben escribir en negrita y encabezados con el número correspondiente según su posición en la estructura jerárquica.
 
+{% include add.html %}
+
 ### Numeración de figuras y notas de figura
 
 En cuanto a la numeración de figuras, estas **deberán ser identificadas consecutivamente con números arábigos**. Adicionalmente, se deberán incluir notas de figura con la finalidad de explicar la información transmitida en la misma.
@@ -137,6 +141,8 @@ Para proteger los derechos de autor en el caso de figuras que sean utilizadas en
 ----
 
 ## Apéndices según las normas APA
+
+{% include add-post.html %}
 
 [Los apéndices]({{'apendice-trabajo-escrito'|relative_url}} "Apéndice") son secciones adicionales en trabajos académicos donde se incluyen información complementaria que no se ha podido incluir en el cuerpo principal del documento.
 
@@ -194,7 +200,7 @@ Para ayudar a detectar el plagio en las tablas y figuras utilizadas en el trabaj
 
 **El plagio puede tener graves consecuencias académicas**, como la anulación de la asignación, la suspensión o incluso la expulsión del programa de estudios.
 
-----
+{% include add2.html %}
 
 ## Preguntas frecuentes
 

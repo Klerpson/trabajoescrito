@@ -13,7 +13,7 @@ permalink: /normas-apa/portada-normas-apa
 ---
 Conocer las normas APA y saber cómo aplicarlas en la portada es fundamental. La portada debe incluir un título claro y descriptivo, el nombre del autor o autores, su afiliación institucional y la fecha de entrega. También, la información debe estar separada por espacios y sin punto final.
 
-----
+{% include add4.html %}
 
 ## Portadas APA para profesionales
 
@@ -40,7 +40,7 @@ La presentación de la portada adecuada puede ayudar a **establecer credibilidad
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-----
+{% include add5.html %}
 
 ## Normas APA: aspectos básicos a tener en cuenta
 
@@ -82,6 +82,8 @@ Si tienes dudas sobre cómo alinear el título y el nombre del autor en la porta
 
 ### Formato de la fecha en la portada
 
+{% include add6.html %}
+
 En la portada de un trabajo según las Normas APA, es importante incluir la fecha de entrega del mismo.
 
 **Esta fecha se debe ubicar en la parte inferior** de la página y se escribe "Entregado el DD de *mes* de AAAA". La fecha debe ser en números arábigos y el mes se escribe con la primera letra en mayúscula.
@@ -99,6 +101,8 @@ La fecha de entrega de un trabajo es importante, ya que es un elemento que **ayu
 El formato adecuado de la fecha en la portada según las Normas APA ayuda a mostrar un trabajo más profesional y organizado. Es por eso que es importante prestar atención a este detalle en la [presentación de trabajos académicos]({% post_url 2023-05-28-como-presentar-trabajo-escrito %} "Presentación trabajo escrito").
 
 ### Tamaño y fuente en la portada: igual que el resto del documento
+
+{% include add7.html %}
 
 La portada de un trabajo académico es muy importante para mostrar profesionalismo y precisión. Cuando se elabora la portada, es fundamental tener en cuenta el tamaño y la fuente, los cuales deben ser iguales al resto del documento.
 
@@ -132,6 +136,8 @@ Cada universidad tiene sus propias normas y especificaciones sobre los datos que
 
 ### Nombre del autor en la portada
 
+{% include add8.html %}
+
 El nombre del autor en la portada **se debe escribir de manera centrada y en mayúscula y minúscula**. Además, debe estar ubicado después del título del trabajo.
 
 Es importante que **el nombre completo del autor aparezca tal y como aparece en sus otros trabajos académicos y en sus publicaciones**.
@@ -163,6 +169,8 @@ Asegúrate de incluirla correctamente y de aplicar correctamente las Normas APA 
 ----
 
 ## El papel de la portada en los trabajos académicos
+
+{% include add9.html %}
 
 La portada es uno de los elementos más importantes a la hora de presentar un trabajo académico. Además de ser la **primera impresión** que tendrá el lector sobre el contenido, la portada ayuda a **mostrar la seriedad y el profesionalismo del autor**.
 

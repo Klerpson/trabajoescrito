@@ -17,6 +17,8 @@ A continuación, se presentan las reglas generales y específicas para realizar 
 
 ## ¿Cómo hacer referencias bibliográficas según las Normas APA?
 
+{% include add9.html %}
+
 Las referencias bibliográficas **son una lista ordenada alfabéticamente de todas las fuentes citadas** en el texto y proporcionan información suficiente para **identificar y recuperar cada fuente** citada.
 
 ### Reglas generales para las referencias bibliográficas
@@ -78,6 +80,8 @@ Las referencias de fuentes no tradicionales en formato APA se estructuran de la 
 
 ## Formato y presentación de las referencias bibliográficas según las Normas APA
 
+{% include add.html %}
+
 Para cumplir correctamente con las Normas APA, es importantísimo no solo saber cómo citar y referenciar fuentes, sino también cómo presentar estas referencias bibliográficas en el documento. En esta sección, se explicará **cómo hacer una sangría francesa y cómo organizar las referencias bibliográficas** de manera adecuada.
 
 ### Cómo hacer una sangría francesa según las Normas APA
@@ -108,6 +112,8 @@ Es importante también incluir toda la información necesaria en la referencia b
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas" class="seccion_a"}
 
+{% include add-post.html %}
+
 {% include cta-normas.html norma="apa" %}
 
 ## Cómo utilizar BibGuru para hacer referencias bibliográficas según las Normas APA
@@ -127,6 +133,8 @@ Una vez que hayas ingresado toda la información necesaria, BibGuru generará au
 Finalmente, copia y pega la cita o referencia bibliográfica generada por BibGuru en tu trabajo académico o científico.
 
 BibGuru es una herramienta de referencia generada automáticamente, por lo que es recomendable **verificar la exactitud y corrección de la información generada** antes de incluirla en nuestro trabajo.
+
+{% include add2.html %}
 
 ## Haz tus referencias con las normas APA
 

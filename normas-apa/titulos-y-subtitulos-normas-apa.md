@@ -17,7 +17,7 @@ Es importante **conocer la jerarquía de los títulos y subtítulos**, así como
 
 **Se recomienda hacerlos descriptivos, concisos y sin puntos al final**. En este artículo ofrecemos una guía detallada sobre cómo utilizar los títulos y subtítulos según las normas APA.
 
-----
+{% include add.html %}
 
 ## Jerarquía y formato de los títulos y subtítulos según las normas APA
 
@@ -30,6 +30,8 @@ Existen diferentes niveles de títulos y subtítulos en las normas APA, que se u
 Recuerda que los niveles de títulos y subtítulos no son numerados, sino que **se organizan en función de su importancia y relevancia.**
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
+
+{% include add4.html %}
 
 #### Títulos y subtítulos de nivel 1, 2 y 3
 
@@ -46,6 +48,8 @@ Los títulos de **nivel 4 se utilizan para las subsecciones de las subsecciones*
 Los títulos de **nivel 5 se utilizan para subsecciones dentro de las subsecciones de nivel 4**, y se escriben de la misma manera que los títulos de nivel 4.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
+
+{% include add5.html %}
 
 ### Formato de presentación de los títulos y subtítulos
 
@@ -77,6 +81,8 @@ Al escribir títulos y subtítulos, se recomienda hacerlos descriptivos y concis
 
 ### Preguntas frecuentes sobre títulos y subtítulos con normas APA
 
+{% include add6.html %}
+
 #### ¿Cuántos niveles de títulos y subtítulos se pueden utilizar?
 
 Los niveles de títulos y subtítulos que se pueden utilizar en la escritura académica en función de las normas APA son cinco. Los títulos de nivel 1 son los principales y deben estar centrados y en negrita, mientras que los títulos de nivel 2 deben estar alineados a la izquierda y en negrita. Los títulos de nivel 3 deben estar alineados a la izquierda y en cursiva, mientras que los títulos de nivel 4 y 5 deben estar en negrita y cursiva. Es importante recordar que los puntos finales se utilizan solo para los títulos y subtítulos de nivel 4 y 5.
@@ -93,7 +99,7 @@ No es necesario utilizar sangría en los títulos y subtítulos en las normas AP
 
 En la tabla de contenido, los títulos y subtítulos generalmente se presentan con un punto al final de cada uno. Es importante tener en cuenta que el formato de presentación de la tabla de contenido puede variar en función de las especificaciones del profesor o la institución académica.
 
-----
+{% include add7.html %}
 
 ## Síntesis de los principales aspectos a tener en cuenta en la escritura de títulos y subtítulos con normas APA
 
@@ -101,7 +107,7 @@ Los títulos y subtítulos son elementos indispensables en la estructura de un t
 
 ### Jerarquía y formato de los títulos y subtítulos
 
-* Es importante conocer la jerarquía de los títulos y subtítulos, la cual va desde el nivel 1 al nivel 5, con un orden de importancia decreciente.
-* Los títulos de nivel 1, 2 y 3 no llevan punto al final, mientras que los de nivel 4 y 5 sí lo llevan.
-* Además, existen reglas de ortografía y puntuación que se deben seguir, y se recomienda hacer los títulos y subtítulos descriptivos y concisos.
-* Gracias a estos aspectos, los títulos y subtítulos se convierten en elementos útiles para el lector, quienes pueden identificar rápidamente la información y los detalles del trabajo.
+- Es importante conocer la jerarquía de los títulos y subtítulos, la cual va desde el nivel 1 al nivel 5, con un orden de importancia decreciente.
+- Los títulos de nivel 1, 2 y 3 no llevan punto al final, mientras que los de nivel 4 y 5 sí lo llevan.
+- Además, existen reglas de ortografía y puntuación que se deben seguir, y se recomienda hacer los títulos y subtítulos descriptivos y concisos.
+- Gracias a estos aspectos, los títulos y subtítulos se convierten en elementos útiles para el lector, quienes pueden identificar rápidamente la información y los detalles del trabajo.

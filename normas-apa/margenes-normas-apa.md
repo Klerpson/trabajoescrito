@@ -15,7 +15,7 @@ Analicemos todo lo que necesitas saber sobre **los márgenes requeridos** en tus
 
 Veremos cómo ajustarlos en Word y cómo configurarlos cuando se requiere encuadernación especial. También encontrarás otros elementos importantes que debes considerar para cumplir con las normas en la estructuración y [presentación de tu trabajo]({% post_url 2023-05-28-como-presentar-trabajo-escrito %} "Presentación de trabajos escritos").
 
-----
+{% include add5.html %}
 
 ## Márgenes con normas APA: Respuestas rápidas
 
@@ -33,6 +33,8 @@ Veremos cómo ajustarlos en Word y cómo configurarlos cuando se requiere encuad
 
 ### Definición de las márgenes
 
+{% include add6.html %}
+
 Los márgenes **son los espacios en blanco que se encuentran en los bordes del documento, tanto a lo largo como a lo ancho de las páginas**. Mejoran mucho la presentación.
 
 Te recomendamos ver todo sobre las márgenes en nuestra sección de ["Márgenes en un trabajo escrito"]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes").
@@ -46,6 +48,8 @@ Estos márgenes deben ser aplicados en todo el documento de manera uniforme, inc
 >Según las Normas APA en su séptima edición, los márgenes recomendados en el documento académico **son de 2,54 centímetros (1 pulgada) en todos los lados**. Así que se mantiene el standard.
 
 ## Márgenes APA según el tipo de trabajo académico
+
+{% include add7.html %}
 
 Es posible que te encuentres con diferentes requisitos de márgenes según el tipo de trabajo académico que estés realizando.
 
@@ -76,6 +80,8 @@ Es importante tener en cuenta que la reducción del margen puede afectar la cali
 
 ### Margen izquierdo y margen superior
 
+{% include add8.html %}
+
 Es importante destacar que en algunos trabajos académicos se requiere que el margen izquierdo y superior tenga un tamaño mayor al resto de los márgenes. Un ejemplo son [las márgenes en las normas Icontec.]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Márgenes Icontec")
 
 Esto se debe a la necesidad de tener más espacio para anotaciones o correcciones. Pero te recomendamos *revisar con el tutor o instructor cuál es el tamaño específico que deben tener estos márgenes diferenciales*.
@@ -85,6 +91,8 @@ Esto se debe a la necesidad de tener más espacio para anotaciones o correccione
 {% include cta-normas.html norma="apa" %}
 
 ### Cursos para aprender sobre márgenes con normas APA y otros puntos
+
+{% include add9.html %}
 
 Además de conocer las Normas APA 7 para las márgenes y el formato de presentación, también tienes herramientas y recursos útiles para asegurarte de que los trabajos académicos cumplen con todas las exigencias en cuanto al formato.
 

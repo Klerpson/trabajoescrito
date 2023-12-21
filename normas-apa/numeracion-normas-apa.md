@@ -21,7 +21,7 @@ A diferencia de otros estilos de citación, [las Normas APA]({{'normas-apa'|rela
 
 Simplemente **coloca el número 2 en la esquina superior derecha de la segunda página**, y continúa la secuencia en las páginas siguientes.
 
------
+{% include add.html %}
 
 ## Herramientas útiles para aplicar la numeración APA
 
@@ -37,6 +37,8 @@ Además, existen herramientas en línea que te permiten formatear automáticamen
 
 ### Configurando la numeración APA en Microsoft Word
 
+{% include add-post.html %}
+
 Microsoft Word es una de las herramientas más utilizadas para redactar documentos académicos y científicos. Te permite configurar fácilmente la numeración de páginas de acuerdo con las Normas APA. Aquí te mostramos cómo hacerlo:
 
 - Ve a la pestaña "Insertar" en la barra de menú.
@@ -51,6 +53,8 @@ Microsoft Word es una de las herramientas más utilizadas para redactar document
 
 ### Configurando la numeración APA en Google Docs
 
+{% include add2.html %}
+
 Si prefieres trabajar en línea o necesitas compartir tu documento con otros de manera fácil, Google Docs es una excelente opción. También te permite configurar la numeración de páginas de acuerdo con las Normas APA. Aquí te mostramos cómo:
 
 - Ve a "Insertar" en la barra de menú.
@@ -64,6 +68,8 @@ Google Docs aplicará automáticamente la numeración a todas las páginas subsi
 {% include cta-normas.html norma="apa" %}
 
 ## Numerar tu trabajo escrito es sencillo
+
+{% include add3.html %}
 
 Aplicar la numeración en Normas APA es un proceso que puede parecer complejo, pero con las herramientas y pasos adecuados, se vuelve una tarea sencilla.
 

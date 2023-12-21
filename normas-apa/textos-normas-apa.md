@@ -13,6 +13,8 @@ permalink: /normas-apa/textos-normas-apa
 ---
 ## Estructura de un texto según las Normas APA
 
+{% include add.html %}
+
 La estructura de un texto según las Normas APA es importante para garantizar que el trabajo se presente de manera organizada y coherente.
 
 Por lo anterior, **la estructura varía dependiendo del tipo de trabajo que se esté realizando**, ya sea una [monografía]({{'monografia'|relative_url}} "Monografías), una [tesis]({{'tesis-normas-apa'|relative_url}}), un [artículo]({{'articulos-con-normas-apa'|relative_url}} "Artículos") o cualquier otro tipo de trabajo académico.
@@ -20,6 +22,8 @@ Por lo anterior, **la estructura varía dependiendo del tipo de trabajo que se e
 Las Normas APA, propuestas por la Asociación Americana de Psicología, son uno de los estilos de citación y formato más utilizados en la redacción académica y científica. A continuación, te proporcionaremos una visión general de **cómo crear un texto siguiendo las normas APA**.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
+
+{% include add2.html %}
 
 ## Formato general del documento
 
@@ -44,7 +48,7 @@ Las Normas APA establecen ciertos requisitos para la presentación general del d
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include add-post.html %}
 
 ## Tamaño de la página, interlineado, fuente y sangría
 
@@ -59,6 +63,8 @@ El tamaño de papel recomendado en las Normas APA es de 8,5 x 11 pulgadas, que e
 Los títulos principales deben estar centrados, en negrita y en mayúscula. Por otro lado, los subtítulos deben estar alineados a la izquierda, en negrita y en minúscula.
 
 La compaginación de [títulos y subtítulos con normas APA]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos normas APA") es fundamental para la estética y organización del trabajo.
+
+{% include add3.html %}
 
 ### Interlineado recomendado
 

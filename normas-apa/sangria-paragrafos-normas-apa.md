@@ -15,11 +15,15 @@ Según las Normas APA, **la sangría** se utiliza para distinguir los párrafos 
 
 ## Uso correcto de la sangría en Normas APA
 
+{% include add2.html %}
+
 ### Tipos de sangría utilizados en las Normas APA
 
 Las Normas APA establecen que se debe utilizar **la sangría de primera línea en todo el documento**. Esto significa que la primera línea de cada párrafo debe tener una sangría, mientras que **las siguientes líneas deben comenzar en el [margen izquierdo]({{'normas-apa/margenes-normas-apa'|relative_url}} "Márgenes normas APA").**
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
+
+{% include add3.html %}
 
 ### Pasos para aplicar la sangría correctamente
 
@@ -41,6 +45,8 @@ La sangría francesa se aplica **tanto en las citas directas como en las citas d
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
+{% include add4.html %}
+
 ### Ejemplo de párrafo con sangría francesa
 
 > Este es un ejemplo de un párrafo con sangría francesa en Markdown:
@@ -60,6 +66,8 @@ En las Normas APA, se prefiere la alineación a la izquierda y el espaciado dobl
 ----
 
 ### Preguntas frecuentes
+
+{% include add5.html %}
 
 #### ¿Es necesario hacer sangría en todas las líneas de un párrafo?
 
