@@ -18,6 +18,8 @@ El índice, también conocido como tabla de contenido, es un elemento esencial d
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
+{% include add4.html %}
+
 ## ¿Cómo se realiza un Índice?
 
 Crear un índice es un proceso bastante sencillo que puede hacerse tanto manualmente como automáticamente en programas de procesamiento de texto como Microsoft Word. Aquí te presentamos los pasos básicos para hacerlo:
@@ -44,6 +46,8 @@ En un trabajo académico como un [informe]({{'informes'|relative_url}} "El Infor
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
+{% include add5.html %}
+
 #### Ejemplo de Índice
 
 Aquí tienes un ejemplo básico de cómo podría verse un índice:
@@ -57,6 +61,8 @@ Aquí tienes un ejemplo básico de cómo podría verse un índice:
 {:class="seccion_a"}
 
 ## La tabla de contenido es necesaria
+
+{% include add6.html %}
 
 La creación de una tabla de contenido detallada y bien estructurada es una parte esencial de la preparación de cualquier trabajo escrito:
 

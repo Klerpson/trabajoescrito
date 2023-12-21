@@ -14,7 +14,9 @@ El resumen es una parte vital en un trabajo escrito universitario, ya que es el 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-## Pautas para hacer redactar un resumen
+## Pautas para hacer redactar un resumen de un trabajo escrito
+
+{% include add7.html %}
 
 Es importante tener en cuenta que un buen resumen **debe ser claro, preciso, conciso y expresar las ideas de forma organizada y coherente**. Además, debe ser **independiente del documento original** y proporcionar una idea clara del contenido del documento en su totalidad.
 
@@ -23,6 +25,8 @@ Con lo anterior te aseguras que el lector pueda entender rápidamente de qué tr
 {:id="descargas"}
 
 ## Ejemplos de un resumen de trabajos escritos
+
+{% include add8.html %}
 
 En esta sección, se presentarán algunos ejemplos de cómo debe ser un buen resumen y las características que debe contener.
 
@@ -47,7 +51,9 @@ En esta sección, se presentarán algunos ejemplos de cómo debe ser un buen res
 - Resultados principales del estudio, destacando los más relevantes
 - Conclusiones finales y recomendaciones de futuro
 
-## En resumen...
+## Prepara un buen resumen escrito y graba tu investigación en su memoria
+
+{% include add9.html %}
 
 En trabajos escritos, el resumen cumple un papel fundamental al captar la atención del lector y resumir de manera concisa las ideas principales. Siguiendo las normas APA, puedes crear un resumen impactante que destaque los aspectos más relevantes de tu trabajo.
 

@@ -18,6 +18,8 @@ Son la clave para **dar crédito a los autores originales y evitar así el plagi
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
+{% include add4.html %}
+
 ## Cómo hacer Referencias en un Trabajo Escrito
 
 Hacer referencias en un trabajo escrito puede parecer una tarea desalentadora, pero es esencial para validar la integridad y la credibilidad de tu trabajo. Aquí te ofrecemos un guía paso a paso sobre cómo hacerlo:
@@ -53,6 +55,8 @@ Las referencias actúan como signos en un mapa, mostrando el camino que has toma
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
+{% include add5.html %}
+
 ## Tipos de Referencias y dónde encontrarlas
 
 Cada fuente de información que utilices en tu trabajo escrito tiene un tipo específico de referencia.
@@ -87,6 +91,8 @@ Son aquellas en las que **la referencia se coloca entre paréntesis inmediatamen
 ### Las citas narrativas
 
 **Las citas narrativas incorporan la referencia dentro de la oración**. Por ejemplo: *"Según Smith (2022), el cambio climático es una amenaza existencial para la humanidad"*. La forma exacta de citar depende del estilo de cita que estés utilizando.
+
+{% include add6.html %}
 
 ## Creación de la lista de Referencias
 

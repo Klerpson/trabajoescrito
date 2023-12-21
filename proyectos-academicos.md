@@ -16,6 +16,8 @@ Vamos a enseñarte a utilizar [las normas APA]({{'normas-apa'|relative_url}} "No
 
 ## Aspectos generales de presentación de un proyecto con normas APA e ICONTEC
 
+{% include add.html %}
+
 La presentación de un trabajo escrito es fundamental en el ámbito académico y laboral. Por ello, es indispensable seguir las normas estandarizadas de presentación de trabajos escritos como las Normas APA e ICONTEC.
 
 ### Portada
@@ -57,7 +59,7 @@ En general, **su uso se recomienda para trabajos extensos o con una complejidad 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
------
+{% include add-post.html %}
 
 ## Reglas gramaticales y ortográficas para la redacción de un proyecto
 
@@ -97,7 +99,7 @@ Los ajustes en Microsoft Word también son relevantes al momento de cumplir con 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
------
+{% include add2.html %}
 
 ### Preguntas frecuentes sobre las Normas APA e ICONTEC
 
@@ -118,6 +120,8 @@ Las normas APA e ICONTEC establecen que se debe utilizar la fuente Arial de tama
 Presentar los trabajos escritos con ambas caras significa utilizar la impresión a doble cara. Esta práctica no es obligatoria en las Normas APA e ICONTEC, sino que dependerá de las especificaciones dadas por la institución o el profesor encargado del proyecto. En caso de utilizar esta modalidad, se recomienda que la impresión sea clara y con suficiente espacio en los márgenes para asegurar una fácil lectura del contenido.
 
 #### ¿Cuál es la norma de barrido y cómo se aplica a los proyectos de grado?
+
+{% include add3.html %}
 
 La norma de barrido es una técnica que **consiste en revisar el trabajo varias veces para detectar errores ortográficos, gramaticales, de estilo y de contenido**.
 

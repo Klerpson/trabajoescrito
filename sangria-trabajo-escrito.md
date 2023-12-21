@@ -18,6 +18,8 @@ En este artículo, te proporcionaremos toda la información necesaria para utili
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 
+{% include add.html %}
+
 ## ¿Qué es la sangría en un Trabajo Escrito?
 
 ![Sangría Trabajo Escrito]({{'img/sangria-trabajo-escrito.webp'|relative_url}} "Ejemplo de Sangría"){:width="400" height="500" loading="lazy"}
@@ -34,7 +36,7 @@ Para insertar la sangría correctamente, **evita usar la barra espaciadora y uti
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
------
+{% include add2.html %}
 
 ## ¿Cómo insertar la sangría en tus trabajos escritos?
 
@@ -46,6 +48,8 @@ A continuación, te proporcionamos instrucciones detalladas para configurar la s
 {:class"seccion_a"}
 
 ## La sangría en tus trabajos escritos y la presentación profesional
+
+{% include add3.html %}
 
 La correcta aplicación de la sangría y la mejora de la experiencia de usuario en tus trabajos escritos **son elementos clave para atraer y retener a tus lectores**.
 

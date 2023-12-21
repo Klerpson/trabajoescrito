@@ -16,9 +16,9 @@ Para hacerlo más fácil, existen normas establecidas que tienen pautas y recome
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-## Normas y pautas para la portada de trabajos escritos
+{% include add9.html %}
 
-{% include add.html %}
+## Normas y pautas para la portada de trabajos escritos
 
 Hay que considerar el diseño y formato de la portada, incluyendo [el tipo de letra]({{'textos-y-fuentes-trabajo-escrito'|relative_url}} "Letras y fuentes"), tamaño, [márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes") e interlineado.
 
@@ -48,9 +48,9 @@ Se debe *indicar el nombre de la institución* a la que se presenta el trabajo y
 
 **La institución debe ir debajo del nombre del autor o autores**, y la fecha debajo de la institución. Es importante verificar con la institución si existen requisitos adicionales.
 
-{% include add.html %}
-
 ## Diseño y formato de la portada del trabajo escrito
+
+{% include add.html %}
 
 Aunque no sea parte del [cuerpo del trabajo]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo"), la portada debe seguir un formato de escritura.
 
@@ -101,7 +101,7 @@ Para los que prefieren un paso a paso, aquí van algunas instrucciones detallada
 
 Siguiendo estos pasos, te asegurarás de que tu portada esté en perfectas condiciones para presentarla.
 
-----
+{% include add.html %}
 
 ## Recursos y herramientas para la elaboración de portadas
 
@@ -121,9 +121,9 @@ Se pueden encontrar plantillas en línea que pueden ser útiles para asegurarse 
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-{% include add.html %}
-
 ## Preguntas frecuentes sobre la portada de un trabajo escrito
+
+{% include add-post.html %}
 
 Sabemos que hacer una portada puede generar muchas dudas. Por eso, hemos creado esta sección de preguntas frecuentes para aclarar algunas de las más comunes.
 

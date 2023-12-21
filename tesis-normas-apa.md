@@ -14,7 +14,7 @@ Las Normas APA son una guía imprescindible para la presentación de trabajos ac
 
 También hablaremos sobre la importancia de seguir estas normas en nuestro ámbito académico y en el mundo laboral. No te pierdas esta guía práctica y fácil para [la elaboración de trabajos académicos con Normas APA]({{'normas-apa'|relative_url}} "Normas APA").
 
-----
+{% include add7.html %}
 
 ## Tesis con normas APA: guía práctica para la elaboración de una tesis
 
@@ -42,6 +42,8 @@ Tener una tesis bien escrita y estructurada es fundamental para lograr una buena
 En esta sección, se aborda de manera detallada **la estructura, citación, formato y prevención del plagio en una tesis** de acuerdo a las Normas APA.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
+
+{% include add8.html %}
 
 ### ¿Cómo estructurar correctamente una tesis según las Normas APA?
 
@@ -72,6 +74,8 @@ Según las Normas APA, se pueden realizar citas directas o indirectas en el text
 El formato para la elaboración de una tesis de grado según las Normas APA sigue los lineamientos establecidos para trabajos académicos. Se recomienda **seguir las Normas APA en cuanto a márgenes, tamaño de letra, interlineado, justificación**, entre otros aspectos importantes para la presentación del trabajo.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
+
+{% include add9.html %}
 
 ### ¿Cómo evitar el plagio en una tesis?
 
@@ -110,6 +114,8 @@ De esta forma, se presta mayor credibilidad y calidad al trabajo académico y se
 Las tablas y figuras, por su parte, requieren una lista numerada de todas las tablas y figuras incluidas en el trabajo, especificando su título y número de página.
 
 Para hacer una tabla de contenido y lista de tablas y figuras en formato APA, **se debe usar el mismo tipo de letra y tamaño que en el texto principal**. Además, **las tablas y figuras deben tener un título en cursiva y numerarse con números arábigos** consecutivos. La tabla de contenido, a su vez, debe indicar el número de página correspondiente a cada sección o subsección del trabajo.
+
+{% include add.html %}
 
 ## Presenta una Tesis memorable y eficaz
 
