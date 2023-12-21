@@ -13,6 +13,8 @@ permalink: /normas-icontec/marco-teorico-normas-icontec
 ---
 ## Definición de Marco Teórico
 
+{% include add3.html %}
+
 El marco teórico es la base que *soporta la investigación*. Aquí se **recopilan y organizan las teorías, conceptos, y demás información relevante** para el estudio.
 
 Su propósito es **proporcionar un contexto** para la investigación y demostrar la relevancia y la necesidad del estudio.
@@ -29,6 +31,8 @@ La estructura general del marco teórico según las Normas ICONTEC incluye una [
 {:id="normas"}
 
 ### Cómo organizar el Marco Teórico con las Normas ICONTEC
+
+{% include add4.html %}
 
 Para organizar el marco teórico con las Normas ICONTEC, debes seguir estos 2 pasos:
 
@@ -66,7 +70,7 @@ Las Normas ICONTEC {{ "now" | date:"%Y"}} incluyen varios cambios importantes, *
 Para adaptar tu marco teórico a las Normas ICONTEC {{ "now" | date:"%Y"}}, debes revisar las nuevas normas y asegurarte de que tu trabajo las cumple. Esto puede implicar **hacer cambios en la estructura del documento, la forma en que se citan y referencian las fuentes**, y otros aspectos del trabajo.
 {:id="descargas"}
 
-----
+{% include add5.html %}
 
 ## Norma Técnica Colombiana 1486 y el Marco Teórico
 
@@ -81,6 +85,8 @@ La NTC 1486 proporciona directrices claras sobre cómo estructurar y presentar e
 ----
 
 ## Normas ICONTEC para el Resumen y Análisis en el Marco Teórico
+
+{% include add6.html %}
 
 [El resumen]({{'resumen-trabajo-escrito'|relative_url}} "El resumen") y el análisis son partes esenciales del marco teórico. Aquí te explicamos cómo hacer un resumen y un análisis según las Normas ICONTEC.
 
@@ -103,6 +109,8 @@ Las Normas ICONTEC desempeñan un papel crucial en el proceso de investigación.
 Para aplicar las Normas ICONTEC en el proceso de investigación, debes seguir las directrices proporcionadas por estas normas en cada etapa de la investigación. Esto incluye **la formulación de la pregunta de investigación, la recopilación y análisis de datos, la presentación de los resultados y la redacción del informe final**.
 
 ### Ejemplos de aplicación de las Normas ICONTEC en investigaciones
+
+{% include add7.html %}
 
 Aquí te dejamos algunos ejemplos de cómo aplicar las Normas ICONTEC en investigaciones:
 

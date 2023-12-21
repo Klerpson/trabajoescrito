@@ -19,6 +19,8 @@ Aprende cada paso necesario para **crear un glosario excepcional según las Norm
 
 ## Cómo preparar tu Glosario
 
+{% include add.html %}
+
 ### Identifica los términos relevantes
 
 Lo primero que necesitas hacer es **identificar los términos que vas a incluir en tu glosario**.
@@ -33,7 +35,7 @@ Una vez que hayas recogido todos los términos necesarios para tu glosario, **el
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-----
+{% include add-post.html %}
 
 ## Formato de un Glosario según Normas Icontec
 
@@ -61,7 +63,7 @@ Para ayudarte a entender mejor, aquí te dejamos un ejemplo de cómo se vería u
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include add2.html %}
 
 {% include cta-normas.html norma="icontec" %}
 
@@ -86,6 +88,8 @@ Las definiciones deben presentarse siguiendo el término y un par de puntos.
 ### ¿El tamaño de letra del glosario debe ser diferente al del resto del documento?
 
 No, el tamaño de la letra del glosario debe ser [el mismo que el del resto del documento]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Cuerpo del Trabajo Normas Icontec"), normalmente es 12.
+
+{% include add3.html %}
 
 ## Hora de hacer tu glosario Icontec
 

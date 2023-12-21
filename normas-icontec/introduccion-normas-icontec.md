@@ -15,6 +15,8 @@ Una introducción con normas ICONTEC es esencial en todo documento académico o 
 
 ## Elementos que debe contener una introducción con normas ICONTEC
 
+{% include add4.html %}
+
 La introducción de un trabajo académico o profesional es una sección esencial que debe seguir las normas ICONTEC para ofrecer una visión clara y precisa del documento.
 
 Los siguientes son los elementos que se deben incluir en una introducción con normas ICONTEC.
@@ -47,7 +49,7 @@ De esta manera, se pretende ofrecer una visión clara de la problemática aborda
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-----
+{% include add5.html %}
 
 ### Cómo estructurar correctamente una introducción con normas ICONTEC
 
@@ -76,6 +78,8 @@ Debemos delimitar los objetivos y ámbitos de la investigación, especificando l
 
 ### Cómo elaborar una introducción con Normas ICONTEC en Word
 
+{% include add6.html %}
+
 Para elaborar una introducción con Normas ICONTEC en Word, es necesario seguir las pautas que establecidas por estas normas. En primer lugar, debe tenerse en cuenta la estructura de la introducción que se especifica en [la sección del formato](#normas) de este artículo.
 
 Es necesario seguir las normas establecidas por ICONTEC para redactar textos en Word, como [tamaño, tipo y color de la letra, interlineado]({{'normas-icontec/cuerpo-trabajo-normas-icontec'|relative_url}} "Formato Icontec"), los márgenes y la sangría.
@@ -93,6 +97,8 @@ En la introducción de un trabajo académico o profesional, es fundamental **evi
 {:id="descargas"}
 
 ## Ejemplos de introducciones con normas ICONTEC
+
+{% include add7.html %}
 
 Esta sección ofrece dos ejemplos sobre cómo redactar una introducción siguiendo las normas ICONTEC. El primer ejemplo muestra una introducción bien estructurada que incluye los elementos requeridos por las normas ICONTEC. El segundo ejemplo, por el contrario, adolece de graves problemas de redacción y estructura que la hacen inadecuada para ser incluida en un trabajo académico o profesional.
 
@@ -121,6 +127,8 @@ Te presentamos dos ejemplos de introducciones bien estructuradas acorde a las no
 Analizando los anteriores ejemplos con detenimiento, tendrás más claro los puntos necesarios para hacer una gran introducción siguiendo las normas Icontec.
 
 ## Diferencias entre las normas ICONTEC del 2011 y del 2023 (actualidad)
+
+{% include add8.html %}
 
 Desde 2011, las normas ICONTEC para documentos académicos han sido una herramienta esencial para presentar trabajos de forma estructurada y organizada, brindando una guía y unos criterios claros para la elaboración de estos trabajos.
 

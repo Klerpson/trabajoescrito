@@ -19,6 +19,8 @@ ICONTEC es el Instituto Colombiano de Normas Técnicas y Certificación. Se enca
 
 ## Numeración de páginas en ICONTEC
 
+{% include add3.html %}
+
 Al enumerar con normas Icontec las páginas de tu trabajo escrito, ten en cuenta 3 aspectos importantes.
 
 ### 1. Cómo se hace
@@ -42,6 +44,8 @@ El orden de numeración sigue la estructura del documento. Primero las secciones
 
 ## Estilo de numeración en ICONTEC
 
+{% include add4.html %}
+
 ### Tipos de estilos permitidos
 
 Puedes **usar números arábigos (1, 2, 3) o romanos (I, II, III)** dependiendo de la sección. *Pero una vez que elijas, mantén la coherencia*.
@@ -62,6 +66,8 @@ Al igual que en documentos, la numeración de diapositivas debe ser consecutiva 
 
 ## Numeración de secciones en ICONTEC
 
+{% include add5.html %}
+
 Aplica las siguientes reglas básicas para la enumeración de una sección de un documento o de un trabajo académico con las normas Icontec:
 
 1. Cada sección principal lleva un número arábigo seguido de un punto.
@@ -78,6 +84,8 @@ Las figuras deben numerarse para referenciarlas en el texto y facilitar su búsq
 ----
 
 ## Numeración de anexos en ICONTEC
+
+{% include add6.html %}
 
 ### ¿Cuándo se usan anexos?
 
@@ -117,7 +125,7 @@ Para numerar las tablas, el proceso es bastante sencillo pero debe ser preciso. 
 Primero, decide qué estilo de numeración vas a usar: números arábigos o romanos. Una vez que lo hayas decidido, mantén ese estilo de forma consistente en todo el documento. Luego, simplemente sigue la numeración de forma consecutiva. Si tu primera tabla es "Tabla 1", la siguiente debería ser "Tabla 2", y así sucesivamente.
 {:id="descargas"}
 
-----
+{% include add7.html %}
 
 ## Enumeración de citas y referencias con normas Icontec
 
@@ -142,6 +150,8 @@ Mientras que las **citas se enumeran en el orden en que aparecen** en el texto, 
 
 ## Preguntas frecuentes sobre la numeración en ICONTEC
 
+{% include add8.html %}
+
 ### ¿Puedo usar números romanos?
 
 Sí, pero solo para secciones preliminares y anexos.
@@ -149,7 +159,5 @@ Sí, pero solo para secciones preliminares y anexos.
 ### ¿Qué hago si tengo múltiples anexos?
 
 Utiliza letras para diferenciarlos (Anexo A, Anexo B, etc.).
-
-----
 
 Ahora, ¿listo para ser un experto en numeración ICONTEC? No te detengas aquí. Explora más sobre cómo ICONTEC puede hacer que tus trabajos académicos y profesionales brillen. **[Haz clic para saber más]({{'normas-icontec'|realtive_url}})**.

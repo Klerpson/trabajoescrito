@@ -19,6 +19,8 @@ Aprenderás cómo las listas pueden mejorar la organización y claridad de tus e
 
 ## ¿Por qué las listas son indispensables en tus documentos?
 
+{% include add9.html %}
+
 Cuando nos encontramos frente a un texto largo y denso, la información puede resultar abrumadora y difícil de asimilar. Aquí es donde las listas se convierten en una herramienta invaluable.
 
 Las listas permiten **desglosar la información en elementos más manejables**, facilitando su lectura y comprensión.
@@ -34,6 +36,8 @@ Las listas permiten **desglosar la información en elementos más manejables**, 
 {:class="seccion_a" id="normas"}
 
 ## Normas ICONTEC para la estructura de las listas
+
+{% include add.html %}
 
 Las Normas ICONTEC establecen directrices precisas para la estructura y formato de las listas. A continuación, te presentamos algunos aspectos clave que debes tener en cuenta al utilizar listas según estas normas:
 
@@ -56,6 +60,8 @@ No se debe utilizar otro tipo de puntuación al final de los elementos de la lis
 {% include cta-normas.html norma="icontec" %}
 
 ## Ejemplos de listas bien formateadas según las Normas ICONTEC
+
+{% include add-post.html %}
 
 A continuación, te presentamos algunos ejemplos de listas correctamente estructuradas según las Normas ICONTEC:
 
@@ -95,6 +101,8 @@ A continuación, te presentamos algunos ejemplos de listas correctamente estruct
 >- Mantener una buena postura y contacto visual con la audiencia.
 
 ## Mejora tu trabajo escrito con listas bien hechas
+
+{% include add2.html %}
 
 El uso adecuado de listas según las Normas ICONTEC es fundamental para mejorar la organización y claridad de tus documentos.
 

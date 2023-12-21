@@ -19,6 +19,8 @@ Es como el GPS de tu trabajo, le indica al lector la estructura y el camino a se
 
 Según [las Normas ICONTEC]({{'normas-icontec'|relative_url}} "Normas Icontec"), esta tabla debe ser **clara, ordenada y concisa, mostrando todos los capítulos, secciones y sub-secciones que componen el trabajo, junto con las páginas** donde se pueden encontrar.
 
+{% include add.html %}
+
 ### Relevancia de la Tabla de Contenido en trabajos académicos
 
 Hablar de una **tabla de contenido** en trabajos académicos no es solo hablar de una simple lista. Es mucho más que eso.
@@ -39,7 +41,7 @@ La **tabla de contenido** debe presentar los títulos **en el mismo orden en que
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-----
+{% include add-post.html %}
 
 ## Cómo elaborar una Tabla de Contenido con Normas ICONTEC
 
@@ -76,6 +78,8 @@ Los elementos de la tabla de contenido deben ser **ordenados de forma jerárquic
 
 ### ¿Cómo se hace el índice según Icontec?
 
+{% include add3.html %}
+
 El índice es una herramienta útil para los lectores del trabajo, ya que les permite encontrar rápidamente los temas y secciones que les interesan.
 
 Para hacer el índice según las normas Icontec, se debe seguir los siguientes pasos:
@@ -91,7 +95,7 @@ Sigue fielmente el formato de las Normas ICONTEC. Y por último, pero no menos i
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-----
+{% include add4.html %}
 
 ## Ejemplos de Tablas de Contenido con Normas ICONTEC
 
@@ -123,6 +127,8 @@ Para que te sea más fácil entender cómo se hace una **tabla de contenido** ba
 {% include cta-normas.html norma="icontec" %}
 
 ### Preguntas Frecuentes
+
+{% include add4.html %}
 
 Aquí te dejamos algunas preguntas frecuentes sobre las **tablas de contenido** bajo las Normas ICONTEC.
 

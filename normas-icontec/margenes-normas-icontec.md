@@ -17,6 +17,8 @@ La presentación física de un trabajo escrito es uno de los aspectos más impor
 
 A continuación, se explicará cuáles son los márgenes adecuados según Icontec y cómo establecerlos en un documento.
 
+{% include add9.html %}
+
 ### ¿Qué márgenes se deben usar en el trabajo escrito según Icontec?
 
 Las normas ICONTEC especifican los márgenes de la siguiente manera:
@@ -36,6 +38,8 @@ Para ajustar los márgenes, ve a "**Márgenes**" en la pestaña "**Diseño de P�
 
 ### ¿Cómo establecer los márgenes según Icontec?
 
+{% include add.html %}
+
 Los márgenes adecuados según Icontec se establecen **mediante la configuración de opciones en Word**, que es una de las herramientas digitales más utilizadas para la presentación de textos.
 
 Los pasos a seguir para establecer los márgenes en Word según las normas Icontec son los siguientes:
@@ -54,6 +58,8 @@ Establecer los márgenes según las normas Icontec es una tarea sencilla gracias
 
 ## Márgenes de la portada según las normas Icontec
 
+{% include add-post.html %}
+
 Para cumplir con las normas Icontec, la portada debe ser elaborada en una hoja tamaño carta de manera vertical, de acuerdo con las siguiente medidas:
 
 - Márgenes superior e izquierdo: 4 cm
@@ -62,6 +68,8 @@ Para cumplir con las normas Icontec, la portada debe ser elaborada en una hoja t
 {% include cta-normas.html norma="icontec" %}
 
 ## Mantén tu trabajo dentro de las márgenes establecidas
+
+{% include add2.html %}
 
 En definitiva, respetar y seguir las normas ICONTEC para los márgenes en trabajos escritos es de suma importancia. Cumplir con estas normas no solo demuestra nuestro compromiso y respeto por las directrices académicas, sino que también ayuda a presentar nuestro trabajo de manera más legible y ordenada.
 

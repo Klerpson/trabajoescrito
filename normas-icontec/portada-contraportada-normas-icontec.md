@@ -23,6 +23,8 @@ Las Normas ICONTEC imponen ciertas restricciones en cuanto a elementos como la p
 
 ## ¿Cómo se debe hacer la portada con normas Icontec?
 
+{% include add9.html %}
+
 Según las Normas ICONTEC, la portada debe contener la siguiente información:
 
 - Título del trabajo
@@ -66,13 +68,13 @@ La información debe presentarse en este orden y de la forma exacta como se espe
 
 ## Normas ICONTEC para la contraportada
 
+{% include add-post.html %}
+
 La contraportada es una parte importante de cualquier trabajo académico ya que, además de brindar una presentación completa y correcta, **permite una identificación rápida y sencilla del contenido** del trabajo.
 
 [Las Normas ICONTEC]({{'normas-icontec'|relative_url}} "Normas Icontec") establecen una serie de requerimientos para elaborar una **contraportada adecuada y clara**.
 
 ### ¿Cómo puedes hacer la contraportada con normas ICONTEC?
-
-{% include add.html %}
 
 La contraportada debe contener **información detallada pero concisa** sobre el trabajo académico.
 
@@ -114,6 +116,8 @@ A continuación, se presenta un ejemplo de cómo debería ser la contraportada d
 >**Programa académico:** Ingeniería Industrial  
 >
 >**Ciudad y año de presentación:** Bogotá, 2023
+
+{% include add2.html %}
 
 ## La portada y la contraportada se ven mejor con las normas ICONTEC
 
