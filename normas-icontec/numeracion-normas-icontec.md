@@ -160,4 +160,4 @@ Sí, pero solo para secciones preliminares y anexos.
 
 Utiliza letras para diferenciarlos (Anexo A, Anexo B, etc.).
 
-Ahora, ¿listo para ser un experto en numeración ICONTEC? No te detengas aquí. Explora más sobre cómo ICONTEC puede hacer que tus trabajos académicos y profesionales brillen. **[Haz clic para saber más]({{'normas-icontec'|realtive_url}})**.
+Ahora, ¿listo para ser un experto en numeración ICONTEC? No te detengas aquí. Explora más sobre cómo ICONTEC puede hacer que tus trabajos académicos y profesionales brillen. **[Haz clic para saber más]({{base.url}}/normas-icontec)**.

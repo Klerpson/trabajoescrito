@@ -114,4 +114,4 @@ Con estas herramientas, no necesitas ser un experto en tecnología para que tus 
 **✓ Presenta ese trabajo escrito que tanto deseas**  
 
 👇 Haz clic en este botón y aprovecha la oportunidad para alcanzar el éxito académico y profesional que tanto deseas. 👇  
-[**¡Quiero Ser un Experto!**]({{'cursos'|relative_url}}){:class="boton"}
+[**¡Quiero Ser un Experto!**]({{'cursos-de-trabajos-escritos'|relative_url}}){:class="boton"}
