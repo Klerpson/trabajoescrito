@@ -276,11 +276,11 @@
         "isAccessibleForFree": "True",
         "mainEntityOfPage": {
           "@type": "WebPage",
-          "id": "{{site.baseurl}}/{{ page.url }}"
+          "id": "{{ page.url | relative_url }}"
         },
         "author": {
           "@type": "Person",
-          "name": "Nombre del autor"
+          "name": "{{site.author}}"
         },
         "publisher": {
           "@type": "Organization",
@@ -288,13 +288,13 @@
           "logo": {
             "@type": "ImageObject",
             "url": "https://trabajoescrito.com/logotipo.webp",
-            "width": "280px",
-            "height": "57px"
+            "width": "280",
+            "height": "57"
           }
         },
         
         "articleBody": "{{ page.intro }}",
-        "articleSection": "{{ page.category }}",
+        "articleSection": "Consejos",
       }
   </script>
   {% endif %}
