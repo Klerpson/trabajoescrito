@@ -189,8 +189,18 @@ select {
   text-transform: none;
 }
 
-li {
+ul li {
   list-style: none;
+}
+
+ol li{
+  margin-left: 2em;
+}
+
+ol li::marker{
+  font-size: 1.5em;
+  font-family: var(--fuenteTitulos);
+  color: var(--principal);
 }
 
 blockquote {
@@ -346,31 +356,9 @@ hr {
 }
 
 .seccion_a {
-  background-color: var(--secundario);
-  box-shadow: 0 0 0 100vmax var(--secundario);
-  -webkit-clip-path: inset(0 -100vmax);
-          clip-path: inset(0 -100vmax);
-  padding: 4em 0;
-  margin-inline: auto;
-
-  & p {
-    width: min(100%, 1128px);
-    margin-inline: auto;
-  }
-
-  & ol {
-    width: min(100%, 1128px);
-    margin-inline: auto;
-    padding-left: 3em;
-  }
-
-  & ol li {
-    list-style: decimal;
-
-    &::marker {
-      font-size: 2em;
-    }
-  }
+  padding: 1em;
+  border: 2.4px solid var(--principal);
+  box-shadow: var(--shadow);
 }
 
 .cluster2 {
