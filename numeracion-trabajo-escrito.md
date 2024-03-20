@@ -102,9 +102,11 @@ Con estas herramientas, no necesitas ser un experto en tecnología para que tus 
 
 {% include add8.html %}
 
-## Conviértete en un Experto en Trabajos Académicos
+## Conviértete en un experto enumerando y desarrollando Trabajos Académicos
 
-¿Quieres dejar de preocuparte por cómo numerar páginas en trabajos académicos y otros detalles que te quitan el sueño? Tenemos la solución perfecta para ti. Accede a nuestros cursos prácticos que te ayudarán a superar los desafíos comunes en la redacción de tesis, investigaciones y mucho más.
+¿Quieres dejar de preocuparte por cómo numerar páginas en trabajos académicos y otros detalles que te quitan el sueño?
+
+Tenemos la solución perfecta para ti. Accede a nuestros cursos prácticos que te ayudarán a superar los desafíos comunes en la redacción de tesis, [investigaciones]({{'investigacion-con-normas-apa-icontec'|relative_url}}) y mucho más.
 
 **✓ Olvídate de la confusión al citar fuentes**  
 **✓ Deja de buscar cómo estructurar tus trabajos**  
