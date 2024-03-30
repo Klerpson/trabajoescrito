@@ -18,7 +18,7 @@ Esta página a menudo se utiliza para incluir información adicional, como detal
 
 {% include add4.html %}
 
-### Pautas a seguir
+### Pautas a seguir al hacer una contraportada
 
 Para elaborar una contraportada según las [Normas APA]({{'normas-apa'|relative_url}}), es importante seguir las mismas pautas que para la [portada]({{'portada-trabajo-escrito'|relative_url}}).
 
@@ -43,13 +43,17 @@ La contraportada debe contener información sobre *el título del trabajo, el au
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-## Más información para la contraportada
+## ¿Qué va primero: la portada o la contraportada? ¿Y cómo se hace?
 
-Se puede incluir una foto o una imagen relacionada con el proyecto.
+**Siempre va primero la portada**. En esta se puede incluir una foto o una imagen relacionada con el proyecto. Puedes incluir elementos adicionales como **la cita de algún fragmento relevante del trabajo, la identificación de la versión de trabajo (borrador, primera versión, etc.) y la información del financiamiento** si aplica.
 
-Puedes incluir elementos adicionales como **la cita de algún fragmento relevante del trabajo, la identificación de la versión de trabajo (borrador, primera versión, etc.) y la información del financiamiento** si aplica.
+### Diferencias entre portada y contraportada
 
-----
+| Componente | Portada | Contraportada |
+|-|-|-|
+| Ubicación | Cubierta delantera | Cubierta trasera |
+| Contenido | - Título de la obra <br> - Nombre del autor <br> - Imagen o ilustración representativa | - Resumen o sinopsis del contenido <br> - Citas o comentarios elogiosos <br> - Biografía breve del autor <br> - Información sobre otras obras del autor |
+| Función | - Proporcionar una primera impresión del libro <br> - Captar la atención del lector potencial <br> - Ser la parte más visible y atractiva | - Dar más detalles sobre el contenido del libro <br> - Persuadir al lector potencial de comprar el libro <br> - Generar interés en el libro |
 
 ## ¿Necesitas plantillas de contraportadas?
 
@@ -59,7 +63,7 @@ Estamos preparando plantillas para que se te haga más fácil inspirarte en una 
 
 En nuestro caso nos estamos inspirando en herramientas como Pinterest, entre otras.
 
-### La contraportada, un detalle para no pasar por alto
+### No descuides la contraportada de un trabajo escrito
 
 Además, la contraportada puede incluir información adicional sobre el trabajo, como el número de páginas, el número de palabras y/o cualquier otra información relevante.
 

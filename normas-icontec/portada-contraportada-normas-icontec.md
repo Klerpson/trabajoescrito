@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Portada y contraportada en ICONTEC: la mejor presentación"
+title: "Portada y contraportada con Normas Icontec ¡Conócelas!"
 description: "Existen pautas específicas para la presentación de la portada y contraportada con Normas ICONTEC. Mira la información detallada y las especificaciones"
-intro: "Las Normas ICONTEC son fundamentales para la elaboración de trabajos académicos en Colombia. Presenta bien tu portada y la contraportada  y mira ejemplos de cómo debe ser el formato."
+intro: "Las Normas ICONTEC son fundamentales para la elaboración de la portada y la contraportada de tu trabajo escrito. Mira ejemplos de cómo debe ser el formato."
 h1: "Portada y contraportada con normas ICONTEC: la presentación de tu trabajo"
 boton_info: "normas"
 boton_info_title: "Cómo hacer la portada"
@@ -11,17 +11,37 @@ boton_mas_title: "Cómo hacer la contraportada"
 vertical: true
 permalink: /normas-icontec/portada-contraportada-normas-icontec
 ---
-## Normas ICONTEC para las portadas
+## Normas ICONTEC para la portada y contraportada de un trabajo escrito
 
 La portada de un trabajo académico **es la primera página del mismo y la que presenta la información detallada sobre el contenido del trabajo**.
 
 Las Normas ICONTEC establecen las pautas a seguir en la elaboración de esta página, y así lograr una correcta organización y facilitar la comprensión del documento.
 
 Las Normas ICONTEC imponen ciertas restricciones en cuanto a elementos como la portada y la contraportada.
+
+## ¿Qué diferencia la portada y la contraportada?
+
+[La portada]({{'portada-trabajo-escrito'|relative_url}} "Portada trabajo escrito") y [la contraportada]({{'contraportada-trabajo-escrito'|relative_url}} "Contraportada") son partes importantes de un trabajo escrito, pero tienen funciones y contenidos diferentes:
+
+**Portada**:
+- Es la cubierta delantera del libro.
+- Contiene el título de la obra, el nombre del autor y, a menudo, alguna imagen o ilustración representativa.
+- Es la parte más visible y atractiva, diseñada para captar la atención del lector potencial.
+- Proporciona una primera impresión del libro y su contenido.
+
+**Contraportada**:
+- Es la cubierta trasera del libro.
+- Suele contener un breve resumen o sinopsis de la trama o tema del libro.
+- A veces incluye citas o comentarios elogiosos de críticos o autores reconocidos.
+- Puede mostrar también una pequeña biografía del autor o información sobre sus otras obras publicadas.
+- Sirve para dar más detalles sobre el contenido del libro y persuadir al lector potencial de comprarlo.
+
+En resumen, mientras que la portada es la "cara" visible y atractiva del libro, la contraportada proporciona información más detallada sobre su contenido y el autor, con el fin de generar interés y motivar la compra.
+
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-## ¿Cómo se debe hacer la portada con normas Icontec?
+## Portada con normas Icontec: ¿Qué debe contener?
 
 {% include add9.html %}
 
@@ -40,9 +60,9 @@ Según las Normas ICONTEC, la portada debe contener la siguiente información:
 
 [Las Normas Icontec]({{site.baseurl}}/normas-icontec "Normas Icontec") requieren que la portada de un trabajo escrito **incluya el título del trabajo, el nombre del autor o autores, la institución a la que se presenta el trabajo y la fecha de presentación**.
 
-[El título]({{'titulos-trabajo-escrito'|relative_url}} "Títulos") debe ser breve y conciso, y debe reflejar el contenido del trabajo.
+[El título]({{'titulos-trabajo-escrito'|relative_url}} "Títulos de los trabajos escritos") debe ser breve y conciso, y debe reflejar el contenido del trabajo.
 
-### Formato de escritura de la portada en ICONTEC
+### Cómo hacer una portada con las normas Icontec
 
 {% include add.html %}
 
@@ -52,9 +72,10 @@ El nombre del autor o autores debe aparecer debajo del título, con una fuente m
 
 La información debe presentarse en este orden y de la forma exacta como se especifica en las Normas ICONTEC.
 
-> **Ejemplo de Portada Sencilla**:
+#### Ejemplo de Portada Sencilla con Normas Icontec
+
 >
-> Título: Análisis de la Economía Colombiana  
+> Título: Análisis de la Economía Colombiana   
 >
 > Autor: [Tu nombre]  
 >
@@ -72,13 +93,11 @@ La información debe presentarse en este orden y de la forma exacta como se espe
 
 La contraportada es una parte importante de cualquier trabajo académico ya que, además de brindar una presentación completa y correcta, **permite una identificación rápida y sencilla del contenido** del trabajo.
 
-[Las Normas ICONTEC]({{'normas-icontec'|relative_url}} "Normas Icontec") establecen una serie de requerimientos para elaborar una **contraportada adecuada y clara**.
+Las Normas ICONTEC establecen una serie de requerimientos para elaborar una **contraportada adecuada y clara**.
 
-### ¿Cómo puedes hacer la contraportada con normas ICONTEC?
+### Contraportada con normas ICONTEC: ¿Qué debe contener?
 
-La contraportada debe contener **información detallada pero concisa** sobre el trabajo académico.
-
-Los elementos necesarios para la contraportada son los siguientes:
+La contraportada debe contener **información detallada pero concisa** sobre el trabajo académico. Los elementos necesarios para la contraportada son los siguientes:
 
 - Título del trabajo
 - Nombre(s) del autor(es)
@@ -101,8 +120,6 @@ El tipo de **letra recomendado por las Normas ICONTEC para la contraportada es A
 
 ### Ejemplo de formato de contraportada según las Normas ICONTEC
 
-A continuación, se presenta un ejemplo de cómo debería ser la contraportada de un trabajo académico siguiendo las Normas ICONTEC:
-
 >**Título del trabajo:** Ejemplo de trabajo académico según las Normas ICONTEC  
 >
 >**Nombre del autor:** Juan Pérez  
@@ -121,6 +138,6 @@ A continuación, se presenta un ejemplo de cómo debería ser la contraportada d
 
 ## La portada y la contraportada se ven mejor con las normas ICONTEC
 
-Siempre ten presente que la presentación de tu trabajo escrito es un primer impacto para quien lo revisa.
+Siempre ten presente que [la presentación de tu trabajo escrito]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}) es un primer impacto para quien lo revisa.
 
 Por lo anterior, procura que la información **esté alineada, escrita de manera clara y con buena ortografía**. Utiliza la tipografía y formato especificados por las Normas ICONTEC para presentar la portada y la contraportada de manera adecuada.

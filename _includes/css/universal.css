@@ -212,7 +212,6 @@ blockquote {
   -webkit-clip-path: inset(0 -100vmax);
   clip-path: inset(0 -100vmax);
   font-family: var(--fuenteTitulos);
-  display: flex;
 }
 
 blockquote > *{
