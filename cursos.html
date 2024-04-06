@@ -1,8 +1,8 @@
 ---
 layout: compress
 title: Cursos de normas APA, Icontec y Trabajos Escritos Exitosos
-h1: Cursos para aplicar correctamente las normas de Trabajos Escritos
-description: ¿Necesitas capacitarte sobre normas APA 📑? ¿O sobre normas Icontec 📃? Te ofrecemos los cursos mejor calificados para aprender a hacer tu Trabajo Escrito
+h1: Cursos para sobresalir con tus Trabajos Escritos
+description: ¿Necesitas capacitarte sobre normas APA 📑? ¿O para presentar tesis u otros trabajos académicos 📃? Te ofrecemos los cursos mejor calificados del mercado
 webp: book-creditcard.svg
 alt: Libros o cursos normas apa e icontec
 permalink: /cursos-de-trabajos-escritos
@@ -15,12 +15,12 @@ permalink: /cursos-de-trabajos-escritos
       <h1>{{page.h1}}</h1>
       <div>
         <a href="#cursos" class="boton">↪ Conoce los cursos</a>
-        <a href="#libros" class="boton">↪ Mira los libros</a>
       </div>
     </div>
+    <p>{{page.description}}</p>
   </header>
   <section class="seccion_a wrapper flow">
-    <h2>Cómo Utilizar los Cursos de normas para Trabajos Escritos</h2>
+    <h2>Cómo comenzar tus cursos hoy mismo</h2>
     <p>Buscamos por ti los <strong>cursos mejor calificados para aprender sobre normas APA, normas Icontec, IEEE, Vancouver, redacción, investigación, etc.</strong> Solo sigue estos pasos:</p>
     <ol>
       <li>Haz clic en el curso que más te gusta</li>
@@ -41,33 +41,13 @@ permalink: /cursos-de-trabajos-escritos
       </article>
       {% endfor %}
   </main>
-  <section class="seccion_a wrapper flow" id="libros">
-    <h2>Libros sobre normas académicas y redacción: los más accesibles para todo bolsillo</h2>
-    <p>Buscamos por ti los <strong>libros sobre normas APA, Icontec, Chicago, Vancouver, etc.</strong>  Cuestan mucho menos que un curso y puedes tenerlos siempre contigo:</p>
-    <ol>
-      <li>Haz clic en el libro que necesitas</li>
-      <li>Lee las calificaciones y su contenido</li>
-      <li>Compra, descarga y conviértete en un experto</li>
-    </ol>
-  </section>
-  <div class="cursos wrapper flow">
-    {% for libro in site.data.libros-apa %}
-    <article>
-      <img src="{{libro.img}}" alt="Imagen del libro titulado {{libro.title}}" loading="lazy">
-      <div>
-        <h3>
-          <a href="{{ libro.url }}" title="{{libro.title}}" rel="nofollow noopener noreferrer" target="_blank">{{ libro.title | escape }}</a>
-        </h3> 
-        <p>{{libro.p|markdownify}}</p>
-      </div>
-    </article>
-    {% endfor %}
-  </div>
+ 
   <aside class="cta wrapper flow">
-    <h3>¿Estás listo para transformar tu forma de presentar tus trabajos académicos?</h3>
-    <p>No busques más. Este material detallado y práctico te proporcionará todas las herramientas necesarias para escribir trabajos académicos envolventes que mantengan a tus lectores enganchados.</p>
-    <p>Estos no son solo otro curso teórico o un libro más de relleno. <strong>Son una experiencia interactiva, llena de ejemplos reales, actividades prácticas, feedback personalizado y un camino claro hacia el éxito</strong>. No dejes pasar esta oportunidad para <strong>perfeccionar tu redacción, diferenciarte y transformar</strong> tus trabajos escritos en obras maestras.</p>
-    <p>¡Inscríbete ahora y empieza a captar la atención de tus lectores desde la primera frase!</p>
+    <h2>Tienes que terminar y sobresalir en tus trabajos escritos</h2>
+    <p>Cuando era niño y presentaba mis trabajos, mi padre siempre me exigía la nota más alta. Nunca aceptó menos que eso.</p>
+    <p>Y esa siempre fue mi mentalidad cuando hacía trabajos escritos. Por esta razón, te comparto los cursos que te ayudarán a conseguir la excelencia como yo lo hacía.</p>
+    <a href="#cursos" class="boton boton_1">Comienza hoy mismo</a>
+    <h3>¡Inscríbete ahora y empieza a captar la atención de tus lectores desde la primera frase!</h3>
   </aside>
 
   {% include footer.html %}
