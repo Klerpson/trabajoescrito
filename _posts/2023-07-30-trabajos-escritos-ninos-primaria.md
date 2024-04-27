@@ -33,7 +33,7 @@ Los trabajos escritos son una excelente herramienta **para el aprendizaje activo
 
 Los trabajos escritos ayudan a los niños a desarrollar **habilidades de organización y planificación**, que son esenciales para el éxito académico y la vida en general.
 
-----
+¿Necesitas más ideas para promover el aprendizaje de los niños en la escuela? Entonces, [te recomendamos este libro para fomentar sus habilidades escritas y de comunicación](https://go.hotmart.com/F92711488K?dp=1){:rel="nofollow noopener sponsored noreferrer" target="_blank"}
 
 ## ¿Cómo presentar un trabajo escrito para niños de primaria? Siguiendo las normas académicas
 
