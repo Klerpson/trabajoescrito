@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Tablas y figuras según las normas APA"
+title: "Tablas y figuras según las normas APA séptima edición"
 description: "Aprende cómo elaborar tablas siguiendo las Normas APA de la 7ª edición para tu Universidad u otro campo profesional."
-h1: "Tablas y figuras según las normas APA para tus Trabajos Escritos"
+h1: "Normas APA para Tablas, Figuras y Apéndices en la 7ª Edición"
 intro: "Las Normas APA establecen pautas claras para la presentación de tablas y figuras en trabajos académicos. Es importante seguir estas normas para mostrar la información de una forma clara y organizada."
 boton_info: "normas"
 boton_info_title: "Cómo hacer las tablas"
@@ -11,225 +11,179 @@ boton_mas_title: "Cómo incluir figuras"
 vertical: true
 permalink: /normas-apa/tablas-y-figuras-normas-apa
 ---
-La creación de tablas y figuras es importante para mostrar datos en un formato visualmente atractivo.
+La creación de tablas, figuras y apéndices es clave para presentar datos e información adicional de manera clara y visualmente atractiva en trabajos que siguen las Normas APA 7ª edición.
 
-Ahora te explicaremos **cómo elaborar tablas y figuras según las Normas APA de la 7ª edición**.
+Estos elementos complementarios permiten **organizar y resumir hallazgos, análisis y conclusiones** clave.
 
-## Normas APA para tablas y figuras
+## ¿Qué son las Normas APA 7ª Edición para Tablas y Figuras?
 
-Las Normas APA se han convertido en un referente a nivel internacional para la presentación de trabajos académicos. Siguiéndolas, **se asegura que la información se presenta de manera clara, organizada y visualmente atractiva, especialmente en la inclusión de tablas y figuras**.
+Según la definición de la APA 7ª edición, **las tablas, figuras y apéndices se utilizan como complementos importantes para presentar información adicional relevante** relacionada con el trabajo original.
 
-Los siguientes son los principales aspectos a tener en cuenta al elaborar estas estas elementos en un trabajo académico.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="normas"}
+Las figuras deben seguir un formato específico para garantizar legibilidad y claridad, especialmente al presentar datos numéricos o gráficos de resultados.
 
-{% include add6.html %}
+Cada tabla, figura y apéndice debe tener un número correspondiente, [un título claro sobre su contenido]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}}), y notas adicionales cuando sea necesario describir el contenido o mencionar su origen si es de terceros.
 
-## Tablas con normas APA
+## Tipos de Tablas Según Normas APA
 
-Las tablas son una herramienta útil para **mostrar información de manera clara y organizada** en trabajos académicos.
+1. **Tablas numéricas**: Presentan información usando formatos gráficos estándar y respetando jerarquías. Por ejemplo, tablas con más de una celda deben tener cabecera para cada una.
+2. **Tablas desplegables**: Se usan en documentos electrónicos para facilitar lectura de tablas largas.
+3. **Tablas expandibles**: Muestran información detallada sobre temas específicos, pero limitadas a 20 columnas máximo.
 
-En esta sección se explicará **cómo elaborar tablas siguiendo las Normas APA de la 7ª edición** para tu Universidad u otro campo profesional.
+A modo de ejemplo, esta es una tabla que sigue las normas APA:
 
-### Formato APA en tablas y figuras
+| Característica | Descripción |
+| ---- | ---- |
+| Título | Debe ser breve pero descriptivo, en negrita en la parte superior |
+| Encabezados | Claros y concisos, pueden ir en negrita |
+| Cuerpo | Contiene los datos organizados en filas y columnas |
+| Notas | Explicaciones al pie de la tabla si es necesario |
 
-En lo que respecta a las tablas y figuras, las Normas APA establecen una serie de reglas claras y precisas respecto al formato que se debe seguir.
+## Tipos de Figuras en Normas APA
 
-Entre ellas se encuentran aspectos como la inclusión de [títulos y subtítulos]({{'normas-apa/titulos-y-subtitulos-normas-apa'|relative_url}} "Títulos y subtítulos normas APA") en negrita y cursiva, [numeración]({{'normas-apa/numeracion-normas-apa'|relative_url}} "Numeración normas APA") consecutiva, [indicación de la fuente]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas APA"), y atribución de derechos de autor. Además, se especifica [el tipo y tamaño de letra]({{'normas-apa/textos-normas-apa'|relative_url}} "Textos normas APA") que se debe usar en estos elementos.
+1. **Gráficos lineales**: Los más comunes, usan formatos estándar y se referencian con [bibliografía]({{'bibliografia-trabajo-escrito'|relative_url}}) y número de serie.
+2. **Figuras desplegables**: Se utilizan en documentos electrónicos para visualizar figuras largas.
+3. **Gráficos 3D**: Son más complejos y requieren herramientas de edición gráfica especializadas.
 
-### Cómo citar las tablas y figuras
+[Cada figura debe tener un número]({{'normas-apa/numeracion-normas-apa'|relative_url}}), título breve en cursiva, y [citar la fuente]({{'normas-apa/citas-normas-apa'|relative_url}}) si proviene de un tercero.
 
-En cuanto a la citación de tablas y figuras, se detallan las reglas para el uso de números en el texto, **señalando la tabla o figura de la que se está hablando, y la indicación correspondiente en la lista de tablas y figuras**.
+Es importante seguir [las pautas APA]({{'normas-apa'|relative_url}}) para asegurar precisión, coherencia y legibilidad en tablas y figuras.
 
-Así se evita la confusión y se facilita la organización de la información presentada.
+## Cómo Crear Apéndices en Normas APA
 
-### Crear una lista de tablas y figuras
+[Un apéndice es una sección adicional]({{'apendice-trabajo-escrito'|relative_url}}) que provee información complementaria o datos extras sobre el tema del trabajo. Los apéndices utilizan tablas, figuras y notas para presentar detalles e información numérica relevante.
 
-Finalmente, se describe cómo debe ser la estructura de la lista de tablas y figuras. Esta debe **seguir un orden consecutivo, con un título claro y conciso** que permita al lector saber de qué se trata cada elemento.
+Para crear un apéndice según las Normas APA 7ª edición:
 
-Debes **mencionar la página en la que se encuentra cada tabla o figura**. De esta forma se logra una presentación más ordenada y organizada de la información.
+1. Crea una nueva hoja o sección separada después del texto principal.
+2. Utiliza [formato de línea cero para eliminar espacios innecesarios]({{'normas-apa/interlineado-normas-apa'|relative_url}}).
+3. Incluye un número de apéndice (ej: "Apéndice A: Análisis de Resultados") debajo del título en cursiva.
+4. En la página siguiente, detalla el contenido con tablas, figuras y notas respetando el formato APA.
+5. Incluye un esbozo del contenido para facilitar la lectura.
 
-{% include add7.html %}
+La información en apéndices debe ser valiosa para el lector y no repetir contenido principal para evitar confusiones. La estructura debe ser clara y seguir el orden del texto.
 
-## Estructura de las tablas en Normas APA
+## Cómo Citar Tablas y Apéndices
 
-Las tablas en Normas APA tienen una estructura clara y definida que ayuda a su correcta interpretación. Están compuestas por los siguientes elementos:
+Al incluir tablas, figuras o apéndices, es necesario citarlos correctamente para resaltar su contribución al trabajo:
 
-- **Encabezado**: título breve de la tabla que se coloca en la parte superior y en negrita.
-- **Cuerpo**: lugar donde se muestra la información de la tabla, dividida en columnas y filas.
-- **Columnas**: agrupación vertical de la tabla.
-- **Filas**: agrupación horizontal de la tabla.
-- **Celda**: cada uno de los recuadros de la tabla.
-- **Notas explicativas**: explicaciones adicionales a la información de la tabla.
-{:class="seccion_a"}
+**Tablas**:
 
-Ten en cuenta que las tablas **tienen un número consecutivo en la lista de tablas** del trabajo académico y se deben **mencionar en el texto antes de su presentación**.
+- Tabla 1: Datos demográficos. (Autor Apellido, A.A., Año)
 
-### Elaboración de tablas en Word o Excel
+**Figuras**:
 
-Para elaborar tablas en Word o Excel se recomienda seguir las siguientes pautas:
+- Figura 2: Modelo conceptual. (Autor Apellido, A.A., Año)  
 
-- Elegir un diseño simple pero claro, que permita la fácil lectura de la tabla.
-- Agregar los bordes necesarios para facilitar su lectura, pero evitando sobrecargarla.
-- Mantener un tipo y tamaño de fuente consistente con el resto del trabajo académico.
-- Asegurarse de que la tabla no contenga errores al momento de su elaboración.
+**Apéndices**:
 
-## Partes de las tablas en las que aplican las normas APA
+- Apéndice B: Análisis adicionales. (Autor Apellido, A.A., Año, p. XX)
 
-{% include add8.html %}
+La fecha debe usar el formato DD/MM/AAAA. Menciona el número de página en apéndices para facilitar su localización.
 
-### Títulos y subtítulos de tablas
+Consulta las pautas APA para el formato correcto de citas y [referencias]({{'normas-apa/referencias-normas-apa'|relative_url}}).
 
-El título de la tabla debe ser claro, específico y conciso, para que el lector entienda de manera fácil el contenido de la tabla.
+## Citas de Imágenes y Gráficos
 
-En caso de que se deseen añadir subtítulos a la tabla, estos **deben estar en cursiva y debajo del título general**. Se sugiere que los subtítulos no sean tan detallados para no sobrecargar la tabla.
+Para citar imágenes o gráficos según APA 7ª edición:
 
-### Numeración de tablas y notas de tabla
+1. Identifica el autor (si se conoce) o indica la fuente.
+2. Presenta el número/versión después del título en cursiva.
+3. Menciona el nombre de archivo y fecha de creación si aplica.
 
-Como ya se mencionó, las tablas tienen un número consecutivo en la lista de tablas del trabajo académico.
+Ejemplo:
 
-Cada tabla debe tener una **nota explicativa debajo de la misma que indique la fuente original y la fecha de acceso a dicha información**, si es el caso.
+*Figura 3. Flujograma de procesos (procedimientos.png, 15/02/2023), por J. Ramírez.*
 
-### Atribución de derechos de autor en tablas
+Las pautas APA son clave para una presentación adecuada que garantice autenticidad y respeto a los derechos de autor.
 
-Debes garantizar que las tablas cumplan con las normas de derechos de autor y no infrinjan los derechos de autor de otros autores.
+## Formato de Tablas Normas APA
 
-Es fundamental citar adecuadamente las fuentes de información de la tabla y proteger los derechos de autor al momento de su creación.
-<!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
+Las tablas en las Normas APA tienen una estructura definida para facilitar su interpretación:
 
-{% include add9.html %}
+- **Encabezado**: Título breve en la parte superior en negrita.
+- **Cuerpo**: Muestra los datos en columnas y filas.
+- **Columnas**: Agrupación vertical.
+- **Filas**: Agrupación horizontal.
+- **Celdas**: Cada recuadro individual.
+- **Notas**: Explicaciones adicionales al pie de la tabla.
 
-## Figuras con normas APA
+Las tablas se numeran consecutivamente y se mencionan en el texto antes de presentarlas.
 
-En los trabajos académicos, **las figuras pueden ser empleadas para representar visualmente datos complejos o información detallada de una manera más organizada y resumida.**
+### Elaborar Tablas en Word o Excel
 
-A continuación, se describen los aspectos relevantes a la hora de **trabajar con figuras siguiendo las Normas APA**.
+Para elaborar tablas en procesadores de texto o hoja de cálculo:
 
-### Estructura de las figuras en Normas APA
+- Elige un diseño simple y claro que facilite la lectura.
+- Agrega bordes necesarios sin sobrecargar visualmente.
+- Mantén [tipo y tamaño de fuente]({{'normas-apa/textos-normas-apa'|relative_url}}) consistente con el trabajo.
+- Revisa que no haya errores antes de incluirla.
 
-Según las Normas APA, las figuras deben **estar bien estructuradas y jerarquizadas** mediante números y subtítulos.
+Por ejemplo, esta es una tabla correctamente formateada:
 
-Las figuras deben contar con un **título breve pero descriptivo en cursiva** y con la correspondiente indicación de la fuente original de la cual se obtuvo la información.
+| Grupo | Característica 1 | Característica 2 |
+|-------|-----------------:|:---------------:|
+| A     | 25%              | 15%             |
+| B     | 40%              | 22%             |
 
-### Elaboración de figuras en Word o Excel
+## Partes de las Tablas Normas APA
 
-Para elaborar figuras en Word o Excel, es importante tener cuidado en la elección de la herramienta adecuada y de las opciones que ofrece para facilitar la presentación de información.
+Cada parte de una tabla tiene reglas específicas en las Normas APA:
 
-Si se trata de figuras complejas, se recomienda utilizar programas de diseño gráfico como Adobe Photoshop o [Canva](https://canva.com){:rel="nofollow noopener noreferrer" target="_blank"}.
+### Títulos y Subtítulos
 
->Un consejo obvio, pero que no debes olvidar, es que las hojas de presentación o preliminares normalmente no llevan figuras, imágenes o fotografías.
+- El título debe ser claro, específico y conciso.
+- Los subtítulos van en cursiva debajo del título general.
+- Evita subtítulos demasiado detallados.
 
-### Títulos y subtítulos de figuras
+### Numeración y Notas
 
-Los títulos y subtítulos de las figuras deben ser redactados de forma clara y precisa, permitiendo al lector comprender rápidamente la información que se quiere transmitir.
+- Las tablas tienen números consecutivos en la [lista de tablas]({{'normas-apa/listas-normas-apa'|relative_url}}).
+- Cada tabla debe tener una nota de fuente original y fecha si aplica.
 
-Se deben escribir en negrita y encabezados con el número correspondiente según su posición en la estructura jerárquica.
+### Atribución de Derechos Autor
 
-{% include add.html %}
+- Las tablas originales deben incluir nota de atribución de autoría.
+- Cita correctamente las fuentes de información utilizadas.
+- Protege derechos de autor y [evita plagios]({% post_url 2023-07-15-detectando-el-plagio-en-trabajos-escritos-con-herramientas %}).
 
-### Numeración de figuras y notas de figura
+Las Normas APA son muy específicas para asegurar una presentación estandarizada de tablas en trabajos académicos.
 
-En cuanto a la numeración de figuras, estas **deberán ser identificadas consecutivamente con números arábigos**. Adicionalmente, se deberán incluir notas de figura con la finalidad de explicar la información transmitida en la misma.
+## Figuras en Normas APA
 
-### Atribución de derechos de autor en figuras
+Las figuras permiten representar visualmente datos complejos o información detallada de manera organizada y resumida en trabajos académicos.
 
-Para proteger los derechos de autor en el caso de figuras que sean utilizadas en trabajos académicos, se deberá agregar un título breve **y la fuente original de donde se obtuvo la información**. Además, la fuente deberá ser citada según las Normas APA correspondientes.
+### Estructura de Figuras Normas APA
 
-{% include cta-normas.html norma="apa" %}
+Según las Normas APA, las figuras deben estar bien estructuradas y jerarquizadas:
 
-----
+- Título breve pero descriptivo en cursiva.
+- Indicación de la fuente original de la información.
+- Números y subtítulos para organizar los elementos.
 
-## Apéndices según las normas APA
+### Elaborar Figuras en Programas
 
-{% include add-post.html %}
+Para elaborar figuras se recomienda:
 
-[Los apéndices]({{'apendice-trabajo-escrito'|relative_url}} "Apéndice") son secciones adicionales en trabajos académicos donde se incluyen información complementaria que no se ha podido incluir en el cuerpo principal del documento.
+- [En Word o Excel]({% post_url 2023-09-08-programas-para-hacer-trabajos-escritos %}): Herramientas básicas para figuras sencillas.
+- Programas de diseño: Adobe Photoshop, Canva, etc. para figuras complejas.
 
-Los apéndices pueden contener datos completos, fórmulas o gráficos adicionales, dibujos o imágenes complementarias y otro material adicional que no encaja en el cuerpo del trabajo.
+> Un consejo: Las hojas preliminares normalmente no deben llevar figuras.
 
-En esta sección se explicará cómo incluir apéndices en tablas y figuras, cómo estructurarlos según las Normas APA y cómo incluir comunicaciones personales en ellos.
+### Títulos y Subtítulos de Figuras  
 
-### Inclusión de apéndices en tablas y figuras
+- Títulos claros y precisos para transmitir el mensaje rápidamente.
+- Usar negrita y encabezados jerarquizados con números.
+- Permitir que el lector comprenda fácilmente la información.
 
-Los apéndices que contienen tablas y figuras **se incluyen después de la lista de tablas y figuras**, respectivamente. Cada tabla o figura **se debe numerar y titular de la misma manera** que aparecen en la sección principal del trabajo.
+### Numeración y Notas de Figura
 
-Las tablas y figuras que se incluyan en los apéndices deben tener notas de fuente y atribución de autor **de acuerdo con las directrices de las Normas APA**.
+- Las figuras se numeran consecutivamente con números arábigos.
+- Incluir notas de figura para explicar la información transmitida.
 
-### Estructura de los apéndices en normas APA
+### Atribución Derechos de Autor
 
-Los apéndices se organizan en la sección de apéndices del documento, **después de la [sección de referencia]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referncias normas APA") y antes de los [anexos]({{'anexos-trabajo-escrito'|relative_url}} "Anexos") (si los hubiere)**. Los apéndices se numeran en orden alfabético y se titularán en consecuencia.
+- Agregar título breve y fuente original de donde se obtuvo.
+- Citar la fuente según Normas APA correspondientes.
+- Respetar derechos de autor y evitar plagios.
 
-En el texto principal, se debe hacer referencia al apéndice en cuestión, por ejemplo: "como se puede ver en el apéndice A" o "más detalles están disponibles en el apéndice B".
-
-Los apéndices que contienen material no-textual (como diagramas y fotografías) **deben estar acompañados de una breve descripción** que facilite su comprensión y asegure que cualquier información importante no se pierda al separar estos elementos [del cuerpo principal del documento]({{'cuerpo-trabajo-escrito'|relative_url}} "Cuerpo del trabajo").
-
-### Inclusión de comunicaciones personales en los apéndices
-
-En el caso de que sea necesario incluir comunicaciones personales en los apéndices, se deben incluir entre paréntesis los detalles de la comunicación.
-
->Por ejemplo: (John Doe, comunicación personal, 1 de agosto de 2023).
-
-Si se incluyen en el apéndice citas textuales de alguna comunicación personal, se deben indicar de forma clara qué partes son citas y cuáles son comentarios del propio autor del trabajo.
-
-## Derechos de autor con normas APA
-
-El aspecto de los derechos de autor es fundamental en cualquier trabajo académico, es por eso que es importante conocer los criterios que se deben aplicar a las tablas y figuras utilizadas en tus trabajos para proteger la propiedad intelectual.
-
-A continuación, se explican algunas de las consideraciones más importantes que debes tener en cuenta.
-
-### Protección de los derechos de autor de tablas y figuras
-
-En el caso de **las tablas y figuras, si estos elementos son creaciones originales**, los mismos pueden ser protegidos por derechos de autor.
-
->Las obras de estudiantes y profesores pueden ser protegidas por derechos de autor en la medida en que son "obras originales de autoría" y estén registradas de forma adecuada.
-
-Siendo así, al usar tablas y figuras propiedad de otros autores en tus trabajos académicos, **es necesario obtener los permisos adecuados y dar crédito a los dueños** de los derechos de autor.
-
-### Inclusión de citas y atribución de derechos de autor en las tablas y figuras
-
-En el caso de las tablas y figuras que se han creado para el trabajo académico que se está realizando, **el autor debe incluir una nota de atribución en la tabla**, indicando que dicha tabla o figura es suya originalmente.
-
-Además, en cualquier caso, el autor debe asegurarse de **incluir citas y referencias** correctamente para cualquier elemento que use como parte de su trabajo académico.
-
-### Evitar el plagio en tablas, figuras y apéndices
-
-El plagio es uno de los errores más comunes en trabajos académicos, donde una persona utiliza el trabajo de otro sin dar crédito al autor original.
-
-Para ayudar a detectar el plagio en las tablas y figuras utilizadas en el trabajo académico, hay herramientas en línea que se pueden utilizar para verificar la originalidad del contenido.
-
-**El plagio puede tener graves consecuencias académicas**, como la anulación de la asignación, la suspensión o incluso la expulsión del programa de estudios.
-
-{% include add2.html %}
-
-## Preguntas frecuentes
-
-Las siguientes preguntas y respuestas ofrecen aclaraciones sobre algunos de los puntos claves a tener en cuenta en la elaboración y presentación correcta de tablas y figuras según las Normas APA.
-
-### Cómo manejar filas y columnas en tablas
-
-- Para agregar o eliminar una fila o columna en una tabla se debe hacer clic con el botón derecho del mouse sobre la tabla en Word o Excel y seleccionar "Insertar" o "Eliminar", según lo que se desee.
-- No sobrecargues las tablas con demasiadas filas o columnas, y utilizar dos o tres tablas diferentes en su lugar si es necesario.
-- Asegúrese de que todos los datos de una fila pertenecen a la misma entidad y que todas las columnas se usan, de lo contrario se recomienda eliminarlas.
-
-### ¿Se pueden usar gráficos y diagramas en lugar de tablas?
-
-- Sí, se pueden usar gráficos y diagramas en lugar de tablas cuando se presentan datos numéricos o estadísticos y se quiere resaltar tendencias o patrones en los mismos.
-- Es importante asegurarse de presentar la información de manera clara y en un formato visualmente atractivo para que tenga el mayor impacto posible.
-
-### Cómo se colocan los títulos de las tablas en normas APA
-
-- Los títulos de las tablas deben estar ubicados encima de la tabla y ser breves pero descriptivos.
-- Los títulos deben ir en cursiva y cada palabra importante debe tener letra capital.
-- Se deben numerar consecutivamente las tablas en el texto y crear una lista de tablas al final del trabajo, en el mismo orden en que aparecen en el texto.
-
-### ¿Cómo elaborar una tabla o figura con información propia?
-
-- Para elaborar una tabla o figura con información propia, se debe agrupar la información de acuerdo a las entidades que se quieren comparar, y asegurarse de que los datos tengan sentido en conjunto.
-- Se deben seguir las normas APA para la estructuración y presentación de las tablas y figuras.
-
-### Cómo incluir notas de tabla en normas APA
-
-- Si se desea incluir notas en una tabla, estas deben ir debajo de la tabla y explicar cualquier excepción o aclaración necesaria para comprender los datos presentados.
-- Las notas deben ser numeradas y aparecer en orden consecutivo con números arábigos.
-- Para citar la nota de tabla en el texto se debe utilizar un super-índice con el número correspondiente.
+Siguiendo las pautas APA para figuras, se logra una presentación estandarizada y profesional en trabajos académicos.
