@@ -4,7 +4,7 @@ title: "Normas ICONTEC en PowerPoint: Hacer una Presentación Épica"
 description: "Convierte tus presentaciones de PowerPoint en obras maestras con normas ICONTEC. ¡Haz clic para saber más!"
 category: Blog
 tags: [Trabajo escrito, Programas]
-h1: "Cómo aplicar las normas ICONTEC en tus presentaciones de PowerPoint para un impacto máximo"
+h1: "Aplica las normas ICONTEC para impactar en tus presentaciones de PowerPoint"
 webp: blog/normas-icontec-power-point
 alt: Programas para trabajos escritos
 excerpt: Descubre cómo aplicar las normas ICONTEC en tus presentaciones de PowerPoint para elevar su calidad y eficacia. Desde la tipografía hasta las citas, te cubrimos todo.
@@ -13,6 +13,8 @@ date: 2023-09-08
 **Si estás aquí, es porque quieres que tus presentaciones de PowerPoint sean más que simples diapositivas; buscas profesionalismo y eficacia.** En este artículo, te enseñaremos cómo aplicar las normas ICONTEC en tus presentaciones.
 
 Si aplicas nuestras sugerencias, tus diapositivas serán visualmente atractivas, eficientes y efectivas. Vamos a desglosar cada aspecto, desde la **tipografía** hasta la **numeración**, para que puedas dominar este arte.
+
+>¿Aún te cuesta utilizar Power Point? [Haz clic aquí e invierte en mejorar tu habilidad con Power Point](https://go.hotmart.com/X92711367P){:rel="nofollow noopener sponsored noreferrer" target="_blank"}
 
 ## Las normas ICONTEC en Power Point
 
