@@ -24,10 +24,6 @@ Nuestro equipo de expertos en redacción y normas académicas estará encantado 
 
 {% include formulario.html %}
 
-**Correo electrónico:** Envíanos un correo electrónico a [info@trabajosescritos.com](mailto:digitalizaresfacil@gmail.com). Nuestro equipo revisará tu mensaje y te responderá lo antes posible.
-
-<!-- Además, te invitamos a explorar nuestra sección de Preguntas Frecuentes, donde encontrarás respuestas a las consultas más comunes sobre trabajos escritos y normas académicas.  -->
-
 También te recomendamos suscribirte a nuestro boletín informativo para recibir consejos y recursos útiles directamente en tu bandeja de entrada.
 
 >En ***TrabajoEscrito.com*** nos enorgullece ser tu recurso confiable en el mundo de los trabajos escritos. Nos esforzamos por proporcionarte la información precisa y actualizada que necesitas para alcanzar tus metas académicas y profesionales. ¡Estamos ansiosos por ayudarte y ser parte de tu éxito!

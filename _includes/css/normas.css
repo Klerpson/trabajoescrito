@@ -52,8 +52,8 @@
 .generador #form{
   display: grid;
   gap: 1em;
-  background-color: var(--secundario);
-  box-shadow: 0 0 0 100vmax var(--secundario);
+  background-color: var(--gris1);
+  box-shadow: 0 0 0 100vmax var(--gris1);
   -webkit-clip-path: inset(0 -100vmax);
           clip-path: inset(0 -100vmax);
   padding: 4em 0;

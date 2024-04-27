@@ -55,6 +55,8 @@ El núcleo de nuestra presentación son las diapositivas. Deben estar organizada
 
 Las citas y referencias son vitales en cualquier presentación académica o profesional. Asegúrate de seguir las Normas APA para citar correctamente.
 
+[Utiliza el generador de citas]({{'generador-citas-apa'|relative_url}}){:class="boton"}
+
 ## La bibliografía: El gran final de las diapositivas
 
 **La última diapositiva de nuestra presentación será la bibliografía**. Aquí enumeraremos todas las fuentes que hemos citado en nuestra presentación, siguiendo el formato APA.
