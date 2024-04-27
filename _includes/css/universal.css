@@ -61,6 +61,8 @@ h1 {
 h2 {
   font-size: clamp(1.86rem, 1.678rem + 0.91vw, 2.36rem);
   text-align: center;
+  width: min(100%, 992px);
+  margin-inline: auto;
 }
 
 h3 {
@@ -294,8 +296,8 @@ hr {
 .cta {
   padding: 4rem 0;
   display: grid;
-  background-color: var(--grisFuentes);
-  box-shadow: 0 0 0 100vmax var(--grisFuentes);
+  background-color: var(--principal);
+  box-shadow: 0 0 0 100vmax var(--principal);
   -webkit-clip-path: inset(0 -100vmax);
           clip-path: inset(0 -100vmax);
   text-align: center;
