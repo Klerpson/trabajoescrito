@@ -88,6 +88,7 @@ Analizamos que:
 * El “estilo APA” se creó para ayudar a la compresión y usan para organizar de manera apropiada la información y evitar distracciones.
 
 Gracias por tomarte el tiempo de leer, esperamos que te haya sido útil o por lo menos que calme tu curiosidad y recuerda:
-**“Educar la mente sin educar el corazón, no es educar en absoluto”** - *Aristóteles*
+
+>**“Educar la mente sin educar el corazón, no es educar en absoluto”** - *Aristóteles*
 
 Mientras tanto, te seguimos invitando a capacitarte y convertirte en un PROFESIONAL de las normas APA. [Mira más aquí abajo](#cta)
