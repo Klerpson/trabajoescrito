@@ -173,7 +173,7 @@ boton_mas_title: "Normas Académicas"
       {% for post in site.data.posts-home %}
       <article>
         <img loading="lazy" src="{{ post.img | relative_url }}" alt="{{post.alt}}" loading="lazy">
-        <a href="{{post.url}}" title="{{post.title}}">
+        <a href="{{ post.url | relative_url }}" title="{{ post.title }}">
           <h4>{{post.h4}}</h4>
         </a>
         <p>{{post.p}}</p>

@@ -298,49 +298,42 @@
       }
   </script>
   {% endif %}
-  {% if page.layout == "post" %}
-    <!-- SCHEMA -->
-    <script type="application/ld+json">
-      {
-        "@context": "http://schema.org",
-        "@type": "BlogPosting",
-        "headline": "{{ page.h1 }}",
-        "datePublished": "{{ page.date }}",
-        "dateModified": "{{ page.date }}",
-        "description": "{{ page.description }}",
-        "inLanguage": "es",
-        "isAccessibleForFree": "True",
-        "mainEntityOfPage": {
-          "@type": "WebPage",
-          "id": "{{site.baseurl}}/{{ page.url }}"
-        },
-        "author": {
-          "@type": "Person",
-          "name": "{{site.name}}"
-        },
-        "publisher": {
-          "@type": "Organization",
-          "name": "TrabajoEscrito.com",
-          "logo": {
-            "@type": "ImageObject",
-            "url": "https://trabajoescrito.com/logotipo.webp",
-            "width": "280px",
-            "height": "57px"
-          }
-        },
-        "image": {
-          "@type": "ImageObject",
-          "url": "{{ site.baseurl }}/img/{{ page.webp }}",
-          "height": "300px",
-          "width": "300px",
-          "caption": "{{ page.alt }}"
-        },
-        "articleBody": "{{ page.excerpt }}",
-        "articleSection": "{{ page.category }}",
-        "keywords": "{{ page.tags | join: ', ' }}",
-      }
-  </script>
-  {% endif %}
+  {% if page.layout == "post" %} <!-- SCHEMA -->
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BlogPosting",
+  "headline": "{{ page.h1 }}",
+  "datePublished": "{{ page.date }}",
+  "dateModified": "{{ page.date }}",
+  "description": "{{ page.description }}",
+  "inLanguage": "es",
+  "isAccessibleForFree": "True",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "{{ site.url }}{{ site.baseurl }}{{ page.url }}"
+  },
+  "author": {
+    "@type": "Person",
+    "name": "{{site.name}}"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "TrabajoEscrito.com",
+    "url": "https://trabajoescrito.com",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://trabajoescrito.com/logotipo.webp",
+      "width": "280",
+      "height": "57"
+    }
+  },
+  "image": "{{ site.baseurl }}/img/{{ page.webp }}",
+  "articleBody": "{{ page.content | strip_html | strip_newlines | escape_once }}",
+  "articleSection": "{{ page.category }}"
+}
+</script>
+{% endif %}
   {% if page.url == "/tip-y-consejos" %}
     <!-- SCHEMA -->
     <script type="application/ld+json">
