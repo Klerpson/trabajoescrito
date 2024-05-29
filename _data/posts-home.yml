@@ -1,0 +1,30 @@
+- img: img/blog/normas-apa-power-point.webp
+  alt: Normas APA power point
+  url: "{% post_url 2023-06-02-normas-apa-power-point %}"
+  title: Aplica Las Normas APA en PowerPoint
+  h4: "Las Normas APA en PowerPoint: mejora tus presentaciones"
+  p: "¿Alguna vez te has preguntado cómo implementar las normas APA en PowerPoint? Estas normas, reconocidas y respetadas en el mundo académico, también aplican a tus presentaciones digitales."
+- img: img/blog/trabajo-escrito-niños.webp
+  alt: Dibulo de trabajos escritos con niños
+  url: "{% post_url 2023-07-30-trabajos-escritos-ninos-primaria %}"
+  title: ¿Cómo realizar Trabajos Escritos para niños de primaria?
+  h4: "Cómo hacer un trabajo escrito para niños de primaria"
+  p: "Un trabajo escrito permite a los estudiantes de primaria desarrollar habilidades de investigación, escritura y pensamiento crítico. Mira cómo hacer uno de acuerdo a sus capacidades."
+- img: img/blog/apa-vs-icontec.webp
+  alt: Diferencias APA vs Icontec
+  url: "{% post_url 2023-06-29-descubre-las-diferencias-normas-apa-e-icontec %}"
+  title: "Descubre las diferencias: Normas APA e ICONTEC"
+  h4: "Diferencia entre Normas APA e ICONTEC: Todo lo que necesitas saber"
+  p: "Dos de las normas más utilizadas a nivel internacional y en Colombia son las normas APA e ICONTEC. ¿Pero cuál es la diferencia entre estas dos? ¿Cómo saber cuándo utilizar una y no la otra?"
+- img: img/blog/presentacion-trabajo-escrito
+  alt: Dibujo sobre la presentación de un trabajo escrito
+  url: "{% post_url 2023-05-28-como-presentar-trabajo-escrito %}"
+  title: Aprende cómo presentar un Trabajo Escrito
+  h4: "Pasos para presentar un Trabajo Escrito sobresaliente"
+  p: "Te enseñamos una serie de claves para garantizar que la presentación oral y escrita de tu trabajo sea coherente, atractiva y efectiva."
+- img: img/blog/trabajo-escrito-decorado.webp
+  alt: Evaluacion trabajos escritos
+  url: "{% post_url 2023-09-25-evaluacion-trabajos-escritos-rubricas-normas-apa %}"
+  title: "Paso a Paso: Cómo Evaluar Trabajos Escritos como un Pro"
+  h4: "Evaluación de Trabajos Escritos: Rubricas, Normas APA y Más"
+  p: "Conoce los criterios e indicadores clave para una evaluación efectiva de trabajos escritos. ¿Buscas herramientas online para crear rúbricas? Encuentra las mejores opciones aquí."

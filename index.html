@@ -164,48 +164,21 @@ boton_mas_title: "Normas Académicas"
     <hr>
     </section>
     <section class="entradas wrapper flow">
-    <h2 class="entrada1">Haz tu Trabajo Escrito Hoy</h2>
+    <h2 class="entrada1">Haz mejor tu Trabajo Escrito</h2>
     <span class="entrada2"><img loading="lazy" src="{{'/logo.webp'|relative_url}}" alt="Logo TrabajoEscrito.com"></span>
-    <p class="entrada3">Aprende muchos tips, consejos, recomendaciones y trucos con el blog de <strong>TrabajoEscrito.com</strong></p>
+    <p class="entrada3">Aprende muchos tips, consejos, recomendaciones y trucos con el <strong>blog de TrabajoEscrito.com</strong></p>
     {% include add6.html %}
-    <h3 class="entrada4">Aplica Nuestros Tips para Presentarlos</h3>
+    <h3 class="entrada4">Aplica nuestros consejos para trabajos escritos</h3>
     <div class="entradas-blog">
+      {% for post in site.data.posts-home %}
       <article>
-        <img loading="lazy" src="{{ site.baseurl }}/img/blog/trabajo-escrito-niños.webp" alt="trabajos escritos con niños" loading="lazy">
-        <a href="{% post_url 2023-07-30-trabajos-escritos-ninos-primaria %}" title="¿Cómo realizar Trabajos Escritos para niños de primaria?">
-          <h4>Cómo hacer un trabajo escrito para niños de primaria</h4>
+        <img loading="lazy" src="{{ post.img | relative_url }}" alt="{{post.alt}}" loading="lazy">
+        <a href="{{post.url}}" title="{{post.title}}">
+          <h4>{{post.h4}}</h4>
         </a>
-        <p>Un trabajo académico permite a los estudiantes de primaria desarrollar habilidades de investigación, escritura y pensamiento crítico</p>
+        <p>{{post.p}}</p>
       </article>
-      <article>
-        <img loading="lazy" src="{{ site.baseurl }}/img/blog/trabajo-escrito-decorado.webp" alt="Evaluacion trabajos escritos" loading="lazy">
-        <a href="{% post_url 2023-09-25-evaluacion-trabajos-escritos-rubricas-normas-apa %}" title="Paso a Paso: Cómo Evaluar Trabajos Escritos como un Pro">
-          <h4>Evaluación de Trabajos Escritos: Rubricas, Normas APA y Más</h4>
-        </a>
-        <p>Conoce los criterios e indicadores clave para una evaluación efectiva de trabajos escritos. ¿Buscas herramientas online para crear rúbricas? Encuentra las mejores opciones aquí.</p>
-      </article>
-      <article>
-        <img loading="lazy" src="{{ site.baseurl }}/img/blog/apa-vs-icontec.webp" alt="Diferencias APA vs Icontec" loading="lazy">
-        <a href="{% post_url 2023-06-29-descubre-las-diferencias-normas-apa-e-icontec %}" title="Descubre las diferencias: Normas APA e ICONTEC">
-          <h4>Diferencia entre Normas APA e ICONTEC: Todo lo que necesitas saber</h4>
-        </a>
-        <p>Dos de las normas más utilizadas a nivel internacional y en Colombia son las normas APA e ICONTEC. ¿Pero cuál es la diferencia entre estas dos? ¿Cómo saber cuándo utilizar una y no la otra?</p>
-      </article>
-      <article>
-        <img loading="lazy" src="{{ site.baseurl }}/img/blog/trabajo-escrito-a-mano.webp" alt="Trabajo a mano" loading="lazy">
-        <a href="{% post_url 2023-06-05-trabajo-escrito-a-mano %}" title="La magia de un Trabajo Escrito a mano con Normas APA e Icontec">
-          <h4>Aprende a hacer un trabajo escrito a mano aplicando las normas APA e Icontec</h4>
-        </a>
-        <p>Sorprende a todos con tus habilidades de escritura en el 2023. En este artículo, aprenderás los pasos clave para hacer un trabajo escrito a mano increíble y cumplir con las normas APA e Icontec.</p>
-      </article>
-      <article>
-        <img loading="lazy" src="{{ site.baseurl }}/img/blog/normas-apa-power-point.webp" alt="Normas APA power point" loading="lazy">
-        <a href="{% post_url 2023-06-02-normas-apa-power-point %}" title="Aplica Las Normas APA en PowerPoint">
-          <h4>Las Normas APA en PowerPoint: mejora tus presentaciones</h4>
-        </a>
-        <p>¿Alguna vez te has preguntado cómo implementar las normas APA en PowerPoint? Estas normas, reconocidas y respetadas en el mundo académico, también aplican a tus presentaciones digitales.</p>
-      </article>
-      
+      {% endfor %}
     </div>
     <a href="{{'tips-y-consejos'|relative_url}}" class="boton">Aprende más en el blog</a>
   </section>
