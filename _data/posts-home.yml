@@ -16,7 +16,7 @@
   title: "Descubre las diferencias: Normas APA e ICONTEC"
   h4: "Diferencia entre Normas APA e ICONTEC: Todo lo que necesitas saber"
   p: "Dos de las normas más utilizadas a nivel internacional y en Colombia son las normas APA e ICONTEC. ¿Pero cuál es la diferencia entre estas dos? ¿Cómo saber cuándo utilizar una y no la otra?"
-- img: img/blog/presentacion-trabajo-escrito
+- img: img/blog/presentacion-trabajo-escrito.webp
   alt: Dibujo sobre la presentación de un trabajo escrito
   url: "{% post_url 2023-05-28-como-presentar-trabajo-escrito %}"
   title: Aprende cómo presentar un Trabajo Escrito
