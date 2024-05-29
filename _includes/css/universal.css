@@ -50,7 +50,8 @@ body {
 
 h1, h2, h3, h4, h5{
   font-family: var(--fuenteTitulos);
-  line-height: 1.24;
+  line-height: 1.12;
+  letter-spacing: -0.8px;
 }
 
 h1 {
