@@ -54,28 +54,26 @@ h1, h2, h3, h4, h5{
 }
 
 h1 {
-  font-size: clamp(2.2rem, 1.982rem + 1.09vw, 2.8rem);
+  font-size: clamp(2.6rem, 2.082rem + 2.59vw, 4rem);
   margin: 0;
 }
 
 h2 {
-  font-size: clamp(1.86rem, 1.678rem + 0.91vw, 2.36rem);
+  font-size: clamp(2.2rem, 1.782rem + 2.09vw, 3.2rem);
   text-align: center;
   width: min(100%, 992px);
   margin-inline: auto;
 }
 
 h3 {
-  font-size: clamp(1.4rem, 1.233rem + 0.84vw, 1.86rem);
+  font-size: clamp(1.8rem, 1.482rem + 1.59vw, 2.6rem);
 }
 
 h4 {
-  font-size: clamp(1.16rem, 1.145rem + 0.07vw, 1.2rem);
+  font-size: clamp(1.4rem, 1.182rem + 1.09vw, 2rem);
 }
 
-h5,
-p,
-li {
+h5, p, li {
   word-wrap: break-word;
   font-size: clamp(1rem, 0.942rem + 0.29vw, 1.16rem);
 }

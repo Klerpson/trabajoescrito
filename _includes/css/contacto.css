@@ -2,13 +2,25 @@
 .contacto h2{
   margin-bottom: 2rem;
 }
+
 .form{
   width: 90%;
   margin: 2rem auto;
   padding: 2rem;
+  box-shadow: var(--shadow);
+  border-radius: var(--radius);
 }
+
+.form input,
+.form textarea{
+  border: 1px solid var(--gris1);
+}
+
 .form__group {
   margin-bottom: 20px;
+  display: grid;
+  gap: 20px;
+  align-items: center;
 }
 
 .form__label {
@@ -19,7 +31,6 @@
 }
 
 .form__input {
-  width: 100%;
   padding: 15px;
   font-size: 18px;
   border: 1px solid darken(var(--gris3), 5%);
