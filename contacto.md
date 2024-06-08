@@ -38,4 +38,4 @@ Si eres una autoridad que me necesita... obvio, escribe. Será un placer atender
 
 Si eres un profesor regañón, jajajajajaja.
 
-Pero si es para **conversar de algo que nos ayude a ambos a seguir creciendo y avanzando**, [envíame en email](mailto:contacto@juli.com.co). Te prometo algo, si vale la pena, yo te contactaré también.
+Pero si es para **conversar de algo que nos ayude a ambos a seguir creciendo y avanzando**, [envíame en email](mailto:club@trabajoescrito.com){:rel="nofollow noopener noreferrer" target="_blank"}. Te prometo algo, si vale la pena, yo te contactaré también.
