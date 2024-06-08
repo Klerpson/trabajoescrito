@@ -21,7 +21,7 @@ Para entrar en materia, **¿qué son exactamente los anexos?**. Los anexos son m
 
 ### Importancia de los Anexos en Normas ICONTEC
 
-Los anexos son elementos clave en cualquier trabajo académico o informe técnico. No solo **proporcionan información adicional que puede ser crucial** para comprender el tema, sino que también **muestran tu dedicación** a la investigación en profundidad y a la presentación cuidadosa de tu trabajo.
+Aprender [cómo hacer un anexo]({{'anexos-trabajo-escrito' | relative_url }} "Como hacer un anexo de un trabajo escrito") es clave en cualquier trabajo académico o informe técnico. No solo **proporcionan información adicional que puede ser crucial** para comprender el tema, sino que también **muestran tu dedicación** a la investigación en profundidad y a la presentación cuidadosa de tu trabajo.
 
 >Seguir las Normas ICONTEC asegura que tus anexos se presenten de manera coherente y profesional.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
