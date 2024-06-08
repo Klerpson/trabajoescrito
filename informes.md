@@ -18,7 +18,7 @@ Un informe es un documento que presenta **hallazgos, análisis, y conclusiones d
 
 ## La clave del éxito de un informe con normas APA e Icontec
 
-**[Las Normas APA (American Psychological Association) y las Normas Icontec son el estándar]({% post_url 2023-06-29-descubre-las-diferencias-normas-apa-e-icontec %})** de oro para presentar informes, con directrices detalladas sobre cómo citar fuentes, organizar secciones, y formatear el texto.
+**[Las Normas APA (American Psychological Association) y las Normas Icontec son el estándar]({% post_url 2023-06-29-descubre-las-diferencias-normas-apa-e-icontec %})** de oro para presentar informes, con directrices detalladas sobre cómo citar fuentes, organizar secciones, y formatear el texto. Por ejemplo, [los anexos en un informe]({{'anexos-trabajo-escrito' | relative_url }} "Anexos en un documento") tienen una ubicación que se debe respetar, como las bibliografías, entre otros.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="estructura"}
 

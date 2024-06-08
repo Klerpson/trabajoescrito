@@ -23,6 +23,8 @@ También, analizaremos los errores comunes en las citas y referencias.
 
 Para la construcción de un buen texto científico o académico, es fundamental conocer las normas APA y cómo citar adecuadamente las fuentes utilizadas en la investigación.
 
+Esto se aplica en el caso de [citar anexos]({{'anexos-trabajo-escrito' | relative_url }} "Citar anexos en un documento"). Todo debe cumplir unos estándares correctos al momento de terminar el trabajo escrito.
+
 En esta sección, se explicará de manera detallada cómo se lleva a cabo la citación en formato APA para diferentes tipos de textos, ya sea para citas textuales, parafraseadas o citas de citas.
 
 ### Cita narrativa: integrar la cita en el texto

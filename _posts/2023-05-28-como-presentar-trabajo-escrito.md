@@ -42,7 +42,7 @@ Además, la presentación de un trabajo escrito debe contener:
 - [Introducción]({{'introduccion-trabajo-escrito'|relative_url}})
 - [Cuerpo del trabajo]({{'cuerpo-trabajo-escrito'|relative_url}})
 - [Conclusiones]({{'conclusiones-trabajo-escrito'|relative_url}})
-- [Anexos]({{'anexos-trabajo-escrito'|relative_url}}) (si es necesario)
+- [Anexos]({{'anexos-trabajo-escrito'|relative_url}} "Anexos en un trabajo") (si es necesario)
 - Bibliografía
 {:class="seccion_a"}
 

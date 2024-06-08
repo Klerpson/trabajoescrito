@@ -60,7 +60,7 @@ La información en un documento ICONTEC debe estar bien organizada. Existen regl
 
 ## Componentes de un documento ICONTEC
 
-Todo documento que siga las normas ICONTEC debe tener ciertos componentes. Estos son la portada, la página de contenido, el cuerpo del documento, las referencias y los anexos.
+Todo documento que siga las normas ICONTEC debe tener ciertos componentes. Estos son la portada, la página de contenido, el cuerpo del documento, las referencias y [los anexos con normas Icontec]({{'normas-icontec/anexos-normas-icontec' | relative_url}}).
 
 ### Portada en el formato ICONTEC
 
@@ -80,7 +80,7 @@ Las referencias son una lista de todas las fuentes que utilizaste para tu docume
 
 ### Anexos en el formato ICONTEC
 
-[Los anexos]({{'normas-icontec/anexos-normas-icontec'|relative_url}} "Anexos Normas Icontec") son información adicional que apoya el contenido de tu documento. Pueden ser gráficos, imágenes, tablas, entre otros.
+[Los anexos en un trabajo]({{'anexos-trabajo-escrito' | relative_url }} "que es un anexo en un trabajo") son información adicional que apoya el contenido de tu documento. Pueden ser gráficos, imágenes, tablas, entre otros.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
