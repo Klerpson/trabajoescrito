@@ -45,7 +45,7 @@ La **tabla de contenido** debe presentar los títulos **en el mismo orden en que
 
 ## Cómo elaborar una Tabla de Contenido con Normas ICONTEC
 
-Ahora que ya conoces lo básico sobre la **tabla de contenido**, es hora de poner manos a la obra. Aquí te vamos a dar una guía paso a paso para que puedas elaborar tu tabla de contenido según las Normas ICONTEC.
+Ahora que ya conoces lo básico sobre [la tabla de contenido de un trabajo]({{'tabla-de-contenido-trabajo-escrito' | relative_url}} "Tabla de contenido de un trabajo escrito"), es hora de poner manos a la obra. Aquí te vamos a dar una guía paso a paso para que puedas elaborar tu tabla de contenido según las Normas ICONTEC.
 
 ### Pasos para crear la Tabla de Contenido
 
