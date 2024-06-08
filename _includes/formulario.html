@@ -1,20 +1,10 @@
-<h2>Contáctanos para más información</h2>
-<form class="form" name="contact" method="post" netlify onsubmit="submit" data-netlify-honeypot="bot-field" action="/gracias">
-  <input name="bot-field" class="d-none" style="display: none;">
-  <div class="form__group">
-    <label class="form__label" for="form-name">Escribe tu nombre</label>
-    <input class="form__input" id="form-name" type="text" placeholder="Fulano Sultano" required name="name">
-  </div>
-  <div class="form__group">
-    <label class="form__label" for="form-email">Escribe tu e-mail</label>
-    <input class="form__input" id="form-email" type="email" placeholder="ejemplo@ejemplo.com" required name="email">
-  </div>
-  <div class="form__group">
-    <label class="form__label" for="form-text">Escribe tu consulta</label>
-    <textarea class="form__input" id="form-text" rows="7" placeholder="Mensaje ejemplo... Necesito más info sobre..." required name="text"></textarea>
-  </div>
-  <div class="form__group">
-    <button class="botones" type="submit">Enviar</button>
-  </div>
-  <input type="hidden" value="{{ site.baseurl }}/contacto/gracias/" />
-</form>
+<form method="post" action="https://sendfox.com/form/3z8w66/3lzxq0" class="form" id="3lzxq0" data-async="true" data-recaptcha="true">
+  <p class="form__group"><label class="form__label" for="sendfox_form_name">Escribe tu nombre: </label><input class="form_input" type="text" id="sendfox_form_name" placeholder="Tu nombre" name="first_name" required /></p>
+  <p class="form__group"><label class="form__label" for="sendfox_form_last_name">Escribe tu apellido: </label><input class="form_input" type="text" id="sendfox_form_last_name" placeholder="Tu apellido" name="last_name" required /></p>
+  <p class="form__group"><label class="form__label" for="sendfox_form_email">Escribe tu Email: </label><input class="form_input" type="email" id="sendfox_form_email" placeholder="Tu correo" name="email" required /></p>
+  <p class="form__group"><label class="form__label"><input class="form_input" type="checkbox" name="gdpr" value="1" required /> Acepto recibir emails del boletín y promociones.</label></p>
+  <!-- no botz please -->
+  <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="a_password" tabindex="-1" value="" autocomplete="off" /></div>
+  <p><button type="submit">Agrégame a la lista</button></p>
+  </form>
+  <script src="https://sendfox.com/js/form.js"></script>

@@ -1,35 +1,41 @@
 ---
-layout: post
-title: Resolvemos tus dudas sobre tus trabajos escritos
-h1: Resolvemos tus dudas sobre tus trabajos escritos
-description: En TrabajosEscritos.com estamos aquí para responder todas tus preguntas y brindarte el apoyo que necesitas para realizar tus trabajos escritos con éxito.
-noindex: true
-vertical: true
+layout: contacto
+title: Resuelvo tus dudas sobre tus trabajos escritos. Contáctame
+h1: Resuelvo tus dudas sobre tus trabajos escritos. Contáctame
+description: En TrabajosEscritos.com sirvo para responder todas tus preguntas y brindarte el apoyo que necesitas para realizar tus trabajos escritos con éxito.
+excerpt: No te puedo mentir. Esta página de contacto es todo menos lo que esperas 😉. Pero es la correcta. Y es la de trabajoescrito.com
+webp: logotipo
 ---
-En ***TrabajoEscrito.com*** estamos aquí para **responder todas tus preguntas y brindarte el apoyo que necesitas para realizar tus trabajos escritos** con éxito.
+## No puedes venir a la sección de contacto y no dejar tu email
 
-Ya seas estudiante o profesional, entendemos la importancia de conocer y aplicar las normas adecuadas en diferentes tipos de trabajos escritos en todo el mundo. ¡Estamos aquí para ayudarte en ese proceso!
+{% include formulario.html %}
 
-## Si tienes alguna consulta, comentario o sugerencia, no dudes en ponerte en contacto con nosotros
-
-Nuestro equipo de expertos en redacción y normas académicas estará encantado de asistirte y brindarte la orientación que necesitas.
+Estás aquí porque tienes alguna duda que quieres resolver.
 
 * ¿Necesitas ayuda para comprender **[cómo aplicar las normas APA]({{'normas-apa'|relative_url}} "Normas APA"), MLA, Harvard o cualquier otro estilo de citación**?
 * ¿Quieres saber **cómo estructurar tu [tesis]({{'tesis-normas-apa'|relative_url}} "Tesis con normas APA"), [ensayo]({{'ensayos-con-normas-tecnicas'|relative_url}} "Ensayos"), [informe]({{'informes'|relative_url}} "Informes") o [artículo]({{'articulos-con-normas-apa'|relative_url}} "Artículos") de manera adecuada**?
 * ¿Deseas recibir consejos y recomendaciones para mejorar tus habilidades de escritura académica?
 
-### Puedes comunicarte con nosotros a través de cualquiera de los siguientes medios
+[**Ve aquí donde está todo resumido**](/)
 
-**Formulario de contacto:** Completa nuestro formulario en línea y asegúrate de incluir todos los detalles relevantes. Nos comprometemos a responder a tu consulta **en el menor tiempo posible.**
+### ¿Y si quiero escribirte para alguna consulta?
 
-{% include formulario.html %}
+Bien.
 
-También te recomendamos suscribirte a nuestro boletín informativo para recibir consejos y recursos útiles directamente en tu bandeja de entrada.
+Resulta que mantener un gran blog como trabajoescrito.com, y todos mis proyectos web, **consume mucho tiempo**.
 
->En ***TrabajoEscrito.com*** nos enorgullece ser tu recurso confiable en el mundo de los trabajos escritos. Nos esforzamos por proporcionarte la información precisa y actualizada que necesitas para alcanzar tus metas académicas y profesionales. ¡Estamos ansiosos por ayudarte y ser parte de tu éxito!
+Así que normalmente dejo todo en mis proyectos. Con mucho amor y mucha responsabilidad. De esta manera resuelvo casi todas las dudas.
 
-¡No esperes más! Ponte en contacto con nosotros hoy mismo y déjanos ser tu guía en el apasionante mundo de los trabajos escritos y las normas académicas.
+Pero reconozco que no me las sé todas. Seguro por eso quieres preguntar o proponer algo.
 
-¡Esperamos escuchar de ti pronto!
+#### Con toda sinceridad, es posible que no te lea
 
-**El equipo de TrabajosEscritos.com**
+Si es para quejarte, puedes comprar una cerveza, llamar a tu amigo y rajar todo lo que quieras.
+
+Es muy bueno desahogarse.
+
+Si eres una autoridad que me necesita... obvio, escribe. Será un placer atenderte.
+
+Si eres un profesor regañón, jajajajajaja.
+
+Pero si es para **conversar de algo que nos ayude a ambos a seguir creciendo y avanzando**, [envíame en email](mailto:contacto@juli.com.co). Te prometo algo, si vale la pena, yo te contactaré también.
