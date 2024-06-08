@@ -1,9 +1,9 @@
 ---
 layout: default
-title: "El Índice de un Trabajo Escrito: tu mapa hacia el éxito Ξ"
+title: "¿Cómo se hace un indice de un trabajo escrito? Te enseñamos"
 description: "📖 Conoce la importancia del índice en trabajos escritos. Te enseñamos los pasos para que tu Tabla de Contenido sea un mapa al éxito de tus trabajos académicos."
-h1: "El Índice de un Trabajo Escrito: tu mapa hacia el éxito"
-intro: "¿Alguna vez te has preguntado **cómo hacer un índice** de un trabajo escrito? ¿No estás seguro de **qué debería incluir o dónde debería ubicarse** tu Tabla de Contenido en tu documento?"
+h1: "El Índice de un Trabajo Escrito: El orden correcto con ejemplo"
+intro: "¿Alguna vez te has preguntado **cómo hacer un índice** de un trabajo escrito? ¿No estás seguro de **qué debería incluir o dónde debería ubicarse** tu Tabla de Contenido en tu trabajo?"
 boton_info: "normas"
 boton_info_title: "¿Cómo hacerlo?"
 boton_mas: "descargas"
@@ -12,7 +12,7 @@ vertical: true
 ---
 Queremos ayudarte a entender qué es un índice, cómo se elabora y qué elementos debes considerar al crearlo.
 
-## ¿Qué es un Índice?
+## ¿Qué es el índice de un trabajo escrito?
 
 El índice, también conocido como tabla de contenido, es un elemento esencial de cualquier [trabajo escrito](/). Es un listado que refleja la organización de los contenidos del documento. En otras palabras, es el mapa que guía a los lectores a través de tu trabajo.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
@@ -27,7 +27,7 @@ Crear un índice es un proceso bastante sencillo que puede hacerse tanto manualm
 ### Pasos para hacer un Índice
 
 1. **Finaliza tu trabajo escrito:** Antes de comenzar a hacer el índice, asegúrate de que todas las secciones de tu trabajo están completas y en el orden correcto.
-2. **Enumera las secciones:** Anota todos los [títulos]({{'titulos-trabajo-escrito'|relative_url}} "Títulos") y subtítulos en el orden en que aparecen en tu trabajo.
+2. **Enumera las secciones:** Anota todos los [títulos]({{'titulos-trabajo-escrito'|relative_url}} "Títulos") y subtítulos en el orden en que aparecen en tu trabajo. Sigue bien el *orden del indice de un trabajo* para presentarlo correctamente.
 3. **Asigna números de página:** Deberás asociar cada sección con su respectiva página de inicio.
 
 ### ¿Dónde va la Tabla de contenido?
@@ -48,9 +48,9 @@ En un trabajo académico como un [informe]({{'informes'|relative_url}} "El Infor
 
 {% include add5.html %}
 
-#### Ejemplo de Índice
+### Modelo de indice de un trabajo escrito
 
-Aquí tienes un ejemplo básico de cómo podría verse un índice:
+Aquí tienes un **ejemplo básico de cómo podría verse un índice**:
 
 1. Introducción ................................................... 2
 2. Desarrollo del Tema  

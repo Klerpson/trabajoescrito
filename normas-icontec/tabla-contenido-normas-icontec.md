@@ -13,7 +13,7 @@ permalink: /normas-icontec/tabla-contenido-normas-icontec
 ---
 ## ¿Qué es una Tabla de Contenido según las Normas ICONTEC?
 
-La **tabla de contenido**, también conocida como **índice**, es una sección fundamental en cualquier trabajo de investigación o tesis.
+La **tabla de contenido**, también conocida como **índice de un trabajo**, es una sección fundamental en cualquier trabajo de investigación o tesis.
 
 Es como el GPS de tu trabajo, le indica al lector la estructura y el camino a seguir dentro de tu documento.
 
@@ -74,7 +74,7 @@ Los elementos de la tabla de contenido deben ser **ordenados de forma jerárquic
 
 **Los títulos deben estar en negrita y con la misma fuente y tamaño del texto**, y sus respectivos números de página deben ir alineados a la derecha. Es importante respetar el formato establecido por Icontec para la tabla de contenido.
 
->Para una correcta elaboración de la **tabla de contenido**, te recomendamos revisar varias veces la estructura de tu trabajo antes de hacer la tabla. Debemos asegurarnos de que el índice se corresponda con el contenido del trabajo y que los números de página sean correctos.
+>Para una correcta elaboración de la **tabla de contenido**, te recomendamos revisar varias veces la estructura de tu trabajo antes de hacer la tabla. Debemos asegurarnos de que [el orden del índice]({{'tabla-de-contenido-trabajo-escrito' | relative_url}} "orden del indice de un trabajo") se corresponda con el contenido del trabajo y que los números de página sean correctos.
 
 ### ¿Cómo se hace el índice según Icontec?
 
