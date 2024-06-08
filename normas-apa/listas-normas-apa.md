@@ -81,7 +81,7 @@ Si hay dos o más autores con el mismo apellido, se debe ordenar según la inici
 
 [La tabla de contenido]({{'tabla-de-contenido-trabajo-escrito'|relative_url}} "Tabla de contenido") es una herramienta fundamental para organizar cualquier trabajo académico.
 
-Se trata de un índice que **se encuentra al inicio del documento y que muestra la estructura y disposición de los diferentes elementos del trabajo**. Algunas directrices que debemos tener en cuenta son las siguientes:
+Se trata de un [índice que se encuentra al inicio del documento]({{'tabla-de-contenido-trabajo-escrito' | relative_url}} "Trabajo escrito con indice") y que **muestra la estructura y disposición de los diferentes elementos del trabajo**. Algunas directrices que debemos tener en cuenta son las siguientes:
 
 ### Titulares y subtítulos jerárquicos
 
