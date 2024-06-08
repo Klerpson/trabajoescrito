@@ -153,7 +153,7 @@ Los ejemplos prácticos son una forma efectiva de entender cómo aplicar las rú
 
 ### Ejemplo para Trabajos Escritos en Word
 
-- **Estructura del Documento**: Verifica que el documento tenga un índice, introducción, desarrollo y conclusión.
+- **Estructura del Documento**: Verifica [que el documento tenga un índice]({{'tabla-de-contenido-trabajo-escrito' | relative_url}} "indice trabajo escrito"), introducción, desarrollo y conclusión.
 - **Uso de Estilos**: Evalúa si se han utilizado estilos de Word para dar formato a los títulos y subtítulos.
 
 ### Ejemplo para Trabajos en Secundaria
