@@ -2,7 +2,7 @@
 layout: default
 title: "Portada del trabajo escrito: ¡Pasos y Recomendaciones!"
 description: Elabora una portada según las normas Icontec o APA. Te mostramos recursos y herramientas útiles para lograr una portada de calidad para tu presentación.
-h1: "Portada trabajo escrito: pautas y recomendaciones"
+h1: "Portada del trabajo escrito: Te enseñamos a hacerla"
 intro: "La portada de un trabajo escrito es la primera impresión que se tiene del mismo. Es por eso que es importante que esta tenga un diseño y formato adecuados."
 boton_info: "normas"
 boton_info_title: "Aprende a hacerla"
