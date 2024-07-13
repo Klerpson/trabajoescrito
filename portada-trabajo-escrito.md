@@ -1,20 +1,24 @@
 ---
 layout: default
-title: "Portada de un trabajo escrito: Pasos y Recomendaciones"
+title: "Portada del trabajo escrito: ¡Pasos y Recomendaciones!"
 description: Elabora una portada según las normas Icontec o APA. Te mostramos recursos y herramientas útiles para lograr una portada de calidad para tu presentación.
 h1: "Portada trabajo escrito: pautas y recomendaciones"
 intro: "La portada de un trabajo escrito es la primera impresión que se tiene del mismo. Es por eso que es importante que esta tenga un diseño y formato adecuados."
 boton_info: "normas"
-boton_info_title: "Utiliza las normas"
+boton_info_title: "Aprende a hacerla"
 boton_mas: "descargas"
 boton_mas_title: "Mira plantillas"
 vertical: true
 ---
-**La portada de un trabajo escrito** debe contener los elementos esenciales como [el título del trabajo]({{'titulos-trabajo-escrito'|relative_url}} "Títulos"), el nombre del autor o autores, la institución a la que se presenta y la fecha de presentación.
+**Las portadas para trabajos escritos** deben contener los elementos esenciales como:
+
+1. [El título del trabajo]({{'titulos-trabajo-escrito'|relative_url}} "Títulos")
+2. El nombre del autor o autores
+3. La institución a la que se presenta
+4. La fecha de presentación
 
 Para hacerlo más fácil, existen normas establecidas que tienen pautas y recomendaciones específicas para la elaboración de una portada adecuada.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="normas"}
 
 {% include add9.html %}
 
@@ -23,6 +27,7 @@ Para hacerlo más fácil, existen normas establecidas que tienen pautas y recome
 Hay que considerar el diseño y formato de la portada, incluyendo [el tipo de letra]({{'textos-y-fuentes-trabajo-escrito'|relative_url}} "Letras y fuentes"), tamaño, [márgenes]({{'margenes-trabajo-escrito'|relative_url}} "Márgenes") e interlineado.
 
 Las normas **Icontec y APA son las principales normas utilizadas para la elaboración de portadas en trabajos escritos**. Siguiendo estas normas puedes asegurar [una presentación adecuada y profesional de los trabajos escritos]({% post_url 2023-05-28-como-presentar-trabajo-escrito %}).
+{:id="normas"}
 
 -----
 

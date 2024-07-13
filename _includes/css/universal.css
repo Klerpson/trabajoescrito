@@ -371,7 +371,7 @@ hr {
 }
 
 .wrapper {
-  width: min(95%, 1240px);
+  width: min(95%, 1128px);
   margin-inline: auto;
   margin-bottom: 4rem;
 }
