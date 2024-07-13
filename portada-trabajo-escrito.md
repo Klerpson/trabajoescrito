@@ -53,7 +53,7 @@ Se debe *indicar el nombre de la institución* a la que se presenta el trabajo y
 
 **La institución debe ir debajo del nombre del autor o autores**, y la fecha debajo de la institución.
 
->Es importante verificar con la institución si existen requisitos adicionales.
+>Es importante verificar con la institución *si existen requisitos adicionales en una portada de un trabajo escrito* de esa institución.
 
 ## Diseño y formato de la portada de un trabajo escrito
 
@@ -71,13 +71,13 @@ Es importante utilizar una fuente legible y profesional, y mantener este tipo de
 
 ### Margenes e interlineado en la portada
 
-![Ejemplo portada 1]({{'img/portada1.webp'|relative_url}} "Imagen con ejemplos de portadas")
+![Ejemplo portada 1]({{'img/portada1.webp'|relative_url}} "Imágenes de portadas de trabajos escritos")
 
 ![Ejemplo portada 2]({{'img/portada2.webp'|relative_url}} "Imagen con ejemplos de portadas")
 
 ![Ejemplo portada 3]({{'img/portada3.webp'|relative_url}} "Imagen con ejemplos de portadas")
 
-![Ejemplo portada 4]({{'img/portada4.webp'|relative_url}} "Imagen con ejemplos de portadas")
+![Ejemplo portada 4]({{'img/portada4.webp'|relative_url}} "Modelo de portada para un trabajo escrito")
 
 ![Ejemplo portada 5]({{'img/portada5.webp'|relative_url}} "Imagen con ejemplos de portadas")
 
@@ -97,23 +97,12 @@ Si eres de los que prefiere ver ejemplos antes de poner manos a la obra, esta se
 
 Puedes encontrar más ejemplos en la página web de Microsoft Office o en Pinterest para inspirarte. Recuerda, un buen modelo puede ahorrarte mucho tiempo y esfuerzo.
 
-### Instrucciones detalladas para hacer tu portada en Word
-
-Para los que prefieren un paso a paso, aquí van algunas instrucciones detalladas sobre cómo elaborar tu portada en Word:
-
-1. **Abre un nuevo documento en blanco**: Inicia Word y abre un nuevo documento.
-2. **Establece los márgenes**: Ve a la pestaña de "Diseño de página" y ajusta los márgenes según las normas que estés siguiendo.
-3. **Elige el tipo de letra y tamaño**: Opta por una fuente Serif como Times New Roman o Georgia y un tamaño de 12 puntos.
-4. **Ajusta el interlineado**: Ve a la pestaña de "Párrafo" y selecciona un interlineado sencillo.
-
-Siguiendo estos pasos, te asegurarás de que tu portada esté en perfectas condiciones para presentarla.
-
-{% include add.html %}
-
 ## Recursos y herramientas para la elaboración de la portada de un trabajo
 
 ¿Todavía te cuesta hacer la portada de tu trabajo? Entonces utiliza herramientas como las siguientes para facilitar tu tarea.
 {:id="descargas"}
+
+{% include add.html %}
 
 ### Enlaces a plantillas y modelos de portadas
 
@@ -127,6 +116,41 @@ Estos recursos son ideales para aquellos que buscan una portada atractiva y prof
 
 Se pueden encontrar plantillas en línea que pueden ser útiles para asegurarse de que se está siguiendo el formato correcto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
+
+### Cómo Crear una Portada para un Trabajo Escrito en Word
+
+1. **Abre Microsoft Word**:
+   - Inicia Word y abre un documento nuevo o el trabajo al que quieres agregar la portada.
+
+2. **Inserta una Página en Blanco**:
+   - Ve a la pestaña **"Insertar"**.
+   - Haz clic en **"Página en blanco"** para agregar una nueva página al principio del documento.
+
+3. **Añade un Título**:
+   - En la nueva página, haz clic en el centro de la página.
+   - Escribe el título del trabajo usando una fuente clara y grande, como Arial o Times New Roman, tamaño 18-24.
+
+4. **Incluye tu Nombre y Datos**:
+   - Debajo del título, deja un espacio y escribe tu nombre.
+   - Añade también otros datos relevantes como la fecha, el nombre del curso y el nombre del profesor, cada uno en una línea separada.
+
+5. **Ajusta la Alineación**:
+   - Selecciona todo el texto de la portada.
+   - Ve a la pestaña **"Inicio"** y ajusta la alineación a **"Centrar"** para que todo el texto esté centrado en la página.
+
+6. **Aplica Estilos**:
+   - Para dar un toque profesional, puedes usar estilos predefinidos. Selecciona el título y aplica el estilo **"Título 1"** desde la pestaña **"Inicio"**.
+   - Aplica el estilo **"Normal"** o **"Título 2"** a los demás textos.
+
+7. **Agrega una Imagen o Logotipo (Opcional)**:
+   - Si deseas incluir una imagen o logotipo, ve a **"Insertar"** y selecciona **"Imágenes"**.
+   - Inserta la imagen y ajústala al tamaño adecuado. Colócala en la parte superior o inferior de la portada, según tu preferencia.
+
+8. **Revise y Guarda**:
+   - Revisa que toda la información esté correcta y bien presentada.
+   - Guarda el documento para no perder los cambios.
+
+¡Y listo! Ahora tienes una portada profesional para tu trabajo escrito en Word. Fácil, ¿verdad?
 
 ## Preguntas frecuentes sobre la portada de trabajos escritos
 
