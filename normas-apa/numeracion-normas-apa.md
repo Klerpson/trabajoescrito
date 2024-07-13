@@ -35,7 +35,7 @@ Además, existen herramientas en línea que te permiten formatear automáticamen
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="normas"}
 
-### Configurando la numeración APA en Microsoft Word
+### Configurando la numeración de páginas con normas APA en Microsoft Word
 
 {% include add-post.html %}
 
@@ -51,7 +51,7 @@ Microsoft Word es una de las herramientas más utilizadas para redactar document
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
 {:id="descargas"}
 
-### Configurando la numeración APA en Google Docs
+### Configurando la numeración de páginas APA en Google Docs
 
 {% include add2.html %}
 
@@ -67,7 +67,7 @@ Google Docs aplicará automáticamente la numeración a todas las páginas subsi
 
 {% include cta-normas.html norma="apa" %}
 
-## Numerar tu trabajo escrito es sencillo
+## Numerar las páginas de tu trabajo escrito con normas APA es sencillo
 
 {% include add3.html %}
 
