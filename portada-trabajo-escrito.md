@@ -33,7 +33,7 @@ Las normas **Icontec y APA son las principales normas utilizadas para la elabora
 
 ## Cómo hacer una portada para un trabajo
 
-Aunque no son muchos elementos, la portada de un trabajo escrito escrito debe contener, al menos, las siguientes partes:
+Aunque no son muchos elementos, tienes que saber qué lleva una portada de un trabajo escrito. Contiene, al menos, las siguientes 4 partes:
 
 ### 1. Título del trabajo en la portada
 
@@ -47,13 +47,15 @@ Se debe **poner el título en la parte superior** de la página y centrarlo, uti
 
 Se deben escribir los *nombres completos*, sin abreviaturas ni apodos, y se pueden separar con un guión o una barra si hay más de un autor.
 
-### 3. Institución y fecha de presentación en la portada
+### 3 y 4. Institución y fecha de presentación en la portada
 
 Se debe *indicar el nombre de la institución* a la que se presenta el trabajo y la fecha de presentación.
 
-**La institución debe ir debajo del nombre del autor o autores**, y la fecha debajo de la institución. Es importante verificar con la institución si existen requisitos adicionales.
+**La institución debe ir debajo del nombre del autor o autores**, y la fecha debajo de la institución.
 
-## Diseño y formato de la portada del trabajo escrito
+>Es importante verificar con la institución si existen requisitos adicionales.
+
+## Diseño y formato de la portada de un trabajo escrito
 
 {% include add.html %}
 
@@ -83,7 +85,7 @@ Las normas APA e Icontec establecen un margen para la portada de **3 cm en la pa
 
 En cuanto al interlineado, se recomienda utilizar un interlineado sencillo para la portada.
 
-### Mayúsculas y minúsculas en la portada del trabajo
+### Mayúsculas y minúsculas en portadas de trabajos
 
 En la portada, se utilizan **letras mayúsculas para el título** del trabajo escrito y **para los nombres de las instituciones**, mientras que los nombres de los autores y sus afiliaciones se escriben en letras minúsculas.
 
