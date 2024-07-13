@@ -1,13 +1,13 @@
 ---
 layout: default
-title: "Portada trabajo escrito: pautas y recomendaciones"
-description: Aprende cómo elaborar una portada según las normas Icontec o APA, así como recursos y herramientas útiles para lograr un trabajo escrito de calidad.
+title: "Portada de un trabajo escrito: Pasos y Recomendaciones"
+description: Elabora una portada según las normas Icontec o APA. Te mostramos recursos y herramientas útiles para lograr una portada de calidad para tu presentación.
 h1: "Portada trabajo escrito: pautas y recomendaciones"
 intro: "La portada de un trabajo escrito es la primera impresión que se tiene del mismo. Es por eso que es importante que esta tenga un diseño y formato adecuados."
 boton_info: "normas"
-boton_info_title: "Según Normas"
+boton_info_title: "Utiliza las normas"
 boton_mas: "descargas"
-boton_mas_title: "Plantillas"
+boton_mas_title: "Mira plantillas"
 vertical: true
 ---
 **La portada de un trabajo escrito** debe contener los elementos esenciales como [el título del trabajo]({{'titulos-trabajo-escrito'|relative_url}} "Títulos"), el nombre del autor o autores, la institución a la que se presenta y la fecha de presentación.
@@ -26,23 +26,23 @@ Las normas **Icontec y APA son las principales normas utilizadas para la elabora
 
 -----
 
-## Elementos esenciales de una portada
+## Cómo hacer una portada para un trabajo
 
 Aunque no son muchos elementos, la portada de un trabajo escrito escrito debe contener, al menos, las siguientes partes:
 
-### Título del trabajo en la portada
+### 1. Título del trabajo en la portada
 
 El título del trabajo debe ser claro y conciso, **reflejando el contenido del trabajo**.
 
 Se debe **poner el título en la parte superior** de la página y centrarlo, utilizando un tamaño de letra que destaque y sea fácil de leer.
 
-### Nombre del autor o autores del trabajo escrito
+### 2. Nombre del autor o autores del trabajo escrito
 
 **El nombre o nombres del autor o autores deben aparecer debajo del título** del trabajo.
 
 Se deben escribir los *nombres completos*, sin abreviaturas ni apodos, y se pueden separar con un guión o una barra si hay más de un autor.
 
-### Institución y fecha de presentación en la portada
+### 3. Institución y fecha de presentación en la portada
 
 Se debe *indicar el nombre de la institución* a la que se presenta el trabajo y la fecha de presentación.
 
@@ -64,15 +64,15 @@ Es importante utilizar una fuente legible y profesional, y mantener este tipo de
 
 ### Margenes e interlineado en la portada
 
-![Ejemplo portada 1]({{'img/portada1.webp'|relative_url}})
+![Ejemplo portada 1]({{'img/portada1.webp'|relative_url}} "Imagen con ejemplos de portadas")
 
-![Ejemplo portada 2]({{'img/portada2.webp'|relative_url}})
+![Ejemplo portada 2]({{'img/portada2.webp'|relative_url}} "Imagen con ejemplos de portadas")
 
-![Ejemplo portada 3]({{'img/portada3.webp'|relative_url}})
+![Ejemplo portada 3]({{'img/portada3.webp'|relative_url}} "Imagen con ejemplos de portadas")
 
-![Ejemplo portada 4]({{'img/portada4.webp'|relative_url}})
+![Ejemplo portada 4]({{'img/portada4.webp'|relative_url}} "Imagen con ejemplos de portadas")
 
-![Ejemplo portada 5]({{'img/portada5.webp'|relative_url}})
+![Ejemplo portada 5]({{'img/portada5.webp'|relative_url}} "Imagen con ejemplos de portadas")
 
 Las normas APA e Icontec establecen un margen para la portada de **3 cm en la parte superior, inferior y a la izquierda, y de 4 cm en la parte derecha**.
 
@@ -103,9 +103,10 @@ Siguiendo estos pasos, te asegurarás de que tu portada esté en perfectas condi
 
 {% include add.html %}
 
-## Recursos y herramientas para la elaboración de portadas
+## Recursos y herramientas para la elaboración de la portada de un trabajo
 
 ¿Todavía te cuesta hacer la portada de tu trabajo? Entonces utiliza herramientas como las siguientes para facilitar tu tarea.
+{:id="descargas"}
 
 ### Enlaces a plantillas y modelos de portadas
 
@@ -119,9 +120,8 @@ Estos recursos son ideales para aquellos que buscan una portada atractiva y prof
 
 Se pueden encontrar plantillas en línea que pueden ser útiles para asegurarse de que se está siguiendo el formato correcto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
-{:id="descargas"}
 
-## Preguntas frecuentes sobre la portada de un trabajo escrito
+## Preguntas frecuentes sobre la portada de trabajos escritos
 
 {% include add-post.html %}
 
