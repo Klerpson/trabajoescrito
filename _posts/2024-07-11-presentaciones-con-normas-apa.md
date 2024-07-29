@@ -31,7 +31,7 @@ Al usar estas normas, puedes lograr una presentación clara, consistente y profe
 
 Me explico.
 
-### Analizálo desde esta hitoria: Un misterio que mueve al universo
+### Analizálo desde esta historia: Un misterio que mueve al universo
 
 Quisiera plantear un misterio muy común:
 
