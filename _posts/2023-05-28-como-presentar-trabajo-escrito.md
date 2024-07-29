@@ -26,7 +26,7 @@ Los principios que presentamos aquí te ayudarán a **mejorar la calidad de tu [
 
 ## El formato para presentar un Trabajo Escrito
 
-Es esencial entender la importancia de la estructura y el formato al presentar un trabajo escrito.
+Para presentar el trabajo escrito, debes entender la importancia de la estructura y el formato al presentar un trabajo escrito.
 
 Para una presentación de alto impacto, considera lo siguiente:
 
@@ -82,18 +82,18 @@ Presentar un trabajo escrito de manera efectiva puede ser un reto, pero con los 
 
 - **Define el tema principal de la presentación:** Este será el eje central de tu presentación, por lo que debe estar claramente definido y comunicado.
 - **Busca y selecciona información relevante:** El contenido de tu presentación debe ser relevante para el tema principal. Asegúrate de investigar y seleccionar solo la información más relevante.
-- **Utiliza ayudas visuales:** Las ayudas visuales, como las diapositivas de PowerPoint, pueden hacer que tu presentación sea más interesante y atractiva.
+- **Utiliza ayudas visuales:** Las ayudas visuales, como las [diapositivas de PowerPoint de un trabajo escrito]({% post_url 2023-06-02-normas-apa-power-point %} "APA Power Point"), pueden hacer que tu presentación sea más interesante y atractiva.
 - **Practica tu presentación:** Antes de la presentación real, practica frente a un espejo o con amigos o familiares para obtener feedback y ganar confianza.
 
 ## Establecer las normas que mejoran tus trabajos escritos
 
-Además de seguir las normas APA e ICONTEC en cuanto a márgenes, fuentes y demás aspectos técnicos, hay otros muchos puntos que se deben tener en cuenta para presentar trabajos escritos de forma eficiente.
+Además de seguir las normas APA e [ICONTEC en cuanto a márgenes]({{'normas-icontec/margenes-normas-icontec'|relative_url}} "Margenes normas Icontec"), fuentes y demás aspectos técnicos, hay otros muchos puntos que se deben tener en cuenta para presentar trabajos escritos de forma eficiente.
 
 Así puedes mejorar mas tus trabajos escritos antes de presentarlos:
 
 ### ¿Cómo debe estar el borde inferior y superior según las Normas APA e ICONTEC?
 
-En cuanto a los márgenes inferior y superior, deben tener una medida de 2,54 cm (1 pulgada) en las Normas APA, mientras que en las Normas ICONTEC se debe establecer una medida de 3 cm para el margen superior y 3 cm para el margen inferior.
+En cuanto a los márgenes inferior y superior, deben tener una medida de 2,54 cm (1 pulgada) en [las Normas APA]({{'normas-apa/margenes-normas-apa'|relative_url}} "Margenes normas APA"), mientras que en las Normas ICONTEC se debe establecer una medida de 3 cm para el margen superior y 3 cm para el margen inferior.
 
 El resto de los márgenes debe ser de 2,5 cm (1 pulgada).
 

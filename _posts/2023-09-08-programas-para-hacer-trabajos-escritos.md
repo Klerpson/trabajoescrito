@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Programas Trabajos Escritos • Google Docs • Writter • Word"
-description: "¿Te preguntas qué programa para trabajos escritos es el mejor para ti? Comparamos las mejores opciones. ¡Descúbrelo aquí!"
+title: "Programas para Hacer Trabajos Escritos ¿Cuál es mejor?"
+description: "¿Te preguntas qué programa para trabajos escritos es el mejor para ti? Comparamos Word, Google Docs y Writter. Compara y utiliza tu favorito"
 category: Blog
 tags: [Trabajo escrito, Programas]
 h1: "Los mejores programas para hacer trabajos escritos: Gratis y con licencia"
@@ -22,7 +22,7 @@ Entre las herramientas que te permiten crear contenido para tu trabajo y de alta
 
 * [Writer de LibreOffice](#writer-de-libreoffice-la-elección-de-código-abierto)
 * [Docs de Google](#google-docs-colaboración-y-accesibilidad)
-* [Word de Microsoft](#microsoft-word-el-gigante-de-la-escritura-digital)
+* [Word de Microsoft](#microsoft-word-el-gigante-editor-para-trabajos-escritos)
 {:class="seccion_a"}
 
 Cada uno de estos programas tiene sus propias fortalezas y debilidades, lo que los hace ideales para diferentes tipos de usuarios y necesidades.

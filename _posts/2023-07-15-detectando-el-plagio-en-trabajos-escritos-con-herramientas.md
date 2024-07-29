@@ -47,7 +47,7 @@ Para investigar más a fondo, **podrías tomar una frase de esa sección y busca
 
 Reconocer el plagio o el engaño es una necesidad en el mundo digital actual. Con el fácil acceso a la información en la red, a la gente le resulta fácil copiar y pegar material sin el debido crédito.
 
-Por lo tanto, **examinar a fondo el material escrito, contrastándolo con los recursos actuales para detectar cualquier información no acreditada**, es imprescindible para detectar el plagio o el fraude.
+Por lo tanto, **examinar a fondo el material escrito, contrastándolo con los recursos actuales para detectar cualquier información no acreditada**. Es básico, pero no deja de funcionar para detectar el plagio o el fraude.
 
 ### Sugerencias para la detección rápida de plagios y fraudes
 
@@ -132,6 +132,8 @@ Al fomentar el sentido de comunidad y hacer hincapié en el valor de las contrib
 [Las normas APA, o la American Psychological Association]({{'normas-apa'|relative_url}} "Normas APA"), proporcionan directrices sobre cómo citar fuentes correctamente para evitar el plagio.
 
 Según las normas APA, cualquier idea o frase tomada de otra fuente [debe ser debidamente citada]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas Normas APA"). Esto incluye tanto las citas directas como las parafraseadas.
+
+Puedes utilizar nuestro [generador de citas APA]({{'generador-citas-apa'|relative_url}} "Generador citas APA") para ayudarte con estas referencias.
 
 ## Beneficios de hacer el trabajo de detectar el plagio o el fraude
 
