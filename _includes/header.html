@@ -5,24 +5,24 @@
     {% if page.boton_info" %}
     <div>
       {{page.intro|markdownify}}
-      <a href="{{site.baseurl}}{{page.url}}#{{page.boton_info}}" title="{{page.boton_info_title}}" class="boton">{{page.boton_info_title | capitalize}}</a>
-      <a href="{{site.baseurl}}{{page.url}}#{{page.boton_mas}}" title="{{page.boton_mas_title}}" class="boton">{{page.boton_mas_title | capitalize}}</a>
+        <a href="{{site.baseurl}}{{page.url}}#{{page.boton_info}}" title="{{page.boton_info_title}}" class="boton">{{page.boton_info_title | capitalize}}</a>
+        <a href="{{site.baseurl}}{{page.url}}#{{page.boton_mas}}" title="{{page.boton_mas_title}}" class="boton">{{page.boton_mas_title | capitalize}}</a>
+      </div>
     </div>
-  </div>
-  <hr>
-  {% endif %}
-  {% else %}
-  {% if page.webp %}
-  <img src="{{site.baseurl}}/img/{{page.webp}}.webp" alt="{{page.alt}}" title="{{page.title}}">
-  {% endif %}
-  <h1>{{page.h1}}</h1>
-  
-  </div>
-  {% if page.excerpt %}
-  <div class="seccion_a">
-    {{page.excerpt|markdownify}}
-  </div>
-  {% endif %}
-  {% include add.html %}
+    <hr>
+    {% endif %}
+    {% else %}
+    {% if page.webp %}
+    <img src="{{site.baseurl}}/img/{{page.webp}}.webp" alt="{{page.alt}}" title="{{page.title}}">
+    {% endif %}
+    <h1>{{page.h1}}</h1>
+    
+    </div>
+    {% if page.excerpt %}
+    <div class="seccion_a">
+      {{page.excerpt|markdownify}}
+    </div>
+    {% endif %}
+    {% include add.html %}
   {% endif %}
 </header>

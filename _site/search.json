@@ -43,7 +43,7 @@
     } ,
   
     {
-      "title"    : "Programas Trabajos Escritos • Google Docs • Writter • Word",
+      "title"    : "Programas para Hacer Trabajos Escritos ¿Cuál es mejor?",
       "category" : "Blog",
       "url"      : "/programas-para-hacer-trabajos-escritos"
     } ,
@@ -112,25 +112,9 @@
   
    {
      
-        "title"    : "Ups! Esta página no está escrita aún",
-        "category" : "",
-        "url"      : "/404"
-     
-   } ,
-  
-   {
-     
         "title"    : "Agradecimientos del Trabajo Escrito: reconocimiento efectivo",
         "category" : "",
         "url"      : "/agradecimientos-trabajo-escrito"
-     
-   } ,
-  
-   {
-     
-        "title"    : "★ Aprende a Gestionar los Anexos con Normas ICONTEC",
-        "category" : "",
-        "url"      : "/normas-icontec/anexos-normas-icontec"
      
    } ,
   
@@ -176,14 +160,6 @@
   
    {
      
-        "title"    : "Tips y consejos para hacer tu Trabajo Escrito",
-        "category" : "",
-        "url"      : "/tips-y-consejos"
-     
-   } ,
-  
-   {
-     
         "title"    : "Citar y elaborar bibliografías correctamente ✓",
         "category" : "",
         "url"      : "/cita-trabajo-escrito"
@@ -192,49 +168,9 @@
   
    {
      
-        "title"    : "📚 Citas Normas APA: Guía Completa y Ejemplos ✔️📝",
-        "category" : "",
-        "url"      : "/normas-apa/citas-normas-apa"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Citas y referencias según las normas ICONTEC ⁂",
-        "category" : "",
-        "url"      : "/normas-icontec/citas-referencias-normas-icontec"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Aplica Normas ICONTEC: mejora tus conclusiones ◁",
-        "category" : "",
-        "url"      : "/normas-icontec/conclusiones-normas-icontec"
-     
-   } ,
-  
-   {
-     
         "title"    : "Redacta las conclusiones de tu Trabajo Escrito ✍️",
         "category" : "",
         "url"      : "/conclusiones-trabajo-escrito"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Resuelvo tus dudas sobre tus trabajos escritos. Contáctame",
-        "category" : "",
-        "url"      : "/contacto"
-     
-   } ,
-  
-   {
-     
-        "title"    : "★ Todo sobre las contraportadas en Normas APA ¡Entérate ya!",
-        "category" : "",
-        "url"      : "/normas-apa/contraportada-normas-apa"
      
    } ,
   
@@ -256,22 +192,6 @@
   
    {
      
-        "title"    : "➤ ICONTEC Formato Explicado: El ABC del cuerpo del trabajo",
-        "category" : "",
-        "url"      : "/normas-icontec/cuerpo-trabajo-normas-icontec"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Cursos de normas APA, Icontec y Trabajos Escritos Exitosos",
-        "category" : "",
-        "url"      : "/cursos-de-trabajos-escritos"
-     
-   } ,
-  
-   {
-     
         "title"    : "Iniciando con la dedicatoria: más que palabras escritas ⇛",
         "category" : "",
         "url"      : "/dedicatoria-trabajo-escrito"
@@ -288,37 +208,9 @@
   
    {
      
-   } ,
-  
-   {
-     
-        "title"    : "Generador de Citas con Normas APA",
-        "category" : "",
-        "url"      : "/generador-citas-apa"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Glosario Icontec: cómo elaborarlo paso a paso",
-        "category" : "",
-        "url"      : "/normas-icontec/glosario-normas-icontec"
-     
-   } ,
-  
-   {
-     
         "title"    : "Glosario en un Trabajo Escrito: ayuda para la comprensión",
         "category" : "",
         "url"      : "/glosario-trabajo-escrito"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Gracias por escribir a trabajoescrito.com",
-        "category" : "",
-        "url"      : "/gracias"
      
    } ,
   
@@ -340,14 +232,6 @@
   
    {
      
-        "title"    : "Partes de Trabajos Escritos con normas y requisitos 📝",
-        "category" : "",
-        "url"      : "/"
-     
-   } ,
-  
-   {
-     
         "title"    : "Creando un informe académico impecable | 📑Normas y consejos",
         "category" : "",
         "url"      : "/informes"
@@ -356,25 +240,9 @@
   
    {
      
-        "title"    : "Interlineado normas APA: ¿1,5 o doble? ↕",
-        "category" : "",
-        "url"      : "/normas-apa/interlineado-normas-apa"
-     
-   } ,
-  
-   {
-     
         "title"    : "Cómo ajustar el interlineado en tus Trabajos Escritos Ξ",
         "category" : "",
         "url"      : "/interlineado-trabajo-escrito"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Cómo hacer la introducción con normas ICONTEC para Colombia",
-        "category" : "",
-        "url"      : "/normas-icontec/introduccion-normas-icontec"
      
    } ,
   
@@ -391,54 +259,6 @@
         "title"    : "Presenta una investigación según estándares APA e ICONTEC",
         "category" : "",
         "url"      : "/investigacion-con-normas-apa-icontec"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Términos y Condiciones de Uso | trabajoescrito.com",
-        "category" : "",
-        "url"      : "/legal"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Listas con normas APA Ξ Organización y claridad",
-        "category" : "",
-        "url"      : "/normas-apa/listas-normas-apa"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Listas con las Normas ICONTEC: Las claves para saber usarlas",
-        "category" : "",
-        "url"      : "/normas-icontec/listas-normas-icontec"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Normas ICONTEC: Crea tu Marco Teórico fácilmente",
-        "category" : "",
-        "url"      : "/normas-icontec/marco-teorico-normas-icontec"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Márgenes de Normas APA: Ajustando el formato y las medidas",
-        "category" : "",
-        "url"      : "/normas-apa/margenes-normas-apa"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Márgenes según las normas Icontec para presentar trabajos",
-        "category" : "",
-        "url"      : "/normas-icontec/margenes-normas-icontec"
      
    } ,
   
@@ -476,22 +296,6 @@
   
    {
      
-        "title"    : "➤ ¿Cómo numerar según las normas APA? Evita errores comunes",
-        "category" : "",
-        "url"      : "/normas-apa/numeracion-normas-apa"
-     
-   } ,
-  
-   {
-     
-        "title"    : "ICONTEC: Cómo Numerar Páginas, Secciones y Más",
-        "category" : "",
-        "url"      : "/normas-icontec/numeracion-normas-icontec"
-     
-   } ,
-  
-   {
-     
         "title"    : "Enumeración de Trabajos Escritos: ¿Dónde Comenzar y Cómo se Hace?",
         "category" : "",
         "url"      : "/numeracion-trabajo-escrito"
@@ -503,22 +307,6 @@
         "title"    : "La página de aceptación en un trabajo escrito ✓",
         "category" : "",
         "url"      : "/pagina-aceptacion-trabajo-escrito"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Portada y contraportada con Normas Icontec ¡Conócelas!",
-        "category" : "",
-        "url"      : "/normas-icontec/portada-contraportada-normas-icontec"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Portada normas APA: mejora tu presentación ✓",
-        "category" : "",
-        "url"      : "/normas-apa/portada-normas-apa"
      
    } ,
   
@@ -540,14 +328,6 @@
   
    {
      
-        "title"    : "Referencias bibliografía según las normas APA ⁂",
-        "category" : "",
-        "url"      : "/normas-apa/referencias-bibliograficas-normas-apa"
-     
-   } ,
-  
-   {
-     
         "title"    : "Creación de referencias en Trabajos Escritos Ξ",
         "category" : "",
         "url"      : "/referencias-trabajo-escrito"
@@ -564,37 +344,9 @@
   
    {
      
-        "title"    : "La Sangría y los Parágrafos con las Normas APA",
-        "category" : "",
-        "url"      : "/normas-apa/sangria-paragrafos-normas-apa"
-     
-   } ,
-  
-   {
-     
         "title"    : "Sangría en Trabajos Escritos: lecturas impecables ⇛",
         "category" : "",
         "url"      : "/sangria-trabajo-escrito"
-     
-   } ,
-  
-   {
-     
-   } ,
-  
-   {
-     
-   } ,
-  
-   {
-     
-   } ,
-  
-   {
-     
-        "title"    : "¿Cómo crear una Tabla de Contenido con las Normas ICONTEC?",
-        "category" : "",
-        "url"      : "/normas-icontec/tabla-contenido-normas-icontec"
      
    } ,
   
@@ -608,25 +360,9 @@
   
    {
      
-        "title"    : "Tablas y figuras según las normas APA séptima edición",
-        "category" : "",
-        "url"      : "/normas-apa/tablas-y-figuras-normas-apa"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Tesis con normas APA: presenta fácilmente tu trabajo",
+        "title"    : "Tesis con normas APA 7° Edición: Descarga Plantilla",
         "category" : "",
         "url"      : "/tesis-normas-apa"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Textos con Normas APA: guía completa y ejemplos ✓",
-        "category" : "",
-        "url"      : "/normas-apa/textos-normas-apa"
      
    } ,
   
@@ -643,14 +379,6 @@
         "title"    : "El Título Perfecto de tu Trabajo Escrito | Pasos y Consejos",
         "category" : "",
         "url"      : "/titulos-trabajo-escrito"
-     
-   } ,
-  
-   {
-     
-        "title"    : "Títulos y subtítulos con Normas APA: escríbelos bien ↩",
-        "category" : "",
-        "url"      : "/normas-apa/titulos-y-subtitulos-normas-apa"
      
    } 
   

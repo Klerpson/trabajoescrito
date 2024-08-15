@@ -6,17 +6,23 @@ header {
 }
 
 .title{
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, auto));
+  display: flex;
   gap: 2em;
-  place-items: center;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.title h1{
+  margin: 0;
+  width: min(100%, 600px);
+  line-height: 1.075;
 }
 
 .title div{
+  flex: 1 0 400px;
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
-  width: 100%;
 }
 
 .title img{

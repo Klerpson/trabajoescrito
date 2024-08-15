@@ -1,10 +1,12 @@
 <div class="cluster2">
-  <img src="{{site.baseurl}}/img/{{include.img}}" alt="{{include.alt}}">
-  <div><h3>{{include.h3}}</h3>
+  <img src="{{include.img|relative_url}}" alt="{{include.alt}}">
+  <div>
+    <h3>{{include.h3}}</h3>
     <ul>
       <li>{{include.punto1 | markdownify }}</li>
       <li>{{include.punto2 | markdownify }}</li>
       <li>{{include.punto3 | markdownify }}</li>
     </ul>
+    <a href="{{include.url}}" title="{{include.title}}" class="boton">Compra tu plantilla por $1.5</a>
   </div>
 </div>
