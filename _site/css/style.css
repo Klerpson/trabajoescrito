@@ -1148,8 +1148,9 @@ footer section p{
 
 /* SHARE */
 #share-buttons {
-  display: inline-block;
-  vertical-align: middle;
+  display: flex;
+  gap: 1em;
+  align-items: center;
 }
 
 #share-buttons:after {
@@ -1161,20 +1162,21 @@ footer section p{
 #share-buttons>div {
   position: relative;
   text-align: left;
-  height: 36px;
-  width: 32px;
+  height: 40px;
+  width: 40px;
   float: left;
   text-align: center;
 }
 
 #share-buttons>div>svg {
-  height: 16px;
-  fill: var(--accion);
+  height: 40px;
+  fill: var(--principal);
   margin-top: 10px;
 }
 
 #share-buttons>div:hover {
   cursor: pointer;
+  transform: scale(1.015);
 }
 
 #share-buttons>div.facebook:hover>svg {
@@ -1202,17 +1204,17 @@ footer section p{
 }
 
 #share-buttons>div.facebook>svg {
-  height: 18px;
+  height: 40px;
   margin-top: 9px;
 }
 
 #share-buttons>div.twitter>svg {
-  height: 20px;
+  height: 40px;
   margin-top: 8px;
 }
 
 #share-buttons>div.linkedin>svg {
-  height: 19px;
+  height: 40px;
   margin-top: 7px;
 }
 
