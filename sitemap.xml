@@ -1,26 +1,99 @@
 ---
-layout:
+layout: null
 ---
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-{% for page in site.pages %}{% if page.url contains '.xml' or page.url contains 'assets' or page.url contains '.json' or page.noindex %}{% else %}
-<url>
-  <loc>{{ site.url }}{{ page.url }}</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>{% endif %}{% endfor %}
-{% for page in site.posts %}
-<url>
-  <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-{% endfor %}
-{% for page in site.without-plugin %}
-<url>
-  <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-{% endfor %}
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+
+  {% assign default_priority = "0.5" %}
+  {% assign default_changefreq = "monthly" %}
+
+  {% for page in site.html_pages %}
+    {% unless page.noindex %}
+      <url>
+        <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
+        
+        {% if page.lastmod or page.date %}
+        <lastmod>{{ page.lastmod | default: page.date | date: "%Y-%m-%d" }}</lastmod>
+        {% endif %}
+        
+        <changefreq>{% if page.changefreq %}{{ page.changefreq }}{% else %}
+          {% if page.layout == "default" %}
+            weekly
+          {% else %}
+            {{ default_changefreq }}
+          {% endif %}
+        {% endif %}</changefreq>
+        
+        <priority>
+          {% if page.permalink == "/" %}
+            1.0
+          {% elsif page.layout == "default" %}
+            0.8
+          {% elsif page.layout == "contacto" %}
+            0.6
+          {% else %}
+            {{ default_priority }}
+          {% endif %}
+        </priority>
+        
+        {% if page.description %}
+        <news:news>
+          <news:publication_date>{{ page.date | date_to_xmlschema }}</news:publication_date>
+          <news:title>{{ page.title | xml_escape }}</news:title>
+          {% if page.tags and page.tags.size > 0 %}
+          <news:keywords>{{ page.tags | array_to_sentence_string }}</news:keywords>
+          {% endif %}
+        </news:news>
+        {% endif %}
+        
+        {% if page.webp %}
+        <image:image>
+          <image:loc>{{ site.url }}/{{ page.webp }}.webp</image:loc>
+          {% if page.alt %}
+          <image:title>{{ page.title | xml_escape }}</image:title>
+          <image:caption>{{ page.alt | xml_escape }}</image:caption>
+          {% endif %}
+        </image:image>
+        {% endif %}
+        
+      </url>
+    {% endunless %}
+  {% endfor %}
+
+  {% for post in site.posts %}
+    <url>
+      <loc>{{ site.url }}{{ post.url | replace: 'index.html', '' }}</loc>
+      
+      {% if post.lastmod or post.date %}
+      <lastmod>{{ post.lastmod | default: post.date | date: "%Y-%m-%d" }}</lastmod>
+      {% endif %}
+      
+      <changefreq>{% if post.changefreq %}{{ post.changefreq }}{% else %}weekly{% endif %}</changefreq>
+      
+      <priority>{% if post.priority %}{{ post.priority }}{% else %}1.0{% endif %}</priority>
+      
+      {% if post.description %}
+      <news:news>
+        <news:publication_date>{{ post.date | date_to_xmlschema }}</news:publication_date>
+        <news:title>{{ post.title | xml_escape }}</news:title>
+        {% if post.tags and post.tags.size > 0 %}
+        <news:keywords>{{ post.tags | array_to_sentence_string }}</news:keywords>
+        {% endif %}
+      </news:news>
+      {% endif %}
+      
+      {% if post.webp %}
+      <image:image>
+        <image:loc>{{ site.url }}/img/{{ post.webp }}.webp</image:loc>
+        {% if post.alt %}
+        <image:title>{{ post.title | xml_escape }}</image:title>
+        <image:caption>{{ post.alt | xml_escape }}</image:caption>
+        {% endif %}
+      </image:image>
+      {% endif %}
+      
+    </url>
+  {% endfor %}
 </urlset>

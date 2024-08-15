@@ -1,278 +1,1462 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
+        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 
-<url>
-  <loc>http://localhost:4000/agradecimientos-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/anexos-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/anteproyecto-con-normas-tecnicas</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/apendice-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/articulos-con-normas-apa</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/bibliografia-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/cita-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/conclusiones-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/contraportada-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/cuerpo-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/dedicatoria-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/ensayos-con-normas-tecnicas</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/glosario-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/hoja-presentacion-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/imagenes-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/informes</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/interlineado-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/introduccion-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/investigacion-con-normas-apa-icontec</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/margenes-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/monografia</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/normas-apa</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/normas-icontec</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/numeracion-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/pagina-aceptacion-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/portada-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/proyectos-academicos</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/referencias-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/resumen-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/sangria-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/tabla-de-contenido-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/tesis-normas-apa</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/textos-y-fuentes-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-<url>
-  <loc>http://localhost:4000/titulos-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
+  
+  
 
-<url>
-  <loc>http://localhost:4000/hoja-de-vida-normas-apa</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
+  
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/anexos-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>★ Aprende a Gestionar los Anexos con Normas ICONTEC</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/citas-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>📚 Citas Normas APA: Guía Completa y Ejemplos ✔️📝</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/citas-referencias-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Citas y referencias según las normas ICONTEC ⁂</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/conclusiones-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Aplica Normas ICONTEC: mejora tus conclusiones ◁</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/contacto</loc>
+        
+        
+        
+        <changefreq>
+          
+            monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.6
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Resuelvo tus dudas sobre tus trabajos escritos. Contáctame</news:title>
+          
+        </news:news>
+        
+        
+        
+        <image:image>
+          <image:loc>http://localhost:4000/logotipo.webp</image:loc>
+          
+        </image:image>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/contraportada-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>★ Todo sobre las contraportadas en Normas APA ¡Entérate ya!</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/cuerpo-trabajo-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>➤ ICONTEC Formato Explicado: El ABC del cuerpo del trabajo</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/cursos-de-trabajos-escritos</loc>
+        
+        
+        
+        <changefreq>
+          
+            monthly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.5
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Cursos de normas APA, Icontec y Trabajos Escritos Exitosos</news:title>
+          
+        </news:news>
+        
+        
+        
+        <image:image>
+          <image:loc>http://localhost:4000/book-creditcard.svg.webp</image:loc>
+          
+          <image:title>Cursos de normas APA, Icontec y Trabajos Escritos Exitosos</image:title>
+          <image:caption>Libros o cursos normas apa e icontec</image:caption>
+          
+        </image:image>
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/generador-citas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Generador de Citas con Normas APA</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/glosario-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Glosario Icontec: cómo elaborarlo paso a paso</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Partes de Trabajos Escritos con normas y requisitos 📝</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/interlineado-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Interlineado normas APA: ¿1,5 o doble? ↕</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/introduccion-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Cómo hacer la introducción con normas ICONTEC para Colombia</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/listas-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Listas con normas APA Ξ Organización y claridad</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/listas-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Listas con las Normas ICONTEC: Las claves para saber usarlas</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/marco-teorico-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Normas ICONTEC: Crea tu Marco Teórico fácilmente</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/margenes-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Márgenes de Normas APA: Ajustando el formato y las medidas</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/margenes-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Márgenes según las normas Icontec para presentar trabajos</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/numeracion-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>➤ ¿Cómo numerar según las normas APA? Evita errores comunes</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/numeracion-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>ICONTEC: Cómo Numerar Páginas, Secciones y Más</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/portada-contraportada-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Portada y contraportada con Normas Icontec ¡Conócelas!</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/portada-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Portada normas APA: mejora tu presentación ✓</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/referencias-bibliograficas-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Referencias bibliografía según las normas APA ⁂</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/sangria-paragrafos-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>La Sangría y los Parágrafos con las Normas APA</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-icontec/tabla-contenido-normas-icontec</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>¿Cómo crear una Tabla de Contenido con las Normas ICONTEC?</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/tablas-y-figuras-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Tablas y figuras según las normas APA séptima edición</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/textos-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Textos con Normas APA: guía completa y ejemplos ✓</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
+    
+      <url>
+        <loc>http://localhost:4000/normas-apa/titulos-y-subtitulos-normas-apa</loc>
+        
+        
+        
+        <changefreq>
+          
+            weekly
+          
+        </changefreq>
+        
+        <priority>
+          
+            0.8
+          
+        </priority>
+        
+        
+        <news:news>
+          <news:publication_date></news:publication_date>
+          <news:title>Títulos y subtítulos con Normas APA: escríbelos bien ↩</news:title>
+          
+        </news:news>
+        
+        
+        
+        
+      </url>
+    
+  
 
-<url>
-  <loc>http://localhost:4000/historia-normas-apa</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/hoja-de-vida-normas-icontec</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/evaluacion-trabajos-escritos-rubricas-normas-apa</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/ideas-creativas-logra-trabajos-escritos-%C3%BAnicos-y-originales</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/normas-icontec-power-point</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/programas-para-hacer-trabajos-escritos</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/sustentacion-trabajos-escritos</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/normas-apa-power-point</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/trabajo-escrito-a-mano</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/normas-mla</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/trabajos-escritos-ninos-primaria</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/detectando-el-plagio-en-trabajos-escritos-con-herramientas</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/contrato-trabajo-escrito-como-crearlo</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/descubre-las-diferencias-normas-apa-e-icontec</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/generadores-normas-apa</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-<url>
-  <loc>http://localhost:4000/como-presentar-trabajo-escrito</loc>
-  <changefreq>monthly</changefreq>
-  <priority>1.0</priority>
-</url>
-
-
+  
+    <url>
+      <loc>http://localhost:4000/hoja-de-vida-normas-apa</loc>
+      
+      
+      <lastmod>2024-05-26</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2024-05-26T00:00:00-05:00</news:publication_date>
+        <news:title>Usa Normas APA en tu hoja de vida y aumenta tus posibilidades</news:title>
+        
+        <news:keywords>Normas</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/hoja-de-vida-apa.webp</image:loc>
+        
+        <image:title>Usa Normas APA en tu hoja de vida y aumenta tus posibilidades</image:title>
+        <image:caption>Dibujo de una hoja de vida</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/historia-normas-apa</loc>
+      
+      
+      <lastmod>2024-04-26</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2024-04-26T00:00:00-05:00</news:publication_date>
+        <news:title>Historia de las normas APA ¿La conoces? Te la contamos</news:title>
+        
+        <news:keywords>Normas</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/historia-apa.webp</image:loc>
+        
+        <image:title>Historia de las normas APA ¿La conoces? Te la contamos</image:title>
+        <image:caption>Logo historia de las normas APA</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/hoja-de-vida-normas-icontec</loc>
+      
+      
+      <lastmod>2023-10-08</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-10-08T00:00:00-05:00</news:publication_date>
+        <news:title>Cómo Hacer una Hoja de Vida Según ICONTEC: Guía Completa 📝</news:title>
+        
+        <news:keywords>Normas and Trabajo</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/hoja-de-vida-icontec.webp</image:loc>
+        
+        <image:title>Cómo Hacer una Hoja de Vida Según ICONTEC: Guía Completa 📝</image:title>
+        <image:caption>Hoja de vida Icontec</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/evaluacion-trabajos-escritos-rubricas-normas-apa</loc>
+      
+      
+      <lastmod>2023-09-25</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-09-25T00:00:00-05:00</news:publication_date>
+        <news:title>Paso a Paso: Cómo Evaluar Trabajos Escritos como un Pro</news:title>
+        
+        <news:keywords>Trabajo escrito and Programas</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/trabajo-escrito-decorado.webp</image:loc>
+        
+        <image:title>Paso a Paso: Cómo Evaluar Trabajos Escritos como un Pro</image:title>
+        <image:caption>Evaluacion trabajos escritos</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/ideas-creativas-logra-trabajos-escritos-%C3%BAnicos-y-originales</loc>
+      
+      
+      <lastmod>2023-09-25</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-09-25T00:00:00-05:00</news:publication_date>
+        <news:title>Ideas creativas para presentar trabajos escritos bonitos</news:title>
+        
+        <news:keywords>Trabajo escrito and Programas</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/trabajo-escrito-decorado.webp</image:loc>
+        
+        <image:title>Ideas creativas para presentar trabajos escritos bonitos</image:title>
+        <image:caption>Programas para trabajos escritos</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/normas-icontec-power-point</loc>
+      
+      
+      <lastmod>2023-09-08</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-09-08T00:00:00-05:00</news:publication_date>
+        <news:title>Normas ICONTEC en PowerPoint: Hacer una Presentación Épica</news:title>
+        
+        <news:keywords>Trabajo escrito and Programas</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/normas-icontec-power-point.webp</image:loc>
+        
+        <image:title>Normas ICONTEC en PowerPoint: Hacer una Presentación Épica</image:title>
+        <image:caption>Programas para trabajos escritos</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/programas-para-hacer-trabajos-escritos</loc>
+      
+      
+      <lastmod>2023-09-08</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-09-08T00:00:00-05:00</news:publication_date>
+        <news:title>Programas para Hacer Trabajos Escritos ¿Cuál es mejor?</news:title>
+        
+        <news:keywords>Trabajo escrito and Programas</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/programas-trabajo-escrito.webp</image:loc>
+        
+        <image:title>Programas para Hacer Trabajos Escritos ¿Cuál es mejor?</image:title>
+        <image:caption>Programas para trabajos escritos</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/sustentacion-trabajos-escritos</loc>
+      
+      
+      <lastmod>2023-09-03</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-09-03T00:00:00-05:00</news:publication_date>
+        <news:title>Claves para Sustentar un Trabajo Escrito con Éxito</news:title>
+        
+        <news:keywords>Trabajo escrito and Sustentación</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/sustentacion-trabajo-escrito.webp</image:loc>
+        
+        <image:title>Claves para Sustentar un Trabajo Escrito con Éxito</image:title>
+        <image:caption>Dibujo de ideas creativas para escribir</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/normas-apa-power-point</loc>
+      
+      
+      <lastmod>2023-08-22</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-08-22T23:17:25-05:00</news:publication_date>
+        <news:title>Aplica Las Normas APA en PowerPoint | Guía y Consejos</news:title>
+        
+        <news:keywords>Power point and APA</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/normas-apa-power-point.webp</image:loc>
+        
+        <image:title>Aplica Las Normas APA en PowerPoint | Guía y Consejos</image:title>
+        <image:caption>Normas APA power point</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/trabajo-escrito-a-mano</loc>
+      
+      
+      <lastmod>2023-08-20</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-08-20T00:00:00-05:00</news:publication_date>
+        <news:title>Trabajo Escrito a mano: Hecho con Normas APA e Icontec</news:title>
+        
+        <news:keywords>Presentación, APA, and Icontec</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/trabajo-escrito-a-mano.webp</image:loc>
+        
+        <image:title>Trabajo Escrito a mano: Hecho con Normas APA e Icontec</image:title>
+        <image:caption>Trabajo a mano</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/normas-mla</loc>
+      
+      
+      <lastmod>2023-08-11</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-08-11T00:00:00-05:00</news:publication_date>
+        <news:title>Estilo MLA: La Norma de Citación Favorita de Investigadores</news:title>
+        
+        <news:keywords>Normas</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/normas-mla.webp</image:loc>
+        
+        <image:title>Estilo MLA: La Norma de Citación Favorita de Investigadores</image:title>
+        <image:caption>Dibujo sobre las normas MLA</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/trabajos-escritos-ninos-primaria</loc>
+      
+      
+      <lastmod>2023-07-30</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-07-30T00:00:00-05:00</news:publication_date>
+        <news:title>¿Cómo realizar Trabajos Escritos para niños de primaria?</news:title>
+        
+        <news:keywords>Trabajo escrito and Niños</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/trabajo-escrito-niños.webp</image:loc>
+        
+        <image:title>¿Cómo realizar Trabajos Escritos para niños de primaria?</image:title>
+        <image:caption>trabajos escritos con niños</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/detectando-el-plagio-en-trabajos-escritos-con-herramientas</loc>
+      
+      
+      <lastmod>2023-07-15</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-07-15T00:00:00-05:00</news:publication_date>
+        <news:title>📝 ¿Cómo puedes detectar plagio en Trabajos Escritos?</news:title>
+        
+        <news:keywords>Trabajo escrito and legal</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/plagio-fraude-trabajos-escritos.webp</image:loc>
+        
+        <image:title>📝 ¿Cómo puedes detectar plagio en Trabajos Escritos?</image:title>
+        <image:caption>Dibujo sobre la seguridad en trabajos escritos</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/contrato-trabajo-escrito-como-crearlo</loc>
+      
+      
+      <lastmod>2023-07-09</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-07-09T00:00:00-05:00</news:publication_date>
+        <news:title>✦ Contrato de Trabajo Escrito: ¿Cómo Crearlo?</news:title>
+        
+        <news:keywords>Trabajo escrito and legal</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/contrato.webp</image:loc>
+        
+        <image:title>✦ Contrato de Trabajo Escrito: ¿Cómo Crearlo?</image:title>
+        <image:caption>Modelo de Contrato de Trabajo Escrito</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/descubre-las-diferencias-normas-apa-e-icontec</loc>
+      
+      
+      <lastmod>2023-06-29</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-06-29T00:00:00-05:00</news:publication_date>
+        <news:title>Descubre las diferencias: Normas APA e ICONTEC</news:title>
+        
+        <news:keywords>APA and Icontec</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/apa-vs-icontec.webp</image:loc>
+        
+        <image:title>Descubre las diferencias: Normas APA e ICONTEC</image:title>
+        <image:caption>Diferencias APA vs Icontec</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/generadores-normas-apa</loc>
+      
+      
+      <lastmod>2023-06-18</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-06-18T00:00:00-05:00</news:publication_date>
+        <news:title>El uso de un generador de citas y referencias con normas APA ↩</news:title>
+        
+        <news:keywords>Presentación and Normas</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/generador-normas-apa.webp</image:loc>
+        
+        <image:title>El uso de un generador de citas y referencias con normas APA ↩</image:title>
+        <image:caption>Generador Normas APA</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
+    <url>
+      <loc>http://localhost:4000/como-presentar-trabajo-escrito</loc>
+      
+      
+      <lastmod>2023-05-28</lastmod>
+      
+      
+      <changefreq>weekly</changefreq>
+      
+      <priority>1.0</priority>
+      
+      
+      <news:news>
+        <news:publication_date>2023-05-28T00:00:00-05:00</news:publication_date>
+        <news:title>Aprende cómo presentar un Trabajo Escrito ¡Fácil de hacer!</news:title>
+        
+        <news:keywords>Presentación</news:keywords>
+        
+      </news:news>
+      
+      
+      
+      <image:image>
+        <image:loc>http://localhost:4000/img/blog/presentacion-trabajo-escrito.webp</image:loc>
+        
+        <image:title>Aprende cómo presentar un Trabajo Escrito ¡Fácil de hacer!</image:title>
+        <image:caption>Dibujo sobre la presentación de un trabajo escrito</image:caption>
+        
+      </image:image>
+      
+      
+    </url>
+  
 </urlset>
