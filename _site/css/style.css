@@ -554,14 +554,14 @@ nav ul {
   padding: 0;
   margin: 0;
   display: flex;
-  justify-content: space-evenly;
   margin-left: auto;
-  gap: 1rem;
+  gap: 12px;
 }
 
 nav ul li {
   list-style: none;
   position: relative;
+  margin: 0;
 }
 
 nav ul li a,
@@ -728,7 +728,8 @@ nav ul li:last-child{
   list-style-type: disc;
 }
 
-.normas_contenido img{
+.normas_contenido img,
+.post-content img{
   width: min(100%, 400px);
   float: right;
   margin-inline-start: 3rem;
@@ -1274,6 +1275,7 @@ footer section p{
 .post-content{
   margin-top: 0;
 }
+
 .image-gallery {
   overflow: auto;
   margin-left: -1% !important;

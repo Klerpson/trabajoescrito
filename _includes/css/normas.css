@@ -21,7 +21,8 @@
   list-style-type: disc;
 }
 
-.normas_contenido img{
+.normas_contenido img,
+.post-content img{
   width: min(100%, 400px);
   float: right;
   margin-inline-start: 3rem;
