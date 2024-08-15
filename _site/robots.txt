@@ -1,5 +1,29 @@
+# Allow all bots to access the site
 User-agent: *
 Allow: /
-User-Agent: AdsBot-Google-Mobile
+
+# Block access to unnecessary directories (if any)
+Disallow: /assets/
+Disallow: /scripts/
+Disallow: /temp/
+
+# Specific bot rules
+User-Agent: Googlebot
+Allow: /
+
+User-Agent: Bingbot
+Allow: /
+
 User-Agent: AdsBot-Google
+Allow: /
+
+User-Agent: AdsBot-Google-Mobile
+Allow: /
+
+# Allow access to CSS, JS files (important for Jekyll sites)
+User-Agent: *
+Allow: /*.css$
+Allow: /*.js$
+
+# Sitemap location
 Sitemap: https://trabajoescrito.com/sitemap.xml
