@@ -3,10 +3,6 @@ layout: compress
 ---
 {% include head.html %}
 <body>
-  <!-- Google Tag Manager (noscript) -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWC7CKC9"
-  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
   {% include nav.html %}
   {% include header.html %}
   {% if page.vertical %}
@@ -16,13 +12,19 @@ layout: compress
   {% include cta.html %}
   {% include footer.html %}
   {% else %}
-    {{ content }}
+  {{ content }}
   {% endif %}
   <a href="#">{% include boton-up.html %}</a>
-  
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3100194943394350" crossorigin="anonymous"></script>
+  <!-- Google Tag Manager (noscript) -->
+  <noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WWC7CKC9" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+  </noscript>
+
+  <!-- AdSense -->
   <script>
-    (adsbygoogle = window.adsbygoogle || []).push({});
+    window.addEventListener('load', function() {
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    });
   </script>
 </body>
 </html>

@@ -1,0 +1,206 @@
+{% assign publisher = '{
+  "@type": "Organization",
+  "name": "TrabajoEscrito.com",
+  "logo": {
+    "@type": "ImageObject",
+    "url": "https://trabajoescrito.com/logotipo.webp",
+    "width": 280,
+    "height": 57
+  },
+  "@id": "https://trabajoescrito.com#publisher"
+}' | json %}
+
+{% if page.url == "/" %}
+  {% comment %} Esquema para la página de inicio {% endcomment %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebSite",
+      "@id": "https://trabajoescrito.com#WebSite",
+      "name": "TrabajoEscrito.com",
+      "url": "https://trabajoescrito.com/",
+      "description": "Tu recurso definitivo para normas APA, ICONTEC y todo lo que necesitas para hacer trabajos escritos de alta calidad.",
+      "inLanguage": "es",
+      "publisher": {{ publisher | strip }},
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://trabajoescrito.com/?s={search_term}",
+        "query-input": "required name=search_term"
+      },
+      "sameAs": ["{{ site.pinterest }}"],
+      "hasOfferCatalog": {
+        "@type": "OfferCatalog",
+        "name": "Cursos y Recomendaciones",
+        "itemListElement": [
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Aprende a usar las Normas APA",
+              "description": "Aprende a aplicar las normas APA en tus trabajos escritos.",
+              "url": "https://trabajoescrito.com/cursos/apa",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "USD",
+                "availability": "http://schema.org/InStock"
+              }
+            }
+          },
+          {
+            "@type": "Offer",
+            "itemOffered": {
+              "@type": "Service",
+              "name": "Aprende a usar las Normas ICONTEC",
+              "description": "Domina las normas ICONTEC para trabajos escritos.",
+              "url": "https://trabajoescrito.com/cursos/icontec",
+              "offers": {
+                "@type": "Offer",
+                "price": "0",
+                "priceCurrency": "USD",
+                "availability": "http://schema.org/InStock"
+              }
+            }
+          }
+        ]
+      },
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://trabajoescrito.com/",
+        "name": "Página de Inicio",
+        "description": "La página de inicio de TrabajoEscrito.com, tu recurso para trabajos escritos de alta calidad.",
+        "breadcrumb": "Inicio"
+      }
+    }
+  </script>
+{% elsif page.vertical == "true" %}
+  {% comment %} Esquema para páginas verticales {% endcomment %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "{{ page.h1 }}",
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.date | date_to_xmlschema }}",
+      "description": "{{ page.description }}",
+      "inLanguage": "es",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.author }}"
+      },
+      "publisher": {{ publisher | strip }},
+      "articleBody": "{{ page.intro | json_escape }}",
+      "articleSection": "Consejos"
+    }
+  </script>
+{% elsif page.layout == "post" %}
+  {% comment %} Esquema para entradas de blog {% endcomment %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "BlogPosting",
+      "headline": "{{ page.h1 }}",
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.date | date_to_xmlschema }}",
+      "description": "{{ page.description }}",
+      "inLanguage": "es",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "{{ page.url | absolute_url }}"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.name }}"
+      },
+      "publisher": {{ publisher | strip }},
+      "image": "{{ site.baseurl }}/img/{{ page.webp }}",
+      "articleBody": "{{ page.content | strip_html | strip_newlines | json_escape }}",
+      "articleSection": "{{ page.category }}"
+    }
+  </script>
+{% elsif page.url == "/tip-y-consejos" %}
+  {% comment %} Esquema para la página de tips y consejos {% endcomment %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Tips y consejos para hacer tu Trabajo Escrito",
+      "datePublished": "{{ page.date | date_to_xmlschema }}",
+      "dateModified": "{{ page.date | date_to_xmlschema }}",
+      "description": "{{ page.description }}",
+      "inLanguage": "es",
+      "isAccessibleForFree": true,
+      "mainEntityOfPage": {
+        "@type": "WebPage",
+        "@id": "https://trabajoescrito.com/tips-y-consejos"
+      },
+      "author": {
+        "@type": "Person",
+        "name": "{{ site.name }}"
+      },
+      "publisher": {{ publisher | strip }},
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "TrabajoEscrito.com",
+        "url": "https://trabajoescrito.com/"
+      },
+      "noindex": true
+    }
+  </script>
+{% elsif page.url == "/cursos-de-trabajos-escritos" %}
+  {% comment %} Esquema para la página de cursos de trabajos escritos {% endcomment %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://trabajoescrito.com/cursos-de-trabajos-escritos",
+      "name": "Cursos de redacción normas APA, Icontec y otras más",
+      "description": "Cursos para aprender a hacer Trabajos Escritos mucho más rápido y fácil. Buscamos por ti los cursos mejor calificados para aprender sobre normas APA, normas Icontec, IEEE, Vancouver, redacción, investigación, etc.",
+      "url": "https://trabajoescrito.com/cursos-de-trabajos-escritos",
+      "inLanguage": "es",
+      "isAccessibleForFree": true,
+      "mainEntity": {
+        "@type": "ItemList",
+        "itemListElement": [
+          {
+            "@type": "Course",
+            "name": "Aprende a usar las normas APA",
+            "description": "Este curso escrito gratuito resume de manera completa y entendible cada paso y cumplimiento a la normatividad APA.",
+            "url": "https://trabajoescrito.com/cursos/apa"
+          },
+          {
+            "@type": "Course",
+            "name": "Avanza en tu Tesis 300% más rápido con nuestra",
+            "description": "En este curso te guiaremos paso a paso para que entiendas el proceso de principio a fin. Descarga la plantilla base",
+            "url": "https://trabajoescrito.com/cursos/tesis"
+          },
+          {
+            "@type": "Course",
+            "name": "Cómo hacer tu proyecto de Investigación paso a paso",
+            "description": "Este curso es para ti si eres estudiante y requieres que tu proyecto de investigación sea aprobado en tu institución universitaria.",
+            "url": "https://trabajoescrito.com/cursos/investigacion"
+          }
+        ]
+      },
+      "publisher": {{ publisher | strip }}
+    }
+  </script>
+{% else %}
+  {% comment %} Manejo de URLs no especificadas {% endcomment %}
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "{{ page.url | absolute_url }}",
+      "name": "{{ page.title }}",
+      "description": "{{ page.description }}",
+      "url": "{{ page.url | absolute_url }}"
+    }
+  </script>
+{% endif %}
