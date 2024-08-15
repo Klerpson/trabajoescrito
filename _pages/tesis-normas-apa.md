@@ -67,9 +67,9 @@ Solo sigue las recomendaciones que tenemos para sobre las norma APA para:
 - 👉 [Tamaño de letra]({{'normas-apa/textos-normas-apa'|relative_url}} "Fuentes normas APA")
 - 👉 [Interlineado y justificación]({{'normas-apa/sangra-parrafos-normas-apa'|relative_url}} "Interlineado y justificación normas APA")
 
-## ¿Cómo evitar el plagio en una tesis?
+![Plagio de tesis]({{'img/blog/plagio-tesis.webp'|relative_url}} "Evita el plagio de tesis citando con normas APA"){:loading="lazy" width="400" height="500" }
 
-{% include add9.html %}
+## ¿Cómo evitar el plagio en una tesis?
 
 Para evitar el plagio en una tesis, tienes que **citar correctamente todas las fuentes** consultadas y parafrasear cuando sea necesario.
 
@@ -77,6 +77,8 @@ Para evitar el plagio en una tesis, tienes que **citar correctamente todas las f
 {:id="estructura"}
 
 ## ¿Cómo se utilizan las Normas APA en la tesis de investigación en ciencias sociales?
+
+{% include add9.html %}
 
 Las Normas APA se utilizan como guía para la presentación y citación de fuentes en las tesis del campo de las ciencias sociales.
 
