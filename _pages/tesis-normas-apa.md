@@ -15,6 +15,7 @@ Las Normas APA son una guía imprescindible para la presentación de trabajos ac
 Así que te enseñaremos a **elaborar tu tesis con las normas APA**. No te pierdas esta guía práctica y fácil para [la elaboración de una tesis con Normas APA]({{'normas-apa'|relative_url}} "Normas APA").
 
 - [Cómo debe citar en la tesis con APA](#vigila-las-citas-de-tu-tesis-según-las-normas-apa)
+- [Cómo hacer la tabla de contenido APA en tu tesis](#cómo-hacer-la-tabla-de-contenido-o-índice-de-tu-tesis-con-normas-apa)
 
 ## La estructura de una tesis con normas APA
 
@@ -46,7 +47,7 @@ Realiza una correcta revisión ortográfica y gramatical.
 Tener una tesis bien escrita y estructurada es fundamental para lograr una buena calificación en el trabajo presentado y es importante para tu carrera y tu futuro profesional.
 {:id="descargas"}
 
-{% include plantillas.html img="img/plantilla-tesis-apa.webp" alt="Platilla tesis normas apa" h3="Descarga la plantilla básica de la tesis con normas APA" punto1="Plantilla básica con instrucciones de desarrollo" punto2="Tips importantes en cada sección de la plantilla" punto3="Formato Word para personalización de la plantilla" url="https://payhip.com/b/PgpIM" title="Descarga la platilla de tesis normas APA" %}
+{% include plantillas.html img="img/plantilla-tesis-apa.webp" alt="Plantilla tesis normas apa" h3="Descarga la plantilla básica de la tesis con normas APA" punto1="Plantilla básica con instrucciones de desarrollo" punto2="Tips importantes en cada sección de la plantilla" punto3="Formato Word para personalización de la plantilla" url="https://payhip.com/b/PgpIM" title="Descarga la plantilla de tesis normas APA" %}
 
 ## Vigila las citas de tu tesis según las Normas APA
 

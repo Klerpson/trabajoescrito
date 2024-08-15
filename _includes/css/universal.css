@@ -385,22 +385,3 @@ hr {
   border: 2.4px solid var(--principal);
   box-shadow: var(--shadow);
 }
-
-.cluster2 {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  justify-content: center;
-  gap: 1em;
-  background-color: var(--grisFuentes);
-  box-shadow: 0 0 0 100vmax var(--grisFuentes);
-  -webkit-clip-path: inset(0 -100vmax);
-          clip-path: inset(0 -100vmax);
-  color: var(--blanco);
-  padding: 3em 0;
-  margin: 3em 0;
-}
-
-.normas_contenido .cluster2 img{
-  width: min(100%, 560px);
-}

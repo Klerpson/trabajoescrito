@@ -20,6 +20,7 @@ header {
 
 .title div{
   flex: 1 0 400px;
+  max-width: 100%;
   display: flex;
   flex-wrap: wrap;
   gap: 1rem;
