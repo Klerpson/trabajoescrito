@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "Enumeración de Trabajos Escritos: ¿Dónde Comenzar y Cómo se Hace?"
-description: Domina la numeración de páginas en trabajos escritos. Aprende desde donde se enumera un trabajo escrito y cómo se hace correctamente
-h1: "Cómo enumerar las páginas en los Trabajos Escritos y desde dónde hacerlo"
+title: "Enumeración de Trabajos Escritos: ¿Cómo se Hace?"
+description: Domina la numeración de páginas en trabajos escritos. Aprende desde donde se enumera un trabajo escrito, dónde no y cómo se hace correctamente
+h1: "Cómo enumerar las páginas en los Trabajos Escritos y desde comenzar a enumerar"
 intro: La enumeración de páginas es un aspecto crítico en la presentación de trabajos escritos. Puede parecer simple, pero es vital para la legibilidad y la correcta organización de tu documento.
 boton_info: estructura
 boton_info_title: Desde dónde enumerar
@@ -10,7 +10,9 @@ boton_mas: descargas
 boton_mas_title: Dónde NO enumerar
 vertical: "true"
 ---
-¿Has intentado enumerar páginas en tus trabajos escritos y no sabes cómo? No estás solo. La numeración de páginas es un detalle que, aunque pequeño, tiene un gran impacto en la legibilidad y organización de tu documento.
+¿Has intentado enumerar páginas en tus trabajos escritos y no sabes cómo? No estás solo.
+
+La enumeración de páginas es un detalle que, aunque pequeño, tiene un gran impacto en la legibilidad y organización de tu documento.
 
 Puedes estar utilizando las normas APA o Icontec. Sea cual sea, *trabajoescrito.com te enseñará cómo enumerar páginas* como un experto.
 <!-- Anclaje para que la barra fijada no cubra el siguiente subtítulo -->
@@ -20,7 +22,7 @@ Puedes estar utilizando las normas APA o Icontec. Sea cual sea, *trabajoescrito.
 
 {% include add.html %}
 
-La numeración de páginas no es solo un detalle estético. **La enumeración de un trabajo escrito es crucial para la navegación y organización** de tu trabajo académico. 
+La numeración de páginas no es solo un detalle estético. **La enumeración de un trabajo escrito es crucial para la navegación y organización** de tu trabajo académico.
 
 Así se debe hacer según las normas más populares:
 
@@ -36,8 +38,6 @@ Así se debe hacer según las normas más populares:
 3. **Herramientas Útiles**: Utiliza herramientas como Microsoft Word que tienen opciones de numeración automática.
 
 Con estos consejos evitarás errores comunes que podrían afectar la calidad de tu trabajo.
-
-----
 
 ## Ahora sí, ¿Cómo se enumera un trabajo escrito?
 
@@ -78,8 +78,6 @@ En un trabajo escrito, hay ciertas **páginas que generalmente no se enumeran**.
 
 Recuerda siempre revisar las pautas específicas del formato que estás utilizando, como APA, MLA o Chicago, ya que pueden tener reglas específicas.
 
-----
-
 ## Herramientas de software para enumerar páginas como un profesional
 
 Si te preguntas cómo numerar páginas en trabajos escritos de forma más eficiente, la tecnología es tu aliada. Aquí te presentamos algunas herramientas que te facilitarán la vida:
@@ -102,15 +100,15 @@ Con estas herramientas, no necesitas ser un experto en tecnología para que tus 
 
 {% include add8.html %}
 
-## Conviértete en un experto enumerando y desarrollando Trabajos Académicos
+## Conviértete en un experto enumerando trabajos escritos
 
 ¿Quieres dejar de preocuparte por cómo numerar páginas en trabajos académicos y otros detalles que te quitan el sueño?
 
 Tenemos la solución perfecta para ti. Accede a nuestros cursos prácticos que te ayudarán a superar los desafíos comunes en la redacción de tesis, [investigaciones]({{'investigacion-con-normas-apa-icontec'|relative_url}}) y mucho más.
 
-**✓ Olvídate de la confusión al citar fuentes**  
-**✓ Deja de buscar cómo estructurar tus trabajos**  
-**✓ Presenta ese trabajo escrito que tanto deseas**  
+**✓ Olvídate de la confusión al citar fuentes**
+**✓ Deja de buscar cómo estructurar tus trabajos**
+**✓ Presenta ese trabajo escrito que tanto deseas**
 
-👇 Haz clic en este botón y aprovecha la oportunidad para alcanzar el éxito académico y profesional que tanto deseas. 👇  
+👇 Haz clic en este botón y aprovecha la oportunidad para alcanzar el éxito académico y profesional que tanto deseas. 👇 
 [**¡Quiero Ser un Experto!**]({{'cursos-de-trabajos-escritos'|relative_url}}){:class="boton"}

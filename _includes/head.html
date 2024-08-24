@@ -13,6 +13,19 @@
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     
     <link rel="canonical" href="{{ page.url | absolute_url }}">
+    
+    <!-- Preconnect to required origins -->
+    <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
+    <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
+    <link rel="preconnect" href="https://www.clarity.ms" crossorigin>
+    <!-- Google Tag Manager -->
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+      new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+      j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+      'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+      })(window,document,'script','dataLayer','GTM-WWC7CKC9');</script>
+      <!-- End Google Tag Manager -->
+
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}">
     <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | absolute_url }}">
     <link rel="alternate" hreflang="es" href="{{ page.url | absolute_url }}">
@@ -70,10 +83,6 @@
       /* Add more critical CSS here */
     </style>
 
-    <!-- Preconnect to required origins -->
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link rel="preconnect" href="https://cdnjs.cloudflare.com" crossorigin>
-
     <!-- Preload CSS -->
     <link rel="preload" href="{{ 'css/style.css' | relative_url }}" as="style">
     <link rel="stylesheet" href="{{ 'css/style.css' | relative_url }}">
@@ -88,35 +97,5 @@
       
     {% include schema.html %}
  
-    <meta name='impact-site-verification' value='129f46bb-ef59-413c-8573-4e366476cc2e'>
-
-    <!-- Google Tag Manager -->
-    <script>
-      window.addEventListener('load', function() {
-        var script = document.createElement('script');
-        script.src = 'https://www.googletagmanager.com/gtm.js?id=GTM-WWC7CKC9';
-        document.head.appendChild(script);
-      });
-    </script>
-  
-    <!-- Google AdSense -->
-    <script>
-      window.addEventListener('load', function() {
-        var script = document.createElement('script');
-        script.src = 'https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3100194943394350';
-        script.async = true;
-        script.crossOrigin = 'anonymous';
-        document.head.appendChild(script);
-      });
-    </script>
-  
-    <!-- Microsoft Clarity -->
-    <script>
-      window.addEventListener('load', function() {
-        var script = document.createElement('script');
-        script.src = 'https://www.clarity.ms/tag/hivwim6zja';
-        script.async = true;
-        document.head.appendChild(script);
-      });
-    </script>
+   
   </head>
