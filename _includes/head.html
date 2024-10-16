@@ -1,65 +1,69 @@
 <!DOCTYPE html>
-<html lang="es_CO">
-  <head>
-    {% if page.noindex %}
-    <meta name="robots" content="noindex, nofollow">
-    {% endif %}
+<html lang="es-CO">
+<head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline' https://pagead2.googlesyndication.com https://www.googletagmanager.com; style-src 'self' 'unsafe-inline'; font-src 'self' data:; frame-src 'self' https://mozbar.moz.com; connect-src 'self' https://www.google-analytics.com https://www.clarity.ms;">
     
-    <title>{{ page.title }}</title>
+    <title>{{ page.title | escape }} | {{ site.title | escape }}</title>
     <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
     
     <link rel="canonical" href="{{ page.url | absolute_url }}">
+    
+    {% if page.noindex %}
+    <meta name="robots" content="noindex, nofollow">
+    {% else %}
+    <meta name="robots" content="index, follow">
+    {% endif %}
     
     <!-- Preconnect to required origins -->
     <link rel="preconnect" href="https://www.googletagmanager.com" crossorigin>
     <link rel="preconnect" href="https://pagead2.googlesyndication.com" crossorigin>
     <link rel="preconnect" href="https://www.clarity.ms" crossorigin>
-   
 
-    <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | absolute_url }}">
-    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ "/sitemap.xml" | absolute_url }}">
+    <!-- Alternate and sitemap links -->
+    <link rel="alternate" type="application/rss+xml" title="{{ site.title | escape }}" href="{{ '/feed.xml' | absolute_url }}">
+    <link rel="sitemap" type="application/xml" title="Sitemap" href="{{ '/sitemap.xml' | absolute_url }}">
     <link rel="alternate" hreflang="es" href="{{ page.url | absolute_url }}">
     
+    <!-- Metadata -->
     <meta name="language" content="es">
     <meta name="country" content="COL">
     <meta name="theme-color" content="#253439">
     <meta name="generator" content="Jekyll 4.2.0">
-    <meta name="author" content="{% if page.autor %}{{ page.autor }}{% else %}{{ site.name }}{% endif %}">
-    <meta name="copyright" content="{% if page.copyright %}{{ page.copyright }}{% else %}{{ site.name }}{% endif %}">
-    <meta name="owner" content="{{ site.name }}">
+    <meta name="author" content="{% if page.autor %}{{ page.autor | escape }}{% else %}{{ site.name | escape }}{% endif %}">
+    <meta name="copyright" content="{% if page.copyright %}{{ page.copyright | escape }}{% else %}{{ site.name | escape }}{% endif %}">
+    <meta name="owner" content="{{ site.name | escape }}">
     <meta name="distribution" content="global">
 
-    <!-- FAVICON -->
-    <link rel="shortcut icon" href="/iconified/favicon.ico" type="image/x-icon">
-    <link rel="apple-touch-icon" href="/iconified/apple-touch-icon.png">
-    <link rel="apple-touch-icon" sizes="57x57" href="/iconified/apple-touch-icon-57x57.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="/iconified/apple-touch-icon-72x72.png">
-    <link rel="apple-touch-icon" sizes="76x76" href="/iconified/apple-touch-icon-76x76.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="/iconified/apple-touch-icon-114x114.png">
-    <link rel="apple-touch-icon" sizes="120x120" href="/iconified/apple-touch-icon-120x120.png">
-    <link rel="apple-touch-icon" sizes="144x144" href="/iconified/apple-touch-icon-144x144.png">
-    <link rel="apple-touch-icon" sizes="152x152" href="/iconified/apple-touch-icon-152x152.png">
-    <link rel="apple-touch-icon" sizes="180x180" href="/iconified/apple-touch-icon-180x180.png">
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ '/iconified/favicon.ico' | relative_url }}" type="image/x-icon">
+    <link rel="apple-touch-icon" href="{{ '/iconified/apple-touch-icon.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="57x57" href="{{ '/iconified/apple-touch-icon-57x57.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="72x72" href="{{ '/iconified/apple-touch-icon-72x72.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="76x76" href="{{ '/iconified/apple-touch-icon-76x76.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="114x114" href="{{ '/iconified/apple-touch-icon-114x114.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="120x120" href="{{ '/iconified/apple-touch-icon-120x120.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="144x144" href="{{ '/iconified/apple-touch-icon-144x144.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="152x152" href="{{ '/iconified/apple-touch-icon-152x152.png' | relative_url }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ '/iconified/apple-touch-icon-180x180.png' | relative_url }}">
 
     <!-- OpenGraph -->
     <meta property="og:locale" content="es_CO">
     <meta property="og:type" content="article">
-    <meta property="og:title" content="{{ page.title }}">
-    <meta property="og:description" content="{{ page.description }}">
+    <meta property="og:title" content="{{ page.title | escape }}">
+    <meta property="og:description" content="{{ page.description | escape }}">
     <meta property="og:url" content="{{ page.url | absolute_url }}">
-    <meta property="og:site_name" content="{{ site.name }}">
-    <meta property="og:image" content="{{ site.url }}/img/{{ page.webp }}.jpg">
-    <meta property="og:image:secure_url" content="{{ site.url }}/img/{{ page.webp }}.jpg">
+    <meta property="og:site_name" content="{{ site.name | escape }}">
+    <meta property="og:image" content="{{ site.url }}{% if page.webp %}/img/{{ page.webp }}.jpg{% else %}/img/default-og-image.jpg{% endif %}">
+    <meta property="og:image:secure_url" content="{{ site.url }}{% if page.webp %}/img/{{ page.webp }}.jpg{% else %}/img/default-og-image.jpg{% endif %}">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
-    <meta property="og:image:alt" content="{{ page.alt }}">
+    <meta property="og:image:alt" content="{{ page.alt | escape }}">
     <meta property="og:image:type" content="image/jpeg">
     <meta property="article:published_time" content="{{ page.date | date_to_xmlschema }}">
-    <meta property="article:modified_time" content="{{ page.date | date_to_xmlschema }}">
+    <meta property="article:modified_time" content="{{ page.last_modified_at | default: page.date | date_to_xmlschema }}">
     <meta property="article:author" content="{{ site.facebook_username }}">
     <meta property="article:publisher" content="{{ site.facebook_page }}">
 
@@ -67,38 +71,37 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@{{ site.twitter_username }}">
     <meta name="twitter:creator" content="@{{ site.twitter_username }}">
-    <meta name="twitter:title" content="{{ page.title }}">
-    <meta name="twitter:description" content="{{ page.description }}">
-    <meta name="twitter:image" content="{{ site.url }}/img/{{ page.webp }}.jpg">
+    <meta name="twitter:title" content="{{ page.title | escape }}">
+    <meta name="twitter:description" content="{{ page.description | escape }}">
+    <meta name="twitter:image" content="{{ site.url }}{% if page.webp %}/img/{{ page.webp }}.jpg{% else %}/img/default-twitter-image.jpg{% endif %}">
 
     <!-- CRITICAL PATH CSS -->
     <style>
-      body{color:#202020}
-      /* Add more critical CSS here */
+        body{color:#202020}
+        /* Add more critical CSS here */
     </style>
 
     <!-- Preload CSS -->
-    <link rel="preload" href="{{ 'css/style.css' | relative_url }}" as="style">
-    <link rel="stylesheet" href="{{ 'css/style.css' | relative_url }}">
-    <link rel="preload" href="{{site.baseurl}}/css/fonts/styles.css" as="style" >
-    <link rel="stylesheet" href="{{site.baseurl}}/css/fonts/styles.css" >
+    <link rel="preload" href="{{ '/css/style.css' | relative_url }}" as="style">
+    <link rel="stylesheet" href="{{ '/css/style.css' | relative_url }}">
+    <link rel="preload" href="{{ '/css/fonts/styles.css' | relative_url }}" as="style">
+    <link rel="stylesheet" href="{{ '/css/fonts/styles.css' | relative_url }}">
     
     <!-- Preload Fonts -->
-    <link rel="preload" as="font" href="{{ 'css/fonts/mulish-v12-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
-    <link rel="preload" as="font" href="{{ 'css/fonts/mulish-v12-latin-700.woff2' | relative_url }}" type="font/woff2" crossorigin>
-    <link rel="preload" as="font" href="{{ 'css/fonts/special-elite-v18-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
+    <link rel="preload" as="font" href="{{ '/css/fonts/mulish-v12-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
+    <link rel="preload" as="font" href="{{ '/css/fonts/mulish-v12-latin-700.woff2' | relative_url }}" type="font/woff2" crossorigin>
+    <link rel="preload" as="font" href="{{ '/css/fonts/special-elite-v18-latin-regular.woff2' | relative_url }}" type="font/woff2" crossorigin>
 
-      
     {% include schema.html %}
  
     <!-- Google Tag Manager -->
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-  })(window,document,'script','dataLayer','GTM-WWC7CKC9');</script>
-  <!-- End Google Tag Manager -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3100194943394350"
-  crossorigin="anonymous"></script>
-   
-  </head>
+    <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window,document,'script','dataLayer','GTM-WWC7CKC9');</script>
+    <!-- End Google Tag Manager -->
+
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3100194943394350"
+     crossorigin="anonymous"></script>
+</head>

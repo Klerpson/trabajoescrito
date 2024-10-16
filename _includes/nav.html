@@ -1,60 +1,109 @@
-<nav>
-  <input id="nav-toggle" type="checkbox">
-  <a href="{{site.baseurl}}/" title="Inicio" class="logo"><img src="{{'logotipo.webp'|relative_url}}" alt="Logotipo de TrabajoEscrito.com" width="180"></a>
-    
-  <ul>
-    <li><details>
-      <summary>Normas APA</summary>
-      <a href="{{ site.baseurl }}/normas-apa/citas-normas-apa" {% if page.url contains "/normas-apa/citas-normas-apa" %}class="active"{% endif %}">⇾ Citas</a>
-      <a href="{{ site.baseurl }}/normas-apa/contraportada-normas-apa" {% if page.url contains "/normas-apa/contraportada-normas-apa" %}class="active"{% endif %}">⇾ Contraportadas</a>
-      <a href="{{ site.baseurl }}/normas-apa/interlineado-normas-apa" {% if page.url contains "/normas-apa/interlineado-normas-apa" %}class="active"{% endif %}">⇾ Interlineado</a>
-      <a href="{{ site.baseurl }}/normas-apa/listas-normas-apa" {% if page.url contains "/normas-apa/listas-normas-apa" %}class="active"{% endif %}">⇾ Listas</a>
-      <a href="{{ site.baseurl }}/normas-apa/margenes-normas-apa" {% if page.url contains "/normas-apa/margenes-normas-apa" %}class="active"{% endif %}">⇾ Márgenes</a>
-      <a href="{{ site.baseurl }}/normas-apa/numeracion-normas-apa" {% if page.url contains "/normas-apa/numeracion-normas-apa" %}class="active"{% endif %}">⇾ Numeración</a>
-      <a href="{{ site.baseurl }}/normas-apa/portada-normas-apa" {% if page.url contains "/normas-apa/portada-normas-apa" %}class="active"{% endif %}">⇾ Portadas</a>
-      <a href="{{ site.baseurl }}/normas-apa/referencias-bibliograficas-normas-apa" {% if page.url contains "/normas-apa/referencias-bibliograficas-normas-apa" %}class="active"{% endif %}">⇾ Referencias</a>
-      <a href="{{ site.baseurl }}/normas-apa/sangria-paragrafos-normas-apa" {% if page.url contains "/normas-apa/sangria-paragrafos-normas-apa" %}class="active"{% endif %}">⇾ Sangría</a>
-      <a href="{{ site.baseurl }}/normas-apa/tablas-y-figuras-normas-apa" {% if page.url contains "/normas-apa/tablas-y-figuras-normas-apa" %}class="active"{% endif %}">⇾ Tablas y Figuras</a>
-      <a href="{{ site.baseurl }}/normas-apa/textos-normas-apa" {% if page.url contains "/normas-apa/textos-normas-apa" %}class="active"{% endif %}">⇾ Formato texto</a>
-      <a href="{{ site.baseurl }}/normas-apa/titulos-y-subtitulos-normas-apa" {% if page.url contains "/normas-apa/titulos-y-subtitulos-normas-apa" %}class="active"{% endif %}">⇾ Títulos</a>
-    </details></li>
-    <li><details>
-      <summary>Normas Icontec</summary>
-      <a href="{{ site.baseurl }}/normas-icontec/anexos-normas-icontec" {% if page.url contains "/normas-icontec/anexos-normas-icontec" %}class="active"{% endif %}">⇾ Anexos</a>
-      <a href="{{ site.baseurl }}/normas-icontec/citas-referencias-normas-icontec" {% if page.url contains "/normas-icontec/citas-referencias-normas-icontec" %}class="active"{% endif %}">⇾ Citas</a>
-      <a href="{{ site.baseurl }}/normas-icontec/conclusiones-normas-icontec" {% if page.url contains "/normas-icontec/conclusiones-normas-icontec" %}class="active"{% endif %}">⇾ Conclusiones</a>
-      <a href="{{ site.baseurl }}/normas-icontec/cuerpo-trabajo-normas-icontec" {% if page.url contains "/normas-icontec/cuerpo-trabajo-normas-icontec" %}class="active"{% endif %}">⇾ Formato</a>
-      <a href="{{ site.baseurl }}/normas-icontec/glosario-normas-icontec" {% if page.url contains "/normas-icontec/glosario-normas-icontec" %}class="active"{% endif %}">⇾ Glosario</a>
-      <a href="{{ site.baseurl }}/normas-icontec/introduccion-normas-icontec" {% if page.url contains "/normas-icontec/introduccion-normas-icontec" %}class="active"{% endif %}">⇾ Introducción</a>
-      <a href="{{ site.baseurl }}/normas-icontec/listas-normas-icontec" {% if page.url contains "/normas-icontec/listas-normas-icontec" %}class="active"{% endif %}">⇾ Listas</a>
-      <!-- <a href="{{ site.baseurl }}/normas-icontec/marco-teorico-normas-icontec" {% if page.url contains "/normas-icontec/marco-teorico-normas-icontec" %}class="active"{% endif %}">⇾ Marco teórico</a> -->
-      <a href="{{ site.baseurl }}/normas-icontec/margenes-normas-icontec" {% if page.url contains "/normas-icontec/margenes-normas-icontec" %}class="active"{% endif %}">⇾ Márgenes</a>
-      <a href="{{ site.baseurl }}/normas-icontec/portada-contraportada-normas-icontec" {% if page.url contains "/normas-icontec/portada-contraportada-normas-icontec" %}class="active"{% endif %}">⇾ Portadas</a>
-      <a href="{{ site.baseurl }}/normas-icontec/tabla-contenido-normas-icontec" {% if page.url contains "/normas-icontec/tabla-contenido-normas-icontec" %}class="active"{% endif %}">⇾ Índices</a>
-    </details></li>
-    <li><details>
-      <summary>Ejemplos</summary>
-      <a href="{{site.baseurl}}/tesis-normas-apa" {% if page.url contains "/tesis-normas-apa" %}class="active"{% endif %}">Tesis</a>
-      <a href="{{site.baseurl}}/informes" {% if page.url contains "/informe" %}class="active"{% endif %}">Informe</a>
-      <a href="{{site.baseurl}}/ensayos-con-normas-tecnicas" {% if page.url contains "/ensayos-con-normas-tecnicas" %}class="active"{% endif %}">Ensayos</a>
-      <a href="{{site.baseurl}}/monografia" {% if page.url contains "/monografia" %}class="active"{% endif %}">Monografías</a>
-      <a href="{{site.baseurl}}/investigacion-con-normas-apa-icontec" {% if page.url contains "/investigacion-con-normas-apa-icontec" %}class="active"{% endif %}">Investigación</a>
-      <a href="{{site.baseurl}}/proyectos-academicos" {% if page.url contains "/proyectos-academicos" %}class="active"{% endif %}">Proyecto</a>
-      <a href="{{site.baseurl}}/anteproyecto-con-normas-tecnicas" {% if page.url contains "/anteproyecto-con-normas-tecnicas" %}class="active"{% endif %}">Anteproyecto</a>
-      <a href="{{site.baseurl}}/articulos-con-normas-apa" {% if page.url contains "/articulos-con-normas-apa" %}class="active"{% endif %}">Articulo</a>
-      <!-- <a href="{{site.baseurl}}/cronograma" {% if page.url contains "/cronograma" %}class="active"{% endif %}">Cronograma</a> -->
-    </details></li>
-    <li><details>
-      <summary>Herramientas</summary>
-      <a href="{{site.baseurl}}/generador-citas-apa" {% if page.url contains "/generador-citas-apa" %}class="active"{% endif %}">Generador Citas</a>
-      <a href="{{site.baseurl}}/tips-y-consejos" {% if page.url contains "/tips-y-consejos" %}class="active"{% endif %}">Blog</a>
-      <a href="{{'cursos-de-trabajos-escritos'|relative_url}}" class="cursos_menu">Aprende más</a>
-    </details></li>
-    <li><small> &copy; trabajoescrito.com </small></li>
-  </ul>
-  <label for="nav-toggle" class="icono-nav">
-    <div class="line"></div>
-    <div class="line"></div>
-    <div class="line"></div>
-  </label>
+<!-- <nav class="main-nav">
+  <button class="mobile-menu-toggle" aria-label="Abrir menú">
+    <span></span>
+    <span></span>
+    <span></span>
+  </button>
+  <ul class="nav-menu">
+    <li class="nav-item dropdown">
+      <button class="dropdown-toggle">Normas APA</button>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/normas-apa/citas-normas-apa">Citas</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/contraportada-normas-apa">Contraportadas</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/interlineado-normas-apa">Interlineado</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/listas-normas-apa">Listas</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/margenes-normas-apa">Márgenes</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/numeracion-normas-apa">Numeración</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/portada-normas-apa">Portadas</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/referencias-bibliograficas-normas-apa">Referencias</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/sangria-paragrafos-normas-apa">Sangría</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/tablas-y-figuras-normas-apa">Tablas y Figuras</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/textos-normas-apa">Formato texto</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/titulos-y-subtitulos-normas-apa">Títulos</a></li>
+        </ul>
+      </li>
+      <li class="nav-item dropdown">
+        <button class="dropdown-toggle">Normas Icontec</button>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/normas-icontec/anexos-normas-icontec">Anexos</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/citas-referencias-normas-icontec">Citas</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/conclusiones-normas-icontec">Conclusiones</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/cuerpo-trabajo-normas-icontec">Formato</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/glosario-normas-icontec">Glosario</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/introduccion-normas-icontec">Introducción</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/listas-normas-icontec">Listas</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/margenes-normas-icontec">Márgenes</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/portada-contraportada-normas-icontec">Portadas</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/tabla-contenido-normas-icontec">Índices</a></li>
+        </ul>
+      </li>
+      <li class="nav-item dropdown">
+        <button class="dropdown-toggle">Ejemplos</button>
+        <ul class="dropdown-menu">
+          <li><a href="{{site.baseurl}}/tesis-normas-apa">Tesis</a></li>
+          <li><a href="{{site.baseurl}}/informes">Informe</a></li>
+          <li><a href="{{site.baseurl}}/ensayos-con-normas-tecnicas">Ensayos</a></li>
+          <li><a href="{{site.baseurl}}/monografia">Monografías</a></li>
+          <li><a href="{{site.baseurl}}/investigacion-con-normas-apa-icontec">Investigación</a></li>
+          <li><a href="{{site.baseurl}}/proyectos-academicos">Proyecto</a></li>
+          <li><a href="{{site.baseurl}}/anteproyecto-con-normas-tecnicas">Anteproyecto</a></li>
+          <li><a href="{{site.baseurl}}/articulos-con-normas-apa">Articulo</a></li>
+        </ul>
+      </li>
+      <li class="nav-item dropdown">
+        <button class="dropdown-toggle">Herramientas</button>
+        <ul class="dropdown-menu">
+          <li><a href="{{site.baseurl}}/generador-citas-apa">Generador Citas</a></li>
+          <li><a href="{{site.baseurl}}/tips-y-consejos">Blog</a></li>
+          <li><a href="{{'cursos-de-trabajos-escritos'|relative_url}}" class="highlight">Aprende más</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</nav> -->
+<nav class="main-nav">
+  <div class="nav-container">
+    <a href="{{ site.baseurl }}/" class="logo">
+      <img src="{{ 'logotipo.webp' | relative_url }}" alt="Logotipo de TrabajoEscrito.com" width="180" height="auto">
+    </a>
+    <button class="mobile-menu-toggle" aria-label="Abrir menú">
+      <span></span>
+      <span></span>
+      <span></span>
+    </button>
+    <ul class="nav-menu">
+      <li class="nav-item">
+        <button class="dropdown-toggle">Normas APA</button>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/normas-apa/citas-normas-apa">Citas</a></li>
+          <li><a href="{{ site.baseurl }}/normas-apa/contraportada-normas-apa">Contraportadas</a></li>
+          <!-- Más elementos... -->
+        </ul>
+      </li>
+      <li class="nav-item">
+        <button class="dropdown-toggle">Normas Icontec</button>
+        <ul class="dropdown-menu">
+          <li><a href="{{ site.baseurl }}/normas-icontec/anexos-normas-icontec">Anexos</a></li>
+          <li><a href="{{ site.baseurl }}/normas-icontec/citas-referencias-normas-icontec">Citas</a></li>
+          <!-- Más elementos... -->
+        </ul>
+      </li>
+      <li class="nav-item">
+        <button class="dropdown-toggle">Ejemplos</button>
+        <ul class="dropdown-menu">
+          <li><a href="{{site.baseurl}}/tesis-normas-apa">Tesis</a></li>
+          <li><a href="{{site.baseurl}}/informes">Informe</a></li>
+          <!-- Más elementos... -->
+        </ul>
+      </li>
+      <li class="nav-item">
+        <button class="dropdown-toggle">Herramientas</button>
+        <ul class="dropdown-menu">
+          <li><a href="{{site.baseurl}}/generador-citas-apa">Generador Citas</a></li>
+          <li><a href="{{site.baseurl}}/tips-y-consejos">Blog</a></li>
+          <li><a href="{{site.baseurl}}/cursos-de-trabajos-escritos" class="highlight">Aprende más</a></li>
+        </ul>
+      </li>
+    </ul>
+  </div>
 </nav>
