@@ -20,17 +20,18 @@ noindex: true
     </div>
   </header>
   {% include buscador.html %}
-  <main class="blog-gallery">
-    <h2 style="margin-bottom: 2em;">El blog de tu Trabajo Escrito</h2>
+  <main class="home_blog">
+    <h2>El blog de tu Trabajo Escrito</h2>
     {% include add2.html %}
-      <section class="entradas-blog wrapper">
+      <section>
         {% for post in site.posts %}
-        <article>
+        <article class="dos_columnas">
           <img loading="lazy" src="{{ site.baseurl }}img/{{ post.webp }}.webp" alt="{{post.alt}}" loading="lazy">
-          <a href="{{post.url | relative_url }}" title="{{post.title}}">
+          <div>
             <h4>{{post.h1}}</h4>
-          </a>
-          <p>{{post.excerpt}}</p>
+            <p>{{post.excerpt}}</p>
+            <a href="{{post.url | relative_url }}" title="{{post.title}}">Leer más...</a>
+          </div>
         </article>
         {% endfor %}
     </section>
