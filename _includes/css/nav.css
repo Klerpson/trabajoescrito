@@ -1,6 +1,5 @@
 nav {
   position: sticky;
-  top: 20px;
   width: calc(100dvw - 2em);
   margin-inline: auto;
   display: flex;
@@ -35,7 +34,7 @@ nav {
   display: none;
 }
 
-@media screen and (min-width: 700px) {
+@media screen and (min-width: 992px) {
   .navegacion span,
   .logo_nav span{
     display: inline-block;
