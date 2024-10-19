@@ -287,7 +287,7 @@ table th {
 .boton {
   display: inline-block;
   padding: 0.7em 1.7em;
-  font-size: 1.2rem;
+  font-size: 1.12rem;
   border-radius: 0.5em;
   background: var(--accion);
   border: 2px solid var(--grisFuentes);
@@ -299,7 +299,7 @@ table th {
 
 .boton:hover {
   box-shadow: 6px 6px 12px #c5c5c5, -6px -6px 12px #ffffff;
-  transform: scale(1.05);
+  transform: scale(1.015);
 }
 
 .cluster {
