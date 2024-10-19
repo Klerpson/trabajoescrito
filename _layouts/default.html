@@ -20,69 +20,56 @@ layout: compress
   {% endif %}
   <a href="#">{% include boton-up.html %}</a>
 
-  <!-- AdSense -->
+  
+   <!-- Script pointing to search-script.js -->
+   <script src="{{site.baseurl}}/js/search-script.js" type="text/javascript" defer></script>
+   <script>
+     var sjs = SimpleJekyllSearch({
+       searchInput: document.getElementById('search-input'),
+       resultsContainer: document.getElementById('results-container'),
+       json: '/search.json',
+       noResultsText: 'No tenemos este texto aún',
+       fuzzy: false
+     });
+   </script>
   <script>
-    window.addEventListener('load', function() {
-      (adsbygoogle = window.adsbygoogle || []).push({});
-    });
-  </script>
-  <script>
-        document.addEventListener('DOMContentLoaded', function() {
-      const mobileMenuToggle = document.querySelector('.mobile-menu-toggle');
-      const navMenu = document.querySelector('.nav-menu');
-      const dropdownToggles = document.querySelectorAll('.dropdown-toggle');
+    document.addEventListener('DOMContentLoaded', function() {
+    const mobileNavToggle = document.querySelector('.mobile-nav-toggle');
+    const navLinks = document.querySelector('.nav-links');
+    const header = document.querySelector('.navegacion');
+    const dropdowns = document.querySelectorAll('.nav_dropdown');
 
-      function closeAllDropdowns() {
-        dropdownToggles.forEach(toggle => {
-          toggle.classList.remove('active');
-          toggle.nextElementSibling.classList.remove('active');
-        });
+    mobileNavToggle.addEventListener('click', function() {
+      navLinks.classList.toggle('nav-links-mobile');
+      this.classList.toggle('active');
+      
+      if (this.classList.contains('active')) {
+        this.querySelector('.burger-menu').style.background = 'transparent';
+        this.querySelector('.burger-menu::before').style.transform = 'rotate(45deg) translate(5px, 5px)';
+        this.querySelector('.burger-menu::after').style.transform = 'rotate(-45deg) translate(7px, -6px)';
+      } else {
+        this.querySelector('.burger-menu').style.background = '#fff';
+        this.querySelector('.burger-menu::before').style.transform = 'none';
+        this.querySelector('.burger-menu::after').style.transform = 'none';
       }
+    });
 
-      mobileMenuToggle.addEventListener('click', function() {
-        this.classList.toggle('active');
-        navMenu.classList.toggle('active');
-        if (!navMenu.classList.contains('active')) {
-          closeAllDropdowns();
-        }
-      });
-
-      dropdownToggles.forEach(toggle => {
-        toggle.addEventListener('click', function(e) {
-          if (window.innerWidth <= 768) {
-            e.preventDefault();
-            const dropdownMenu = this.nextElementSibling;
-            
-            if (this.classList.contains('active')) {
-              this.classList.remove('active');
-              dropdownMenu.classList.remove('active');
-            } else {
-              closeAllDropdowns();
-              this.classList.add('active');
-              dropdownMenu.classList.add('active');
-            }
-          }
-        });
-      });
-
-      document.addEventListener('click', function(e) {
+    dropdowns.forEach(dropdown => {
+      dropdown.addEventListener('click', function() {
         if (window.innerWidth <= 768) {
-          if (!navMenu.contains(e.target) && !mobileMenuToggle.contains(e.target)) {
-            navMenu.classList.remove('active');
-            mobileMenuToggle.classList.remove('active');
-            closeAllDropdowns();
-          }
-        }
-      });
-
-      window.addEventListener('resize', function() {
-        if (window.innerWidth > 768) {
-          navMenu.classList.remove('active');
-          mobileMenuToggle.classList.remove('active');
-          closeAllDropdowns();
+          this.classList.toggle('active');
         }
       });
     });
-  </script>
+
+    window.addEventListener('scroll', function() {
+      if (window.scrollY > 0) {
+        header.classList.add('header-scroll');
+      } else {
+        header.classList.remove('header-scroll');
+      }
+    });
+  });
+  </script>    
 </body>
 </html>

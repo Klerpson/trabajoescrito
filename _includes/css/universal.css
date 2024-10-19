@@ -370,7 +370,7 @@ hr {
 }
 
 .wrapper {
-  width: min(95%, 1128px);
+  width: min(95%, 1280px);
   margin-inline: auto;
   margin-bottom: 4rem;
 }
