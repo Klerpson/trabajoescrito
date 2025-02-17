@@ -24,7 +24,7 @@ Es hora de **aplicar las Normas APA en tus presentaciones de PowerPoint** y llev
 
 ### ¿Cuáles son las Normas APA para PowerPoint?
 
->Antes de comenzar, quería agradecer a la [Doctora en Medicina Estética Tatiana Leal](https://dratatianaleal.com/) por patrocinar esta sección 👩🏼‍🔬💖
+>Antes de comenzar, quería agradecer a la [Doctora en Medicina Estética Tatiana Leal](https://dratatianaleal.com/es/) por patrocinar esta sección 👩🏼‍🔬💖
 
 [Las Normas APA]({{'normas-apa'|relative_url}}) son un conjunto de reglas que nos guiarán. En Power Point, nos servirán para saber **[cómo citar]({{'normas-apa/citas-normas-apa'|relative_url}} "Citas normas apa"), [referenciar]({{'normas-apa/referencias-bibliograficas-normas-apa'|relative_url}} "Referencias APA") y dar formato a nuestras presentaciones**.
 
